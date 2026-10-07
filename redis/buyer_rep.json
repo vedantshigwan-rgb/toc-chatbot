@@ -1,0 +1,488 @@
+[
+    {
+        "custom_id": "11.02.002.001",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"ORG_ID\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", unique identifier of the organisation ( in numbers)",
+            "columnName": "ORG_ID",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "unique identifier of the organisation ( in numbers)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.002",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"ORG_NAME\" in \"kpc_inventory_buyer_rep\" table, data type as \"VARCHAR2\", name of the organisation, the distinct values are ACD - SPARES,TRM - RAIL,ACD - CENTRI,ACD - RECIP,ACD - SCREW,TRM - GEAR BOX,TRM - DEFENCE,ACD - GSU",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "VARCHAR2",
+            "description": "name of the organisation",
+            "distinctValues": [
+                "ACD - SPARES",
+                "TRM - RAIL",
+                "ACD - CENTRI",
+                "ACD - RECIP",
+                "ACD - SCREW",
+                "TRM - GEAR BOX",
+                "TRM - DEFENCE",
+                "ACD - GSU"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.003",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"OPENING_STOCK\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\",shows the quantity of stock available at current day or today",
+            "columnName": "OPENING_STOCK",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the quantity of stock available at current day or today",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.004",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"CONSUMPTION_FRM_STOCK\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", it shows the amount of stock that is consumed from allocated_qty from inventory table",
+            "columnName": "CONSUMPTION_FRM_STOCK",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "it shows the amount of stock that is consumed from allocated_qty from inventory table",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.005",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"TOTAL_MAT_REQ\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", total material requirement which shows the total requirement of material for the current period.",
+            "columnName": "TOTAL_MAT_REQ",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "total material requirement which shows the total requirement of material for the current period.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.006",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"EXPECTED_CLS_MNTH\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS DATE OR MONTH OF CLOSING THE CURRENT ONGOING PERIOD, with module Inventory report",
+            "columnName": "EXPECTED_CLS_MNTH",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "EXPECTED CLOSING MONTH. LIKELY SHOWS THE DATE OR THE MONTH OF CLOSING OF THE CURRENT ONGOING PERIOD.",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.007",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"OPENING_STOCK_1\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS THE OPENNING STOCK FOR THE 1ST TIME PERIOD IN TERMS OF MONTH, with module Inventory report",
+            "columnName": "OPENING_STOCK_1",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "IT SHOWS THE OPENNING STOCK FOR THE 1ST TIME PERIOD. SHOWS IN TERMS OF MONTH",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.008",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"CONSUMPTION_FRM_STOCK_1\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\",amount of consumption from the stock for the next month (period 1)",
+            "columnName": "CONSUMPTION_FRM_STOCK_1",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "amount of consumption from the stock for the next month (period 1)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.009",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"TOTAL_MAT_REQ_1\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", total requirement of the materials from the stock for the next month (period 1)",
+            "columnName": "TOTAL_MAT_REQ_1",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "total requirement of the materials from the stock for the next month (period 1)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.010",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"EXPECTED_CLS_MNTH_1\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS DATE OR MONTH OF CLOSING NEXT MONTH with module Inventory report",
+            "columnName": "EXPECTED_CLS_MNTH_1",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "EXPECTED CLOSING MONTH. SHOWS THE DATE OR THE MONTH OF CLOSING OF THE NEXT MONTH (PERIOD 1)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.011",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"OPENING_STOCK_2\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS AMOUNT OF OPENING STOCK IN THE NEXT MONTH (THE OPENING STOCK FOR THE MONTH MAY) (PERIOD 2), with module Inventory report",
+            "columnName": "OPENING_STOCK_2",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "OPENING STOCK 2. IT SHOWS THE AMOUNT OF THE OPENING STOCK IN THE NEXT MONTH (THE OPENING STOCK FOR THE MONTH MAY) (PERIOD 2)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.012",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"CONSUMPTION_FRM_STOCK_2\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\",shows the amount of consumption from the stock for the next to next month ( period 2)",
+            "columnName": "CONSUMPTION_FRM_STOCK_2",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the amount of consumption from the stock for the next to next month ( period 2)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.013",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"TOTAL_MAT_REQ_2\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", shows the total requirement of the materials from the stock in the ( period 2)",
+            "columnName": "TOTAL_MAT_REQ_2",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the total requirement of the materials from the stock in the ( period 2)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.014",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"EXPECTED_CLS_MNTH_2\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", DATE OR MONTH OF CLOSING OF THE NEXT TO NEXT MONTH (PERIOD 2), with module Inventory report",
+            "columnName": "EXPECTED_CLS_MNTH_2",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "EXPECTED CLOSING MONTH. SHOWS THE DATE OR THE MONTH OF CLOSING OF THE NEXT TO NEXT MONTH (PERIOD 2)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.015",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"OPENING_STOCK_3\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS THE AMOUNT OF THE OPENING STOCK IN THE NEXT TO NEXT MONTH (PERIOD 3), with module Inventory report",
+            "columnName": "OPENING_STOCK_3",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "OPENING STOCK 3. IT SHOWS THE AMOUNT OF THE OPENING STOCK IN THE NEXT TO NEXT MONTH (THE OPENING STOCK FOR THE MONTH JUNE) (PERIOD 3)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.016",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"CONSUMPTION_FRM_STOCK_3\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", shows the amount of consumption from the stock for the next to next to next month ( period 3)",
+            "columnName": "CONSUMPTION_FRM_STOCK_3",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the amount of consumption from the stock for the next to next to next month ( period 3)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.017",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"TOTAL_MAT_REQ_3\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", shows the total requirement of the materials from the stock in the (period 3)",
+            "columnName": "TOTAL_MAT_REQ_3",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the total requirement of the materials from the stock in the (period 3)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.018",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"EXPECTED_CLS_MNTH_3\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS DATE OR MONTH OF CLOSING OF (PERIOD 3), with module Inventory report",
+            "columnName": "EXPECTED_CLS_MNTH_3",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "EXPECTED CLOSING MONTH. LIKELY SHOWS THE DATE OR THE MONTH OF CLOSING OF THE PERIOD 3 (FOR EXAMPLE - CLOSING MONTH OF JUNE) (PERIOD 3)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.019",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"OPENING_STOCK_4\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS AMOUNT OF OPENING STOCK FOR FUTURE MONTH with module Inventory report",
+            "columnName": "OPENING_STOCK_4",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "OPENING STOCK 4. IT SHOWS THE AMOUNT OF THE OPENING STOCK IN THE NEXT TO NEXT TO NEXT MONTH (FOR EXAMPLE - THE OPENING STOCK FOR FUTURE MONTH) (PERIOD 4 TO THE FUTURE MONTHS)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.020",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"CONSUMPTION_FRM_STOCK_4\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", shows the amount of consumption from the stock for future month ( period 4 to the future months)",
+            "columnName": "CONSUMPTION_FRM_STOCK_4",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the amount of consumption from the stock for future month ( period 4 to the future months)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.021",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"TOTAL_MAT_REQ_4\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\",shows the total requirement of the materials from the stock in the period 4( period 4 to the future months)",
+            "columnName": "TOTAL_MAT_REQ_4",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the total requirement of the materials from the stock in the period 4( period 4 to the future months)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.022",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"EXPECTED_CLS_MNTH_4\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", SHOWS DATE OR MONTH OF CLOSING OF THE PERIOD 4 with module Inventory report",
+            "columnName": "EXPECTED_CLS_MNTH_4",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "EXPECTED CLOSING MONTH. LIKELY SHOWS THE DATE OR THE MONTH OF CLOSING OF THE PERIOD 4 (FOR EXAMPLE - CLOSING OF THE FUTURE MONTH) (PERIOD 4 TO THE FUTURE MONTHS)",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.023",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"SAFETY_STOCK\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", shows the quantity maintained of safety stock",
+            "columnName": "SAFETY_STOCK",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "shows the quantity maintained of safety stock",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.024",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"ALLOCATED_AGNT_SS\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\",quantity of stock allocated against safety stock",
+            "columnName": "ALLOCATED_AGNT_SS",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "quantity of stock allocated against safety stock",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.026",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"ALLOCATED_AGNT_MOQ\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", allocated qty against minimum order quantity",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "allocated qty against minimum order quantity",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.027",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"EXCESS_STOCK\" in \"kpc_inventory_buyer_rep\" table, data type as \"NUMBER\", it shows the quantity of excess stock that is available after all allocation",
+            "columnName": "EXCESS_STOCK",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "NUMBER",
+            "description": "it shows the quantity of excess stock that is available after all allocation",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.028",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"DATA_TYPE\" in \"kpc_inventory_buyer_rep\" table, data type as \"VARCHAR2\", This column identifies the type of row. The record can be in the form of quantity or value. the distinct values are VALUE, QTY",
+            "columnName": "DATA_TYPE",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "VARCHAR2",
+            "description": "This column identifies the type of row. The record can be in the form of quantity or value.",
+            "distinctValues": [
+                "Value",
+                "Qty"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.02.002.029",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory report, column named \"BUYER\" in \"kpc_inventory_buyer_rep\" table, data type as \"VARCHAR2\", denotes the buyer",
+            "columnName": "BUYER",
+            "tableName": "kpc_inventory_buyer_rep",
+            "module": "Inventory report",
+            "dataType": "VARCHAR2",
+            "description": "denotes the buyer",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    }
+]

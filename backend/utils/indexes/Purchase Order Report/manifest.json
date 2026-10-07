@@ -1,0 +1,153 @@
+{
+  "report_name": "Purchase Order Report",
+  "report_folder": "Purchase Order Report",
+  "created_at": "2026-10-07T10:36:47",
+  "total_rows": 290,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "amount": {
+      "folder": "variables\\amount",
+      "row_count": 5
+    },
+    "approval_status": {
+      "folder": "variables\\approval_status",
+      "row_count": 1
+    },
+    "approval_status,buyer": {
+      "folder": "variables\\approval_status,buyer",
+      "row_count": 1
+    },
+    "approval_status,supplier": {
+      "folder": "variables\\approval_status,supplier",
+      "row_count": 1
+    },
+    "buyer": {
+      "folder": "variables\\buyer",
+      "row_count": 17
+    },
+    "buyer,item_code,supplier": {
+      "folder": "variables\\buyer,item_code,supplier",
+      "row_count": 2
+    },
+    "buyer,month,supplier": {
+      "folder": "variables\\buyer,month,supplier",
+      "row_count": 1
+    },
+    "buyer,supplier": {
+      "folder": "variables\\buyer,supplier",
+      "row_count": 11
+    },
+    "currency,supplier": {
+      "folder": "variables\\currency,supplier",
+      "row_count": 1
+    },
+    "customer": {
+      "folder": "variables\\customer",
+      "row_count": 4
+    },
+    "customer,item_code": {
+      "folder": "variables\\customer,item_code",
+      "row_count": 5
+    },
+    "customer,item_code,product_model": {
+      "folder": "variables\\customer,item_code,product_model",
+      "row_count": 1
+    },
+    "customer,item_code,supplier": {
+      "folder": "variables\\customer,item_code,supplier",
+      "row_count": 1
+    },
+    "customer,product_group,product_model": {
+      "folder": "variables\\customer,product_group,product_model",
+      "row_count": 1
+    },
+    "customer,product_model": {
+      "folder": "variables\\customer,product_model",
+      "row_count": 4
+    },
+    "customer,product_model,supplier": {
+      "folder": "variables\\customer,product_model,supplier",
+      "row_count": 1
+    },
+    "date": {
+      "folder": "variables\\date",
+      "row_count": 1
+    },
+    "date,supplier": {
+      "folder": "variables\\date,supplier",
+      "row_count": 3
+    },
+    "days": {
+      "folder": "variables\\days",
+      "row_count": 5
+    },
+    "full_kit": {
+      "folder": "variables\\full_kit",
+      "row_count": 1
+    },
+    "item_category": {
+      "folder": "variables\\item_category",
+      "row_count": 1
+    },
+    "item_category,item_code": {
+      "folder": "variables\\item_category,item_code",
+      "row_count": 4
+    },
+    "item_code": {
+      "folder": "variables\\item_code",
+      "row_count": 19
+    },
+    "item_code,month": {
+      "folder": "variables\\item_code,month",
+      "row_count": 4
+    },
+    "item_code,month,supplier": {
+      "folder": "variables\\item_code,month,supplier",
+      "row_count": 1
+    },
+    "item_code,supplier": {
+      "folder": "variables\\item_code,supplier",
+      "row_count": 10
+    },
+    "month": {
+      "folder": "variables\\month",
+      "row_count": 4
+    },
+    "month,supplier": {
+      "folder": "variables\\month,supplier",
+      "row_count": 3
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 136
+    },
+    "po_number": {
+      "folder": "variables\\po_number",
+      "row_count": 1
+    },
+    "product_group": {
+      "folder": "variables\\product_group",
+      "row_count": 1
+    },
+    "product_group,product_model": {
+      "folder": "variables\\product_group,product_model",
+      "row_count": 4
+    },
+    "product_model": {
+      "folder": "variables\\product_model",
+      "row_count": 1
+    },
+    "quantity": {
+      "folder": "variables\\quantity",
+      "row_count": 11
+    },
+    "supplier": {
+      "folder": "variables\\supplier",
+      "row_count": 20
+    },
+    "year": {
+      "folder": "variables\\year",
+      "row_count": 3
+    }
+  }
+}

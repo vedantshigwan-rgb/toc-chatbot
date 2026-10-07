@@ -1,0 +1,14 @@
+[
+    {
+        "REPORT_NAME": "BOM Report",
+        "ITEM_CLASS": "B"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ITEM_CLASS": "C"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ITEM_CLASS": "A"
+    }
+]

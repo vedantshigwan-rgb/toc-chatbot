@@ -1,0 +1,139 @@
+[
+  {
+    "id": "help_001",
+    "title": "Asking a new data question",
+    "content": "Select a report and enter a complete standalone data request. Normal chat messages are classified only as greeting, data query, or unknown; data requests are handled only by the Primary workflow.",
+    "tags": [
+      "question",
+      "new request",
+      "data query",
+      "primary"
+    ],
+    "retrieval_text": "Title: Asking a new data question\nContent: Select a report and enter a complete standalone data request. Normal chat messages are classified only as greeting, data query, or unknown; data requests are handled only by the Primary workflow.\nTags: question, new request, data query, primary"
+  },
+  {
+    "id": "help_002",
+    "title": "Selecting a report",
+    "content": "Select the relevant report before asking a data, help, or metadata question. The selected report is sent to the backend as report_name and scopes report-specific processing.",
+    "tags": [
+      "report",
+      "selection",
+      "context"
+    ],
+    "retrieval_text": "Title: Selecting a report\nContent: Select the relevant report before asking a data, help, or metadata question. The selected report is sent to the backend as report_name and scopes report-specific processing.\nTags: report, selection, context"
+  },
+  {
+    "id": "help_003",
+    "title": "Using input variables",
+    "content": "A data request can include input variables and selected values. Send them in the variables array with source set to input so the Primary workflow can use them for FAQ matching and SQL generation.",
+    "tags": [
+      "variables",
+      "input",
+      "values"
+    ],
+    "retrieval_text": "Title: Using input variables\nContent: A data request can include input variables and selected values. Send them in the variables array with source set to input so the Primary workflow can use them for FAQ matching and SQL generation.\nTags: variables, input, values"
+  },
+  {
+    "id": "help_004",
+    "title": "Using optional filters",
+    "content": "Optional sidebar selections are sent in the variables array with source set to option. If no optional filter is selected, do not send that variable.",
+    "tags": [
+      "filter",
+      "optional",
+      "option"
+    ],
+    "retrieval_text": "Title: Using optional filters\nContent: Optional sidebar selections are sent in the variables array with source set to option. If no optional filter is selected, do not send that variable.\nTags: filter, optional, option"
+  },
+  {
+    "id": "help_005",
+    "title": "Replying to a previous result",
+    "content": "To modify an earlier data result, use the Reply action on that exact assistant result. The frontend sends message_type feedback together with chat_id and reply_to_message_id. Feedback is never inferred automatically from normal text.",
+    "tags": [
+      "reply",
+      "feedback",
+      "modify",
+      "previous result"
+    ],
+    "retrieval_text": "Title: Replying to a previous result\nContent: To modify an earlier data result, use the Reply action on that exact assistant result. The frontend sends message_type feedback together with chat_id and reply_to_message_id. Feedback is never inferred automatically from normal text.\nTags: reply, feedback, modify, previous result"
+  },
+  {
+    "id": "help_006",
+    "title": "Follow-up changes",
+    "content": "A feedback request is resolved against only the assistant result explicitly referenced by reply_to_message_id, then the resolved standalone request is executed again through the Primary workflow.",
+    "tags": [
+      "feedback",
+      "reply",
+      "primary",
+      "follow up"
+    ],
+    "retrieval_text": "Title: Follow-up changes\nContent: A feedback request is resolved against only the assistant result explicitly referenced by reply_to_message_id, then the resolved standalone request is executed again through the Primary workflow.\nTags: feedback, reply, primary, follow up"
+  },
+  {
+    "id": "help_007",
+    "title": "Using Metadata mode",
+    "content": "Choose Metadata mode in the interface before asking what a field, column, table, report element, abbreviation, or other application metadata means. Metadata mode uses the selected report and does not run the base intent classifier.",
+    "tags": [
+      "metadata",
+      "definition",
+      "meaning"
+    ],
+    "retrieval_text": "Title: Using Metadata mode\nContent: Choose Metadata mode in the interface before asking what a field, column, table, report element, abbreviation, or other application metadata means. Metadata mode uses the selected report and does not run the base intent classifier.\nTags: metadata, definition, meaning"
+  },
+  {
+    "id": "help_008",
+    "title": "Finding selectable values",
+    "content": "Available report/filter values are provided through the application variables/autocomplete interface rather than automatic value-lookup intent detection in chat.",
+    "tags": [
+      "autocomplete",
+      "values",
+      "variables",
+      "filter"
+    ],
+    "retrieval_text": "Title: Finding selectable values\nContent: Available report/filter values are provided through the application variables/autocomplete interface rather than automatic value-lookup intent detection in chat.\nTags: autocomplete, values, variables, filter"
+  },
+  {
+    "id": "help_009",
+    "title": "Using Help mode",
+    "content": "Choose Help mode in the interface when you want instructions about using the application. Help requests are explicit and report-scoped; the base intent classifier does not decide help automatically.",
+    "tags": [
+      "help",
+      "instructions",
+      "mode"
+    ],
+    "retrieval_text": "Title: Using Help mode\nContent: Choose Help mode in the interface when you want instructions about using the application. Help requests are explicit and report-scoped; the base intent classifier does not decide help automatically.\nTags: help, instructions, mode"
+  },
+  {
+    "id": "help_010",
+    "title": "Unsupported contextual messages",
+    "content": "A normal message such as make that top 10 or use the other buyer is not treated as feedback by itself. Use Reply on the exact previous result so the backend receives an explicit feedback request.",
+    "tags": [
+      "unknown",
+      "feedback",
+      "reply"
+    ],
+    "retrieval_text": "Title: Unsupported contextual messages\nContent: A normal message such as make that top 10 or use the other buyer is not treated as feedback by itself. Use Reply on the exact previous result so the backend receives an explicit feedback request.\nTags: unknown, feedback, reply"
+  },
+  {
+    "id": "help_011",
+    "title": "Starting a different request",
+    "content": "Send a complete standalone request as a normal message. Previous conversation does not automatically change its meaning or make it a follow-up.",
+    "tags": [
+      "new request",
+      "conversation",
+      "standalone"
+    ],
+    "retrieval_text": "Title: Starting a different request\nContent: Send a complete standalone request as a normal message. Previous conversation does not automatically change its meaning or make it a follow-up.\nTags: new request, conversation, standalone"
+  },
+  {
+    "id": "help_012",
+    "title": "When a normal request is unknown",
+    "content": "If a normal message is neither a greeting nor a complete standalone data request, the base classifier returns unknown. Select Help or Metadata mode when appropriate, or explicitly reply to a previous result for feedback.",
+    "tags": [
+      "unknown",
+      "help",
+      "metadata",
+      "feedback"
+    ],
+    "retrieval_text": "Title: When a normal request is unknown\nContent: If a normal message is neither a greeting nor a complete standalone data request, the base classifier returns unknown. Select Help or Metadata mode when appropriate, or explicitly reply to a previous result for feedback.\nTags: unknown, help, metadata, feedback"
+  }
+]

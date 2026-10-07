@@ -1,0 +1,18 @@
+[
+    {
+        "REPORT_NAME": "BOM Report",
+        "EXPECTED_DATE_COLOR": "Red"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "EXPECTED_DATE_COLOR": "Green Light"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "EXPECTED_DATE_COLOR": "Orange"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "EXPECTED_DATE_COLOR": "Yellow"
+    }
+]

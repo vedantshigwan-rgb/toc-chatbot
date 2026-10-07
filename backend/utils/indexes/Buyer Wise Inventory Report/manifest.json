@@ -1,0 +1,41 @@
+{
+  "report_name": "Buyer Wise Inventory Report",
+  "report_folder": "Buyer Wise Inventory Report",
+  "created_at": "2026-10-07T10:35:53",
+  "total_rows": 48,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "buyer": {
+      "folder": "variables\\buyer",
+      "row_count": 6
+    },
+    "buyer,month": {
+      "folder": "variables\\buyer,month",
+      "row_count": 4
+    },
+    "buyer,month,org_name": {
+      "folder": "variables\\buyer,month,org_name",
+      "row_count": 9
+    },
+    "buyer,org_name": {
+      "folder": "variables\\buyer,org_name",
+      "row_count": 3
+    },
+    "month": {
+      "folder": "variables\\month",
+      "row_count": 3
+    },
+    "month,org_name": {
+      "folder": "variables\\month,org_name",
+      "row_count": 4
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 15
+    },
+    "org_name": {
+      "folder": "variables\\org_name",
+      "row_count": 4
+    }
+  }
+}

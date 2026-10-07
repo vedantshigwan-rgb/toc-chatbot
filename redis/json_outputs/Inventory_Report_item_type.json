@@ -1,0 +1,82 @@
+[
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "ID_NSTK_R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "KIT-SPS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MFGD-SUBASLY"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MM-OP-PULL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "SUB_CON_N"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "OBSOLETE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MM-BULK"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "CONS_I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "PURCHASE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MFGD-MACH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "ID_STK"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "ID_NSTK_NR"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "TWO_BIN"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MFGD-EQUIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "PURCH_BULK"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "EQUIPMENT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MFGD-SPARE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "SUB_CON"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "ITEM-ON-HOLD"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "CHILD_ITEM_TYPE": "MFGD-ASSL"
+    }
+]

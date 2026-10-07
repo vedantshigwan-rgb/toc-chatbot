@@ -1,0 +1,22 @@
+[
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "APPROVAL_STATUS": "REQUIRES REAPPROVAL"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "APPROVAL_STATUS": "APPROVED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "APPROVAL_STATUS": "IN PROCESS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "APPROVAL_STATUS": "INCOMPLETE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "APPROVAL_STATUS": "REJECTED"
+    }
+]

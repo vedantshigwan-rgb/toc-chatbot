@@ -1,0 +1,30 @@
+[
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "MTS"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "SBD_FK_3"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "SBD_FK_2"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "SBD_FK_1"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "MS_FK_1"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "AE_FK_1"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "FULL_KIT_NAME": "NA"
+    }
+]

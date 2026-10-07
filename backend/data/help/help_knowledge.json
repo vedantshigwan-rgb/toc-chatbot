@@ -1,0 +1,122 @@
+[
+  {
+    "id": "help_001",
+    "title": "Asking a new question",
+    "content": "Enter a complete request in the chat. The assistant determines the type of request and sends it to the appropriate processing flow. A complete new request is treated as a new request even when previous conversation exists.",
+    "tags": [
+      "question",
+      "new request",
+      "chat"
+    ]
+  },
+  {
+    "id": "help_002",
+    "title": "Selecting a data context",
+    "content": "The interface allows a data context to be selected before submitting a request. The selected context is sent to the backend with the message. The backend decides whether that context is relevant to the detected request type.",
+    "tags": [
+      "selection",
+      "data context",
+      "interface"
+    ]
+  },
+  {
+    "id": "help_003",
+    "title": "Using input variables",
+    "content": "A request can contain input variables and their selected values. These values are sent to the backend together with the user's question and can be used when processing a data request.",
+    "tags": [
+      "variables",
+      "input",
+      "values"
+    ]
+  },
+  {
+    "id": "help_004",
+    "title": "Using optional filters",
+    "content": "Optional values selected from the interface can be sent as additional filters. If the user selects the no-filter option, the optional value is not sent as an active filter to the backend.",
+    "tags": [
+      "filter",
+      "optional",
+      "no filter"
+    ]
+  },
+  {
+    "id": "help_005",
+    "title": "Changing a previous request",
+    "content": "A follow-up message can modify, correct, refine, add to, or remove something from an earlier request. The assistant can use the relevant previous request context to understand the requested change.",
+    "tags": [
+      "follow up",
+      "feedback",
+      "modify",
+      "previous request"
+    ]
+  },
+  {
+    "id": "help_006",
+    "title": "Asking about previous results",
+    "content": "The user can ask questions about results that were already returned. Existing results can be summarized, explained, compared, sorted, filtered, ranked, or otherwise analysed when the required information is already available in the result.",
+    "tags": [
+      "results",
+      "analysis",
+      "summary",
+      "explain"
+    ]
+  },
+  {
+    "id": "help_007",
+    "title": "Asking for metadata information",
+    "content": "The user can ask what an application-defined data concept, abbreviation, field, table, report, dataset, measure, or other metadata element means. Metadata questions are answered using the configured application metadata rather than the public web.",
+    "tags": [
+      "metadata",
+      "definition",
+      "meaning"
+    ]
+  },
+  {
+    "id": "help_008",
+    "title": "Checking available values",
+    "content": "The user can ask which actual values are available for a data element or whether a particular value exists. The assistant resolves the relevant metadata and safely checks the connected data source.",
+    "tags": [
+      "value lookup",
+      "available values",
+      "validation"
+    ]
+  },
+  {
+    "id": "help_009",
+    "title": "General information questions",
+    "content": "General informational questions that do not depend on private application data can be answered separately from data retrieval requests. These questions do not use the selected application data context.",
+    "tags": [
+      "general",
+      "information"
+    ]
+  },
+  {
+    "id": "help_010",
+    "title": "Clarification requests",
+    "content": "If additional information is required while processing a request, the assistant may ask a clarification question. The clarification response should continue the paused operation rather than being treated as an unrelated new request.",
+    "tags": [
+      "clarification",
+      "continue",
+      "missing information"
+    ]
+  },
+  {
+    "id": "help_011",
+    "title": "Starting a different request",
+    "content": "A complete standalone message is treated according to its own purpose. Previous conversation does not automatically make every new message a continuation of the earlier request.",
+    "tags": [
+      "new request",
+      "conversation"
+    ]
+  },
+  {
+    "id": "help_012",
+    "title": "When a request cannot be understood safely",
+    "content": "If the assistant cannot safely determine what the user wants, it can request clarification instead of guessing the intended operation.",
+    "tags": [
+      "unknown",
+      "clarification",
+      "ambiguity"
+    ]
+  }
+]

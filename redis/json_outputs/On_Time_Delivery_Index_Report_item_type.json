@@ -1,0 +1,18 @@
+[
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "ITEM_TYPE": "MFGD-MACH"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "ITEM_TYPE": "MFGD-EQUIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "ITEM_TYPE": "EQUIPMENT"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "ITEM_TYPE": "MFGD-ASSL"
+    }
+]

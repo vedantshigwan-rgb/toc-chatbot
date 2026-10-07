@@ -1,0 +1,334 @@
+[
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ELECTRIC SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TURBO"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - GEAR AND PINION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ARIA_R3"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - RD SERIES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - LOCO. AND TORQ. CONV."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "NON-MRP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ES-R1"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "KGC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "WISC HYDRINO"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "RR EQUIPMENT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PED - CVRDE AND VRDE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PED - HIGH SPEED GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PED - JOB ORDER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "GEARS AND PINIONS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - FORCE LUB.SYSTEM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "HRS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "HST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ACR-PROCESS-GAS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "AIR-SEP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DRY SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "HP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "NITROGEN TROLLEY"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - LUB.OIL PUMP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "SEMI H RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - OTHERS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "KG5H"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ES-R3"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "SAT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ES-R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "OXYGEN TROLLEY"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DIRECT FIRED"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "VERTICAL COMPRESSORS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ARIA_R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PROJECTS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "AC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - CVRDE AND VRDE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - AXLE DRIVE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - TEST GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "EH/TC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ES-R4"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - HIGH SPEED GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PED - GEAR AND PINION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - MISCELLANEOUS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "BUS AC SMO"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "COMMON"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - TRANSMISSION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ES-R6"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "GARAGE COMPRESSORS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DMDE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PED - MARINE GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "BOP1"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ACCESSORIES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "AIR SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ARIA SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "BOP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DIESEL SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ES-R5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DIESEL PORTABLE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "GAS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "KHIONE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "PED - INDUSTRIAL GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - JOB ORDER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "DP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ELECTRICALS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "ACR-PROJECT-REFRIGERATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TONALLI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - INDUSTRIAL GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - MARINE GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - WINDMILL GEARBOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "RBC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "KRS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "OIL FREE SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "OTHERS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "CNG"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "PRODUCT_GROUP": "TRM - PLANETARY GEARBOX"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "MS_FK_2"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "MTS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "SBD_FK_3"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "SBD_FK_2"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "MS_FK_1"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "SBD_FK_1"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "AE_FK_1"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "FK_NAME": "NA"
+    }
+]

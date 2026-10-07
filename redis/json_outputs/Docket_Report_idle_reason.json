@@ -1,0 +1,102 @@
+[
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "No Air"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Maintenance"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Gauge Store"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Inspection"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Work Stoppage by Operator"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Start up Loss"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Unavailability of Assembly Drawing"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "M/c Reconditioning"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Tool Change"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Crane / Helper"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Measurement and Adjustment Loss"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Reduced Speed Loss"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Logistic Loss"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Minor Stoppage"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "No Power"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "No Load"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Tool Room"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Drawing Store"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Instructions"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Preventive Maintenance"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Operator Absent"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Not Allocated"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Tool Store"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Miscellaneous"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "IDLE_REASON": "Material Shortage"
+    }
+]

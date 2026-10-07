@@ -1,0 +1,109 @@
+{
+  "report_name": "Docket Employee Report",
+  "report_folder": "Docket Employee Report",
+  "created_at": "2026-10-07T10:37:23",
+  "total_rows": 280,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "amount": {
+      "folder": "variables\\amount",
+      "row_count": 5
+    },
+    "employee": {
+      "folder": "variables\\employee",
+      "row_count": 17
+    },
+    "employee,employee_department": {
+      "folder": "variables\\employee,employee_department",
+      "row_count": 4
+    },
+    "employee,employee_department,month_period": {
+      "folder": "variables\\employee,employee_department,month_period",
+      "row_count": 3
+    },
+    "employee,fin_year": {
+      "folder": "variables\\employee,fin_year",
+      "row_count": 8
+    },
+    "employee,incentive_scheme": {
+      "folder": "variables\\employee,incentive_scheme",
+      "row_count": 4
+    },
+    "employee,incentive_scheme,month_period": {
+      "folder": "variables\\employee,incentive_scheme,month_period",
+      "row_count": 3
+    },
+    "employee,month_period": {
+      "folder": "variables\\employee,month_period",
+      "row_count": 11
+    },
+    "employee,month_period,supervisor": {
+      "folder": "variables\\employee,month_period,supervisor",
+      "row_count": 3
+    },
+    "employee_department": {
+      "folder": "variables\\employee_department",
+      "row_count": 9
+    },
+    "employee_department,supervisor": {
+      "folder": "variables\\employee_department,supervisor",
+      "row_count": 4
+    },
+    "employee_org,month_period": {
+      "folder": "variables\\employee_org,month_period",
+      "row_count": 4
+    },
+    "employee_org,week_period": {
+      "folder": "variables\\employee_org,week_period",
+      "row_count": 4
+    },
+    "employee_org,year_period": {
+      "folder": "variables\\employee_org,year_period",
+      "row_count": 4
+    },
+    "fin_year": {
+      "folder": "variables\\fin_year",
+      "row_count": 2
+    },
+    "incentive_scheme": {
+      "folder": "variables\\incentive_scheme",
+      "row_count": 4
+    },
+    "minutes": {
+      "folder": "variables\\minutes",
+      "row_count": 4
+    },
+    "month_period": {
+      "folder": "variables\\month_period",
+      "row_count": 7
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 158
+    },
+    "performance_index": {
+      "folder": "variables\\performance_index",
+      "row_count": 3
+    },
+    "quantity": {
+      "folder": "variables\\quantity",
+      "row_count": 3
+    },
+    "supervisor": {
+      "folder": "variables\\supervisor",
+      "row_count": 5
+    },
+    "token_number": {
+      "folder": "variables\\token_number",
+      "row_count": 2
+    },
+    "week_period": {
+      "folder": "variables\\week_period",
+      "row_count": 5
+    },
+    "year_period": {
+      "folder": "variables\\year_period",
+      "row_count": 4
+    }
+  }
+}

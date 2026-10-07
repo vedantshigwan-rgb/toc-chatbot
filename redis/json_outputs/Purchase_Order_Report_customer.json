@@ -1,0 +1,926 @@
+[
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "A S ENETERPRISE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AIR OFFICER COMMANDING"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AQUA ENGINEERING  & ALLIED SERVIES P.LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED ("
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ASHIRWAD CARBONICS INDIA PVT. LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "GEEKAY PNEUMATICS PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CENTRAL ORDNANCE DEPOT DELHI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CONTROLLER OF PROCUREMENT"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CONTROLLER OF PROCUREMENT KARWAR"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CONTROLLER OF PROCURMENT KOCHI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Indian Peroxide Limited"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JINDAL INVESTIMENTOS SA"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "K.K Services"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC COMPANY LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KOSABAN SERVICES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Kirloskar Engines South Africa (Pty) Ltd."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MALHAN ENTERPRISES PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MINE MANAGER, MOIL LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NMDC STEEL LIMITED,"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NORTHERN RAILWAY  - DELHI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RAJESH AND CO"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RASHMI METALLURGICAL INDUSTRY PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Madan Enterprises"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Mahan Energen Ltd."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NATIONAL FERTILIZERS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TURTLE TURBINES (P) LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RUNGTA SONS PVT. LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SAHYADRI DIESELS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SHYAM METALLICS AND ENERGY LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "WIKOV INDIGEAR PVT LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "\tAMNS PORTS HAZIRA LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ACTIVE POWER SYSTEMS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Adani Infra (India) Limited"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARMECH ENGINEERS PVT. LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BRAHMOS AEROSPACE PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BS AIR & ELECTRICAL EQUIPMENTS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HINDUSTAN COPPER LTD - KHETRI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "COMBAT VEHICLES RESEARCH & DEVELOPMENT-"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "DURGESH ENTERPRISES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JOG WASTE TO ENERGY PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR OIL ENGINES LTD - NASHIK"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HMC EQUIPMENTS PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "INDIAN OIL CORPORATION LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC CO.LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KORBA POWER LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MEGHA ENGINEERING & INFRASTRUCTURES LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NIKHIL TECHNOCHEM SERVICES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "OIL AND NATURAL GAS CORPORATION LTD  - JORHAT"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "OIL INDIA LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "STEEL AUTHORITY OF INDIA LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SUMMITS HYGRONIC P.LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TAP ENGINEERING"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SANGHI OVERSEAS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AGRO ENGINEERING EQUIPMENT CO"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AIRCOM POWER SYSTEMS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ALPHA COMPRESSOR VALVES PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AMAR DEO PLASTIC INDUSTRIES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ASHIRWAD CARBONICS INDUSTRIES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ArcelorMittal Nippon Steel India Ltd"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BEML LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BHARAT RAIL EQUIPMENTS AND SERVICES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CEAT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CHITTARANJAN LOCOMOTIVE WORKS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CONTROLLER OF PROCUREMENT VISHAKHAPATNAM"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CORE ENERGY SYSTEMS PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "DECCAN FINE CHEMICALS (INDIA) PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR FERROUS INDUSTRIES LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PKLS INDUSTRIES PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PRADEEP METALS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RAJ ENTERPRISES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RAJARAMBAPU PATIL SAHAKARI SAKHAR KAR-"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RENERGY DYNAMICS PRODUCTS PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MULTIVISTA GLOBAL PVT LTD  - BANGALORE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NAVIN FLUORINE INTERNATIONAL LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SOUTHERN RAILWAYS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "STERLING AND WILSON PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SVML PNEUMATIC PVT.LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RIX INDUSTRIES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SAP PNEUMATIC"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SIEMENS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AMBUJA CEMENTS LIMITED- CHHATTISGARH"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BOSCO GREEN ENERGY PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BRAHMAPUTRA CRACKER & POLYMER LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BTL EPC LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BHARAT HEAVY ELECTRICALS - HYDERABAD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HINDUSTAN AERONAUTICS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HINDUSTAN OIL EXPLORATION COMPANY LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Cipla Ltd."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "DEEP INDUSTRIES LIMITED - AHMEDABAD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JAYASWAL NECO INDUSTRIES LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HSS SOLUTIONS PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MIRZAPUR THERMAL ENERGY (UP) PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MAA KAMAKHYA ENTERPRISES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NEOMETRIX DEFENCE LIMITED (EARLIER NAME- Neometrix"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NEW KANAK CRYO SALES SERVICES & CONSULTANCY"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NMDC LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "OVIS EQUIPMENTS PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PARBHAT HEAVY FORGE PRIVATE LIMITED\t"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PRAJ INDUSTRIES LTD  - PUNE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MULTIVISTA GLOBAL PVT LTD (RLYTRANSACTION)"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MULTIVISTA GLOBAL TRADING FZE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Munitions India Limited-High Explosives Factory Kh"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "STEEL AUTHORITY OF INDIA LTD  BHILAI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Solcon Engineers Pvt. Ltd"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TRIBOTECH ENGINEERING PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SMS INDIA PVT.LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "WPIL LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ADANI HAZIRA PORT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BABA BHOLENATH ENTERPRISES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "GAIL (INDIA) LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HAPUS GENERAL TRADING - L.L.C - S.P.C MUSAFFAH"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CENTRAL RAILWAY , PAREL, MUMBAI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CG POWER AND INDUSTRIAL SOLUTIONS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "DIESEL LOCO MODERNISATION WORKS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "EASTERN RAILWAY - CALCUTTA"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "INS HANSA DABOLIM"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JVB ENGINEERS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KAUSHIV ASSOCIATES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "IKSHI ENGINEERING TUBES PRIVATELIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "INDIAN FARMERS FERTILISER COOPERATIVE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC CO LTD - ACD CENTRI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC CO LTD - ACD SCREW"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Kronos Technocorp"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MEGHA ENGINEERING &INFRASTRUCTURES LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MULTIVISTA GLOBAL PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "M/S NIHAL ENTERPRISES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PARVEEN INDUSTRIES PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PRUDENT ENGINEERING LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SUPER TECH PUMPS AND EQUIPMENTS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Shree Ganapati trading Agencies"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TKIL INDUSTRIES PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TRADE-LINKS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SMAK PNEUMATIC SOLUTIONS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "UTKAL OXY ARC SERVICES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Action Ispat & Power Pvt. Limited"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Adani Power Limited"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Air Liquide India Holding Pvt Ltd."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BHARAT DYNAMICS LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARS ENGINEERING PVT LTD - PUNE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BHARAT ELECTRONICS LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HINDUSTAN AERONAUTICS LTD, BANGALORE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "CONTROLLERATE OF PROCUREMENT"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "D H ENTERPRISE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "DR REDDYS LABORATORIES LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KESSELS ENGINEERING WORKS PVT. LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR FERROUS INDUSTRIES LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Nils & Abbas Trading  Co., L.L.C"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PUNJAB CARBONIC P.LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RELIANCE INDUSTRIES LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Mark Technologies General Trading and Contracting "
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SOUTH EASTERN RAILWAY - CALCUTTA"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SOUTHERN WIND FARMS LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "STAR DYNAMIC ENTERPRISES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SVML PNEUMATIC PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TATA STEEL LTD - JAMSHEDPUR"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "THERMAX LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TIME TECHNOPLAST LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RUNGTA MINES LTD - ODISHA"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Rudra Earthmovers"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SAHA AGENCY"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SHAPOORJI PALLONJI AND COMPANY PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ULTRATECH CEMENT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "VOITH HYDRO PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BENTECH PNEUMATIC"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARS ENGINEERING PVT LTD - MUMBAI"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BHARAT PETROLEUM CORPN LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "FLUIDOMAT LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "GEEKAY PNEUMATICS (P) LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HEAVY VEHICLE FACTORY"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HINDUSTAN PETROLEUM CORPORATION LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JAKSON GREEN LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "I B TURBO PVT. LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KRITHIKK ENGINEERING AND TRADING CO."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "L&T MHI POWER BOILERS PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "LARSEN & TOUBRO LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "LINDE INDIA LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MANMEET CHEMICALS AGENCIES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MASTER GENERAL SUSTENANCE BRANCH"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "M/S TRANREPOWER ENGINEERING SERVICES INDIA PVT LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "MACAWBER BEEKAY PVT.  LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NOVATECH FZE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "PACKING HOUSE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "Pro Air Solution"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "QUVIX INDIA PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RASHTRIYA CHEM & FERTILIZERS LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "REKI ENGINEERING SOLUTIONS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SPEEDO GEAR PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SRF LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TANFAC INDUSTRIES LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SANGHI UDYOG INDIA PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SHARP TANKS AND STRUCTURALS PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SHIVA BOREWELLS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SHRI RADHIKA POWER SOLUTIONS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SIVA WINDTURBINE INDIA PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ADANI POWER LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "AL FUTTAIM AUTO AND MAHINERY CO LLC FAMCO"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARCELORMITTAL NIPPON STEEL INDIA LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BANARAS LOCOMOTIVE WORKS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "ARI Industries FZE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "BOLDROCCHI INDIA PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "GOVIK INDUSTRIES PRIVATE LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "GRANT MEDICAL FOUNDATION"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JOY MARKETING COMPANY PVT. LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "JSW STEEL LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIBOS DISTILLERS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "HINDUSTAN URVARAK & RASAYAN  LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KIRLOSKAR PNEUMATIC CO LTD - ACD RECIP"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "KVK CORPORATION"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "L S ENGINEERING SERVICES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "M S ENTERPRISE"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "M/S BLACK STONE DIESELS"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "OCL IRON & STEELS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "OIL AND NATURAL GAS CORPORATION LIMITED - ASSAM"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "RELIANCE CHEMICALS AND MATERIALS LIMITED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TAL SALES PRIVATE LIMITED,"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "TAMIL NADU CEMENTS CORPORATION LTD."
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CUSTOMER": "SAINI ELECTRICAL ENGINEERING PRIVATE LIMITED"
+    }
+]

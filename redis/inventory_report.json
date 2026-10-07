@@ -1,0 +1,1001 @@
+[
+    {
+        "custom_id": "11.01.001.002",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, column named \"FULL_KIT_NAME\" in the \"kpc_full_kit_inv_summary\" table, data type is \"VARCHAR2(100)\", NAME OF FULLKIT PRODUCT OR ASSEMBLY",
+            "columnName": "FULL_KIT_NAME",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2(100)",
+            "description": "NAME OF THE FULLKIT PRODUCT OR ASSEMBLY",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.003",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, column named \"BUYER_ID\" in the \"kpc_full_kit_inv_summary\" table, data type is \"NUMBER\", A unique ID for a buyer",
+            "columnName": "BUYER_ID",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "A unique identifier for a buyer is a distinct code or number that links a specific buyer to the items they manage or are accountable for, facilitating accurate tracking and accountability in inventory and procurement processes.",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.004",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, Column named \"CHILD_ITEM\" in the \"kpc_full_kit_inv_summary\" table, datatype as \"VARCHAR2\", it shows the child item code",
+            "columnName": "CHILD_ITEM",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the child item code",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.005",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"CHILD_DESCRIPTION\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\", description Of child item",
+            "columnName": "CHILD_DESCRIPTION",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "description Of child item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.006",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"CHILD_ITEM_TYPE\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\", type of child Item , the distinct values are KIT-SPS , SUB_CON_N , MM-OP-PULL , MM-BULK , PURCHASE , MFGD-EQUIP , TWO_BIN, SUB_CON,MFGD-ASSL , ID_NSTK_R , MFGD-SUBASLY , OBSOLETE , ID_STK , CONS_I , MFGD-MACH , ID_NSTK_NR,SERVICE , PURCH_BULK , EQUIPMENT , MFGD-SPARE , ITEM-ON-HOLD",
+            "columnName": "CHILD_ITEM_TYPE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "type of child Item",
+            "distinctValues": [
+                "KIT-SPS",
+                "SUB_CON_N",
+                "MM_OP_PULL",
+                "MM_BULK",
+                "PURCHASE",
+                "MFGD-EQUIP",
+                "TWO_BIN",
+                "SUB_CON",
+                "MFGD-ASSL",
+                "ID_NSTK_R",
+                "MFGD-SUBASLY",
+                "OBSOLETE",
+                "ID_STK",
+                "CONS_I",
+                "MFGD-MACH",
+                "ID_NSTK_NR",
+                "SERVICE",
+                "PURCH_BULK",
+                "EQUIPMENT",
+                "MFGD-SPARE",
+                "ITEM-ON-HOLD",
+                "KIT-SPS",
+                "SUB_CON_N",
+                "MM_OP_PULL",
+                "MM_BULK",
+                "PURCHASE"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.007",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"PRODUCT_GROUP\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\", product Group of child item, the distinct values are GSU,ELECTRIC SCREW , TRM - GEAR AND PINION ,TRM - RD SERIES , DS,ES-R1 , HP,SEMI H RECIP , DRY SCREW , TRM - LUB.OIL PUMP , CENTRI,ES-R3,ES-R2,SAT,OXYGEN TROLLEY,DIRECT FIRED,ES-R4,TRM - AXLE DRIVE,TRM - TEST GEARBOX,BOP1,AIR SCREW,DP,ES-R5,UNIDENTIFIED,RBC,TRM - WINDMILL GEARBOX,OTHERS,TURBO,GEARS AND PINIONS,CENTRIFUGAL,TRM - LOCO. AND TORQ. CONV.,NON-MRP,HST,TRM - FORCE LUB.SYSTEM,NITROGEN TROLLEY,TRM - OTHERS,KG5H,PROJECTS,VERTICAL COMPRESSORS,EH/TC,TRM - CVRDE AND VRDE,TRM - HIGH SPEED GEARBOX,TRM - MISCELLANEOUS,AC,BUS AC SMO,COMMON,ES-R6,SPARES,TRM - TRANSMISSION,GARAGE COMPRESSORS,DMDE,BOP,DIESEL SCREW,SCREW,TRM - JOB ORDER,DIESEL PORTABLE,ELECTRICALS,ACCESSORIES,GAS,TRM - INDUSTRIAL GEARBOX,KRS,TRM - MARINE GEARBOX,OIL FREE SCREW",
+            "columnName": "PRODUCT_GROUP",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "product Group of child item",
+            "distinctValues": [
+                "GSU",
+                "ELECTRIC SCREW",
+                "TRM - GEAR AND PINION",
+                "TRM - RD SERIES",
+                "DS",
+                "ES-R1",
+                "HP",
+                "SEMI H RECIP",
+                "DRY SCREW",
+                "TRM - LUB.OIL PUMP",
+                "CENTRI",
+                "ES-R3",
+                "ES-R2",
+                "SAT",
+                "OXYGEN TROLLEY",
+                "DIRECT FIRED",
+                "ES-R4",
+                "TRM - AXLE DRIVE",
+                "TRM - TEST GEARBOX",
+                "BOP1",
+                "AIR SCREW",
+                "DP",
+                "ES-R5",
+                "UNIDENTIFIED",
+                "RBC",
+                "TRM - WINDMILL GEARBOX",
+                "OTHERS",
+                "TURBO",
+                "GEARS AND PINIONS",
+                "CENTRIFUGAL",
+                "TRM - LOCO. AND TORQ. CONV.",
+                "NON-MRP",
+                "HST",
+                "TRM - FORCE LUB.SYSTEM",
+                "NITROGEN TROLLEY",
+                "TRM - OTHERS",
+                "KG5H",
+                "PROJECTS",
+                "VERTICAL COMPRESSORS",
+                "EH/TC",
+                "TRM - CVRDE AND VRDE",
+                "TRM - HIGH SPEED GEARBOX",
+                "TRM - MISCELLANEOUS",
+                "AC",
+                "BUS AC SMO",
+                "COMMON",
+                "ES-R6",
+                "SPARES",
+                "TRM - TRANSMISSION",
+                "GARAGE COMPRESSORS",
+                "DMDE",
+                "BOP",
+                "DIESEL SCREW",
+                "SCREW",
+                "TRM - JOB ORDER",
+                "DIESEL PORTABLE",
+                "ELECTRICALS",
+                "ACCESSORIES",
+                "GAS",
+                "TRM - INDUSTRIAL GEARBOX",
+                "KRS",
+                "TRM - MARINE GEARBOX",
+                "OIL FREE SCREW"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.008",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"MODEL\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\",shows the model of child item",
+            "columnName": "MODEL",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "shows the model of child item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.009",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"MIN_MINMAX_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", shows minimum level of quantity of the item for inventory planning",
+            "columnName": "MIN_MINMAX_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "shows minimum level of quantity of the item for inventory planning",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.010",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"MAX_MINMAX_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",shows maximum level of quantity of the item for inventory planning",
+            "columnName": "MAX_MINMAX_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "shows maximum level of quantity of the item for inventory planning",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.011",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"MINIMUM_ORDER_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", shows the minimum quantity of the item that can be ordered",
+            "columnName": "MINIMUM_ORDER_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "shows the minimum quantity of the item that can be ordered",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.012",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"MAXIMUM_ORDER_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", shows the maximum quantity of item that can be ordered.",
+            "columnName": "MAXIMUM_ORDER_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "shows the maximum quantity of item that can be ordered",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.013",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"FIXED_ORDER_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",fixed quantity of order for the child item ( it depends on applicability )",
+            "columnName": "FIXED_ORDER_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "fixed quantity of order for the child item ( it depends on applicability )",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.014",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"BUYER_NAME\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\", shows the name of the buyer responsible for purchasing the item",
+            "columnName": "BUYER_NAME",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "shows the name of the buyer responsible for purchasing the item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.015",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"LEAD_TIME\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", lead time for procuring the child item, usually mentioned in days ",
+            "columnName": "LEAD_TIME",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "lead time for procuring the child item, usually mentioned in days",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.016",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"MRP_DEMAND\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",it is a demand / requirement from mrp for the particular child item",
+            "columnName": "MRP_DEMAND",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "it is a demand / requirement from mrp for the particular child item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.017",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"DEMAND_TOTAL\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", TOTAL DEMAND FOR THE CHILD ITEM code",
+            "columnName": "DEMAND_TOTAL",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "TOTAL DEMAND FOR THE CHILD ITEM code",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.018",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"INVENTORY_PLANNING_CODE\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2(500)\", a unique ID code used in inventory planning for each item to define planning",
+            "columnName": "INVENTORY_PLANNING_CODE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2(500)",
+            "description": "THE UNIQUE CODE USED DURING INVENTORY PLANNING. IDENTIFIER ASSIGNED TO EACH ITEM THAT HELPS TO DEFINE HOW IT SHOULD BE PLANNED",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.019",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, column named \"MRP_PLANNING_CODE\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2(500)\", described as the amount of safety stock quantity maintained for the child item",
+            "columnName": "MRP_PLANNING_CODE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2(500)",
+            "description": "SHOWS THE AMOUNT OF SAFETY STOCK QUANTITY MAINTAINED FOR THE CHILD ITEM",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.020",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"SAFETY_STOCK\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", shows the amount of safety stock quantity maintained for the child item ",
+            "columnName": "SAFETY_STOCK",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "shows the amount of safety stock quantity maintained for the child item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.022",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, column named \"TODAYS_STOCKS_ITEM_COUNT\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", today's stock item count which indicates the number of items in the today's stock quantity",
+            "columnName": "TODAYS_STOCKS_ITEM_COUNT",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "today's stock item count which indicates the number of items in the today's stock quantity",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.023",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, column named \"TODAYS_STOCK_VALUE\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",today's stock item count which indicates the number of items in the today's stock value",
+            "columnName": "TODAYS_STOCK_VALUE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "today's stock item count which indicates the number of items in the today's stock value",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.024",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report, column named \"STOCK_QTY_FC\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", it will show the stock quantity of finished component sub inventory",
+            "columnName": "STOCK_QTY_FC",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "it will show the stock quantity of finished component sub inventory",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.025",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"STOCK_QTY_FG\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", it will show the stock quantity of finished goods sub inventory",
+            "columnName": "STOCK_QTY_FG",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "it will show the stock quantity of finished goods sub inventory",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.026",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"STOCK_QTY_ASM\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", it will show the stock quantity of assembly stock sub inventory",
+            "columnName": "STOCK_QTY_ASM",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "it will show the stock quantity of assembly stock sub inventory ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.027",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"STOCK_QTY_MS\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", stock quantity in machine shop (ms) subinventory ",
+            "columnName": "STOCK_QTY_MS",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "stock quantity in machine shop (ms) subinventory ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.028",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"STOCK_GENERAL_STORE\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", stock quantity of general stores sub inventory ",
+            "columnName": "STOCK_GENERAL_STORE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "stock quantity of general stores sub inventory ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.029",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"STOCK_REJ_SUB_INV\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", stock quantity in rejected sub-inventory",
+            "columnName": "STOCK_REJ_SUB_INV",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "stock quantity in rejected sub-inventory",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.030",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"OSP\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",it will show the stock quantity of outside processing sub inventory (osp)",
+            "columnName": "OSP",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "it will show the stock quantity of outside processing sub inventory (osp)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.031",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"CHILD_ITEM_ID\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", unique ID or code for signifying the child item",
+            "columnName": "CHILD_ITEM_ID",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "UNIQUE IDENTIFIER OR CODE FOR SIGNIFYING THE CHILD ITEM",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.032",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"LAST_MATER_REP_DATE\" in \"kpc_full_kit_inv_summary\" table, data type as \"DATE(7)\", date of the last material representative review",
+            "columnName": "LAST_MATER_REP_DATE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "DATE(7)",
+            "description": "Date of the last material representative review",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.033",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"LAST_TRANX_DATE\" in \"kpc_full_kit_inv_summary\" table, data type as \"DATE(7)\", date of last transaction",
+            "columnName": "LAST_TRANX_DATE",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "DATE(7)",
+            "description": "Date of the last transaction for the item",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.034",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"CONSMP_LAST_12_MONTHS\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", indicates the amount of consumption of the child item in the last 12 months",
+            "columnName": "CONSMP_LAST_12_MONTHS",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "Indicates the amount of consumption of the child item in the last 12 months period",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.035",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"CONSMP_LAST_12_24_MONTHS\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", indicates the amount of consumption of the child item in the last 12\u201324 months period",
+            "columnName": "CONSMP_LAST_12_24_MONTHS",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "Indicates the amount of consumption of the child item in the last 12\u201324 months period",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.036",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ORG_ID\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", unique identifier for the organisation",
+            "columnName": "ORG_ID",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "unique identifier for the organisation",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.037",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ATTRIBUTE_1\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2(500)\", used for INSERT, UPDATE, DELETE operations (consider I and U)",
+            "columnName": "ATTRIBUTE_1",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2(500)",
+            "description": "INSERT, UPDATE, DELETE (consider I and U)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.038",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report , column named \"ITEM_COST\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", standard cost or frozen (average) cost of the item.",
+            "columnName": "ITEM_COST",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "standard cost or frozen (average) cost of the item.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.039",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY_MINMAX\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", allocated quantity against min max , minimum maximum quantity of the child item code",
+            "columnName": "ALLOCATED_QTY_MINMAX",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "allocated quantity against min max , minimum maximum quantity of the child item code",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.041",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REQ_QTY1\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",quantity of child item required in next month from current month",
+            "columnName": "REQ_QTY1",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "quantity of child item required in next month from current month",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.042",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REQ_QTY2\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",quantity of child item required in 2nd month from current month",
+            "columnName": "REQ_QTY2",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "quantity of child item required in 2nd month from current month",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.043",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REQ_QTY3\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", required quantity of 3rd month from current month",
+            "columnName": "REQ_QTY3",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "required quantity of 3rd month from current month",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.044",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REQ_QTY4\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", required quantity of child item of 4th month and future from current month",
+            "columnName": "REQ_QTY4",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "required quantity of child item of 4th month and future from current month",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.045",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REMAINING_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", remaining quantity left after             allocation,excess quantity",
+            "columnName": "REMAINING_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "remaining quantity left after allocation,excess quantity",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.046",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REASON\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\", reasons or code of description",
+            "columnName": "REASON",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "reasons or code of description",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.047",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"REASON_REMARK\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\",descriptive reasoning for the excess quantity of child item code quantity ",
+            "columnName": "REASON_REMARK",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "descriptive reasoning for the excess quantity of child item code quantity",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.048",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ACTION\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\",action taken for the excess quantity of child item code , the distinct values are Development / Tooling, Engg. - To use in other project , Mktg. - To get order,To be convrt. to alternate part , None,Not required - Liquidation ,Customer Property\n",
+            "columnName": "ACTION",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "action taken for the excess quantity of child item code",
+            "distinctValues": [
+                "Development / Tooling",
+                "Engg. - To use in other project",
+                "Mktg. - To get order",
+                "To be converted to alternate part",
+                "None",
+                "Not required - Liquidation",
+                "Customer Property"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.049",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ACTION_REMARK\" in \"kpc_full_kit_inv_summary\" table, data type as \"VARCHAR2\", descriptive action taken for the excess quantity of child item",
+            "columnName": "ACTION_REMARK",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "VARCHAR2",
+            "description": "descriptive action taken for the excess quantity of child item ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.051",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", allocated quantity of child item code against required quantity qty in current month",
+            "columnName": "ALLOCATED_QTY",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "allocated quantity of child item code against required quantity qty in current month",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.052",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY1\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", allocated against required quantity of the child item + 1 ",
+            "columnName": "ALLOCATED_QTY1",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "allocated against required quantity of the child item + 1",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.053",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY2\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\",allocated against required quantity of the child item + 2",
+            "columnName": "ALLOCATED_QTY2",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "allocated against required quantity of the child item + 2",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.054",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY3\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", allocated against required quantity of the child item + 3",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "allocated against required quantity of the child item + 3",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.055",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY4\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", allocated against required quantity of the child item + 4+ future",
+            "columnName": "ALLOCATED_QTY4",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "allocated against required quantity of the child item + 4+ future",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.056",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Inventory Report ,column named \"ALLOCATED_QTY_SS\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", the quantity that is allocated against the safety stock.",
+            "columnName": "ALLOCATED_QTY_SS",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "the quantity that is allocated against the safety stock.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.01.001.057",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": ",module is Inventory Report ,column named \"ALLOCATED_QTY_MOQ\" in \"kpc_full_kit_inv_summary\" table, data type as \"NUMBER\", the quantity of items that is allocated against minimum order quantity.",
+            "columnName": "ALLOCATED_QTY_MOQ",
+            "tableName": "kpc_full_kit_inv_summary",
+            "module": "Inventory Report",
+            "dataType": "NUMBER",
+            "description": "the quantity of items that is allocated against minimum order quantity.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Short supply"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Stock order"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Inter SBU"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Sales Order"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Non Billable"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Warranty"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "Sales Order - Dev"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "ORDER_TYPE": "NA"
+    }
+]

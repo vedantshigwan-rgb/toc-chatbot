@@ -1,0 +1,1412 @@
+[
+    {
+        "custom_id": "11.03.003.001",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"ORG_NAME\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", name of the organisation, the distinct values are ACD - SPARES,ACD - CENTRI,ACD - RECIP,ACD - PRODUCTS,TRM - RAIL,ACD - SCREW,TRM - GEAR BOX,TRM - DEFENCE,ACD - GSU",
+            "columnName": "ORG_NAME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "name of the organisation",
+            "distinctValues": [
+                "ACD - SPARES",
+                "ACD - CENTRI",
+                "ACD - RECIP",
+                "ACD - PRODUCTS",
+                "TRM - RAIL",
+                "ACD - SCREW",
+                "TRM - GEAR BOX",
+                "TRM - DEFENCE",
+                "ACD - GSU"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.002",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"PRODUCT_GROUP\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", differnt group under which the products are categorised GSU,ELECTRIC SCREW,ES-R1,DS,HP,SAT,CENTRI,ES-R2,ES-R3,TRM - WINDMILL GEARB,TRM - LOCO. AND TORQ,ES-R4,TRM - INDUSTRIAL GEA,DEVELOPMENT ITEMS,ES-R5,DP,RBC,TRM - HIGH SPEED GEA,AIR-SEP,KG5H,VERTICAL COMPRESSORS,GARAGE COMPRESSORS,SPARES,BOP,GAS,TRM - JOB ORDER,SCREW,NA,TRM - GEAR AND PINIO",
+            "columnName": "PRODUCT_GROUP",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "differnt group under which the products are categorised",
+            "distinctValues": [
+                "GSU",
+                "ELECTRIC SCREW",
+                "ES-R1",
+                "DS",
+                "HP",
+                "SAT",
+                "CENTRI",
+                "ES-R2",
+                "ES-R3",
+                "TRM - WINDMILL GEARB",
+                "TRM - LOCO. AND TORQ",
+                "ES-R4",
+                "TRM - INDUSTRIAL GEA",
+                "DEVELOPMENT ITEMS",
+                "ES-R5",
+                "DP",
+                "RBC",
+                "TRM - HIGH SPEED GEA",
+                "AIR-SEP",
+                "KG5H",
+                "VERTICAL COMPRESSORS",
+                "GARAGE COMPRESSORS",
+                "SPARES",
+                "BOP",
+                "GAS",
+                "TRM - JOB ORDER",
+                "SCREW",
+                "NA",
+                "TRM - GEAR AND PINIO"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.003",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_NUMBER\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", order acceptance number ",
+            "columnName": "OA_NUMBER",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": " order acceptance number ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.004",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBM_LEAD_TIME\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", lead time standanrd bill of material number",
+            "columnName": "SBM_LEAD_TIME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "lead time standanrd bill of material number",
+            "distinctValues": [],
+            "units": [
+                "Days"
+            ],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.005",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBM_NUMBER\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",standard bill of material number (sbm number) ",
+            "columnName": "SBM_NUMBER",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "standard bill of material number (sbm number)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.006",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"FULL_KIT_NAME\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", the name of the full kit , the distinct values are SBD_FK_3,SBD_FK_1,MTS,SBD_FK_2,MS_FK_1,AE_FK_1,NA",
+            "columnName": "FULL_KIT_NAME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "the name of the full kit ",
+            "distinctValues": [
+                "SBD_FK_3",
+                "SBD_FK_1",
+                "MTS",
+                "SBD_FK_2",
+                "MS_FK_1",
+                "AE_FK_1",
+                "NA"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.007",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"INVENTORY_ITEM_ID\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", INVENTORY ITEM ID",
+            "columnName": "INVENTORY_ITEM_ID",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "INVENTORY ITEM ID",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.008",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"DESCRIPTION\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",description of the item in the inventory",
+            "columnName": "DESCRIPTION",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "description of the item in the inventory",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.009",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \" SCHEDULE_SHIP_DATE \" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\",scheduled ship date ",
+            "columnName": "SCHEDULE_SHIP_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": " scheduled ship date ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.010",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_1_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", need by date of sbd fk 1 fullkit",
+            "columnName": "SBD_FK_1_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": "need by date of sbd fk 1 fullkit",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.011",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_1_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",it shows the  availability of sbd which indicates whether the material is available or not ",
+            "columnName": "SBD_FK_1_AVAILABILITY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the  availability of sbd which indicates whether the material is available or not ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.013",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_2_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\",need by date of sbd fk 2 fullkit ",
+            "columnName": "SBD_FK_2_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": " need by date of sbd fk 2 fullkit ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.014",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_2_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",it shows the availability sbd fk 2 which indicates whether the material is available or not",
+            "columnName": "SBD_FK_2_AVAILABILITY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the availability sbd fk 2 which indicates whether the material is available or not ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.016",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_3_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", need by date of sbd fk 3 fullkit",
+            "columnName": "SBD_FK_3_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": "need by date of sbd fk 3 fullkit",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.017",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_3_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", it shows the availability sbd fk 3 which indicates whether the material is available or not ",
+            "columnName": "SBD_FK_3_AVAILABILITY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the availability sbd fk 3 which indicates whether the material is available or not ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.018",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"BD_FK_3_COLOR\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",colour of sbd fk 3, distinct values are Red,Black,Green,White,None",
+            "columnName": "BD_FK_3_COLOR",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "colour of sbd fk 3",
+            "distinctValues": [
+                "Red",
+                "Black",
+                "Green",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.019",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"AE_FK_1_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", need by date of ae fk 1  fullkit ",
+            "columnName": "AE_FK_1_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": "need by date of ae fk 1  fullkit",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.020",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"AE_FK_1_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",it shows the availability ae fk 1 fullkit which indicates whether the material is available or not",
+            "columnName": "AE_FK_1_AVAILABILITY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the availability ae fk 1 fullkit which indicates whether the material is available or not",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.021",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"AE_FK_1_COLOR\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", colour of ae fk 1 fullkit , distinct values are Red , Black , Green ,White , None ",
+            "columnName": "AE_FK_1_COLOR",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "colour of ae fk 1 fullkit ",
+            "distinctValues": [
+                "Red",
+                "Black",
+                "Green",
+                "White",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.022",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_1_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", need by date of ms fk 1 fullkit ",
+            "columnName": "MS_FK_1_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": " need by date of ms fk 1 fullkit",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.023",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_1_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2(50)\", it shows the availability ms fk 1 fullkit which indicates whether the material is available or not",
+            "columnName": "MS_FK_1_AVAILABILITY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the availability ms fk 1 fullkit which indicates whether the material is available or not",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.024",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_1_COLOR\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",colour of ms fk 1 fullkit, distinct values are Red , Black , Green ,White , None ",
+            "columnName": "MS_FK_1_COLOR",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "colour of ms fk 1 fullkit",
+            "distinctValues": [
+                "Red",
+                "Black",
+                "Yellow",
+                "Green",
+                "White",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.025",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_2_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\",need by date of ms fk 2 fullkit",
+            "columnName": "MS_FK_2_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": " need by date of ms fk 2 fullkit",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.026",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_2_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",it shows the availability ms fk 2 fullkit which indicates whether the material is available or not ",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": " it shows the availability ms fk 2 fullkit which indicates whether the material is available or not",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.027",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_2_COLOR\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", colour of ms fk 2 fullkit ,distinct values are Red, None",
+            "columnName": "MS_FK_2_COLOR",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "colour of ms fk 2 fullkit ",
+            "distinctValues": [
+                "Red",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.028",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"KPC_FULL_KIT_OA_ID\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", UNIQUE ID OF THE ORDER ACCEPTANCE",
+            "columnName": "KPC_FULL_KIT_OA_ID",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "KPC FULL KIT ORDER ACCEPTANCE ID. UNIQUE ID OF THE ORDER ACCEPTANCE",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.029",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"CUSTOMER_NAME\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",company name (customer)",
+            "columnName": "CUSTOMER_NAME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "company name (customer)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.030",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SPLIT_LINE_IDENTIFIER\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", split line identifier. format - order_no_sbm no_line no",
+            "columnName": "SPLIT_LINE_IDENTIFIER",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": " split line identifier. format - order_no_sbm no_line no ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.031",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"ORDER_TYPE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", type of order associated with a record , the distinct values are Short supply, Stock order, Sales Order, Inter SBU, Non Billable, Warranty, Sales Order - Dev, NA",
+            "columnName": "ORDER_TYPE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": " type of order associated with a record ",
+            "distinctValues": [
+                "Short supply",
+                "Stock order",
+                "Sales Order",
+                "Inter SBU",
+                "Non Billable",
+                "Warranty",
+                "Sales Order - Dev",
+                "NA"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.032",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"PRODUCT_MODEL\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", product model",
+            "columnName": "PRODUCT_MODEL",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "product model",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.033",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"ITEM_TYPE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", type of the item , the distinct values are KIT-SPS, PURCHASE, MFGD-EQUIP, PRJ_PURCH, SUB_CON, MFGD-ASSL, SBM-MKTG, MFGD-SUBASLY, MFGD-MACH, PURCH_BULK, EQUIPMENT, MFGD-SPARE",
+            "columnName": "ITEM_TYPE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": " type of the item ",
+            "distinctValues": [
+                "KIT-SPS",
+                "PURCHASE",
+                "MFGD-EQUIP",
+                "PRJ_PURCH",
+                "SUB_CON",
+                "MFGD-ASSL",
+                "SBM-MKTG",
+                "MFGD-SUBASLY",
+                "MFGD-MACH",
+                "PURCH_BULK",
+                "EQUIPMENT",
+                "MFGD-SPARE"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.034",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"FULL_AVAILABILITY_COLOUR\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", only orange indicating full availability of all child items distinct values are Orange ,None",
+            "columnName": "FULL_AVAILABILITY_COLOUR",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2(200)",
+            "description": "only orange indicating full availability of all child items",
+            "distinctValues": [
+                "Orange",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.035",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"BUYER_ID\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", shows buyer id",
+            "columnName": "BUYER_ID",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "shows buyer id",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.036",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"BUYER_NAME\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", shows the buyer name",
+            "columnName": "BUYER_NAME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "shows the buyer name",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.037",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"DELVERABLE_OA\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", it shows the order is deliverable or not , distinct values are Y , null ",
+            "columnName": "DELVERABLE_OA",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": " it shows the order is deliverable or not ",
+            "distinctValues": [
+                "Y",
+                "null"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.038",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"PICKED_FLAG\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", it shows the picked flag ( status) denoted , distinct values are Yes , No",
+            "columnName": "PICKED_FLAG",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "it shows the picked flag ( status) denoted",
+            "distinctValues": [
+                "Yes",
+                "No"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.039",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_LINE_QTY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", shows the line quantity of the components in the order.A ",
+            "columnName": "OA_LINE_QTY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "shows the line quantity of the components in the order.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.040",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_LINE_NO\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", order line number",
+            "columnName": "OA_LINE_NO",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "order line number.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.041",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"PLAN_MAKE_BUY_CODE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", planning make / buy code ",
+            "columnName": "PLAN_MAKE_BUY_CODE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "planning make / buy code",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.042",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SALES_OA_QTY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", sales order quantity ",
+            "columnName": "SALES_OA_QTY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "sales order quantity ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.043",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_PRIORITY_NO\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\",  to prioritize the order acceptance(oa) on the basis of urgency",
+            "columnName": "OA_PRIORITY_NO",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": " to prioritize the order acceptance(oa) on the basis of urgency",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.044",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"JOB_RELEASED_FLAG\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\",check job released or not",
+            "columnName": "JOB_RELEASED_FLAG",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "check job released or not",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.045",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MAX_LEAD_TIME\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", maximum lead time among all the child item, unit is in days",
+            "columnName": "MAX_LEAD_TIME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "maximum lead time among all the child item",
+            "distinctValues": [],
+            "units": [
+                "Days"
+            ],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.046",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"ITEM_COST\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\",  shows cost of the item, unit is in INR",
+            "columnName": "ITEM_COST",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "shows cost of the item",
+            "distinctValues": [],
+            "units": [
+                "INR"
+            ],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.047",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SELLING_PRICE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", selling price of the item",
+            "columnName": "SELLING_PRICE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": " selling price of the item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.048",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"BOM_COUNT\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", mrecord the bill of material count. ",
+            "columnName": "BOM_COUNT",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": " record the bill of material count",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.049",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OCD\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\",  shows the order creation date ",
+            "columnName": "OCD",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": " shows the order creation date ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.050",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_NEED_BY_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", shows the order need by date ",
+            "columnName": "OA_NEED_BY_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": " shows the order need by date",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.051",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"ORG_ID\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", THE ORGANISATION ID / ORG ID, the distinct values are 343, 366, 363, 365, 344, 383, 101, 364, 102",
+            "columnName": "ORG_ID",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "THE ORGANISATION ID / ORG ID",
+            "distinctValues": [
+                "343",
+                "366",
+                "363",
+                "365",
+                "344",
+                "383",
+                "101",
+                "364",
+                "102"
+            ],
+            "units": [],
+            "used": 0,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.052",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_COLOUR\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\",shows different order acceptance order colour depending on the schedule ship date, the distinct values are Green, White, None, Red, Black, Yellow",
+            "columnName": "OA_COLOUR",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "shows different order acceptance order colour depending on the schedule ship date",
+            "distinctValues": [
+                "Green",
+                "White",
+                "None",
+                "Red",
+                "Black",
+                "Yellow"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.053",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"OA_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", time remaining for shipment, unit is in time remaining percentage",
+            "columnName": "OA_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "time remaining for shipment",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.054",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_1_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", TIME REMAINING FOR SHIPMENT, unit is in Time remaining percentage",
+            "columnName": "SBD_FK_1_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "TIME REMAINING FOR SHIPMENT",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.055",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_2_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", TIME REMAINING FOR SHIPMENT,unit is in Time remaining percentage",
+            "columnName": "SBD_FK_2_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "TIME REMAINING FOR SHIPMENT",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.056",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_3_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", TIME REMAINING FOR SHIPMENT, unit is in Time remaining percentage",
+            "columnName": "SBD_FK_3_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "TIME REMAINING FOR SHIPMENT",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.057",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"AE_FK_1_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", TIME REMAINING FOR SHIPMENT, unit is in Time remaining percentage",
+            "columnName": "AE_FK_1_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "TIME REMAINING FOR SHIPMENT",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.058",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_1_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", TIME REMAINING FOR SHIPMENT, unit is in Time remaining percentage",
+            "columnName": "MS_FK_1_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "TIME REMAINING FOR SHIPMENT",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.059",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"MS_FK_2_PER_TIME_REM\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", TIME REMAINING FOR SHIPMENT,unit is in Time remaining percentage",
+            "columnName": "MS_FK_2_PER_TIME_REM",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "TIME REMAINING FOR SHIPMENT",
+            "distinctValues": [],
+            "units": [
+                "Time remaining percentage"
+            ],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.060",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SBD_FK_1_AVALB_WOUT_RES\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", oa order in wip , purple means order with sbd fullkit fk 1 in wip , blue means without sbd fullkit fk 1 in wip, distinct values are Purple, Blue, None",
+            "columnName": "SBD_FK_1_AVALB_WOUT_RES",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "oa order in wip , purple means order with sbd fullkit fk 1 in wip , blue means without sbd fullkit fk 1 in wip",
+            "distinctValues": [
+                "Purple",
+                "Blue",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.061",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"SBD_FK_2_AVALB_WOUT_RES\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", oa order in wip , purple means order with sbd fullkit fk 2 in wip , blue means without sbd fullkit fk 1 in wip , distinct values are Purple, Blue, None",
+            "columnName": "SBD_FK_2_AVALB_WOUT_RES",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "oa order in wip , purple means order with sbd fullkit fk 1 in wip , blue means without sbd fullkit fk 1 in wip",
+            "distinctValues": [
+                "Purple",
+                "Blue",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.062",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"SBD_FK_3_AVALB_WOUT_RES\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", oa order in wip , purple means order with sbd fullkit fk 3 in wip , blue means without sbd fullkit fk 3 in wip, distinct values are Purple, Blue, None",
+            "columnName": "SBD_FK_3_AVALB_WOUT_RES",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "oa order in wip , purple means order with sbd fullkit fk 3 in wip , blue means without sbd fullkit fk 3 in wip",
+            "distinctValues": [
+                "Purple",
+                "Blue",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.063",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"AE_FK_1_AVALB_WOUT_RES\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", oa order in wip , color / colours , purple means order with ae fullkit fk 1 in wip , blue means without ae fullkit fk 1 in wip , distinct values are Purple, Blue, None",
+            "columnName": "AE_FK_1_AVALB_WOUT_RES",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "oa order in wip , color / colours , purple means order with ae fullkit fk 1 in wip , blue means without ae fullkit fk 1 in wip",
+            "distinctValues": [
+                "Purple",
+                "Blue",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.064",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"MS_FK_1_AVALB_WOUT_RES\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", oa order in wip , color / colours , purple means order with ms fullkit fk 1 in wip , blue means without ms fullkit fk 1 in wip, distinct values are Purple, Blue, None",
+            "columnName": "MS_FK_1_AVALB_WOUT_RES",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "oa order in wip , color / colours , purple means order with ms fullkit fk 1 in wip , blue means without ms fullkit fk 1 in wip",
+            "distinctValues": [
+                "Purple",
+                "Blue",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.065",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"MS_FK_2_AVALB_WOUT_RES\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", oa order in wip , color / colours , purple means order with ms fullkit fk 2 in wip , blue means without ms fullkit fk 2 in wip, distinct values are Purple, Blue, None",
+            "columnName": "MS_FK_2_AVALB_WOUT_RES",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "oa order in wip , color / colours , purple means order with ms fullkit fk 2 in wip , blue means without ms fullkit fk 2 in wip",
+            "distinctValues": [
+                "Purple",
+                "Blue",
+                "None"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.066",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"MS_FK_1_MAX_LEAD_TIME\" in \"kpc_full_kit_oa_grouping\" table,data type as \"NUMBER\", shows the maximum lead time from ms fk 1 fullkit items,unit is in Days",
+            "columnName": "MS_FK_1_MAX_LEAD_TIME",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "shows the maximum lead time from ms fk 1 fullkit items ",
+            "distinctValues": [],
+            "units": [
+                "Days"
+            ],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.067",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"BOOKED_BY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", the user who booked the order ",
+            "columnName": "BOOKED_BY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "the user who booked the order",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.068",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"COMPRESSOR_TYPE\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", types of compressor billable, non- billable , distinct values are billable , non-billable ",
+            "columnName": "COMPRESSOR_TYPE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "types of compressor billable, non- billable",
+            "distinctValues": [
+                "BILLABLE",
+                "NON- BILLABLE"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.069",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"BOM_EXPLD_FLAG\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", FLAG INDICATING A SPECIFIC CONDITION. FLAG FOR BOM DATA GENERATION(Y) , NOT ISSUED IN THE REPORT",
+            "columnName": "BOM_EXPLD_FLAG",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "FLAG INDICATING A SPECIFIC CONDITION. FLAG FOR BOM DATA GENERATION(Y), NOT ISSUED IN THE REPORT",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.070",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"MTS_AVAILABILITY\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", available small item / bulk item in stock from total item ",
+            "columnName": "MTS_AVAILABILITY",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "available small item / bulk item in stock from total item",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.071",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SHIP_TO_ORG_ID\" in \"kpc_full_kit_oa_grouping\" table, data type as \"NUMBER\", SHIPMENT ID",
+            "columnName": "SHIP_TO_ORG_ID",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "NUMBER",
+            "description": "SHIPMENT ID",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.072",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"SHIP_TO_ADDRESS\" in \"kpc_full_kit_oa_grouping\" table,data type as \"VARCHAR2\", shows the address of the shipment ",
+            "columnName": "SHIP_TO_ADDRESS",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "shows the address of the shipment",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.073",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report, column named \"FOB_POINT_CODE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"VARCHAR2\", from where the order is getting the dispatch, the distinct values are FOR SITE, None, FACTORY",
+            "columnName": "FOB_POINT_CODE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "VARCHAR2",
+            "description": "from where the order is getting the dispatch",
+            "distinctValues": [
+                "FOR SITE",
+                "None",
+                "FACTORY"
+            ],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.074",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"BOM_RELEASE_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", bill of material date release date ",
+            "columnName": "BOM_RELEASE_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": "bill of material date release date",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.03.003.075",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Order Report,column named \"ADVANCE_HOLD_RELEASE_DATE\" in \"kpc_full_kit_oa_grouping\" table, data type as \"DATE\", advance payment receive date for starting the order ",
+            "columnName": "ADVANCE_HOLD_RELEASE_DATE",
+            "tableName": "kpc_full_kit_oa_grouping",
+            "module": "Order Report",
+            "dataType": "DATE",
+            "description": "advance payment receive date for starting the order ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    }
+]

@@ -1,0 +1,173 @@
+{
+  "report_name": "Order Report",
+  "report_folder": "Order Report",
+  "created_at": "2026-10-07T10:36:08",
+  "total_rows": 114,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "bom_count": {
+      "folder": "variables\\bom_count",
+      "row_count": 1
+    },
+    "buyer": {
+      "folder": "variables\\buyer",
+      "row_count": 1
+    },
+    "buyer,customer,full_kit": {
+      "folder": "variables\\buyer,customer,full_kit",
+      "row_count": 1
+    },
+    "buyer,customer,product_group": {
+      "folder": "variables\\buyer,customer,product_group",
+      "row_count": 1
+    },
+    "buyer,customer,product_model": {
+      "folder": "variables\\buyer,customer,product_model",
+      "row_count": 2
+    },
+    "buyer,full_kit": {
+      "folder": "variables\\buyer,full_kit",
+      "row_count": 1
+    },
+    "buyer,item_type": {
+      "folder": "variables\\buyer,item_type",
+      "row_count": 1
+    },
+    "buyer,order_type,product_model": {
+      "folder": "variables\\buyer,order_type,product_model",
+      "row_count": 1
+    },
+    "buyer,parent_item,product_model": {
+      "folder": "variables\\buyer,parent_item,product_model",
+      "row_count": 1
+    },
+    "buyer,product_group": {
+      "folder": "variables\\buyer,product_group",
+      "row_count": 1
+    },
+    "buyer,product_model": {
+      "folder": "variables\\buyer,product_model",
+      "row_count": 1
+    },
+    "customer": {
+      "folder": "variables\\customer",
+      "row_count": 3
+    },
+    "customer,full_kit": {
+      "folder": "variables\\customer,full_kit",
+      "row_count": 1
+    },
+    "customer,full_kit,oa_number": {
+      "folder": "variables\\customer,full_kit,oa_number",
+      "row_count": 1
+    },
+    "customer,oa_number,sub_full_kit": {
+      "folder": "variables\\customer,oa_number,sub_full_kit",
+      "row_count": 1
+    },
+    "customer,product_group": {
+      "folder": "variables\\customer,product_group",
+      "row_count": 2
+    },
+    "customer,product_group,product_model": {
+      "folder": "variables\\customer,product_group,product_model",
+      "row_count": 1
+    },
+    "customer,product_model": {
+      "folder": "variables\\customer,product_model",
+      "row_count": 1
+    },
+    "customer,sub_full_kit": {
+      "folder": "variables\\customer,sub_full_kit",
+      "row_count": 1
+    },
+    "date": {
+      "folder": "variables\\date",
+      "row_count": 2
+    },
+    "days": {
+      "folder": "variables\\days",
+      "row_count": 1
+    },
+    "full_kit,oa_number": {
+      "folder": "variables\\full_kit,oa_number",
+      "row_count": 4
+    },
+    "full_kit,sub_full_kit": {
+      "folder": "variables\\full_kit,sub_full_kit",
+      "row_count": 3
+    },
+    "item_cost": {
+      "folder": "variables\\item_cost",
+      "row_count": 1
+    },
+    "item_description": {
+      "folder": "variables\\item_description",
+      "row_count": 1
+    },
+    "item_type,parent_item": {
+      "folder": "variables\\item_type,parent_item",
+      "row_count": 1
+    },
+    "item_type,parent_item,product_model": {
+      "folder": "variables\\item_type,parent_item,product_model",
+      "row_count": 2
+    },
+    "month": {
+      "folder": "variables\\month",
+      "row_count": 3
+    },
+    "month,year": {
+      "folder": "variables\\month,year",
+      "row_count": 3
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 14
+    },
+    "oa_colour": {
+      "folder": "variables\\oa_colour",
+      "row_count": 1
+    },
+    "oa_number": {
+      "folder": "variables\\oa_number",
+      "row_count": 39
+    },
+    "oa_number,sub_full_kit": {
+      "folder": "variables\\oa_number,sub_full_kit",
+      "row_count": 3
+    },
+    "order_type": {
+      "folder": "variables\\order_type",
+      "row_count": 1
+    },
+    "order_type,product_model": {
+      "folder": "variables\\order_type,product_model",
+      "row_count": 1
+    },
+    "parent_item": {
+      "folder": "variables\\parent_item",
+      "row_count": 3
+    },
+    "parent_item,product_model": {
+      "folder": "variables\\parent_item,product_model",
+      "row_count": 1
+    },
+    "product_group,product_model": {
+      "folder": "variables\\product_group,product_model",
+      "row_count": 1
+    },
+    "product_model": {
+      "folder": "variables\\product_model",
+      "row_count": 1
+    },
+    "quantity": {
+      "folder": "variables\\quantity",
+      "row_count": 3
+    },
+    "year": {
+      "folder": "variables\\year",
+      "row_count": 2
+    }
+  }
+}

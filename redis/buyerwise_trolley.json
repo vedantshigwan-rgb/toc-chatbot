@@ -1,0 +1,223 @@
+[
+    {
+        "custom_id": "11.09.009.001",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report, column named \"ORG_NAME\" in the \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\", Organization Name ",
+            "columnName": "ORG_NAME",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "Organization Name ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.002",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report, column named \"OA_NUMBER\" in the \"buyerwise_oa_trolley_status\" table, data type as\"VARCHAR2\",Order Acknowledgment Number",
+            "columnName": "OA_NUMBER",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "Order Acknowledgment Number",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.003",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report, column named \"SPLIT_LINE_IDENTIFIER\" in the \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\", split line identifier. format - order_no_sbm no_line no",
+            "columnName": "SPLIT_LINE_IDENTIFIER",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "split line identifier. format - order_no_sbm no_line no",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.004",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report, Column named \"SBM_NUMBER\" in the \"buyerwise_oa_trolley_status\" table, datatype as \"VARCHAR2\", Standard Bill Material Number which tracks the internal manufacturing/shop-floor material breakdown",
+            "columnName": "SBM_NUMBER",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": " Standard Bill Material Number which tracks the internal manufacturing/shop-floor material breakdown",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.005",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"PARENT_ITEM_TYPE\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\", Classifies what kind of item the parent is such as in manufacturing, this usually distinguishes between things",
+            "columnName": "PARENT_ITEM_TYPE",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "Classifies what kind of item the parent is such as in manufacturing, this usually distinguishes between things",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.006",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"PARENT_DESCRIPTION\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\",A clear, description of the main item or assembly on the trolley",
+            "columnName": "PARENT_DESCRIPTION",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "A clear, description of the main item or assembly on the trolley",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.007",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"TROLLEY_STATUS_NO\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\",This column acts as sequence number for tracking trolley status events",
+            "columnName": "TROLLEY_STATUS_NO",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "This column acts as sequence number for tracking trolley status events",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.008",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"TROLLEY_DATE_NO\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\",This column acts as  an identifier for the date field linked directly to the status number.",
+            "columnName": "TROLLEY_DATE_NO",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "This column acts as  an identifier for the date field linked directly to the status number.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.009",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"TROLLEY_STATUS\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\",specific buyer updated their status manually remarks enterd -  balance",
+            "columnName": "TROLLEY_STATUS",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "specific buyer updated their status manually remarks enterd -  balance",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.010",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"TROLLEY_DATE\" in \"buyerwise_oa_trolley_status\" table, data type as \"DATE\",specific buyer update their trolley balance date ",
+            "columnName": "TROLLEY_DATE",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "DATE",
+            "description": "specific buyer update their trolley balance date ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.011",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"BUYER\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\",Trolley assigned to speciifc Buyer Name ",
+            "columnName": "BUYER",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "Trolley assigned to speciifc Buyer Name ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.012",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"BUYER_STATUS\" in \"buyerwise_oa_trolley_status\" table, data type as \"VARCHAR2\",Buyer expected  date status ",
+            "columnName": "BUYER_STATUS",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "VARCHAR2",
+            "description": "Buyer expected  date status ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.09.009.013",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is POB Trolley Status Report ,column named \"LOAD_DATE\" in \"buyerwise_oa_trolley_status\" table, data type as \"DATE\"",
+            "columnName": "LOAD_DATE",
+            "tableName": "buyerwise_oa_trolley_status",
+            "module": "POB Trolley Status Report",
+            "dataType": "DATE",
+            "description": "",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    }
+]

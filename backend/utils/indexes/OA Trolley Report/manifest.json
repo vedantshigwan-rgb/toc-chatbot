@@ -1,0 +1,261 @@
+{
+  "report_name": "OA Trolley Report ",
+  "report_folder": "OA Trolley Report",
+  "created_at": "2026-10-07T10:38:10",
+  "total_rows": 210,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "customer": {
+      "folder": "variables\\customer",
+      "row_count": 7
+    },
+    "customer,date": {
+      "folder": "variables\\customer,date",
+      "row_count": 4
+    },
+    "customer,date,product_group": {
+      "folder": "variables\\customer,date,product_group",
+      "row_count": 1
+    },
+    "customer,date,product_model": {
+      "folder": "variables\\customer,date,product_model",
+      "row_count": 1
+    },
+    "customer,inspection_norm": {
+      "folder": "variables\\customer,inspection_norm",
+      "row_count": 2
+    },
+    "customer,inspection_norm,month": {
+      "folder": "variables\\customer,inspection_norm,month",
+      "row_count": 1
+    },
+    "customer,inspection_norm,org_name": {
+      "folder": "variables\\customer,inspection_norm,org_name",
+      "row_count": 2
+    },
+    "customer,inspection_norm,year": {
+      "folder": "variables\\customer,inspection_norm,year",
+      "row_count": 1
+    },
+    "customer,item_description,product_group": {
+      "folder": "variables\\customer,item_description,product_group",
+      "row_count": 1
+    },
+    "customer,item_type,product_group": {
+      "folder": "variables\\customer,item_type,product_group",
+      "row_count": 1
+    },
+    "customer,ld_clause": {
+      "folder": "variables\\customer,ld_clause",
+      "row_count": 2
+    },
+    "customer,ld_clause,org_name": {
+      "folder": "variables\\customer,ld_clause,org_name",
+      "row_count": 1
+    },
+    "customer,ld_clause,product_model": {
+      "folder": "variables\\customer,ld_clause,product_model",
+      "row_count": 1
+    },
+    "customer,month": {
+      "folder": "variables\\customer,month",
+      "row_count": 2
+    },
+    "customer,month,product_group": {
+      "folder": "variables\\customer,month,product_group",
+      "row_count": 4
+    },
+    "customer,month,product_model": {
+      "folder": "variables\\customer,month,product_model",
+      "row_count": 4
+    },
+    "customer,oa_number": {
+      "folder": "variables\\customer,oa_number",
+      "row_count": 1
+    },
+    "customer,oa_number,product_group": {
+      "folder": "variables\\customer,oa_number,product_group",
+      "row_count": 1
+    },
+    "customer,oa_number,product_model": {
+      "folder": "variables\\customer,oa_number,product_model",
+      "row_count": 1
+    },
+    "customer,oa_status": {
+      "folder": "variables\\customer,oa_status",
+      "row_count": 1
+    },
+    "customer,oa_status,product_group": {
+      "folder": "variables\\customer,oa_status,product_group",
+      "row_count": 2
+    },
+    "customer,org_name,product_group": {
+      "folder": "variables\\customer,org_name,product_group",
+      "row_count": 3
+    },
+    "customer,org_name,product_model": {
+      "folder": "variables\\customer,org_name,product_model",
+      "row_count": 3
+    },
+    "customer,product_group": {
+      "folder": "variables\\customer,product_group",
+      "row_count": 6
+    },
+    "customer,product_model": {
+      "folder": "variables\\customer,product_model",
+      "row_count": 5
+    },
+    "date": {
+      "folder": "variables\\date",
+      "row_count": 7
+    },
+    "date,org_name": {
+      "folder": "variables\\date,org_name",
+      "row_count": 1
+    },
+    "date,product_group": {
+      "folder": "variables\\date,product_group",
+      "row_count": 1
+    },
+    "inspection_norm": {
+      "folder": "variables\\inspection_norm",
+      "row_count": 1
+    },
+    "inspection_norm,org_name,product_group": {
+      "folder": "variables\\inspection_norm,org_name,product_group",
+      "row_count": 1
+    },
+    "inspection_norm,product_group": {
+      "folder": "variables\\inspection_norm,product_group",
+      "row_count": 1
+    },
+    "inspection_norm,product_model": {
+      "folder": "variables\\inspection_norm,product_model",
+      "row_count": 1
+    },
+    "item_description": {
+      "folder": "variables\\item_description",
+      "row_count": 1
+    },
+    "item_description,product_group": {
+      "folder": "variables\\item_description,product_group",
+      "row_count": 1
+    },
+    "item_type": {
+      "folder": "variables\\item_type",
+      "row_count": 2
+    },
+    "item_type,month,product_model": {
+      "folder": "variables\\item_type,month,product_model",
+      "row_count": 1
+    },
+    "item_type,product_group": {
+      "folder": "variables\\item_type,product_group",
+      "row_count": 1
+    },
+    "ld_clause": {
+      "folder": "variables\\ld_clause",
+      "row_count": 1
+    },
+    "ld_clause,month,product_group": {
+      "folder": "variables\\ld_clause,month,product_group",
+      "row_count": 1
+    },
+    "ld_clause,product_group": {
+      "folder": "variables\\ld_clause,product_group",
+      "row_count": 1
+    },
+    "month": {
+      "folder": "variables\\month",
+      "row_count": 4
+    },
+    "month,org_name,product_group": {
+      "folder": "variables\\month,org_name,product_group",
+      "row_count": 2
+    },
+    "month,product_group": {
+      "folder": "variables\\month,product_group",
+      "row_count": 2
+    },
+    "month,product_model": {
+      "folder": "variables\\month,product_model",
+      "row_count": 1
+    },
+    "month,year": {
+      "folder": "variables\\month,year",
+      "row_count": 2
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 76
+    },
+    "oa_number": {
+      "folder": "variables\\oa_number",
+      "row_count": 4
+    },
+    "oa_number,org_name,product_model": {
+      "folder": "variables\\oa_number,org_name,product_model",
+      "row_count": 1
+    },
+    "oa_number,product_model": {
+      "folder": "variables\\oa_number,product_model",
+      "row_count": 2
+    },
+    "oa_status": {
+      "folder": "variables\\oa_status",
+      "row_count": 1
+    },
+    "oa_status,org_name": {
+      "folder": "variables\\oa_status,org_name",
+      "row_count": 1
+    },
+    "oa_status,org_name,product_group": {
+      "folder": "variables\\oa_status,org_name,product_group",
+      "row_count": 1
+    },
+    "oa_status,org_name,product_model": {
+      "folder": "variables\\oa_status,org_name,product_model",
+      "row_count": 1
+    },
+    "oa_status,parent_item": {
+      "folder": "variables\\oa_status,parent_item",
+      "row_count": 1
+    },
+    "oa_status,product_group": {
+      "folder": "variables\\oa_status,product_group",
+      "row_count": 2
+    },
+    "oa_status,product_model": {
+      "folder": "variables\\oa_status,product_model",
+      "row_count": 1
+    },
+    "org_name": {
+      "folder": "variables\\org_name",
+      "row_count": 8
+    },
+    "org_name,parent_item": {
+      "folder": "variables\\org_name,parent_item",
+      "row_count": 1
+    },
+    "parent_item": {
+      "folder": "variables\\parent_item",
+      "row_count": 1
+    },
+    "product_group": {
+      "folder": "variables\\product_group",
+      "row_count": 8
+    },
+    "product_group,product_model": {
+      "folder": "variables\\product_group,product_model",
+      "row_count": 1
+    },
+    "product_model": {
+      "folder": "variables\\product_model",
+      "row_count": 7
+    },
+    "year": {
+      "folder": "variables\\year",
+      "row_count": 2
+    }
+  }
+}

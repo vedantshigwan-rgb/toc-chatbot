@@ -1,0 +1,34 @@
+[
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Short supply"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Stock order"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Inter SBU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Sales Order"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Non Billable"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Warranty"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "Sales Order - Dev"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "ORDER_TYPE_TEXT": "NA"
+    }
+]

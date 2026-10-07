@@ -1,0 +1,125 @@
+{
+  "report_name": "Inventory Report",
+  "report_folder": "Inventory Report",
+  "created_at": "2026-10-07T10:35:49",
+  "total_rows": 185,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "buyer": {
+      "folder": "variables\\buyer",
+      "row_count": 16
+    },
+    "buyer,item": {
+      "folder": "variables\\buyer,item",
+      "row_count": 8
+    },
+    "buyer,item,reason": {
+      "folder": "variables\\buyer,item,reason",
+      "row_count": 3
+    },
+    "buyer,item,req_qty_month": {
+      "folder": "variables\\buyer,item,req_qty_month",
+      "row_count": 1
+    },
+    "buyer,item_description": {
+      "folder": "variables\\buyer,item_description",
+      "row_count": 1
+    },
+    "buyer,reason": {
+      "folder": "variables\\buyer,reason",
+      "row_count": 3
+    },
+    "buyer,req_qty_month": {
+      "folder": "variables\\buyer,req_qty_month",
+      "row_count": 1
+    },
+    "days": {
+      "folder": "variables\\days",
+      "row_count": 3
+    },
+    "item": {
+      "folder": "variables\\item",
+      "row_count": 20
+    },
+    "item,quantity,reason": {
+      "folder": "variables\\item,quantity,reason",
+      "row_count": 1
+    },
+    "item,reason": {
+      "folder": "variables\\item,reason",
+      "row_count": 3
+    },
+    "item,req_qty_month": {
+      "folder": "variables\\item,req_qty_month",
+      "row_count": 1
+    },
+    "item_cost": {
+      "folder": "variables\\item_cost",
+      "row_count": 3
+    },
+    "item_cost,product_group,product_model": {
+      "folder": "variables\\item_cost,product_group,product_model",
+      "row_count": 1
+    },
+    "item_description": {
+      "folder": "variables\\item_description",
+      "row_count": 9
+    },
+    "item_type": {
+      "folder": "variables\\item_type",
+      "row_count": 3
+    },
+    "item_type,product_group": {
+      "folder": "variables\\item_type,product_group",
+      "row_count": 1
+    },
+    "item_type,product_group,product_model": {
+      "folder": "variables\\item_type,product_group,product_model",
+      "row_count": 4
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 55
+    },
+    "product_group": {
+      "folder": "variables\\product_group",
+      "row_count": 9
+    },
+    "product_group,product_model": {
+      "folder": "variables\\product_group,product_model",
+      "row_count": 2
+    },
+    "product_group,product_model,quantity": {
+      "folder": "variables\\product_group,product_model,quantity",
+      "row_count": 3
+    },
+    "product_group,product_model,req_qty_month": {
+      "folder": "variables\\product_group,product_model,req_qty_month",
+      "row_count": 1
+    },
+    "product_group,req_qty_month": {
+      "folder": "variables\\product_group,req_qty_month",
+      "row_count": 1
+    },
+    "product_model": {
+      "folder": "variables\\product_model",
+      "row_count": 8
+    },
+    "quantity": {
+      "folder": "variables\\quantity",
+      "row_count": 16
+    },
+    "quantity,reason": {
+      "folder": "variables\\quantity,reason",
+      "row_count": 1
+    },
+    "reason": {
+      "folder": "variables\\reason",
+      "row_count": 6
+    },
+    "req_qty_month": {
+      "folder": "variables\\req_qty_month",
+      "row_count": 1
+    }
+  }
+}

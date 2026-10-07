@@ -1,0 +1,78 @@
+[
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "KIT-SPS"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "MFGD-SUBASLY"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "SUB_CON_N"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "MM-OP-PULL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "PURCHASE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "MFGD-MACH"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "SBM-ASSLY"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "CONS_I"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "SBM-ENGG"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "TWO_BIN"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "SERVICE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "EQUIPMENT"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "PURCH_BULK"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "MFGD-SPARE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "PRJ_PURCH"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "CONS_II"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "MFGD-ASSL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "SUB_CON"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "PARENT_ITEM_TYPE": "SBM-MKTG"
+    }
+]

@@ -1,0 +1,393 @@
+[
+    {
+        "custom_id": "11.07.007.001",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"DOCKET_EMP_ID\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\",primary key ",
+            "columnName": "DOCKET_EMP_ID",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "primary key ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.005",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"PERIOD_NAME\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\",specific name of period",
+            "columnName": "PERIOD_NAME",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "specific name of period",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.006",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"TNO\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", token number ",
+            "columnName": "TNO",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "token number",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.007",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"ENAME\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\", name of the employee",
+            "columnName": "ENAME",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "name of the employee",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.010",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"INCNSCHM\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", INCENTIVE SCHEME ",
+            "columnName": "INCNSCHM",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "INCENTIVE SCHEME",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.011",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"EXGRT\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", external Gratia (ex-gratia) payment details.",
+            "columnName": "EXGRT",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "external Gratia (ex-gratia) payment details. ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.014",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"LPI\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", BASE PRICE OF THE ITEM ",
+            "columnName": "LPI",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "BASE PRICE OF THE ITEM ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.015",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"PRODBON\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", production Bonus earned by the employee",
+            "columnName": "PRODBON",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "production Bonus earned by the employee.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.016",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"TOTINCN\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\",total Incentive, representing the sum of all incentive payouts  ",
+            "columnName": "TOTINCN",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "total Incentive, representing the sum of all incentive payouts ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.019",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"MEASURED\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\",measured minutes or units of work.",
+            "columnName": "SUPPLIER",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "measured minutes or units of work.",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.020",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"PRODUCED\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", actual quantity/units produced by the employee",
+            "columnName": "PRODUCED",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "actual quantity/units produced by the employee",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.021",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"STD_PRODN\" in \"kpc_full_kit_docket_emp\" table, data type as \"NUMBER\", standard production target or benchmark for the employee ",
+            "columnName": "STD_PRODN",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "NUMBER",
+            "description": "standard production target or benchmark for the employee",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.023",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REMARK_1\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\", PRIMARY KEY .  IT SHOWS THE UNIQUE DOCKET ID CODE ",
+            "columnName": "REMARK_1",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "PRIMARY KEY .  IT SHOWS THE UNIQUE DOCKET ID CODE ",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.024",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REMARK_2\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\", PRIMARY KEY .  IT SHOWS THE UNIQUE DOCKET ID CODE ",
+            "columnName": "REMARK_2",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "PRIMARY KEY .  IT SHOWS THE UNIQUE DOCKET ID CODE ",
+            "distinctValues": [],
+            "units": [],
+            "used": 0,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.025",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"ATTRIBUTE_1\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\", typically used to track system operations (insert,update,delete)",
+            "columnName": "ATTRIBUTE_1",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "typically used to track system operations (insert,update,delete)",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.026",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"SUPV_NAME\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\", name of supervisor of employee",
+            "columnName": "SUPV_NAME",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "name of supervisor of employee",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.027",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"FIN_YR\" in \"kpc_full_kit_docket_emp\" table, data type as \"VARCHAR2\",financial year  ",
+            "columnName": "FIN_YR",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "VARCHAR2",
+            "description": "financial year ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": true,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.035",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"DUE_QTY\" in \"kpc_full_kit_docket_emp\" table, data type as \"DATE\",last day of the  period",
+            "columnName": "DUE_QTY",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "DATE",
+            "description": "last day of the  period ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.037",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REQ_QTY\" in \"kpc_full_kit_docket_emp\" table, data type as \"DATE\", CURRENT MONTH REQUIRED QUANTITY",
+            "columnName": "REQ_QTY",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "DATE",
+            "description": "CURRENT MONTH REQUIRED QUANTITY ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.038",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REQ_QTY1\" in \"kpc_full_kit_docket_emp\" table, data type as \"DATE\", CURRENT MONTH REQUIRED QUANTITY+1 ",
+            "columnName": "REQ_QTY1",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "DATE",
+            "description": "CURRENT MONTH REQUIRED QUANTITY+1",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.039",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REQ_QTY2\" in \"kpc_full_kit_docket_emp\" table, data type as \"DATE\", CURRENT MONTH REQUIRED QUANTITY+2 ",
+            "columnName": "REQ_QTY2",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "DATE",
+            "description": "CURRENT MONTH REQUIRED QUANTITY+2 ",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.040",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REQ_QTY3\" in \"kpc_full_kit_docket_emp\" table, data type as \"DATE\", CURRENT MONTH REQUIRED QUANTITY+3",
+            "columnName": "REQ_QTY3",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "DATE",
+            "description": "CURRENT MONTH REQUIRED QUANTITY+3",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    },
+    {
+        "custom_id": "11.07.007.041",
+        "class": "ColumnMetadata",
+        "properties": {
+            "text": "module is Docket EMP report, column named \"REQ_QTY4\" in \"kpc_full_kit_docket_emp\" table, data type as \"DATE\",FUTURE MONTH REQUIRED QUANTITY",
+            "columnName": "REQ_QTY4",
+            "tableName": "kpc_full_kit_docket_emp",
+            "module": "Docket EMP report",
+            "dataType": "DATE",
+            "description": "FUTURE MONTH REQUIRED QUANTITY",
+            "distinctValues": [],
+            "units": [],
+            "used": 1,
+            "filterable": false,
+            "roleAccess": []
+        }
+    }
+]

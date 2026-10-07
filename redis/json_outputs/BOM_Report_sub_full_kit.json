@@ -1,0 +1,26 @@
+[
+    {
+        "REPORT_NAME": "BOM Report",
+        "SUB_FULL_KIT": "MS_FK_2"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "SUB_FULL_KIT": "SBD_FK_3"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "SUB_FULL_KIT": "SBD_FK_2"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "SUB_FULL_KIT": "SBD_FK_1"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "SUB_FULL_KIT": "MS_FK_1"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "SUB_FULL_KIT": "AE_FK_1"
+    }
+]

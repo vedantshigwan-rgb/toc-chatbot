@@ -1,0 +1,3710 @@
+[
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-300"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 400"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "D.S.H.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-13I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HC55"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-650-D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 7-13I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP-192"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP-300"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA4TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "22 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-705-I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-7-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-7-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-85M30"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-110-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "RDS-H1-650"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 225"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 250 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55 S-8.5 AC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDS 155"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 15-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 7-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 200-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 132-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 132-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 132-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2BIST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4Q"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-37-10-AS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-30"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHB2BISG"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H.S.G."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-300-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-800-E"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHB2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TDS-250"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TORQUE CONV."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TSS-1728-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "L4R4ZU2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-PM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KEP 75-175"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 220"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3C 315"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3C 355 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MG 514"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 355 F"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2FS 160"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2V 315 R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3C 160"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-22"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESg 15-7.5i"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4EHA2TERG"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA2TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 710"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B4DQHT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-811"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1425-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-LM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2T-  CF"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC709-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-15-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-15-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-LM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-MM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K4HW-250"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA4BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HB4BISN"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HB4TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4TERST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "UGSS-N2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "8.FW.2103"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HOWDEN"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP350-125"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP400-100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP600-100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2BIST-CF"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2P"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-11-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BD-R2L"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 75-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KCW-623M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "QM-110-10-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "QM-125-8-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P2H2-420"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PH3C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-520/163G"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-630"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KGC-TA"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "IACSV-400"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "IFWM -100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KMG 4000.10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA4BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HB4BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P2H2-280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-MH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BD-QL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2BIST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HY"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HY2T-37-10-AS-VFD"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 7-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 7-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-13I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA4BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HB4BIST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "A-3500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-9000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-110-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-10WC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-13WC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHA2BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "RM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 350 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55 S-13 AC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-90-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 140"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 160"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 180"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-3000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "NON-MRP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T 75_7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-37-10-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1FS 180 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1FS 225 R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-11"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "COUPLE FREE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "L4R2U2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG5H-G"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KEC-110-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KEP-300"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 250"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MG 512"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MGP 120.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-10I NS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ADV - HSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ALE-160-WEX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B2VS 315"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75 S-7.5 AC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESg 22-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG4H"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHY2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 360"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B4DJ2H"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EH2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-718-I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-360"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 315-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 1012"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T.S.P.FM.F"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KCW-555"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1C 200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KRS3193"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55S-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "UNAC-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-90-10-AS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HCH127M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HST 120-D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HST-UNIVERSAL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP300-100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "5HA6"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "6.F.1507.1"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 550-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-400-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA4T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA4TERG"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-300-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP 1200-330"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP 192"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P2H2-600"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PKE-05-RE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-13C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-13V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-H1-360"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "EH-100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "GARAGE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 330-M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4QT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BD-J2L"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BD-RL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "5HA4BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-800-D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-709-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-7"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EH4BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "RECOTHERMX-55"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "S.S.H.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 810-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-90-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA4T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 225"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 15-7.5i"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 22-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 250-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 450-170"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 132-13I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHY2TERGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "6HA4"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KWVP-340"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-RM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "CH10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "CO.100.66.TC.1"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG5H-500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 320"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MG 509 (STANDARD)"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MG 88/CW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MGP 1000.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MGP 800.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 200 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2FS 225"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2VS 112"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55S-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-22-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 160"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "DRY SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4EHA4QGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 320"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SEF-724I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-1000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1415-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KRM-1200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-MH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1C 180"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KVC-2022"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4QP7"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-37-7.5-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-75-7.5-AS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HB"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP450-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-709-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe55-12i"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-30-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "Q.S.H.FM.C."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BD-JL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KMG 4000.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "\tPH3C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "11 KW-7.5 BAR"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 11-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P2H2-275"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 360"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KMG 3500.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T.S.H.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KW 71/4D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP-185"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HB4BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-RM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 55+ - 7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-4.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-JM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "S.S.H.FM.C."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55 S-7.5 AC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TC-50"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG5H"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA4"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 400-150-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KE-6"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PPA-35"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 18-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 22-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 7-13iD"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-10W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-13I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-13WC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 132-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KMG 490.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA MODEL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHABISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHB4G"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHB4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-Q2M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 315-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHD 200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHD 450"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "18.5 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA1G"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MACV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHY2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 225"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2FS 250"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55S-10NS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KWS 55-7.5iV+"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB2BISNST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB2BISST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ADV - TTR"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "AL-345-E"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ARIA 30-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "AXLE DRIVE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 140"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHY1T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHY2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4EHB4G"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 400"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-7.5C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-718-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-325"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55-10C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 180 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-13I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2ST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K3C 225 F"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA4BIST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD1012-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1012-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KVC-1750"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-90-8.5-AS-VFD"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA2TERGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP450-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "OH2C 418"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "OP3C 435"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-12"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-709-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SA5G"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHABISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-300-V2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB4BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB4BISNT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA2QGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA1TERGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "EH-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TC-200M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA2BIST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA2QT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "11 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 11-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BD-LL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HY2T-30-9-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 7-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA2TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA4T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-706-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-707-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55S-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TC-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "A-2100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TC-100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-325"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "A-7000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "RMG21R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "A-800"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 709"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HB4T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 11-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "NPCS - 350"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "7.5 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHY2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-B3M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-EM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1C 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1FS 250 R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1FS 400"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 180"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHD-500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TDS-H3-750"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TESTING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TGS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TS1B"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "L4R2U2 (M)"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-QM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MG 509 (DEEP CASE)"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MGP 850.05"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-22-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB2BISNT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B2FS 160"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T.S.BH.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESg 15-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHB4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-722-I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE37-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE37-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1018-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC1009-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-15-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-15-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-RM-ZC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T.S.H.WM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-28M30"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KB1"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "58 TC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "UGSS-O2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-45-7.5-AS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-75-7.5-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-90-15-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA2T-ZC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP300"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-1009-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-7.5i"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-11-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-110"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 90-8.5iV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-1012-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-709-I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BOP1500-1"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-30-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "Q.S.H.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PKE-20-RE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PKE-70-RE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-B3D-LH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3VS 125"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHB2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-R2M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KGC-WA"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "COMMON ACC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-NM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA2TERGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "COMMON"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 18-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 30-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 7-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 75-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3C 300"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4PT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4ST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA2BIST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2PT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP-155"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA2TERT-ZC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HB4BISNT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-705-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-48M30"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 55+ - 8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-110-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-132-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC-710-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 200 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 125"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA4TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 11-7.5i"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 18-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2BISST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "NOT APPLICABLE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4HA4PT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-30-7.5-AS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1C 850"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1V 500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "JOB WORK"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHS 190"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "D.S.BH.FM.C."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TSS-2030-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 280 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2FS 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KWS 55-10iV+"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ALE-270-WE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG5H-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG5H-230"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EC38"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2ECT-35P"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHB2TERGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHB4T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-7.5C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2TERST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SCA-100-H"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-NM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD1012-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KRS200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KTC 100.20"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55S-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "15 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-13V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-45-15-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-45-7.5-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-90-10-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-90-7.5-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HST-120D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HST-80"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP250-100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP300-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-11"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 315-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-13IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT -650 COMPACT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-300"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-11-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 90-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA4SGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA4TERGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-1012-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-JH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB2TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-325-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-40/60"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA2PGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-650 COMPACT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS-500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-30M30"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-48M230"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA1T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2SGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2ST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "IACSV (P)"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1HA2BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "11 KW-10 BAR"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 300-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 330-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-MM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BOP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "5HA4"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2PT-ZC-110-7-AS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2Q"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-650-E"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HY2T-30-7.5-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KDP-175"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-710-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KG5H-400"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55S-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55S-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 18-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-85M2/30"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 55-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "37 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHA2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-10D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 11-13D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "RDS-H1-560"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "RM8"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "IACSF-400"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "N2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KRM-1750"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 400-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 710-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-90-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SAT-650"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 180 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 7-7.5iD"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 110-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 132-13W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2QT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHA4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 575-225"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 600-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K330-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "6CD4UC(WABCO)"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-PM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 1009-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1C 250"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1C 800"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H1FS 560 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2C 140"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA1GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TC-50(GAS)"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "MG 509"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1018"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "BTD-R2M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "CNG - MOTOR DRIVEN"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES -11-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2FS 450 R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2FS-280 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2V 280 R2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3C 200 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3C 280"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-10NS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KW 74/4D"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-18-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHA4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB2TERST"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ADV - TA"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ALE-160-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ALE-290-WE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ARIA 15-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ARIA 7.5-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 160 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHY1GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "4EHA4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FS 450"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-711-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1417-R"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-1500"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 11-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 11-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1222-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 30-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 110-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HY2TER"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HY2TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-2020"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KC-623"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55S-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "5EHB4GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 45-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "1EHA2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "OPC 367"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-13V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 160-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 810-S"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BD-RL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-7.5WC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 250-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ACCESSORIES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "Q.S.BH.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "QM 110_10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K-330"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHB2BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PH3C 280 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "PKE-40-RE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "A-5000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SF-730-I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BD-LL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2ST-ZC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "EH-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-LH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 30-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "K 330"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P2H2-230"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P2H2-305"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 37-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHAT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 75-10IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-37-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-7-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHY2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-6000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA4TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-JM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-110-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-55"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA2TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-7.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-7.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-90-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-90-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HB2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3HA2T"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 7-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESb 7-7.5i"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-22-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD-1012-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHB4BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 132-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-QL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-QM"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SC 300-150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 37-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 45-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "INTERSBU-RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 90-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KHIONE COMPR. PACKAGE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TORQUE REACTION ROD"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SE-1018-C"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "D.S.BH.FM.F."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2T - CF"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2TERT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "30 kW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H2V 630"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 55-8.5IV"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KWC-1023"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-22-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-22-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "3EHA4BISGT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KCW-623"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ADAPTOR 950.23"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ARIA 37-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "B3FD-355 SPL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T.A."
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-75-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 160-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H3FS 630"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-15TD-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-160-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TC-100M"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-45-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EC40"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHB2TERG"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-7.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 90-8.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2TERT-ZC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES-15-10"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "TA-2000"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HY2GT"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KRS4150"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 55-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESE 75-10V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-JH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-37-15-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "HA2T-55-15-W"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "OH3C 450"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "5HB4BIS"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "6CD4UC"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 15-7.5"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 450-200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 500-170"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SD 500-175"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-13"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KESe 30-8.5V"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-10I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KES 22-8.5I"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2EHY2"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "KCX 6"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "ACR-PROJECT-REFRIGERATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "P3BS 200"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "SES-H1-1100"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "H4C 250"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HB2BISN"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "T-BTD-RH"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "2HA2SHP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "GEAR & PINION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "MODEL": "GVC-BTD-RM"
+    }
+]

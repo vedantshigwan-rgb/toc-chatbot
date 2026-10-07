@@ -1,0 +1,22 @@
+[
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "EMP_DEPT": "Manufacturing-Machin"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "EMP_DEPT": "Manufacturing-Heat T"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "EMP_DEPT": "15-MACHINE SHOP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "EMP_DEPT": "Manufacturing-Assemb"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "EMP_DEPT": "Operations-Foundry"
+    }
+]

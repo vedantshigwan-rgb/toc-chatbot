@@ -1,0 +1,70 @@
+[
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "INTERTEK"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "KPC"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "BY KPC"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "BY MSQAA"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "N/A"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "CUSTOMER"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "BY KPC AND TPIA"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "CVRDE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "BY CONSIGNEE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "CLW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "BUREAU VERITAS"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "DQA"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "RITES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "THIRD PARTY"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "BY DGQA"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "NA"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "INSPECTION_NORM": "TUV"
+    }
+]

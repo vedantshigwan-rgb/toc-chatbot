@@ -1,0 +1,185 @@
+{
+  "report_name": "Docket Report",
+  "report_folder": "Docket Report",
+  "created_at": "2026-10-07T10:37:09",
+  "total_rows": 488,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "div_code": {
+      "folder": "variables\\div_code",
+      "row_count": 14
+    },
+    "div_code,fin_year": {
+      "folder": "variables\\div_code,fin_year",
+      "row_count": 1
+    },
+    "div_code,idle_reason": {
+      "folder": "variables\\div_code,idle_reason",
+      "row_count": 1
+    },
+    "div_code,month_period": {
+      "folder": "variables\\div_code,month_period",
+      "row_count": 5
+    },
+    "div_code,week_period": {
+      "folder": "variables\\div_code,week_period",
+      "row_count": 5
+    },
+    "div_code,year_period": {
+      "folder": "variables\\div_code,year_period",
+      "row_count": 6
+    },
+    "fin_year": {
+      "folder": "variables\\fin_year",
+      "row_count": 6
+    },
+    "fin_year,res_div": {
+      "folder": "variables\\fin_year,res_div",
+      "row_count": 2
+    },
+    "fin_year,resource_code": {
+      "folder": "variables\\fin_year,resource_code",
+      "row_count": 1
+    },
+    "idle_reason": {
+      "folder": "variables\\idle_reason",
+      "row_count": 7
+    },
+    "idle_reason,minutes": {
+      "folder": "variables\\idle_reason,minutes",
+      "row_count": 1
+    },
+    "idle_reason,resource_code": {
+      "folder": "variables\\idle_reason,resource_code",
+      "row_count": 1
+    },
+    "minutes": {
+      "folder": "variables\\minutes",
+      "row_count": 14
+    },
+    "minutes,month_period": {
+      "folder": "variables\\minutes,month_period",
+      "row_count": 1
+    },
+    "minutes,performance_index": {
+      "folder": "variables\\minutes,performance_index",
+      "row_count": 1
+    },
+    "minutes,quantity": {
+      "folder": "variables\\minutes,quantity",
+      "row_count": 2
+    },
+    "minutes,week_period": {
+      "folder": "variables\\minutes,week_period",
+      "row_count": 1
+    },
+    "minutes,year_period": {
+      "folder": "variables\\minutes,year_period",
+      "row_count": 1
+    },
+    "month_period": {
+      "folder": "variables\\month_period",
+      "row_count": 23
+    },
+    "month_period,org_name": {
+      "folder": "variables\\month_period,org_name",
+      "row_count": 2
+    },
+    "month_period,percentage": {
+      "folder": "variables\\month_period,percentage",
+      "row_count": 1
+    },
+    "month_period,performance_index": {
+      "folder": "variables\\month_period,performance_index",
+      "row_count": 1
+    },
+    "month_period,res_div": {
+      "folder": "variables\\month_period,res_div",
+      "row_count": 7
+    },
+    "month_period,resource_code": {
+      "folder": "variables\\month_period,resource_code",
+      "row_count": 13
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 205
+    },
+    "org_name,resource_code,year_period": {
+      "folder": "variables\\org_name,resource_code,year_period",
+      "row_count": 1
+    },
+    "percentage": {
+      "folder": "variables\\percentage",
+      "row_count": 16
+    },
+    "percentage,quantity": {
+      "folder": "variables\\percentage,quantity",
+      "row_count": 1
+    },
+    "percentage,week_period": {
+      "folder": "variables\\percentage,week_period",
+      "row_count": 1
+    },
+    "percentage,year_period": {
+      "folder": "variables\\percentage,year_period",
+      "row_count": 1
+    },
+    "performance_index": {
+      "folder": "variables\\performance_index",
+      "row_count": 6
+    },
+    "performance_index,quantity": {
+      "folder": "variables\\performance_index,quantity",
+      "row_count": 1
+    },
+    "performance_index,week_period": {
+      "folder": "variables\\performance_index,week_period",
+      "row_count": 1
+    },
+    "performance_index,year_period": {
+      "folder": "variables\\performance_index,year_period",
+      "row_count": 1
+    },
+    "quantity": {
+      "folder": "variables\\quantity",
+      "row_count": 9
+    },
+    "res_div": {
+      "folder": "variables\\res_div",
+      "row_count": 5
+    },
+    "res_div,week_period": {
+      "folder": "variables\\res_div,week_period",
+      "row_count": 5
+    },
+    "res_div,year_period": {
+      "folder": "variables\\res_div,year_period",
+      "row_count": 5
+    },
+    "resource_code": {
+      "folder": "variables\\resource_code",
+      "row_count": 40
+    },
+    "resource_code,week_period": {
+      "folder": "variables\\resource_code,week_period",
+      "row_count": 14
+    },
+    "resource_code,year_period": {
+      "folder": "variables\\resource_code,year_period",
+      "row_count": 12
+    },
+    "resource_description": {
+      "folder": "variables\\resource_description",
+      "row_count": 3
+    },
+    "week_period": {
+      "folder": "variables\\week_period",
+      "row_count": 22
+    },
+    "year_period": {
+      "folder": "variables\\year_period",
+      "row_count": 22
+    }
+  }
+}

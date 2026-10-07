@@ -1,0 +1,486 @@
+[
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- ASSEMBLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- BO SF/FINISH PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CONTROL PANEL AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "EQUIPMENT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FILTERS/ELEMENTS/SEPARATOR.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "DRYERS, MOISTURE SEPARATOR.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FK_3-LIGHT FAB <100 KG, FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "LIGHT MACHINING SPARES.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PISTON RODS/GUDGEON PINS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PRV,SRV,TRV,PL.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "RAW MATERIAL (PIPE/BAR/PLATES ETC).PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MOTOR,WORM GB,ENGINES AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MS- FORGING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- MS CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "VALVE AND ACCESSORIES.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "TEFLON RINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- OSP CAST/FORG O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "BANDED BELTS/V-BELT/FLAT BELT.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FILTERS, LUBRICATOR, STRAINER AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CONTROL VALVE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "COOLERS,MOISTURE SEPARATOR.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "HIPL PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "OTHR EL,GLND,LUG,TIES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PRV,SRV,TRV,OR. PL.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MPVL/SERVO CYL/ACCESSORIES.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- ELECT  SUBCON ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- OSP CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SAFETY VALVES.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "TWO BIN.TWO BIN"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD-STIKERS, NAME PLATE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- BO PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- OSP CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "BEARINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "ELECTRICAL/INSTRUMENT/MOTORS/PUMPS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "COUPLING,AVM PARTS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "GASKETS/PACKINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "HOSE AND ACCESSORIES.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "HOSE, HOSE KIT, FITTING KIT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "HEATER,FL MTR,CABLE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "INSTRUMENTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PRV,SRV,TRV.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- MFGD ASSLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- NPD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "RUBBER RINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- MFGD ASSLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "COMBI COOLERS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- MS CAST/FORG O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "BEARINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FAN.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "DRYERS, MOISTURE SEPARATOR.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MACHINED COMPONENTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PIPES,TUBES AND FITTINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- MFGD MACH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "RECEIVER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "ENGINES AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "LIGHT FAB <100 KG,FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PISTON/SEALING/BEARING/RIDER RINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PUMP,FILTERS, STRAINER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "RAW MATERIALS.CASTING"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "TWO BIN.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- MFGD MACH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CASTING/MACHINING.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AIR END RECIP- BOUGHT OUT PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AIR END SCREW- BOUGHT OUT PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AIR END- NPD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CABLE TRAY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "DRYERS AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MFGD MACH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MS- CASTING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "RINGS AND PACKINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- BEARING, IMPORT BEARING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- BO PARTS,GP.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- MS CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CASTING RINGS PISTON.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FABRICATION PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "COOLERS/TUBE BUNDLE/HEADERS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "COUPLING,AVM PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "GEAR.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FORGINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "LUBRICANT/OIL.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "OSP- CASTING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MOTOR AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MS- KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD- CAST/FORG O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD-GKTS,SEAL,RUBBER,SPRING,BELT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "STIKERS, NAME PLATE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "CASTINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "AE- OSP SF PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "COOLERS, FAN.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "IMPORTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "KIT ITEMS.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "PHANTOM.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "MFG.SPARES"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD BEARING, IMPORT BEARING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "SBD-GKTS,SEAL,RUBBER,SPRING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "STABLIZER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "ITEM_CATEGORY": "STD FITNG (TUBE AND PIPE FITTINGS).PLANNED"
+    }
+]

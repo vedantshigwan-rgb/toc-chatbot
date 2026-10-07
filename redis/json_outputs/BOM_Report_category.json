@@ -1,0 +1,546 @@
+[
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- BO SF/FINISH PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PRV,SRV,TRV,PL.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- ASSEMBLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FK_3-LIGHT FAB <100 KG, FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "EQUIPMENT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PG,TG,LG,FILTERS,AOS ELEMENT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MS- FORGING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MFGD ASSLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- MS CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MS- OSP SF PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SUB ASSEMBLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FILTERS/ELEMENTS/SEPARATOR.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PISTON RODS/GUDGEON PINS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "TEFLON RINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "LIGHT MACHINING SPARES.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "VALVE AND ACCESSORIES.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RAW MATERIAL (PIPE/BAR/PLATES ETC).PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CONTROL PANEL AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "DRYERS, MOISTURE SEPARATOR.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MOTOR,WORM GB,ENGINES AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RAW MATERIAL (BAR CUT).PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "TWO BIN.TWO BIN"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD-STIKERS, NAME PLATE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- OSP CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HIPL PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CONTROL VALVE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "COOLERS,MOISTURE SEPARATOR.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "OTHR EL,GLND,LUG,TIES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SAFETY VALVES.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "BANDED BELTS/V-BELT/FLAT BELT.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AIR END CENTRI -CASTINGS & FORGING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SUBCONTRACT ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PRV,SRV,TRV,OR. PL.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- OSP CAST/FORG O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- ELECT  SUBCON ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SHAFT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MPVL/SERVO CYL/ACCESSORIES.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "LIGHT FABRICATION <100 KG, FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "IMPORTS OTHER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HOSE / HOSE KIT FITTINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- BO PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HOSE, HOSE KIT, FITTING KIT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- MFGD ASSLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- OSP CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- NPD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PINION.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "ELECTRICAL/INSTRUMENT/MOTORS/PUMPS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HOSE AND ACCESSORIES.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "GASKETS/PACKINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RUBBER RINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HEATER,FL MTR,CABLE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "BEARINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "INSTRUMENTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "COUPLING,AVM PARTS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- MFGD ASSLY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PHANTOM.PHANTOM"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MACHINED COMPONENTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "BEARINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- OSP ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- MFGD MACH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FAN.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- MS CAST/FORG O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RECEIVER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "DRYERS, MOISTURE SEPARATOR.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AIR END RECIP-CASTING & FORGING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "COMBI COOLERS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PIPES,TUBES AND FITTINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- OSP ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "LIGHT FAB <100 KG,FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PUMP,FILTERS, STRAINER.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "ENGINES AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "TWO BIN.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PISTON/SEALING/BEARING/RIDER RINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RAW MATERIALS.CASTING"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- MFGD MACH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AIR END- NPD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MFGD MACH.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MS- CASTING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "DRYERS AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CASTING/MACHINING.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RINGS AND PACKINGS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CABLE TRAY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CASTINGS OUTSOURCED.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- MS CAST KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MOTOR AND PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "COUPLING,AVM PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD-GKTS,SEAL,RUBBER,SPRING,BELT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "OSP- CASTING O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MS- KPCL FOUNDRY.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "STIKERS, NAME PLATE.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- BO PARTS,GP.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- BEARING, IMPORT BEARING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "GEAR.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FORGINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD- CAST/FORG O/S.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "LUBRICANT/OIL.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "COOLERS/TUBE BUNDLE/HEADERS.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FABRICATION PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CASTING RINGS PISTON.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "HEAVY MACH SEMI MACH(NON SUBCONTRACT).PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "IMPORTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "PHANTOM.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "COOLERS, FAN.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "OSP- SF PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "OSP ITEMS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD BEARING, IMPORT BEARING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "AE- OSP SF PARTS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "CASTINGS.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "SBD-GKTS,SEAL,RUBBER,SPRING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "MFG.SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RAW MATERIAL CASTING.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "RAW MATERIAL (PIPE/BAR/PLATES).PLANNED"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "CATEGORY_NAME": "KIT ITEMS.SPARES"
+    }
+]

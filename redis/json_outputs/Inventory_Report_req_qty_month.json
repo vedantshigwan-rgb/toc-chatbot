@@ -1,0 +1,22 @@
+[
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REQ_QTY_MONTH": "FUTURE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REQ_QTY_MONTH": "DEC-2026"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REQ_QTY_MONTH": "SEP-2026"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REQ_QTY_MONTH": "OCT-2026"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REQ_QTY_MONTH": "NOV-2026"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CURRENCY": "GBP"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CURRENCY": "USD"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CURRENCY": "INR"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CURRENCY": "EUR"
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "CURRENCY": "JPY"
+    }
+]

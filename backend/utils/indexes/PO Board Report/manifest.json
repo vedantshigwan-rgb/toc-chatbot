@@ -1,0 +1,153 @@
+{
+  "report_name": "PO Board Report",
+  "report_folder": "PO Board Report",
+  "created_at": "2026-08-07T11:54:55",
+  "total_rows": 292,
+  "all_index_folder": "all",
+  "variable_indexes": {
+    "amount": {
+      "folder": "variables\\amount",
+      "row_count": 5
+    },
+    "approval status,buyer name": {
+      "folder": "variables\\approval status,buyer name",
+      "row_count": 1
+    },
+    "approval status,supplier": {
+      "folder": "variables\\approval status,supplier",
+      "row_count": 1
+    },
+    "approval_status": {
+      "folder": "variables\\approval_status",
+      "row_count": 1
+    },
+    "buyer_name": {
+      "folder": "variables\\buyer_name",
+      "row_count": 17
+    },
+    "buyer_name,item_code,supplier": {
+      "folder": "variables\\buyer_name,item_code,supplier",
+      "row_count": 2
+    },
+    "buyer_name,month,supplier": {
+      "folder": "variables\\buyer_name,month,supplier",
+      "row_count": 1
+    },
+    "buyer_name,supplier": {
+      "folder": "variables\\buyer_name,supplier",
+      "row_count": 11
+    },
+    "currency,supplier": {
+      "folder": "variables\\currency,supplier",
+      "row_count": 1
+    },
+    "customer_name": {
+      "folder": "variables\\customer_name",
+      "row_count": 4
+    },
+    "customer_name,item_code": {
+      "folder": "variables\\customer_name,item_code",
+      "row_count": 5
+    },
+    "customer_name,item_code,model": {
+      "folder": "variables\\customer_name,item_code,model",
+      "row_count": 1
+    },
+    "customer_name,item_code,supplier": {
+      "folder": "variables\\customer_name,item_code,supplier",
+      "row_count": 1
+    },
+    "customer_name,model": {
+      "folder": "variables\\customer_name,model",
+      "row_count": 4
+    },
+    "customer_name,model,pg": {
+      "folder": "variables\\customer_name,model,pg",
+      "row_count": 1
+    },
+    "customer_name,model,supplier": {
+      "folder": "variables\\customer_name,model,supplier",
+      "row_count": 1
+    },
+    "date": {
+      "folder": "variables\\date",
+      "row_count": 1
+    },
+    "date,supplier": {
+      "folder": "variables\\date,supplier",
+      "row_count": 3
+    },
+    "days": {
+      "folder": "variables\\days",
+      "row_count": 5
+    },
+    "fk_name": {
+      "folder": "variables\\fk_name",
+      "row_count": 1
+    },
+    "item_category": {
+      "folder": "variables\\item_category",
+      "row_count": 1
+    },
+    "item_category,item_code": {
+      "folder": "variables\\item_category,item_code",
+      "row_count": 4
+    },
+    "item_code": {
+      "folder": "variables\\item_code",
+      "row_count": 19
+    },
+    "item_code,month": {
+      "folder": "variables\\item_code,month",
+      "row_count": 4
+    },
+    "item_code,month,supplier": {
+      "folder": "variables\\item_code,month,supplier",
+      "row_count": 1
+    },
+    "item_code,supplier": {
+      "folder": "variables\\item_code,supplier",
+      "row_count": 10
+    },
+    "model": {
+      "folder": "variables\\model",
+      "row_count": 1
+    },
+    "model,pg": {
+      "folder": "variables\\model,pg",
+      "row_count": 4
+    },
+    "month": {
+      "folder": "variables\\month",
+      "row_count": 5
+    },
+    "month,supplier": {
+      "folder": "variables\\month,supplier",
+      "row_count": 3
+    },
+    "no_variables": {
+      "folder": "variables\\no_variables",
+      "row_count": 137
+    },
+    "pg": {
+      "folder": "variables\\pg",
+      "row_count": 1
+    },
+    "po_num": {
+      "folder": "variables\\po_num",
+      "row_count": 1
+    },
+    "quantity": {
+      "folder": "variables\\quantity",
+      "row_count": 11
+    },
+    "supplier": {
+      "folder": "variables\\supplier",
+      "row_count": 20
+    },
+    "year": {
+      "folder": "variables\\year",
+      "row_count": 3
+    }
+  }
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "PAIRS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "LOT"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "TONNE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "LITRE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "KILOGRAM"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "METRE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "NUMBER"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "SET"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "KG_PER_CM2"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "Set"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "UOM": "AMPERE"
+    }
+]

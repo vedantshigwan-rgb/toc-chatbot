@@ -1,0 +1,42 @@
+[
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "MOQ Correction"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "Safety Stock Correction"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "Development / Tooling"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "Others"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "ECO"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "OA Cancelled"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "Customer Property"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "OA Change / Hold"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "Mktg. Projection"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "REASON": "Stock Adjustment"
+    }
+]
