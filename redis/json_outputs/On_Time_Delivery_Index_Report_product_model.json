@@ -1,1658 +1,3243 @@
 [
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2C 355 F"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 250",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 225"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HA4"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HA4Q"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3HC55"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "JOB WORK",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HA4TER"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHA1GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP600-100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP600-100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KG5H",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP-192"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "L4R2U2",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 90-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 30-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-45-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HB4BISN"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2TERT-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HB4BIS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHB2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-7.5i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2BIST"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHY2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 75-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHY2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 15-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "K-330",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SAT-650-E",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 11-10i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-75-7.5-AS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA4T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHB2TERG",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2BIST-CF"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 75-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-13V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 90-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 18-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "D.S.H.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-7.5i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H.S.G."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "MG 514"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HB4TER"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KHS 220"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2BIST-CF",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "P2H2-420"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP400-100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-30"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "GEARS & PINIONS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 360",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP350-125"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "Q.S.BH.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KEP 75-175"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP300-100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "D.S.BH.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-37-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T-BD-QL-132-2",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 22-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3HA4T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "PINIONS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HA4BIS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "L4R2U2"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 500"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-13i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "A-3500"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHA2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T-BD-QL"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 7-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HB4BIS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HY2T-37-10-AS-VFD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-13V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2TERT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 320",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 800",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-8.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC 709-C",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3HA2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-55-12.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 37-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-7.5iV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHY2TERGT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-10iD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 45-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55S-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 90-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "PINIONS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC-400-150"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH2C 418",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 360"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KER",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 360"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "TC-200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 160"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T-BTD-RM-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "P2H2-600"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T-BD-QL-132-2"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-45-7.5-AS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2QT-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 7.5-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2QT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 11-7.5 T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SD 550-200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "COMMON",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHA2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "K-330M",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-13IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 37-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 500"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 180"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-13IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHY2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-13IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 15-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-13V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 75-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H4FS 225"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH2C 418",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "Q.S.BH.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "No Sales Credit"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 400",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHY2TERGT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HB4TER",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP450-200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KHS 220",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OP3C 435",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T.S.H.FM.C.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 90-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 22-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "RM-160-7-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe55-12i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC 400-150",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHA4GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD 450-200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-37-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HY2T-22-10-AS-VFD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "QM-110-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH2C 418",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-75-7.5-AS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 7.5-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-13V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC-709-C"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHB4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 15-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-13i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "11 kW",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-90-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KH 200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 37-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3HC55",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "GEARS & PINIONS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 55-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS 315"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD-1012-C",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS 225"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 320"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP450-200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-75-10-AS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHA4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "S.S.H.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-55-10-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3HA4T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1HA2QT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T-BTD-RM",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 22-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "GEARS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-13i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-75-15-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHB4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 320"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-13IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 225"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 18.5-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 45-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS 250"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 45-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-10i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 90-8.5iV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3EHA4BISGT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHA2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 37-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 55+ - 7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 18-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 45-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 7.5-7.5 T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450 (M)",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP450-150"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "D.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "S.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KG5H"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "P2H2-600",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "OH2C 418"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 18-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2PT-ZC-110-7-AS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HY2T-30-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-45-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD 600-200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1HA2QT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T-BTD-RM"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "JOB WORK",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 11-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 75-13IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 18-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H4FS 225",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HA4",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP450-150",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "GEARS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T.S.H.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 140"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "A-5000",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 400"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 30-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "OP3C 435"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-37-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-90-8.5-AS-VFD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHY2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3HA2TERT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-13V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHB4GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHB2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-55-10-WS-VFD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2Q",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 22-7.5 T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-13V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 800"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-37-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS 112"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 75-13IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-55-12.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 11-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "11 kW"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC-1009-S",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1HA4T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHA2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-10iD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHB2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "A-2100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "GEARS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESg 15-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC 300-150",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHY2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KER"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "TC-200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H.S.G.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1HA2TERT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 225",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T-BTD-RM-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "MG 514",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - MARINE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-45-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "COMMON",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC-710-C",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-45-7.5-AS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-45-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHB4GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-8.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T.A.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-37-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-75-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SD-1012-S"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 22-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-30",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-13IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD 550-200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 90-8.5iV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS-280 SPL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-55-10-WS-VFD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC-1009-C"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "TC-100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 360",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KHD 812"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHY2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KHS 280"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2T - CF",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "Q.S.H.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 280",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T.S.BH.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-75-10-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD 575-225",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 225",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHA2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HA4Q",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-75-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-7.5iD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HY2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-37-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-8.5iV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 55+ - 7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "TC-100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "K330-R",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "A-7000"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 280"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KH 200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 7.5-7.5 T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC 709-C"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHA2T-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 22-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 11-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "A-2100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-7.5iV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "JOB WORK"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 7.5-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1HA2TERT-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESg 15-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP250-100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "JOB WORK",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KRM-1750",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-90-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HY2T-37-10-AS-VFD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP350-125",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T-BD-QL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS 150 SPL"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3EHA4BISGT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2ST"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-45-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-55-10-WS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP180-100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 37-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2BIST",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHA2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "COMMON"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 18-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55S-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-13V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-10i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 11-7.5i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-7.5i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP-155"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-90-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-13IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "K-330M"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-8.5iV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-13IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SAT-650",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 37-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-7.5i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 18-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-8.5iV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 15-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-55-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 320",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-13I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KHD 812",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-13IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2C 355 F",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 360",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "Q.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 45-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 160",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 200 SPL"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "D.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 125"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHY2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T.S.H.FM.C."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4EHA4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC-710-C"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HY2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "IACSV (P)",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-45-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 22-7.5 T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 18-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-8.5iV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 180",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HY2T-22-10-AS-VFD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4HA4BIS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3HA2T-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "IACSV (P)"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450 (M)",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2C 355 F",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 11-13i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "No Sales Credit",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "GEAR&PINION"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "No Sales Credit",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KWS 55-10iV+"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "IACSV (EXPORT)"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 75-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHB2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3HA2T-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 280"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "A-3500",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHA4GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 22-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHA1GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3EHA4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 55-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HB4BISN",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-7.5iD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 630",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2TERT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "K330-R"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 18-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 7-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "A-5000"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 7.5-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55S-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-55-15-W-VFD"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 45-7.5i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-55-10-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3EHA4GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T-BD-RL"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "K-330"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KDP180-100"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SAT-650-E"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2ST-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC-400-150",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2QT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "1EHA2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "L4R2U2",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3EHA2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA4T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "D.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2Q"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 320",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 360",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 110-9iV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-75-10-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 11-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 11-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "PINIONS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 18-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KWS 55-10iV+",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 45-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "COMMON",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "IACSV (EXPORT)",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-75-15-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 500",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 45-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 225",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHA2T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "Q.S.BH.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-10i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KHD 812",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 45-7.5i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP300-100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "11 kW",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KRM-1750"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "No Sales Credit",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1HA4T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SAT-650"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-90-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-13V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP-192",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 110-10IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 500",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS 320"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "Q.S.BH.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC 400-150"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe55-12i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "RM-132-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-55-15-W-VFD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2PT-ZC-110-7-AS"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1HA2TERT-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HY2T-30-7.5-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2ST",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SD 600-200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "TC-200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 37-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 11-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-55-10-WS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "4EHA4GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "QM-110-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H2FS-280 SPL"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2ST-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-13"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 37-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "IACSF-400"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 450"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-8.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-8.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SD 575-225"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55S-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "OH3C 450"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES-45-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD-1012-S",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-13IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 18-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHY2GT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SD-1012-C"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "ARIA 11-10"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 37-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 37-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 30-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-7.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T-BTD-QM",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3EHA4BISGT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC-1009-C",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 630"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 90-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 15-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3HA2TERT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HY2TERT"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B2FS 320",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2QT-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 200 SPL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2TERT-ZC"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T.S.BH.FM.F.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2EHB2TERG"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-37-15-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 22-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "P2H2-420",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 160-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-7.5i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "RM-132-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC-1009-S"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 37-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 30-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 11-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESb 7-7.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "A-7000",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 90-8.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 280",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 55-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "PKE-80-RE",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T-BTD-QM"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SC 300-150"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-8.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B2FS 320"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "IACSF-400",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "H3FS 450"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "OH3C 450 (M)"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KEP 75-175",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "HA2T-37-15-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 75-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 225",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "D.S.BH.FM.F."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 112",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 90-8.5"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHA2T-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "RM-160-7-W"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 75-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "SD 450-200"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHA4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "B3FS 250"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES-45-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "T.A."
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-8.5IV"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-8.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "PKE-80-RE"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-8.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-10V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1HA2TERT-ZC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESe 30-8.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HA4TER",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 90-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHA2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KES 7-10I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHY2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 75-7.5V"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP250-100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KESE 132-7.5I"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 11-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "2HA2T - CF"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 132-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "KEP 75-175i"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "MODEL": "3HA2T"
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 150 SPL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-10IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 11-7.5 T",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "T-BD-RL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1HA2TERT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "1EHA4GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "PINIONS",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 75-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 90-7.5I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HY2TERT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3EHA2GT",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SC-709-C",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-7.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 110-9iV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-7.5i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP-155",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-7.5V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 22-10V",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 15-10",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-10I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-55-7.5-W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 140",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2C 355 F",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "COMMON",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 250",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H2FS 315",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KHS 280",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 125",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 37-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H.S.G.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 250",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-13",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-8.5IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HA2T-90-8.5-AS-VFD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP400-100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-13I",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "GEAR&PINION",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-13IV",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KEP 75-175i",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 18.5-7.5",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     }
 ]

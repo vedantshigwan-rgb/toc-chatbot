@@ -1,538 +1,1066 @@
 [
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Motor dealy"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Canopy Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Instrument Delay'"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "3 Phase fan kit delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "AOS Tank Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Panel delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Vehicle issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Vibration issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "BOM Rel on 27 Jan,",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Delay bearing delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "OA Split"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "SRM A/E delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "BOM Rel on 27 Jan,"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler R/W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Instrument Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Suck filter delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Casting Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Tank delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "instruments delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Private Cust. (Development)"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Suck filter delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Development of Castings, Cylinders -NMD"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "AOP ISSUE",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Transport delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Noise reduction canopy delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Capacity;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Transport Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Rel late ECO NPD Machine"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Short lead time"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Pump issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Transport late recd.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Scope Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "R/W",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "scope dryer delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "VFD Panel Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor dealy",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Bearing Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engine R/W Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Vibration issue; AOS Delay."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Trailor delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "SOV; Motor Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Panel delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Panel Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Panel delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engineering rel.late"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Bearing Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Noise issue."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Vibration issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Motor Daly"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "SOV Delay; Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Delay bearing delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Temp Issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Noise issue,",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Moisture Sep. Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engine Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engine Delay; Bearing Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Moisture Sep Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "ADV Release late"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "IE3 Motor delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Canopy delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Trials",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Transport Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Scope delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Pistis priority."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "New development",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Design change"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "MS Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engg. Late"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Private Cust. (Development)",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "SBM Rel. Late"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engg. Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engine R/W Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Schedule not updated",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Suc.fillter delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "SOV Delay; Motor Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler issue development",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Stabilizer Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler issue Development",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "ECO"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "SBM Rel. Late",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Split OA"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Capacity issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "GA APPROVAL DELAY, ECO IN HSG BOM."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Gear pinion Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Trident dryer replaced to jems",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler Trials"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Canopy delay, Canopy diverted",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Diverted to OA 365103583"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "3 Phase fan kit delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler R/W"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Scope Delay; Motor Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "SRV,PRV Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "CDD Not updated",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Dampener Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "ECO",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Club with 90 kw machine"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Capacity issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "PSV,Motor dealy"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "OA Split",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Capacity issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Awaiting Payment.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Trailor delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Scope Delay; Motor Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "IE3 Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "IE3 Motor Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Temp issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Insp Late"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Temp. Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Insp delayed"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Moisture Sep. Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "ECO of items"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Instruments Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "instruments delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Gear pinion Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Scope delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Insp Late",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Rotor delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "SRV,PRV Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Diverted to breakdown; Bearing delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Rotor delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Development item,"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Moisture separator delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler issue development"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Pistis priority.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "CDD Not changed"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Star delta panel rel. day",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "R/W"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engine delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Motor delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Pump issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Scope Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "AOS Tank Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Instrument Delay'",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Instruments delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "VFD Panel Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engineering rel late"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Temp Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Noise issue,"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "FAD iisue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Bearing delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Vibration issue; AOS Delay.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "ECO Of items"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "SOV; Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "DC"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Panel Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Moisture Sep Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Stabilizer Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Temp. Issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Split OA",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Instruments Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "DC",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "New development"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "MS Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Tank delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Frg. Delay- NMD B/D"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Diverted to breakdown; Bearing delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "AOP Issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Capacity Issue.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cust. ADV awaited",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Scope dryer delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "CDD Not changed",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Design Change"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler performance issue delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Suc.fillter delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Trident dryer replaced to jems"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Moisture separator Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Vibration Issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Noise issue.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "CDD Not updated"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Vibration Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Awaiting Payment."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engine Delay; Bearing Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler Temp issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Diverted to OA 365103583",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Receiver Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Qty Split",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Casting Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Panel delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Seal leakage issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Transport Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Development of Castings, Cylinders -NMD",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Gear Crack"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Short lead time",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Star delta panel rel. day"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "ECO",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Design cHANGE"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "PSV,Motor dealy",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cust. ADV awaited"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "scope dryer delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Vibration issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "NPD Machine",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Transport late recd."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Instruments DeLay; Cooler Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engine delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor Daly",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Motor Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Bearing delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Canopy Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Scope Delay; Motor Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Dryer Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Receiver Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "New Cooler Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "ADV Release late",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Instruments DeLay; Cooler Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "ECO of items",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Canopy delay, Canopy diverted"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Instruments delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Vehicle issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "VFD Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "FAD iisue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Design change",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engine Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Vibration issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "New belt ECO Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Club with 90 kw machine",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "SRM A/E delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler performance issue delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "QTY Split"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "A/E Seal leakage issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Vibration Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Moisture separator delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Bearing Delay;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Engg. Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "CDD Not updated",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "VFD Issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Schedule not updated"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engineering rel late",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "NPD Machine"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engineering rel.late",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Moisture separator Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Temp Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler Temp Issue"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Insp delayed",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Motor Delay;"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Motor delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Scope Delay; Motor Delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Dampener Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "IE3 Motor delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Frg. Delay- NMD B/D",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Qty Split"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Cooler Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Capacity Issue."
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Capacity;",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "AOP ISSUE"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Design Change",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Noise reduction canopy delay"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Rel late ECO NPD Machine",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_DESC": "Cooler issue Development"
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Engg. Late",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Dryer Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "New Cooler Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Instruments delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "GA APPROVAL DELAY, ECO IN HSG BOM.",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "New belt ECO Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "ECO Of items",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "QTY Split",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Instrument Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Seal leakage issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "A/E Seal leakage issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Canopy delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Transport Delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Development item,",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "AOP Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Transport delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Gear Crack",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Scope dryer delay",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark_description",
+        "VALUE": "Design cHANGE",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     }
 ]

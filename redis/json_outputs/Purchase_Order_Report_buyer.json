@@ -1,226 +1,387 @@
 [
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Bajare, Mr. Amar Vijay"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Bajare, Mr. Amar Vijay",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "DIXIT, Mr. SHEKHAR MEGHASHAM"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Halgode, Mr. Shailesh Nilappa"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Halgode, Mr. Shailesh Nilappa",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "KAMBLE, Mr. VISHAL  SUDAM"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Konade, Mr. Vishwanath Sidramappa"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Konade, Mr. Vishwanath Sidramappa",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "MASAL, Ms. PUJA DADA"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "MASAL, Ms. PUJA DADA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PARAB, Mr. GURUPRASAD SHIVAJI"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "SASWADE, Mr. TUSHAR SHANKAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "SHAIKH, Ms. SEEMA MUNAWAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHAIKH, Ms. SEEMA MUNAWAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "ADAI, Mr. SANDEEP APPASAHEB"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "BADADARE, Mr. SWAPNIL SANJAY"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BADADARE, Mr. SWAPNIL SANJAY",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "BARGAL, Mr. VISHAL SANJAY"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "JOSHI, Mr. VAIBHAV  VILAS"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "KEMDHARE, Mr. AKASH PRAKASH"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KEMDHARE, Mr. AKASH PRAKASH",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "KHAIRE, Mr. SIDDHANT PRAKASH"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHAIRE, Mr. SIDDHANT PRAKASH",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "MORE, Mr. PRASAD DADABHAU"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "MORE, Mr. PRASAD DADABHAU",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Nanaware, Mr. Nitin S"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Nanaware, Mr. Nitin S",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "SAWANT, Mr. SHANKAR DATTATRAY"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Shintre, Mr. Nilesh Narayan"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "BHAMRE, Mr. AMOL DILIP"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Belsare, Mr. Umesh Bandopant",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Belsare, Mr. Umesh Bandopant"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BHAMRE, Mr. AMOL DILIP",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "DHAVALE, Mr. SURESH KARBHARI"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GAIKWAD, Mr. CHANDRAKANT LAXMAN",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "GAIKWAD, Mr. CHANDRAKANT LAXMAN"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DHAVALE, Mr. SURESH KARBHARI",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "JAGTAP, Mr. AMIT CHANDRAKANT"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GHATGE, Mr. SANGRAMSINH PRABHAKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "GHATGE, Mr. SANGRAMSINH PRABHAKAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGTAP, Mr. AMIT CHANDRAKANT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "KADAM, Mr. RAJKIRAN RAVINDRA"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "KHULE, Mr. VAIBHAV MADHUKAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PATIL, Mr. NAVEEN ANIL"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. NAVEEN ANIL",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "RISBUD, Mr. SHRINIWAS PRABHAKAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "RISBUD, Mr. SHRINIWAS PRABHAKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "BANKAR, Mr. SAGAR GORAKSHANATH"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BANKAR, Mr. SAGAR GORAKSHANATH",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "JAGDALE, Mr. SUJIT MUGUT"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PATIL, Mr. YOGESH BHALCHANDRA"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. YOGESH BHALCHANDRA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "JANJIRE, Mr. DIPAK PRABHAKAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "NIGADE, Ms. SHIVANI KISHOR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "NIGADE, Ms. SHIVANI KISHOR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PATIL, Mr. SHAILESH  MADHUKAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "SALEKAR, Mr. TEJAS VILAS"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "SHINDE, Mr. VISHNU YOGIRAJ"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHINDE, Mr. VISHNU YOGIRAJ",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Survase, Mr. Sohan"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Survase, Mr. Sohan",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "GAWAI, Mr. SHRIKANT BHAGWAN"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "INGLE, Mr. RAVINDRA NAGORAO"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "KADAM, Mr. VIJAY SADASHIV"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KADAM, Mr. VIJAY SADASHIV",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "MALVIYA, Mr. ANIL UMRAO"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "MALVIYA, Mr. ANIL UMRAO",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "MUTHUSAMY M, Mr."
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "MUTHUSAMY M, Mr.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "Patil, Mr. Ramchandra Kahinath"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Patil, Mr. Ramchandra Kahinath",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "BHOSALE, Ms. AMRUTA SOPAN"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BHOSALE, Ms. AMRUTA SOPAN",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "BICCHE, Mr. BHAGESH MALLAPPA"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDRA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "GHADAGE, Mr. SWAPNIL RAMCHANDRA"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GOTHEKAR, Mr. Balram Damodhar",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "GOTHEKAR, Mr. Balram Damodhar"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JAMALE, Mr. VISHNUKANT DIGAMBER",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "JAMALE, Mr. VISHNUKANT DIGAMBER"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. SIDDHANT VILAS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PATIL, Mr. SIDDHANT VILAS"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATKI, Mr. GAJANAN BALVANTRAO",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PATKI, Mr. GAJANAN BALVANTRAO"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "SATRE, Mr. SHUBHAM  PANDURANG "
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DAIV, Ms. DHANASHRI JITENDR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "DAIV, Ms. DHANASHRI JITENDR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "FATALE, Mr. SAGAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "FATALE, Mr. SAGAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "HINGE, Mr. MAKARAND SUNIL",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "HINGE, Mr. MAKARAND SUNIL"
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "BUYER_NAME": "PAWAR, Mr. AMOL VASANT"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PAWAR, Mr. AMOL VASANT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     }
 ]

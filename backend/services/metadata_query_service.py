@@ -11,6 +11,7 @@ from pydantic import (
     ValidationError,
 )
 
+from services.metadata_safe_context import resolver_candidate, public_candidate
 from services.metadata_explorer_service import (
     MetadataExplorerError,
     MetadataExplorerService,
@@ -234,6 +235,24 @@ class MetadataQueryService:
                 code="empty_user_input",
             )
 
+        # Report Terms is definition-only. Guard restricted question types
+        # before a vector search or language-model call.
+        import re
+        if (re.search(r"\b(distinct|unique)\s+values\b", cleaned_input, re.I)
+            or re.search(r"\b(list|show|give|display|fetch|retrieve|what are|which are)\b.*\b(values|entries|names|codes|records)\b", cleaned_input, re.I)):
+            return {
+                "status": "success",
+                "action": "metadata_response",
+                "message": "Report Terms explains field meanings. To view actual report values, use Ask mode.",
+                "matches": [], "selected_match": None,
+            }
+        if re.search(r"\b(roles?|permissions?|access rights?|privileges?|authori[sz]ation)\b", cleaned_input, re.I):
+            return {
+                "status": "success", "action": "metadata_response",
+                "message": "Report Terms explains business terminology, not internal access settings.",
+                "matches": [], "selected_match": None,
+            }
+
         # ====================================================
         # REPORT-SCOPED WEAVIATE SEARCH
         # ====================================================
@@ -359,13 +378,6 @@ class MetadataQueryService:
                         )
                     ),
                     "selected_match": None,
-                    # Internal only - never forwarded to the
-                    # frontend. Lets the caller checkpoint full
-                    # candidate state so a resumed request can skip
-                    # Weaviate entirely (Step 11).
-                    "candidate_records": (
-                        metadata_records
-                    ),
                 }
 
             # decision == "resolved"
@@ -404,6 +416,13 @@ class MetadataQueryService:
                         ),
                     },
                 )
+
+        if not any(str(r.get("description") or "").strip() for r in resolved_records):
+            return {
+                "status": "not_found", "action": "metadata_not_found",
+                "message": "I don't have an approved explanation for that term in this report.",
+                "matches": [], "selected_match": None,
+            }
 
         # ====================================================
         # GROUNDED EXPLANATION
@@ -481,47 +500,7 @@ class MetadataQueryService:
         ] = []
 
         for record in metadata_records:
-
-            candidate_payload.append(
-                {
-                    "rank": record.get(
-                        "rank"
-                    ),
-                    "module": record.get(
-                        "module"
-                    ),
-                    "table_name": record.get(
-                        "table_name"
-                    ),
-                    "column_name": record.get(
-                        "column_name"
-                    ),
-                    "data_type": record.get(
-                        "data_type"
-                    ),
-                    "description": record.get(
-                        "description"
-                    ),
-                    "text": record.get(
-                        "text"
-                    ),
-                    "units": (
-                        record.get("units")
-                        or []
-                    ),
-                    "filterable": bool(
-                        record.get(
-                            "filterable",
-                            False,
-                        )
-                    ),
-                    "vector_distance": (
-                        record.get(
-                            "vector_distance"
-                        )
-                    ),
-                }
-            )
+            candidate_payload.append(resolver_candidate(record))
 
         system_prompt = """
 You are a metadata resolution component for a generic
@@ -716,9 +695,7 @@ No additional fields.
                     "validation_errors": (
                         error.errors()
                     ),
-                    "raw_response": (
-                        response_text
-                    ),
+                    "response_received": True,
                 },
             ) from error
 
@@ -731,9 +708,7 @@ No additional fields.
                 ),
                 code="invalid_resolver_json",
                 details={
-                    "raw_response": (
-                        response_text
-                    ),
+                    "response_received": True,
                 },
             ) from error
 
@@ -777,47 +752,8 @@ No additional fields.
         return indexed
 
     @staticmethod
-    def _public_matches(
-        metadata_records: list[
-            dict[str, Any]
-        ],
-    ) -> list[dict[str, Any]]:
-        """
-        Reduce internal candidate records to a small,
-        stable, generic public shape. Only fields that
-        actually have a value are included.
-        """
-
-        public_fields = (
-            "rank",
-            "module",
-            "table_name",
-            "column_name",
-            "data_type",
-            "description",
-        )
-
-        matches: list[
-            dict[str, Any]
-        ] = []
-
-        for record in metadata_records:
-
-            match: dict[str, Any] = {}
-
-            for field in public_fields:
-
-                value = record.get(field)
-
-                if value not in (
-                    None,
-                    "",
-                ):
-                    match[field] = value
-
-            matches.append(match)
-
-        return matches
+    def _public_matches(metadata_records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        return [public_candidate(record) for record in metadata_records]
 
     @staticmethod
     def _clean_json_response(

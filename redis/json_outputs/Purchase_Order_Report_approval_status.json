@@ -1,22 +1,37 @@
 [
     {
         "REPORT_NAME": "Purchase Order Report",
-        "APPROVAL_STATUS": "REQUIRES REAPPROVAL"
+        "VARIABLE_NAME": "approval_status",
+        "VALUE": "REQUIRES REAPPROVAL",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "APPROVAL_STATUS": "APPROVED"
+        "VARIABLE_NAME": "approval_status",
+        "VALUE": "APPROVED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "APPROVAL_STATUS": "IN PROCESS"
+        "VARIABLE_NAME": "approval_status",
+        "VALUE": "IN PROCESS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "APPROVAL_STATUS": "INCOMPLETE"
+        "VARIABLE_NAME": "approval_status",
+        "VALUE": "REJECTED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "APPROVAL_STATUS": "REJECTED"
+        "VARIABLE_NAME": "approval_status",
+        "VALUE": "INCOMPLETE",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     }
 ]

@@ -323,6 +323,8 @@ class HelpRetrievalService:
         *,
         query: str,
         top_k: Optional[int] = None,
+        report_name: Optional[str] = None,
+        source_type: Optional[str] = None,
     ) -> list[dict[str, Any]]:
 
         cleaned_query = str(
@@ -373,12 +375,9 @@ class HelpRetrievalService:
             )
         )
 
-        scores, indexes = (
-            self.index.search(
-                vector,
-                limit,
-            )
-        )
+        # Search all indexed documents before report filtering. This
+        # prevents other reports from consuming the top-k slots.
+        scores, indexes = self.index.search(vector, len(self.documents))
 
         matches: list[
             dict[str, Any]
@@ -411,18 +410,25 @@ class HelpRetrievalService:
             ):
                 continue
 
-            document = dict(
-                self.documents[
-                    position
-                ]
-            )
+            document = dict(self.documents[position])
+            doc_report = str(document.get("report_name") or "").strip().casefold()
+            requested_report = str(report_name or "").strip().casefold()
+            if doc_report and doc_report != requested_report:
+                continue
+            # Search independently within the general-guide and report-variable
+            # parts of the SAME FAISS index. This prevents one from crowding out
+            # the other in composite questions.
+            if source_type == "general" and doc_report:
+                continue
+            if source_type == "variable" and not doc_report:
+                continue
 
             document[
                 "score"
             ] = numeric_score
 
-            matches.append(
-                document
-            )
+            matches.append(document)
+            if len(matches) >= limit:
+                break
 
         return matches

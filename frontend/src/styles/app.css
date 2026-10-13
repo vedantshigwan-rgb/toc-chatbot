@@ -3203,3 +3203,54 @@ td {
   opacity: 0.38;
   cursor: not-allowed;
 }
+
+
+/* ============================================================
+   Sidebar layout: fixed user account footer and scrollable content
+   ============================================================ */
+.sidebar {
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* Only report options, filters, variables and history scroll. */
+.sidebar-content-scroll {
+  flex: 1 1 auto;
+  min-height: 0;
+  min-width: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior-y: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #466b69 transparent;
+  padding-right: 3px;
+}
+
+.sidebar-content-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.sidebar-content-scroll::-webkit-scrollbar-thumb {
+  background: #466b69;
+  border-radius: 8px;
+}
+
+/* New Chat stays at the top; Test User stays at the bottom. */
+.sidebar > .new-chat,
+.sidebar > .user-profile {
+  flex-shrink: 0;
+}
+
+.sidebar > .user-profile {
+  margin-top: 10px;
+  padding-top: 12px;
+  padding-bottom: 2px;
+  position: relative;
+  z-index: 2;
+  background: var(--navy);
+}
+
+.sidebar-content-scroll .history-section {
+  margin-top: 10px;
+  padding-bottom: 4px;
+}

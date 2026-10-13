@@ -1,22 +1,107 @@
 [
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_DEPT": "Manufacturing-Machin"
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "15-MACHINE SHOP",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_DEPT": "Manufacturing-Heat T"
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_DEPT": "15-MACHINE SHOP"
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_DEPT": "Manufacturing-Assemb"
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_DEPT": "Operations-Foundry"
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Assemb",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Heat T",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Assemb",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Assemb",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Assemb",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Assemb",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Assemb",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Operations-Foundry",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     }
 ]

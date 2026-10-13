@@ -153,6 +153,24 @@ const [
   setSelectedOptionValue,
 ] = useState("");
 
+
+/*
+ * Multi-option state for the selected report.
+ *
+ * Example for Docket Employee Report:
+ * {
+ *   employee_org: "ORG-A",
+ *   period_type: "MONTH",
+ *   period_name: "NOV-2026"
+ * }
+ *
+ * Keys are normalized logical variable names from Roles and options.xlsx.
+ */
+const [
+  selectedOptionValues,
+  setSelectedOptionValues,
+] = useState({});
+
   /*
    * Complete variable list for the selected report.
    * This comes from redis mapping.xlsx through GET /variables.
@@ -164,6 +182,11 @@ const [
   ] = useState([]);
 
   const [
+    reportAutocompleteController,
+    setReportAutocompleteController,
+  ] = useState(null);
+
+  const [
     reportVariablesLoading,
     setReportVariablesLoading,
   ] = useState(false);
@@ -172,6 +195,14 @@ const [
     reportVariablesError,
     setReportVariablesError,
   ] = useState(null);
+
+  /*
+   * Protect report-variable loading from stale responses.
+   * History restore and navigation can update report state very quickly;
+   * only the newest request is allowed to update the variable list.
+   */
+  const reportVariablesRequestIdRef =
+    useRef(0);
 
 
   useEffect(() => {
@@ -195,6 +226,7 @@ const [
         setSelectedSubTabId(null);
         setSelectedReportId(null);
         setSelectedOptionId(null);
+        setSelectedOptionValues({});
       } catch (error) {
         if (
           error.name === "AbortError"
@@ -300,12 +332,66 @@ const [
    */
   const reportOptions =
     useMemo(() => {
-      return Array.isArray(
-        selectedReport?.options
-      )
-        ? selectedReport.options
-        : [];
+      if (!selectedReport) {
+        return [];
+      }
+
+      const selectedName =
+        normalizeReportName(
+          selectedReport.report_name ||
+          selectedReport.label ||
+          ""
+        );
+
+      const optionsByVariable =
+        new Map();
+
+      /*
+       * Collect options report-wise across the whole navigation tree.
+       * This makes the UI independent of Base tab / Sub tab grouping and
+       * also handles worksheets where the same report appears on multiple
+       * rows while its options continue on following rows.
+       */
+      for (const baseTab of baseTabs) {
+        for (const subTab of baseTab.sub_tabs || []) {
+          for (const reportItem of subTab.reports || []) {
+            const reportName =
+              normalizeReportName(
+                reportItem.report_name ||
+                reportItem.label ||
+                ""
+              );
+
+            if (reportName !== selectedName) {
+              continue;
+            }
+
+            for (const option of reportItem.options || []) {
+              const variableId =
+                normalizeIdentifier(
+                  option?.variable_name
+                );
+
+              if (!variableId) {
+                continue;
+              }
+
+              if (!optionsByVariable.has(variableId)) {
+                optionsByVariable.set(
+                  variableId,
+                  option
+                );
+              }
+            }
+          }
+        }
+      }
+
+      return Array.from(
+        optionsByVariable.values()
+      );
     }, [
+      baseTabs,
       selectedReport,
     ]);
 
@@ -325,6 +411,57 @@ const [
     ]);
 
 
+  const autocompleteControllerVariableName =
+    String(
+      reportAutocompleteController?.variable_name || ""
+    ).trim();
+
+
+  const autocompleteControllerOption =
+    useMemo(() => {
+      const controllerId = normalizeIdentifier(
+        autocompleteControllerVariableName
+      );
+
+      if (!controllerId) {
+        return null;
+      }
+
+      return (
+        reportOptions.find(
+          (option) =>
+            normalizeIdentifier(
+              option?.variable_name
+            ) === controllerId
+        ) || null
+      );
+    }, [
+      reportOptions,
+      autocompleteControllerVariableName,
+    ]);
+
+
+  const selectedControllerValue =
+    useMemo(() => {
+      const controllerId =
+        normalizeIdentifier(
+          autocompleteControllerVariableName
+        );
+
+      if (!controllerId) {
+        return "";
+      }
+
+      return String(
+        selectedOptionValues[controllerId] ||
+        ""
+      ).trim();
+    }, [
+      autocompleteControllerVariableName,
+      selectedOptionValues,
+    ]);
+
+
   /*
    * Load ALL variables for the selected report from
    * redis mapping.xlsx.
@@ -332,67 +469,158 @@ const [
    * This includes:
    * - Redis variables
    * - Non-Redis variables
+   *
+   * A request id is used in addition to AbortController so a stale
+   * response can never overwrite the variables for the current report.
+   * A single retry covers short Redis/API startup hiccups.
    */
   useEffect(() => {
     if (!selectedReport) {
+      reportVariablesRequestIdRef.current += 1;
       setReportVariableDetails([]);
+      setReportAutocompleteController(null);
       setReportVariablesLoading(false);
       setReportVariablesError(null);
 
       return undefined;
     }
 
+    const reportName =
+      String(
+        selectedReport.autocomplete_report_name ||
+        selectedReport.report_name ||
+        ""
+      ).trim();
+
+    if (!reportName) {
+      setReportVariableDetails([]);
+      setReportAutocompleteController(null);
+      setReportVariablesLoading(false);
+      setReportVariablesError(
+        "Could not determine the report name for variables."
+      );
+      return undefined;
+    }
+
     const abortController =
       new AbortController();
 
-    async function loadReportVariables() {
-      setReportVariablesLoading(true);
-      setReportVariablesError(null);
+    const requestId =
+      reportVariablesRequestIdRef.current + 1;
 
-      try {
-        const result =
-          await fetchReportVariables({
-            reportName:
-              selectedReport
-                .autocomplete_report_name ||
-              selectedReport
-                .report_name,
+    reportVariablesRequestIdRef.current =
+      requestId;
 
-            signal:
-              abortController.signal,
-          });
+    /*
+     * Clear the previous report only when this effect genuinely runs for
+     * a different selected report. Do not clear from history-sync helpers.
+     */
+    setReportVariableDetails([]);
+    setReportAutocompleteController(null);
+    setReportVariablesLoading(true);
+    setReportVariablesError(null);
 
-        setReportVariableDetails(
-          result.variableDetails
+    async function waitBeforeRetry(milliseconds) {
+      await new Promise((resolve, reject) => {
+        const timer =
+          window.setTimeout(resolve, milliseconds);
+
+        abortController.signal.addEventListener(
+          "abort",
+          () => {
+            window.clearTimeout(timer);
+
+            const error =
+              new Error("Request aborted");
+
+            error.name = "AbortError";
+            reject(error);
+          },
+          { once: true }
         );
-      } catch (error) {
-        if (
-          error.name === "AbortError"
-        ) {
-          return;
-        }
-
-        console.error(
-          "Report variable loading failed:",
-          error
-        );
-
-        setReportVariableDetails([]);
-
-        setReportVariablesError(
-          error.message ||
-            "Could not load report variables."
-        );
-      } finally {
-        if (
-          !abortController.signal.aborted
-        ) {
-          setReportVariablesLoading(false);
-        }
-      }
+      });
     }
 
-    loadReportVariables();
+    async function loadReportVariables() {
+      let lastError = null;
+
+      for (let attempt = 1; attempt <= 2; attempt += 1) {
+        try {
+          const result =
+            await fetchReportVariables({
+              reportName,
+              signal:
+                abortController.signal,
+            });
+
+          if (
+            abortController.signal.aborted ||
+            reportVariablesRequestIdRef.current !== requestId
+          ) {
+            return;
+          }
+
+          setReportVariableDetails(
+            Array.isArray(result.variableDetails)
+              ? result.variableDetails
+              : []
+          );
+
+          setReportAutocompleteController(
+            result.autocompleteController || null
+          );
+
+          setReportVariablesError(null);
+          return;
+        } catch (error) {
+          if (error.name === "AbortError") {
+            return;
+          }
+
+          lastError = error;
+
+          if (attempt < 2) {
+            try {
+              await waitBeforeRetry(250);
+            } catch (retryError) {
+              if (retryError.name === "AbortError") {
+                return;
+              }
+              throw retryError;
+            }
+          }
+        }
+      }
+
+      if (
+        abortController.signal.aborted ||
+        reportVariablesRequestIdRef.current !== requestId
+      ) {
+        return;
+      }
+
+      console.error(
+        "Report variable loading failed:",
+        lastError
+      );
+
+      setReportVariableDetails([]);
+      setReportAutocompleteController(null);
+
+      setReportVariablesError(
+        lastError?.message ||
+          "Could not load report variables."
+      );
+    }
+
+    loadReportVariables().finally(() => {
+      if (
+        !abortController.signal.aborted &&
+        reportVariablesRequestIdRef.current === requestId
+      ) {
+        setReportVariablesLoading(false);
+      }
+    });
 
     return () => {
       abortController.abort();
@@ -729,19 +957,37 @@ const [
       setSelectedReportId(null);
       setSelectedOptionId(null);
       setSelectedOptionValue("");
+      setSelectedOptionValues({});
       setReportVariableDetails([]);
       setReportVariablesError(null);
       closeLookup();
       return false;
     }
 
+    const reportChanged =
+      path.reportItem.id !==
+      selectedReportId;
+
     setSelectedBaseTabId(path.baseTab.id);
     setSelectedSubTabId(path.subTab.id);
     setSelectedReportId(path.reportItem.id);
     setSelectedOptionId(null);
     setSelectedOptionValue("");
-    setReportVariableDetails([]);
-    setReportVariablesError(null);
+    setSelectedOptionValues({});
+
+    /*
+     * IMPORTANT: do not wipe variables when history synchronizes the
+     * report that is already selected. If we clear them while the report
+     * id stays the same, the variable-loading effect has no dependency
+     * change to trigger another fetch. That was the intermittent
+     * "1 variable available" bug.
+     */
+    if (reportChanged) {
+      setReportVariableDetails([]);
+      setReportAutocompleteController(null);
+      setReportVariablesError(null);
+    }
+
     closeLookup();
     return true;
   }
@@ -773,6 +1019,7 @@ const [
     setSelectedReportId(null);
     setSelectedOptionId(null);
     setSelectedOptionValue("");
+    setSelectedOptionValues({});
 
     setReportVariableDetails([]);
     setReportVariablesError(null);
@@ -815,6 +1062,7 @@ const [
     setSelectedReportId(null);
     setSelectedOptionId(null);
     setSelectedOptionValue("");
+    setSelectedOptionValues({});
 
     setReportVariableDetails([]);
     setReportVariablesError(null);
@@ -865,6 +1113,7 @@ const [
 
     setSelectedOptionId(null);
     setSelectedOptionValue("");
+    setSelectedOptionValues({});
 
     setReportVariableDetails([]);
     setReportVariablesError(null);
@@ -907,6 +1156,97 @@ const [
     setSelectedOptionValue("");
 
     closeLookup();
+  }
+
+
+  function setReportOptionValue(
+    variableName,
+    value
+  ) {
+    const variableId =
+      normalizeIdentifier(
+        variableName
+      );
+
+    if (!variableId) {
+      return;
+    }
+
+    const cleanValue =
+      String(value || "").trim();
+
+    setSelectedOptionValues(
+      (currentValues) => {
+        const controllerId =
+          normalizeIdentifier(
+            autocompleteControllerVariableName
+          );
+
+        /*
+         * Changing the controlling option invalidates dependent option
+         * selections because their available values are scoped by it.
+         */
+        if (
+          controllerId &&
+          variableId === controllerId
+        ) {
+          return cleanValue
+            ? {
+                [variableId]:
+                  cleanValue,
+              }
+            : {};
+        }
+
+        const nextValues = {
+          ...currentValues,
+        };
+
+        // Changing PERIOD TYPE invalidates PERIOD NAME for the Docket reports.
+        const isDocketReport = [
+          "Docket Report", "Docket Employee Report"
+        ].includes(String(selectedReport?.report_name || "").trim());
+        if (isDocketReport && variableId === "period_type" &&
+            currentValues.period_type !== cleanValue) {
+          delete nextValues.period_name;
+        }
+
+        if (cleanValue) {
+          nextValues[variableId] =
+            cleanValue;
+        } else {
+          delete nextValues[variableId];
+        }
+
+        return nextValues;
+      }
+    );
+
+    closeLookup();
+  }
+
+
+  function getReportOptionValue(
+    variableName
+  ) {
+    const variableId =
+      normalizeIdentifier(
+        variableName
+      );
+
+    if (!variableId) {
+      return "";
+    }
+
+    return String(
+      selectedOptionValues[variableId] ||
+      ""
+    );
+  }
+
+
+  function clearReportOptionValues() {
+    setSelectedOptionValues({});
   }
 
 
@@ -1541,7 +1881,7 @@ const [
     let invalidVariables = [];
     let emptyVariables = [];
 
-    if (selectedReport) {
+    if ((messageType === "normal_message" || messageType === "feedback") && selectedReport) {
       const extracted = extractVariablesFromInput(text);
       inlineVariables = extracted.variables;
       invalidVariables = extracted.invalidVariables;
@@ -1586,24 +1926,53 @@ const [
       !selectedReportName ||
       reportName === selectedReportName;
 
-    if (
-      optionMatchesRequestReport &&
-      selectedOption?.variable_name &&
-      selectedOptionValue.trim()
-    ) {
-      const selectedVariableId = normalizeIdentifier(
-        selectedOption.variable_name
-      );
+    if ((messageType === "normal_message" || messageType === "feedback") && optionMatchesRequestReport) {
+      /*
+       * Add every populated report option to the request.
+       * Inline /variable {value} input always wins over the sidebar value
+       * for the same logical variable.
+       */
+      for (const option of reportOptions) {
+        const variableName =
+          String(
+            option?.variable_name ||
+            ""
+          ).trim();
 
-      const alreadyProvidedInline = variables.some(
-        (variable) =>
-          normalizeIdentifier(variable.name) === selectedVariableId
-      );
+        const variableId =
+          normalizeIdentifier(
+            variableName
+          );
 
-      if (!alreadyProvidedInline) {
-        variables.unshift({
-          name: selectedOption.variable_name,
-          value: selectedOptionValue.trim(),
+        if (!variableId) {
+          continue;
+        }
+
+        const optionValue =
+          String(
+            selectedOptionValues[variableId] ||
+            ""
+          ).trim();
+
+        if (!optionValue) {
+          continue;
+        }
+
+        const alreadyProvidedInline =
+          variables.some(
+            (variable) =>
+              normalizeIdentifier(
+                variable.name
+              ) === variableId
+          );
+
+        if (alreadyProvidedInline) {
+          continue;
+        }
+
+        variables.push({
+          name: variableName,
+          value: optionValue,
           source: "option",
         });
       }
@@ -1815,6 +2184,9 @@ const [
   function newChat() {
     setActiveHistoryId(null);
     setConversationReportName(null);
+    setSelectedOptionValues({});
+    setSelectedOptionId(null);
+    setSelectedOptionValue("");
     setMessages([]);
     setChatInput("");
     setReplyingTo(null);
@@ -1973,6 +2345,60 @@ const [
       return;
     }
 
+    const targetVariableId =
+      normalizeIdentifier(
+        variableOption.variable_name
+      );
+
+    const controllerVariableId =
+      normalizeIdentifier(
+        autocompleteControllerVariableName
+      );
+
+    const targetIsController =
+      Boolean(
+        controllerVariableId &&
+        targetVariableId === controllerVariableId
+      );
+
+    /*
+     * For a controller-scoped report, every OTHER Redis variable requires
+     * the controlling option value first.
+     *
+     * Example:
+     *   Inventory Report controller = org_name
+     *   /buyer_name {} requires selected ORG NAME first.
+     *   /org_name {} itself remains globally searchable.
+     */
+    if (
+      controllerVariableId &&
+      !targetIsController &&
+      !selectedControllerValue
+    ) {
+      cancelAutocompleteRequest();
+      autocompleteRequestIdRef.current += 1;
+
+      setLookup({
+        open: true,
+        mode: "value",
+        activeVar:
+          variableOption.variable_name,
+        options: [],
+        highlightIndex: -1,
+        replaceStart,
+        replaceEnd,
+        loading: false,
+        error: null,
+        message:
+          `Select ${
+            autocompleteControllerOption?.label ||
+            autocompleteControllerVariableName
+          } first`,
+      });
+
+      return;
+    }
+
     cancelAutocompleteRequest();
 
     const cleanedQuery =
@@ -2035,6 +2461,23 @@ const [
               limit:
                 resultLimit,
 
+              controllerVariableName:
+                targetIsController
+                  ? ""
+                  : autocompleteControllerVariableName,
+
+              controllerValue:
+                targetIsController
+                  ? ""
+                  : selectedControllerValue,
+
+              periodType:
+                ["Docket Report", "Docket Employee Report"].includes(
+                  String(report?.name || "").trim()
+                ) && normalizeIdentifier(variableOption.variable_name) === "period_name"
+                  ? String(selectedOptionValues.period_type || "")
+                  : "",
+
               signal:
                 abortController.signal,
             });
@@ -2067,7 +2510,7 @@ const [
               values.length === 0
                 ? cleanedQuery
                   ? "No matching values"
-                  : "No initial values are available"
+                  : "No values are available for the selected filter"
                 : null,
           });
         } catch (error) {
@@ -2077,6 +2520,11 @@ const [
           ) {
             return;
           }
+
+          console.error(
+            "Variable autocomplete failed:",
+            error
+          );
 
           if (
             requestId !==
@@ -2099,18 +2547,9 @@ const [
             loading: false,
             error:
               error.message ||
-              "Could not load autocomplete values.",
+              "Could not load values.",
             message: null,
           });
-        } finally {
-          if (
-            autocompleteAbortRef
-              .current ===
-            abortController
-          ) {
-            autocompleteAbortRef.current =
-              null;
-          }
         }
       }, requestDelay);
   }
@@ -2120,7 +2559,7 @@ const [
     value,
     cursorPosition
   ) {
-    if (!selectedReport) {
+    if (!selectedReport || requestMode !== "normal_message" || replyingTo) {
       closeLookup();
       return;
     }
@@ -2890,6 +3329,9 @@ function openReport(source) {
     reportVariables,
     reportVariablesLoading,
     reportVariablesError,
+    reportAutocompleteController,
+    autocompleteControllerOption,
+    selectedControllerValue,
 
     selectedOption,
     selectedOptionId,
@@ -2897,6 +3339,11 @@ function openReport(source) {
 
     selectedOptionValue,
     setSelectedOptionValue,
+
+    selectedOptionValues,
+    setReportOptionValue,
+    getReportOptionValue,
+    clearReportOptionValues,
 
     report,
     division,

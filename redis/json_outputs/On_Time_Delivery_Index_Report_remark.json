@@ -1,26 +1,205 @@
 [
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_1": "Short lead time"
+        "VARIABLE_NAME": "remark",
+        "VALUE": "LD not applicable",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_1": "Execution default"
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Engineering default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_1": "LD not applicable"
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_1": "Capacity Issue"
+        "VARIABLE_NAME": "remark",
+        "VALUE": "LD not applicable",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_1": "Engineering default"
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "REMARK_1": "Marketing default"
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Marketing default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "LD not applicable",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Engineering default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Capacity Issue",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Marketing default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Marketing default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Short lead time",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Engineering default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Engineering default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Short lead time",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "LD not applicable",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Marketing default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Engineering default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Execution default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Short lead time",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "remark",
+        "VALUE": "Marketing default",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     }
 ]

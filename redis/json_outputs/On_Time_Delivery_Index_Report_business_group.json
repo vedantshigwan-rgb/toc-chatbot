@@ -1,82 +1,142 @@
 [
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "TRM - GEARBOX"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "TRM - GEARBOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - WINDMILL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - WINDMILL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "ACD - CENTRIFUGAL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "ACD - CENTRIFUGAL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - DEFENCE"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - DEFENCE",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - INDUSTRIAL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - INDUSTRIAL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "TRM - RAIL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "TRM - RAIL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "ACD - RECIPROCATING"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "ACD - RECIPROCATING",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "ACD - SCREW"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "ACD - SCREW",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - RAIL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "ACD - PROJECTS - SCREW"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "ACD - PROJECTS - SCREW",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - MARINE"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - MARINE",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "TRM - INDUSTRIAL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "TRM - INDUSTRIAL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "TRM - RAIL AND IND"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "TRM - RAIL AND IND",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - RAIL AND IND"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - RAIL AND IND",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "COMMON"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "COMMON",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "TRM - WINDMILL"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "TRM - WINDMILL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "PED - GEARBOX"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "PED - GEARBOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "ACD - PROJECTS - RECIP"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "ACD - PROJECTS - RECIP",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "UNIDENTIFIED"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "UNIDENTIFIED",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "BUSINESS_GROUP": "ACD - GSU"
+        "VARIABLE_NAME": "business_group",
+        "VALUE": "ACD - GSU",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": ""
     }
 ]

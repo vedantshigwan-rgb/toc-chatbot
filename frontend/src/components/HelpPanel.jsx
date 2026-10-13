@@ -15,17 +15,19 @@ export default function HelpPanel() {
             ✕
           </button>
         </div>
-        1. Use <strong>Ask</strong> for normal questions and data requests.
+        1. Select a report for report-specific questions. Each chat stays linked to one report.
         <br />
-        2. Select a report before using <strong>Help</strong> or <strong>Metadata</strong> mode.
+        2. Use <strong>Ask</strong> to retrieve and analyze report data.
         <br />
-        3. Type <code>/</code> to insert a report variable, for example <code>{"/buyer_name {}"}</code>.
+        3. In Ask mode only, use sidebar filters or type <code>/</code> to insert a report variable.
         <br />
-        4. Enter or select the value inside the braces, for example <code>{"/buyer_name {ACME}"}</code>.
+        4. Use <strong>Help</strong> to understand variables in the selected report or learn how to use the app.
         <br />
-        5. Sidebar options are optional filters; choosing None sends no option variable.
+        5. Use <strong>Report Terms</strong> to understand a column or business term in your report.
         <br />
-        6. Use <strong>Modify</strong> only on a previous Primary result to send backend feedback reconstruction.
+        6. Help and Report Terms need only report selection; no filters or slash variables.
+        <br />
+        7. Use the reply or modify action on a previous data result to refine that question.
       </div>
     </div>
   );

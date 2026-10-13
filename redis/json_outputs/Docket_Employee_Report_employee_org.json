@@ -1,30 +1,51 @@
 [
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "ACD - PRODUCTS"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "PED - PRODUCTS",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "PED - GEAR BOX"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "ACD - PRODUCTS",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "PED - PRODUCTS"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "ACD - CENTRI"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "ACD - CENTRI",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "ACD - RECIP"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "ACD - SCREW",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "ACD - SCREW"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "ACD - RECIP",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "EMP_ORG_NAME": "PED - RAIL"
+        "VARIABLE_NAME": "employee_org",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": ""
     }
 ]

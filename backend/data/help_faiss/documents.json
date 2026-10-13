@@ -1,139 +1,2432 @@
 [
   {
-    "id": "help_001",
-    "title": "Asking a new data question",
-    "content": "Select a report and enter a complete standalone data request. Normal chat messages are classified only as greeting, data query, or unknown; data requests are handled only by the Primary workflow.",
+    "id": "help_000",
+    "title": "Application overview and the three chat modes",
+    "content": "Start a new chat and choose a report. The report stays linked to that conversation. Use Ask to get report data, totals, comparisons, or lists. In Ask, optional filters in the sidebar and /variables in the message help narrow data questions. Use Help to learn how the application works and to understand the input variables available for the selected report; Help does not require filters or /variables. Use Report Terms when you want to understand an unfamiliar column name or business term shown in your report; it explains meanings rather than retrieving live values. For detailed Ask results, use the Table action when available. To switch reports, start a New chat.",
     "tags": [
-      "question",
-      "new request",
-      "data query",
-      "primary"
+      "overview",
+      "getting started",
+      "application",
+      "how it works",
+      "modes"
     ],
-    "retrieval_text": "Title: Asking a new data question\nContent: Select a report and enter a complete standalone data request. Normal chat messages are classified only as greeting, data query, or unknown; data requests are handled only by the Primary workflow.\nTags: question, new request, data query, primary"
+    "retrieval_text": "Title: Application overview and the three chat modes\nContent: Start a new chat and choose a report. The report stays linked to that conversation. Use Ask to get report data, totals, comparisons, or lists. In Ask, optional filters in the sidebar and /variables in the message help narrow data questions. Use Help to learn how the application works and to understand the input variables available for the selected report; Help does not require filters or /variables. Use Report Terms when you want to understand an unfamiliar column name or business term shown in your report; it explains meanings rather than retrieving live values. For detailed Ask results, use the Table action when available. To switch reports, start a New chat.\nTags: overview, getting started, application, how it works, modes",
+    "knowledge_type": "general"
+  },
+  {
+    "id": "help_001",
+    "title": "Selecting a report",
+    "content": "Select a report from the Report dropdown on the left before asking a data question, a Help question, or a Report Terms question. Each chat is linked to its selected report. Start a New chat to work with another report.",
+    "tags": [
+      "report",
+      "select",
+      "change"
+    ],
+    "retrieval_text": "Title: Selecting a report\nContent: Select a report from the Report dropdown on the left before asking a data question, a Help question, or a Report Terms question. Each chat is linked to its selected report. Start a New chat to work with another report.\nTags: report, select, change",
+    "knowledge_type": "general"
   },
   {
     "id": "help_002",
-    "title": "Selecting a report",
-    "content": "Select the relevant report before asking a data, help, or metadata question. The selected report is sent to the backend as report_name and scopes report-specific processing.",
+    "title": "Ask mode: get report data",
+    "content": "Use Ask to request information from the selected report, such as totals, counts, item lists, or buyer-wise breakdowns. Write the business question in plain language and send it.",
     "tags": [
-      "report",
-      "selection",
-      "context"
+      "ask",
+      "data",
+      "report"
     ],
-    "retrieval_text": "Title: Selecting a report\nContent: Select the relevant report before asking a data, help, or metadata question. The selected report is sent to the backend as report_name and scopes report-specific processing.\nTags: report, selection, context"
+    "retrieval_text": "Title: Ask mode: get report data\nContent: Use Ask to request information from the selected report, such as totals, counts, item lists, or buyer-wise breakdowns. Write the business question in plain language and send it.\nTags: ask, data, report",
+    "knowledge_type": "general"
   },
   {
     "id": "help_003",
-    "title": "Using input variables",
-    "content": "A data request can include input variables and selected values. Send them in the variables array with source set to input so the Primary workflow can use them for FAQ matching and SQL generation.",
+    "title": "Ask mode: insert variables",
+    "content": "Only in Ask mode, type / in the message field to see variables available for the selected report. Choose a variable and enter/select its value to filter a data question.",
     "tags": [
-      "variables",
-      "input",
-      "values"
+      "ask",
+      "variable",
+      "slash",
+      "input"
     ],
-    "retrieval_text": "Title: Using input variables\nContent: A data request can include input variables and selected values. Send them in the variables array with source set to input so the Primary workflow can use them for FAQ matching and SQL generation.\nTags: variables, input, values"
+    "retrieval_text": "Title: Ask mode: insert variables\nContent: Only in Ask mode, type / in the message field to see variables available for the selected report. Choose a variable and enter/select its value to filter a data question.\nTags: ask, variable, slash, input",
+    "knowledge_type": "general"
   },
   {
     "id": "help_004",
-    "title": "Using optional filters",
-    "content": "Optional sidebar selections are sent in the variables array with source set to option. If no optional filter is selected, do not send that variable.",
+    "title": "Ask mode: sidebar filters",
+    "content": "In Ask mode, use the optional sidebar filters under the report selector to narrow a data question. You can leave filters empty. Available filters depend on the report.",
     "tags": [
+      "ask",
       "filter",
-      "optional",
-      "option"
+      "sidebar"
     ],
-    "retrieval_text": "Title: Using optional filters\nContent: Optional sidebar selections are sent in the variables array with source set to option. If no optional filter is selected, do not send that variable.\nTags: filter, optional, option"
+    "retrieval_text": "Title: Ask mode: sidebar filters\nContent: In Ask mode, use the optional sidebar filters under the report selector to narrow a data question. You can leave filters empty. Available filters depend on the report.\nTags: ask, filter, sidebar",
+    "knowledge_type": "general"
   },
   {
     "id": "help_005",
-    "title": "Replying to a previous result",
-    "content": "To modify an earlier data result, use the Reply action on that exact assistant result. The frontend sends message_type feedback together with chat_id and reply_to_message_id. Feedback is never inferred automatically from normal text.",
+    "title": "Help mode: variables and app guidance",
+    "content": "Use Help to ask how to operate the chatbot or what an input variable means in the selected report. Help does not require sidebar filters or /variable syntax. Example: What does days mean in this report?",
     "tags": [
-      "reply",
-      "feedback",
-      "modify",
-      "previous result"
+      "help",
+      "variables",
+      "guide"
     ],
-    "retrieval_text": "Title: Replying to a previous result\nContent: To modify an earlier data result, use the Reply action on that exact assistant result. The frontend sends message_type feedback together with chat_id and reply_to_message_id. Feedback is never inferred automatically from normal text.\nTags: reply, feedback, modify, previous result"
+    "retrieval_text": "Title: Help mode: variables and app guidance\nContent: Use Help to ask how to operate the chatbot or what an input variable means in the selected report. Help does not require sidebar filters or /variable syntax. Example: What does days mean in this report?\nTags: help, variables, guide",
+    "knowledge_type": "general"
   },
   {
     "id": "help_006",
-    "title": "Follow-up changes",
-    "content": "A feedback request is resolved against only the assistant result explicitly referenced by reply_to_message_id, then the resolved standalone request is executed again through the Primary workflow.",
+    "title": "Report Terms: understand result fields",
+    "content": "Use Report Terms to ask what an unfamiliar report column, label, abbreviation, or business term means. Report Terms explains concepts for the selected report; it does not list actual stored values or run a data query.",
     "tags": [
-      "feedback",
-      "reply",
-      "primary",
-      "follow up"
+      "report terms",
+      "metadata",
+      "columns",
+      "definitions"
     ],
-    "retrieval_text": "Title: Follow-up changes\nContent: A feedback request is resolved against only the assistant result explicitly referenced by reply_to_message_id, then the resolved standalone request is executed again through the Primary workflow.\nTags: feedback, reply, primary, follow up"
+    "retrieval_text": "Title: Report Terms: understand result fields\nContent: Use Report Terms to ask what an unfamiliar report column, label, abbreviation, or business term means. Report Terms explains concepts for the selected report; it does not list actual stored values or run a data query.\nTags: report terms, metadata, columns, definitions",
+    "knowledge_type": "general"
   },
   {
     "id": "help_007",
-    "title": "Using Metadata mode",
-    "content": "Choose Metadata mode in the interface before asking what a field, column, table, report element, abbreviation, or other application metadata means. Metadata mode uses the selected report and does not run the base intent classifier.",
+    "title": "Starting a new chat",
+    "content": "Click + New chat to start a separate conversation. Pick the appropriate report before asking report-specific questions.",
     "tags": [
-      "metadata",
-      "definition",
-      "meaning"
+      "new chat",
+      "conversation"
     ],
-    "retrieval_text": "Title: Using Metadata mode\nContent: Choose Metadata mode in the interface before asking what a field, column, table, report element, abbreviation, or other application metadata means. Metadata mode uses the selected report and does not run the base intent classifier.\nTags: metadata, definition, meaning"
+    "retrieval_text": "Title: Starting a new chat\nContent: Click + New chat to start a separate conversation. Pick the appropriate report before asking report-specific questions.\nTags: new chat, conversation",
+    "knowledge_type": "general"
   },
   {
     "id": "help_008",
-    "title": "Finding selectable values",
-    "content": "Available report/filter values are provided through the application variables/autocomplete interface rather than automatic value-lookup intent detection in chat.",
+    "title": "Reviewing previous chats",
+    "content": "Use Recent in the left sidebar to open earlier chats. A chat retains its selected report so it cannot be changed mid-conversation.",
     "tags": [
-      "autocomplete",
-      "values",
-      "variables",
-      "filter"
+      "recent",
+      "history",
+      "chat"
     ],
-    "retrieval_text": "Title: Finding selectable values\nContent: Available report/filter values are provided through the application variables/autocomplete interface rather than automatic value-lookup intent detection in chat.\nTags: autocomplete, values, variables, filter"
+    "retrieval_text": "Title: Reviewing previous chats\nContent: Use Recent in the left sidebar to open earlier chats. A chat retains its selected report so it cannot be changed mid-conversation.\nTags: recent, history, chat",
+    "knowledge_type": "general"
   },
   {
     "id": "help_009",
-    "title": "Using Help mode",
-    "content": "Choose Help mode in the interface when you want instructions about using the application. Help requests are explicit and report-scoped; the base intent classifier does not decide help automatically.",
+    "title": "Refining an earlier data result",
+    "content": "If an existing Ask result supports feedback, use its reply or modify action to describe the change you want. This can reconstruct and rerun the selected data question.",
     "tags": [
-      "help",
-      "instructions",
-      "mode"
+      "feedback",
+      "modify",
+      "reply"
     ],
-    "retrieval_text": "Title: Using Help mode\nContent: Choose Help mode in the interface when you want instructions about using the application. Help requests are explicit and report-scoped; the base intent classifier does not decide help automatically.\nTags: help, instructions, mode"
+    "retrieval_text": "Title: Refining an earlier data result\nContent: If an existing Ask result supports feedback, use its reply or modify action to describe the change you want. This can reconstruct and rerun the selected data question.\nTags: feedback, modify, reply",
+    "knowledge_type": "general"
   },
   {
     "id": "help_010",
-    "title": "Unsupported contextual messages",
-    "content": "A normal message such as make that top 10 or use the other buyer is not treated as feedback by itself. Use Reply on the exact previous result so the backend receives an explicit feedback request.",
+    "title": "Viewing detailed results",
+    "content": "When the assistant provides a data table, use the available table action to view the detailed breakdown. Explanations in chat summarize the business information rather than showing every record.",
     "tags": [
-      "unknown",
-      "feedback",
-      "reply"
+      "table",
+      "results",
+      "details"
     ],
-    "retrieval_text": "Title: Unsupported contextual messages\nContent: A normal message such as make that top 10 or use the other buyer is not treated as feedback by itself. Use Reply on the exact previous result so the backend receives an explicit feedback request.\nTags: unknown, feedback, reply"
+    "retrieval_text": "Title: Viewing detailed results\nContent: When the assistant provides a data table, use the available table action to view the detailed breakdown. Explanations in chat summarize the business information rather than showing every record.\nTags: table, results, details",
+    "knowledge_type": "general"
   },
   {
     "id": "help_011",
-    "title": "Starting a different request",
-    "content": "Send a complete standalone request as a normal message. Previous conversation does not automatically change its meaning or make it a follow-up.",
+    "title": "When an explanation is unclear",
+    "content": "If you are unsure about a variable, use Help. If a column heading or term in a report result is unfamiliar, use Report Terms. If you want actual business values or calculations, use Ask.",
     "tags": [
-      "new request",
-      "conversation",
-      "standalone"
+      "help",
+      "report terms",
+      "ask",
+      "modes"
     ],
-    "retrieval_text": "Title: Starting a different request\nContent: Send a complete standalone request as a normal message. Previous conversation does not automatically change its meaning or make it a follow-up.\nTags: new request, conversation, standalone"
+    "retrieval_text": "Title: When an explanation is unclear\nContent: If you are unsure about a variable, use Help. If a column heading or term in a report result is unfamiliar, use Report Terms. If you want actual business values or calculations, use Ask.\nTags: help, report terms, ask, modes",
+    "knowledge_type": "general"
   },
   {
-    "id": "help_012",
-    "title": "When a normal request is unknown",
-    "content": "If a normal message is neither a greeting nor a complete standalone data request, the base classifier returns unknown. Select Help or Metadata mode when appropriate, or explicitly reply to a previous result for feedback.",
+    "id": "report_var_0001",
+    "title": "buyer variable in Inventory Report",
+    "content": "IT SHOWS THE NAME OF THE BUYER RESONSIBLE FOR PURCHASING THE ITEM",
+    "report_name": "Inventory Report",
+    "variable_name": "buyer",
+    "knowledge_type": "report_variable",
     "tags": [
-      "unknown",
-      "help",
-      "metadata",
-      "feedback"
+      "buyer",
+      "Inventory Report",
+      "variable definition"
     ],
-    "retrieval_text": "Title: When a normal request is unknown\nContent: If a normal message is neither a greeting nor a complete standalone data request, the base classifier returns unknown. Select Help or Metadata mode when appropriate, or explicitly reply to a previous result for feedback.\nTags: unknown, help, metadata, feedback"
+    "retrieval_text": "Report: Inventory Report\nVariable: buyer\nDescription: IT SHOWS THE NAME OF THE BUYER RESONSIBLE FOR PURCHASING THE ITEM"
+  },
+  {
+    "id": "report_var_0002",
+    "title": "days variable in Inventory Report",
+    "content": "LEAD TIME FOR PROCURING THE CHILD ITEM . USAUALLY MENTIONED IN DAYS (PROCUREMENT LEAD TIME)",
+    "report_name": "Inventory Report",
+    "variable_name": "days",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "days",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: days\nDescription: LEAD TIME FOR PROCURING THE CHILD ITEM . USAUALLY MENTIONED IN DAYS (PROCUREMENT LEAD TIME)"
+  },
+  {
+    "id": "report_var_0003",
+    "title": "item variable in Inventory Report",
+    "content": "IT SHOWS IN TERMS OF ITEM CODE OF THE CHILD ITEM",
+    "report_name": "Inventory Report",
+    "variable_name": "item",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: item\nDescription: IT SHOWS IN TERMS OF ITEM CODE OF THE CHILD ITEM"
+  },
+  {
+    "id": "report_var_0004",
+    "title": "item_cost variable in Inventory Report",
+    "content": "IT IS STANDARD COST OF THE ITEM.",
+    "report_name": "Inventory Report",
+    "variable_name": "item_cost",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_cost",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: item_cost\nDescription: IT IS STANDARD COST OF THE ITEM."
+  },
+  {
+    "id": "report_var_0005",
+    "title": "item_description variable in Inventory Report",
+    "content": "DESCRIBING OF THE CHILD ITEM",
+    "report_name": "Inventory Report",
+    "variable_name": "item_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_description",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: item_description\nDescription: DESCRIBING OF THE CHILD ITEM"
+  },
+  {
+    "id": "report_var_0006",
+    "title": "item_type variable in Inventory Report",
+    "content": "IT IS A TEMPLATE OF CHILD ITEM",
+    "report_name": "Inventory Report",
+    "variable_name": "item_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_type",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: item_type\nDescription: IT IS A TEMPLATE OF CHILD ITEM"
+  },
+  {
+    "id": "report_var_0007",
+    "title": "product_group variable in Inventory Report",
+    "content": "IT IS A PRODUCT GROUP",
+    "report_name": "Inventory Report",
+    "variable_name": "product_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_group",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: product_group\nDescription: IT IS A PRODUCT GROUP"
+  },
+  {
+    "id": "report_var_0008",
+    "title": "product_model variable in Inventory Report",
+    "content": "SHOWS THE MODEL NUMBER",
+    "report_name": "Inventory Report",
+    "variable_name": "product_model",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_model",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: product_model\nDescription: SHOWS THE MODEL NUMBER"
+  },
+  {
+    "id": "report_var_0009",
+    "title": "quantity variable in Inventory Report",
+    "content": "THIS TRACKS BULK PURCHASE ALLOCATIONS TO A BIN, SETS THE MINIMUM AND MAXIMUM ORDER LIMITS FOR A CHILD ITEM, AND MONITORS BOTH ITS CURRENT-MONTH REQUIRED QUANTITY AND REMAINING POST-ALLOCATION BALANCE.",
+    "report_name": "Inventory Report",
+    "variable_name": "quantity",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "quantity",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: quantity\nDescription: THIS TRACKS BULK PURCHASE ALLOCATIONS TO A BIN, SETS THE MINIMUM AND MAXIMUM ORDER LIMITS FOR A CHILD ITEM, AND MONITORS BOTH ITS CURRENT-MONTH REQUIRED QUANTITY AND REMAINING POST-ALLOCATION BALANCE."
+  },
+  {
+    "id": "report_var_0010",
+    "title": "reason variable in Inventory Report",
+    "content": "REASONS OR CODE OF DESCRIPTION. FIXED REASONS",
+    "report_name": "Inventory Report",
+    "variable_name": "reason",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "reason",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: reason\nDescription: REASONS OR CODE OF DESCRIPTION. FIXED REASONS"
+  },
+  {
+    "id": "report_var_0011",
+    "title": "req_qty_month variable in Inventory Report",
+    "content": "THE REQUIRED QUANTITY MAPPED ACROSS MONTHLY BREAKDOWNS",
+    "report_name": "Inventory Report",
+    "variable_name": "req_qty_month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "req_qty_month",
+      "Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Inventory Report\nVariable: req_qty_month\nDescription: THE REQUIRED QUANTITY MAPPED ACROSS MONTHLY BREAKDOWNS"
+  },
+  {
+    "id": "report_var_0012",
+    "title": "buyer variable in Buyer Wise Inventory Report",
+    "content": "SHOWS THE NAME OF BUYER",
+    "report_name": "Buyer Wise Inventory Report",
+    "variable_name": "buyer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "buyer",
+      "Buyer Wise Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyer Wise Inventory Report\nVariable: buyer\nDescription: SHOWS THE NAME OF BUYER"
+  },
+  {
+    "id": "report_var_0013",
+    "title": "month variable in Buyer Wise Inventory Report",
+    "content": "SHOWS THE MONTH",
+    "report_name": "Buyer Wise Inventory Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "Buyer Wise Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyer Wise Inventory Report\nVariable: month\nDescription: SHOWS THE MONTH"
+  },
+  {
+    "id": "report_var_0014",
+    "title": "org_name variable in Buyer Wise Inventory Report",
+    "content": "NAME OF THE ORGANISATION. (ACD - SPARES , TRM - RAIL, ACD - CENTRI, ACD - RECIP, ACD - SCREW, TRM - GEAR BOX, TRM - DEFENCE, ACD - GSU)",
+    "report_name": "Buyer Wise Inventory Report",
+    "variable_name": "org_name",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "org_name",
+      "Buyer Wise Inventory Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyer Wise Inventory Report\nVariable: org_name\nDescription: NAME OF THE ORGANISATION. (ACD - SPARES , TRM - RAIL, ACD - CENTRI, ACD - RECIP, ACD - SCREW, TRM - GEAR BOX, TRM - DEFENCE, ACD - GSU)"
+  },
+  {
+    "id": "report_var_0015",
+    "title": "bom_count variable in Order Report",
+    "content": "RECORD THE BILL OF MATERIAL ( BOM ) COUNT.",
+    "report_name": "Order Report",
+    "variable_name": "bom_count",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "bom_count",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: bom_count\nDescription: RECORD THE BILL OF MATERIAL ( BOM ) COUNT."
+  },
+  {
+    "id": "report_var_0016",
+    "title": "buyer variable in Order Report",
+    "content": "SHOWS THE BUYER",
+    "report_name": "Order Report",
+    "variable_name": "buyer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "buyer",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: buyer\nDescription: SHOWS THE BUYER"
+  },
+  {
+    "id": "report_var_0017",
+    "title": "customer variable in Order Report",
+    "content": "COMPANY NAME ( CUSTOMER)",
+    "report_name": "Order Report",
+    "variable_name": "customer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "customer",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: customer\nDescription: COMPANY NAME ( CUSTOMER)"
+  },
+  {
+    "id": "report_var_0018",
+    "title": "days variable in Order Report",
+    "content": "MAXIMUM LEAD TIME AMONG ALL THE CHILD ITEM",
+    "report_name": "Order Report",
+    "variable_name": "days",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "days",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: days\nDescription: MAXIMUM LEAD TIME AMONG ALL THE CHILD ITEM"
+  },
+  {
+    "id": "report_var_0019",
+    "title": "full_kit variable in Order Report",
+    "content": "THE NAME OF THE FULL KIT .",
+    "report_name": "Order Report",
+    "variable_name": "full_kit",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "full_kit",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: full_kit\nDescription: THE NAME OF THE FULL KIT ."
+  },
+  {
+    "id": "report_var_0020",
+    "title": "item_cost variable in Order Report",
+    "content": "SHOWS COST OF THE ITEM ( ITEM COST)",
+    "report_name": "Order Report",
+    "variable_name": "item_cost",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_cost",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: item_cost\nDescription: SHOWS COST OF THE ITEM ( ITEM COST)"
+  },
+  {
+    "id": "report_var_0021",
+    "title": "item_description variable in Order Report",
+    "content": "DESCRIPTION OF THE ITEM IN THE INVENTORY",
+    "report_name": "Order Report",
+    "variable_name": "item_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_description",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: item_description\nDescription: DESCRIPTION OF THE ITEM IN THE INVENTORY"
+  },
+  {
+    "id": "report_var_0022",
+    "title": "item_type variable in Order Report",
+    "content": "TYPE OF ITEM",
+    "report_name": "Order Report",
+    "variable_name": "item_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_type",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: item_type\nDescription: TYPE OF ITEM"
+  },
+  {
+    "id": "report_var_0023",
+    "title": "month variable in Order Report",
+    "content": "TARGET MONTH BY WHICH THE ITEM OR COMPONENT IS REQUIRED.",
+    "report_name": "Order Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: month\nDescription: TARGET MONTH BY WHICH THE ITEM OR COMPONENT IS REQUIRED."
+  },
+  {
+    "id": "report_var_0024",
+    "title": "oa_colour variable in Order Report",
+    "content": "SHOWS DIFFERNT ORDER ACCEPTANCE COLOUR DEPENDING ON THE AVAILABILITY. COLOR : BLACK- DELAYED RED - RISK OF DELAY YELLOW- DUE GREEN- IN TIME WHITE - NOT DUE, DO NOT INWARD ORGANGE - FULL AVAILABILITY",
+    "report_name": "Order Report",
+    "variable_name": "oa_colour",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_colour",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: oa_colour\nDescription: SHOWS DIFFERNT ORDER ACCEPTANCE COLOUR DEPENDING ON THE AVAILABILITY. COLOR : BLACK- DELAYED RED - RISK OF DELAY YELLOW- DUE GREEN- IN TIME WHITE - NOT DUE, DO NOT INWARD ORGANGE - FULL AVAILABILITY"
+  },
+  {
+    "id": "report_var_0025",
+    "title": "oa_number variable in Order Report",
+    "content": "ORDER ACCEPTANCE NUMBER",
+    "report_name": "Order Report",
+    "variable_name": "oa_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_number",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: oa_number\nDescription: ORDER ACCEPTANCE NUMBER"
+  },
+  {
+    "id": "report_var_0026",
+    "title": "order_type variable in Order Report",
+    "content": "TYPE OF ORDER",
+    "report_name": "Order Report",
+    "variable_name": "order_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "order_type",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: order_type\nDescription: TYPE OF ORDER"
+  },
+  {
+    "id": "report_var_0027",
+    "title": "parent_item variable in Order Report",
+    "content": "STANDARD BILL OF MATERIAL NUMBER (SBM NUMBER) / ITEM CODE / ITEM NUMBER / SBM ID",
+    "report_name": "Order Report",
+    "variable_name": "parent_item",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "parent_item",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: parent_item\nDescription: STANDARD BILL OF MATERIAL NUMBER (SBM NUMBER) / ITEM CODE / ITEM NUMBER / SBM ID"
+  },
+  {
+    "id": "report_var_0028",
+    "title": "product_group variable in Order Report",
+    "content": "DIFFERNT GROUP UNDER WHICH THE PRODUCTS ARE CATEGORIZED",
+    "report_name": "Order Report",
+    "variable_name": "product_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_group",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: product_group\nDescription: DIFFERNT GROUP UNDER WHICH THE PRODUCTS ARE CATEGORIZED"
+  },
+  {
+    "id": "report_var_0029",
+    "title": "product_model variable in Order Report",
+    "content": "PRODUCT MODEL",
+    "report_name": "Order Report",
+    "variable_name": "product_model",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_model",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: product_model\nDescription: PRODUCT MODEL"
+  },
+  {
+    "id": "report_var_0030",
+    "title": "quantity variable in Order Report",
+    "content": "SHOWS THE LINE QUANTITY OF THE COMPONENTS IN THE ORDER.; SALES ORDER QUANTITY",
+    "report_name": "Order Report",
+    "variable_name": "quantity",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "quantity",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: quantity\nDescription: SHOWS THE LINE QUANTITY OF THE COMPONENTS IN THE ORDER.; SALES ORDER QUANTITY"
+  },
+  {
+    "id": "report_var_0031",
+    "title": "sub_full_kit variable in Order Report",
+    "content": "INDICATES THE SUB-FULL-KIT OR IDENTIFIER ASSOCIATED WITH THE FULL KIT",
+    "report_name": "Order Report",
+    "variable_name": "sub_full_kit",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "sub_full_kit",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: sub_full_kit\nDescription: INDICATES THE SUB-FULL-KIT OR IDENTIFIER ASSOCIATED WITH THE FULL KIT"
+  },
+  {
+    "id": "report_var_0032",
+    "title": "date variable in Order Report",
+    "content": "NEED BY DATE OF ORDER",
+    "report_name": "Order Report",
+    "variable_name": "date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "date",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: date\nDescription: NEED BY DATE OF ORDER"
+  },
+  {
+    "id": "report_var_0033",
+    "title": "month variable in Order Report",
+    "content": "SHOWS THE MONTH",
+    "report_name": "Order Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: month\nDescription: SHOWS THE MONTH"
+  },
+  {
+    "id": "report_var_0034",
+    "title": "year variable in Order Report",
+    "content": "SHOWS THE YEAR",
+    "report_name": "Order Report",
+    "variable_name": "year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year",
+      "Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Order Report\nVariable: year\nDescription: SHOWS THE YEAR"
+  },
+  {
+    "id": "report_var_0035",
+    "title": "bom_level variable in BOM Report",
+    "content": "DIFFERENT LEVELS UNDER THE BOM , EACH LEVELS HAVE SUB- LEVELS",
+    "report_name": "BOM Report",
+    "variable_name": "bom_level",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "bom_level",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: bom_level\nDescription: DIFFERENT LEVELS UNDER THE BOM , EACH LEVELS HAVE SUB- LEVELS"
+  },
+  {
+    "id": "report_var_0036",
+    "title": "buyer variable in BOM Report",
+    "content": "NAME OF THE BUYER",
+    "report_name": "BOM Report",
+    "variable_name": "buyer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "buyer",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: buyer\nDescription: NAME OF THE BUYER"
+  },
+  {
+    "id": "report_var_0037",
+    "title": "category variable in BOM Report",
+    "content": "CATEGORY OF THE CHILD ITEM",
+    "report_name": "BOM Report",
+    "variable_name": "category",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "category",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: category\nDescription: CATEGORY OF THE CHILD ITEM"
+  },
+  {
+    "id": "report_var_0038",
+    "title": "child_description variable in BOM Report",
+    "content": "SHOWS CHILD ITEM NAME",
+    "report_name": "BOM Report",
+    "variable_name": "child_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "child_description",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: child_description\nDescription: SHOWS CHILD ITEM NAME"
+  },
+  {
+    "id": "report_var_0039",
+    "title": "child_item variable in BOM Report",
+    "content": "CONTAINS THE ITEM CODE",
+    "report_name": "BOM Report",
+    "variable_name": "child_item",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "child_item",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: child_item\nDescription: CONTAINS THE ITEM CODE"
+  },
+  {
+    "id": "report_var_0040",
+    "title": "child_item_type variable in BOM Report",
+    "content": "CHILD ITEM TYPE",
+    "report_name": "BOM Report",
+    "variable_name": "child_item_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "child_item_type",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: child_item_type\nDescription: CHILD ITEM TYPE"
+  },
+  {
+    "id": "report_var_0041",
+    "title": "compile_designator variable in BOM Report",
+    "content": "COMPILE_DESIGNATOR (NAME OF MRP) MPS, MRP or DRP plan identifier",
+    "report_name": "BOM Report",
+    "variable_name": "compile_designator",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "compile_designator",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: compile_designator\nDescription: COMPILE_DESIGNATOR (NAME OF MRP) MPS, MRP or DRP plan identifier"
+  },
+  {
+    "id": "report_var_0042",
+    "title": "customer variable in BOM Report",
+    "content": "NAME OF THE CUSTOMER",
+    "report_name": "BOM Report",
+    "variable_name": "customer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "customer",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: customer\nDescription: NAME OF THE CUSTOMER"
+  },
+  {
+    "id": "report_var_0043",
+    "title": "days variable in BOM Report",
+    "content": "MANUFACTURING LEAD TIME (FOR MAKE ITEMS) OR PURCHASING LEAD TIME (FOR BUY ITEMS), MEASURED IN DAYS.",
+    "report_name": "BOM Report",
+    "variable_name": "days",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "days",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: days\nDescription: MANUFACTURING LEAD TIME (FOR MAKE ITEMS) OR PURCHASING LEAD TIME (FOR BUY ITEMS), MEASURED IN DAYS."
+  },
+  {
+    "id": "report_var_0044",
+    "title": "delivery_date variable in BOM Report",
+    "content": "ORDER PROMISE DATE / CDD( CUSTOMER DELIVERY DATE)",
+    "report_name": "BOM Report",
+    "variable_name": "delivery_date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "delivery_date",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: delivery_date\nDescription: ORDER PROMISE DATE / CDD( CUSTOMER DELIVERY DATE)"
+  },
+  {
+    "id": "report_var_0045",
+    "title": "expected_date_color variable in BOM Report",
+    "content": "(CURRENT EXPECTED DATE COLOUR) SHOWING THE SHORTAGE OF ITEM DELIVERY IS COMMUNICATED BETWEEN BUYER AND SUPPLIER",
+    "report_name": "BOM Report",
+    "variable_name": "expected_date_color",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "expected_date_color",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: expected_date_color\nDescription: (CURRENT EXPECTED DATE COLOUR) SHOWING THE SHORTAGE OF ITEM DELIVERY IS COMMUNICATED BETWEEN BUYER AND SUPPLIER"
+  },
+  {
+    "id": "report_var_0046",
+    "title": "full_kit variable in BOM Report",
+    "content": "NAME OF THE FULLKIT",
+    "report_name": "BOM Report",
+    "variable_name": "full_kit",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "full_kit",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: full_kit\nDescription: NAME OF THE FULLKIT"
+  },
+  {
+    "id": "report_var_0047",
+    "title": "inventory_planning_code variable in BOM Report",
+    "content": "CODE OF INVENTORY PLANNING (MIN_MAX / REORDER)",
+    "report_name": "BOM Report",
+    "variable_name": "inventory_planning_code",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "inventory_planning_code",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: inventory_planning_code\nDescription: CODE OF INVENTORY PLANNING (MIN_MAX / REORDER)"
+  },
+  {
+    "id": "report_var_0048",
+    "title": "oa_colour variable in BOM Report",
+    "content": "DIFFERNT ORDER ACCEPTANCE COLOUR DEPENDING ON THE AVAILABILITY. COLOR : BLACK- DELAYED RED - RISK OF DELAY YELLOW- DUE DELIVERY GREEN- IN TIME WHITE - NOT DUE ORANGE - FULL AVAILABILITY",
+    "report_name": "BOM Report",
+    "variable_name": "oa_colour",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_colour",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: oa_colour\nDescription: DIFFERNT ORDER ACCEPTANCE COLOUR DEPENDING ON THE AVAILABILITY. COLOR : BLACK- DELAYED RED - RISK OF DELAY YELLOW- DUE DELIVERY GREEN- IN TIME WHITE - NOT DUE ORANGE - FULL AVAILABILITY"
+  },
+  {
+    "id": "report_var_0049",
+    "title": "oa_need_by_date variable in BOM Report",
+    "content": "ORDER NEED BY DATE",
+    "report_name": "BOM Report",
+    "variable_name": "oa_need_by_date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_need_by_date",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: oa_need_by_date\nDescription: ORDER NEED BY DATE"
+  },
+  {
+    "id": "report_var_0050",
+    "title": "oa_number variable in BOM Report",
+    "content": "ORDER NUMBER",
+    "report_name": "BOM Report",
+    "variable_name": "oa_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_number",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: oa_number\nDescription: ORDER NUMBER"
+  },
+  {
+    "id": "report_var_0051",
+    "title": "order_type_text variable in BOM Report",
+    "content": "OA TYPES",
+    "report_name": "BOM Report",
+    "variable_name": "order_type_text",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "order_type_text",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: order_type_text\nDescription: OA TYPES"
+  },
+  {
+    "id": "report_var_0052",
+    "title": "org_name variable in BOM Report",
+    "content": "NAME OF THE ORGANISATION",
+    "report_name": "BOM Report",
+    "variable_name": "org_name",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "org_name",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: org_name\nDescription: NAME OF THE ORGANISATION"
+  },
+  {
+    "id": "report_var_0053",
+    "title": "parent_description variable in BOM Report",
+    "content": "SHOWS PARENT ITEM NAME",
+    "report_name": "BOM Report",
+    "variable_name": "parent_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "parent_description",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: parent_description\nDescription: SHOWS PARENT ITEM NAME"
+  },
+  {
+    "id": "report_var_0054",
+    "title": "parent_item variable in BOM Report",
+    "content": "PARENT ITEM CODE",
+    "report_name": "BOM Report",
+    "variable_name": "parent_item",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "parent_item",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: parent_item\nDescription: PARENT ITEM CODE"
+  },
+  {
+    "id": "report_var_0055",
+    "title": "product_group variable in BOM Report",
+    "content": "PRODUCT GROUP",
+    "report_name": "BOM Report",
+    "variable_name": "product_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_group",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: product_group\nDescription: PRODUCT GROUP"
+  },
+  {
+    "id": "report_var_0056",
+    "title": "product_model variable in BOM Report",
+    "content": "PRODUCT MODEL",
+    "report_name": "BOM Report",
+    "variable_name": "product_model",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_model",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: product_model\nDescription: PRODUCT MODEL"
+  },
+  {
+    "id": "report_var_0057",
+    "title": "quantity variable in BOM Report",
+    "content": "AVAILABLE PARENT ITEM STOCK, INCLUDING ITEMS IN RECEIVING AWAITING INSPECTION.",
+    "report_name": "BOM Report",
+    "variable_name": "quantity",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "quantity",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: quantity\nDescription: AVAILABLE PARENT ITEM STOCK, INCLUDING ITEMS IN RECEIVING AWAITING INSPECTION."
+  },
+  {
+    "id": "report_var_0058",
+    "title": "ssd variable in BOM Report",
+    "content": "SCHEDULE SHIP DATE ( SSD)",
+    "report_name": "BOM Report",
+    "variable_name": "ssd",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "ssd",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: ssd\nDescription: SCHEDULE SHIP DATE ( SSD)"
+  },
+  {
+    "id": "report_var_0059",
+    "title": "sub_full_kit variable in BOM Report",
+    "content": "INDICATES THE SUB-FULL-KIT OR IDENTIFIER ASSOCIATED WITH THE FULL KIT",
+    "report_name": "BOM Report",
+    "variable_name": "sub_full_kit",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "sub_full_kit",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: sub_full_kit\nDescription: INDICATES THE SUB-FULL-KIT OR IDENTIFIER ASSOCIATED WITH THE FULL KIT"
+  },
+  {
+    "id": "report_var_0060",
+    "title": "supplier variable in BOM Report",
+    "content": "NAME OF THE VENDOR",
+    "report_name": "BOM Report",
+    "variable_name": "supplier",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "supplier",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: supplier\nDescription: NAME OF THE VENDOR"
+  },
+  {
+    "id": "report_var_0061",
+    "title": "uom variable in BOM Report",
+    "content": "UNIT OF MEASURMENT",
+    "report_name": "BOM Report",
+    "variable_name": "uom",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "uom",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: uom\nDescription: UNIT OF MEASURMENT"
+  },
+  {
+    "id": "report_var_0062",
+    "title": "month variable in BOM Report",
+    "content": "SHOWS MONTH OF NEED BY DATE",
+    "report_name": "BOM Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: month\nDescription: SHOWS MONTH OF NEED BY DATE"
+  },
+  {
+    "id": "report_var_0063",
+    "title": "year variable in BOM Report",
+    "content": "SHOWS YEAR OF NEED BY DATE",
+    "report_name": "BOM Report",
+    "variable_name": "year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year",
+      "BOM Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: BOM Report\nVariable: year\nDescription: SHOWS YEAR OF NEED BY DATE"
+  },
+  {
+    "id": "report_var_0064",
+    "title": "amount variable in Purchase Order Report",
+    "content": "DUE AMOUNT ( DUE QUANTITY * UNIT PRICE)",
+    "report_name": "Purchase Order Report",
+    "variable_name": "amount",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "amount",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: amount\nDescription: DUE AMOUNT ( DUE QUANTITY * UNIT PRICE)"
+  },
+  {
+    "id": "report_var_0065",
+    "title": "approval_status variable in Purchase Order Report",
+    "content": "PO AUTHORISATION STATUS ( APPROVED OR NOT)",
+    "report_name": "Purchase Order Report",
+    "variable_name": "approval_status",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "approval_status",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: approval_status\nDescription: PO AUTHORISATION STATUS ( APPROVED OR NOT)"
+  },
+  {
+    "id": "report_var_0066",
+    "title": "buyer variable in Purchase Order Report",
+    "content": "NAME OF THE BUYER",
+    "report_name": "Purchase Order Report",
+    "variable_name": "buyer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "buyer",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: buyer\nDescription: NAME OF THE BUYER"
+  },
+  {
+    "id": "report_var_0067",
+    "title": "currency variable in Purchase Order Report",
+    "content": "CURRENCY OF THE PURCHASE ORDER",
+    "report_name": "Purchase Order Report",
+    "variable_name": "currency",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "currency",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: currency\nDescription: CURRENCY OF THE PURCHASE ORDER"
+  },
+  {
+    "id": "report_var_0068",
+    "title": "customer variable in Purchase Order Report",
+    "content": "CUSTOMER NAME",
+    "report_name": "Purchase Order Report",
+    "variable_name": "customer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "customer",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: customer\nDescription: CUSTOMER NAME"
+  },
+  {
+    "id": "report_var_0069",
+    "title": "date variable in Purchase Order Report",
+    "content": "PROMISE DATE OF DELIVERY OR CREATION DATE OF THE PURCHASE ORDER",
+    "report_name": "Purchase Order Report",
+    "variable_name": "date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "date",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: date\nDescription: PROMISE DATE OF DELIVERY OR CREATION DATE OF THE PURCHASE ORDER"
+  },
+  {
+    "id": "report_var_0070",
+    "title": "days variable in Purchase Order Report",
+    "content": "LEAD TIME (BOM LEAD TIME)",
+    "report_name": "Purchase Order Report",
+    "variable_name": "days",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "days",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: days\nDescription: LEAD TIME (BOM LEAD TIME)"
+  },
+  {
+    "id": "report_var_0071",
+    "title": "full_kit variable in Purchase Order Report",
+    "content": "ITEM FULLKIT NAME",
+    "report_name": "Purchase Order Report",
+    "variable_name": "full_kit",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "full_kit",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: full_kit\nDescription: ITEM FULLKIT NAME"
+  },
+  {
+    "id": "report_var_0072",
+    "title": "item_category variable in Purchase Order Report",
+    "content": "ITEM CATEGORY",
+    "report_name": "Purchase Order Report",
+    "variable_name": "item_category",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_category",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: item_category\nDescription: ITEM CATEGORY"
+  },
+  {
+    "id": "report_var_0073",
+    "title": "item_code variable in Purchase Order Report",
+    "content": "UNIQUE CODE OF THE ITEM",
+    "report_name": "Purchase Order Report",
+    "variable_name": "item_code",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_code",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: item_code\nDescription: UNIQUE CODE OF THE ITEM"
+  },
+  {
+    "id": "report_var_0074",
+    "title": "month variable in Purchase Order Report",
+    "content": "EXPECTED DELIVERY OR PO CREATION MONTH",
+    "report_name": "Purchase Order Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: month\nDescription: EXPECTED DELIVERY OR PO CREATION MONTH"
+  },
+  {
+    "id": "report_var_0075",
+    "title": "po_number variable in Purchase Order Report",
+    "content": "PURCHASE ORDER NUMBER",
+    "report_name": "Purchase Order Report",
+    "variable_name": "po_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "po_number",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: po_number\nDescription: PURCHASE ORDER NUMBER"
+  },
+  {
+    "id": "report_var_0076",
+    "title": "product_group variable in Purchase Order Report",
+    "content": "PRODUCT GROUP",
+    "report_name": "Purchase Order Report",
+    "variable_name": "product_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_group",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: product_group\nDescription: PRODUCT GROUP"
+  },
+  {
+    "id": "report_var_0077",
+    "title": "product_model variable in Purchase Order Report",
+    "content": "COMPRESSOR MODEL",
+    "report_name": "Purchase Order Report",
+    "variable_name": "product_model",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_model",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: product_model\nDescription: COMPRESSOR MODEL"
+  },
+  {
+    "id": "report_var_0078",
+    "title": "quantity variable in Purchase Order Report",
+    "content": "TOTAL, REQUIRED, OR PENDING ITEM QUANTITY ACROSS STOCK, WIP, REJECTION, OUTSIDE PROCESSING, ASN, GRN, AND PO STAGES.",
+    "report_name": "Purchase Order Report",
+    "variable_name": "quantity",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "quantity",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: quantity\nDescription: TOTAL, REQUIRED, OR PENDING ITEM QUANTITY ACROSS STOCK, WIP, REJECTION, OUTSIDE PROCESSING, ASN, GRN, AND PO STAGES."
+  },
+  {
+    "id": "report_var_0079",
+    "title": "supplier variable in Purchase Order Report",
+    "content": "SUPPLIER NAME",
+    "report_name": "Purchase Order Report",
+    "variable_name": "supplier",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "supplier",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: supplier\nDescription: SUPPLIER NAME"
+  },
+  {
+    "id": "report_var_0080",
+    "title": "year variable in Purchase Order Report",
+    "content": "EXPECTED DELIVERY OR PURCHASE ORDER CREATION YEAR.",
+    "report_name": "Purchase Order Report",
+    "variable_name": "year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year",
+      "Purchase Order Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Purchase Order Report\nVariable: year\nDescription: EXPECTED DELIVERY OR PURCHASE ORDER CREATION YEAR."
+  },
+  {
+    "id": "report_var_0081",
+    "title": "division_code variable in Docket Report",
+    "content": "DIVISION OF MACHINES (RESOURCES)",
+    "report_name": "Docket Report",
+    "variable_name": "division_code",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "division_code",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: division_code\nDescription: DIVISION OF MACHINES (RESOURCES)"
+  },
+  {
+    "id": "report_var_0082",
+    "title": "fin_year variable in Docket Report",
+    "content": "FINANCIAL YEAR",
+    "report_name": "Docket Report",
+    "variable_name": "fin_year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "fin_year",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: fin_year\nDescription: FINANCIAL YEAR"
+  },
+  {
+    "id": "report_var_0083",
+    "title": "idle_reason variable in Docket Report",
+    "content": "MACHINE DOWNTIME REASON",
+    "report_name": "Docket Report",
+    "variable_name": "idle_reason",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "idle_reason",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: idle_reason\nDescription: MACHINE DOWNTIME REASON"
+  },
+  {
+    "id": "report_var_0084",
+    "title": "minutes variable in Docket Report",
+    "content": "IN TERMS OF MACHINE ( IN TERMS OF TIME - IN MINS",
+    "report_name": "Docket Report",
+    "variable_name": "minutes",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "minutes",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: minutes\nDescription: IN TERMS OF MACHINE ( IN TERMS OF TIME - IN MINS"
+  },
+  {
+    "id": "report_var_0085",
+    "title": "month_period variable in Docket Report",
+    "content": "REPRESENTS A SPECIFIC CALENDAR MONTH OR FISCAL MONTH. IT IS USED FOR MONTHLY REPORTING, AGGREGATIONS, AND TRENDS.",
+    "report_name": "Docket Report",
+    "variable_name": "month_period",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month_period",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: month_period\nDescription: REPRESENTS A SPECIFIC CALENDAR MONTH OR FISCAL MONTH. IT IS USED FOR MONTHLY REPORTING, AGGREGATIONS, AND TRENDS."
+  },
+  {
+    "id": "report_var_0086",
+    "title": "org_name variable in Docket Report",
+    "content": "NAME OF THE ORGANISATION. (ACD - SPARES , TRM - RAIL, ACD - CENTRI, ACD - RECIP, ACD - SCREW, TRM - GEAR BOX, TRM - DEFENCE, ACD - GSU)",
+    "report_name": "Docket Report",
+    "variable_name": "org_name",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "org_name",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: org_name\nDescription: NAME OF THE ORGANISATION. (ACD - SPARES , TRM - RAIL, ACD - CENTRI, ACD - RECIP, ACD - SCREW, TRM - GEAR BOX, TRM - DEFENCE, ACD - GSU)"
+  },
+  {
+    "id": "report_var_0087",
+    "title": "percentage variable in Docket Report",
+    "content": "(SETTING + OPERATION TIME)",
+    "report_name": "Docket Report",
+    "variable_name": "percentage",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "percentage",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: percentage\nDescription: (SETTING + OPERATION TIME)"
+  },
+  {
+    "id": "report_var_0088",
+    "title": "performance_index variable in Docket Report",
+    "content": "ACTUAL PERFORMANCE( PRODUCED / PRESENT)",
+    "report_name": "Docket Report",
+    "variable_name": "performance_index",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "performance_index",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: performance_index\nDescription: ACTUAL PERFORMANCE( PRODUCED / PRESENT)"
+  },
+  {
+    "id": "report_var_0089",
+    "title": "quantity variable in Docket Report",
+    "content": "QTY OF FINISHED PRODUCT FOR THE PARTICULAR OPERATION",
+    "report_name": "Docket Report",
+    "variable_name": "quantity",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "quantity",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: quantity\nDescription: QTY OF FINISHED PRODUCT FOR THE PARTICULAR OPERATION"
+  },
+  {
+    "id": "report_var_0090",
+    "title": "res_div variable in Docket Report",
+    "content": "RESOURCE DIVISION . IT INDICATE THE ACTUAL MACHINE DIVIDED INTO DIFFERENT CATEGORIES ACCORDING TO ITS TYPE.",
+    "report_name": "Docket Report",
+    "variable_name": "res_div",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "res_div",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: res_div\nDescription: RESOURCE DIVISION . IT INDICATE THE ACTUAL MACHINE DIVIDED INTO DIFFERENT CATEGORIES ACCORDING TO ITS TYPE."
+  },
+  {
+    "id": "report_var_0091",
+    "title": "resource_code variable in Docket Report",
+    "content": "RESOURCE CODE",
+    "report_name": "Docket Report",
+    "variable_name": "resource_code",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "resource_code",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: resource_code\nDescription: RESOURCE CODE"
+  },
+  {
+    "id": "report_var_0092",
+    "title": "resource_description variable in Docket Report",
+    "content": "RESOURCE NAME",
+    "report_name": "Docket Report",
+    "variable_name": "resource_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "resource_description",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: resource_description\nDescription: RESOURCE NAME"
+  },
+  {
+    "id": "report_var_0093",
+    "title": "week_period variable in Docket Report",
+    "content": "REPRESENTS A SPECIFIC 7-DAY WEEK WITHIN A YEAR. IT IS USED TO GROUP OR FILTER DOCKET DATA ON A WEEKLY BASIS.",
+    "report_name": "Docket Report",
+    "variable_name": "week_period",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "week_period",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: week_period\nDescription: REPRESENTS A SPECIFIC 7-DAY WEEK WITHIN A YEAR. IT IS USED TO GROUP OR FILTER DOCKET DATA ON A WEEKLY BASIS."
+  },
+  {
+    "id": "report_var_0094",
+    "title": "year_period variable in Docket Report",
+    "content": "REPRESENTS AN ENTIRE CALENDAR YEAR OR FINANCIAL/FISCAL YEAR. IT IS USED FOR HIGH-LEVEL, LONG-TERM SUMMARIES",
+    "report_name": "Docket Report",
+    "variable_name": "year_period",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year_period",
+      "Docket Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Report\nVariable: year_period\nDescription: REPRESENTS AN ENTIRE CALENDAR YEAR OR FINANCIAL/FISCAL YEAR. IT IS USED FOR HIGH-LEVEL, LONG-TERM SUMMARIES"
+  },
+  {
+    "id": "report_var_0095",
+    "title": "amount variable in Docket Employee Report",
+    "content": "EXTERNAL GRATIA -; TOTAL INCENTIVE",
+    "report_name": "Docket Employee Report",
+    "variable_name": "amount",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "amount",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: amount\nDescription: EXTERNAL GRATIA -; TOTAL INCENTIVE"
+  },
+  {
+    "id": "report_var_0096",
+    "title": "employee variable in Docket Employee Report",
+    "content": "EMPLOYEE NAME",
+    "report_name": "Docket Employee Report",
+    "variable_name": "employee",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "employee",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: employee\nDescription: EMPLOYEE NAME"
+  },
+  {
+    "id": "report_var_0097",
+    "title": "employee_department variable in Docket Employee Report",
+    "content": "EMPLOYEE DEPATMENT",
+    "report_name": "Docket Employee Report",
+    "variable_name": "employee_department",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "employee_department",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: employee_department\nDescription: EMPLOYEE DEPATMENT"
+  },
+  {
+    "id": "report_var_0098",
+    "title": "employee_org variable in Docket Employee Report",
+    "content": "EMPLOYEE UNDER WHICH ORG",
+    "report_name": "Docket Employee Report",
+    "variable_name": "employee_org",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "employee_org",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: employee_org\nDescription: EMPLOYEE UNDER WHICH ORG"
+  },
+  {
+    "id": "report_var_0099",
+    "title": "fin_year variable in Docket Employee Report",
+    "content": "FINANACIAL YEAR",
+    "report_name": "Docket Employee Report",
+    "variable_name": "fin_year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "fin_year",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: fin_year\nDescription: FINANACIAL YEAR"
+  },
+  {
+    "id": "report_var_0100",
+    "title": "incentive_scheme variable in Docket Employee Report",
+    "content": "INCENTIVE SCHEME",
+    "report_name": "Docket Employee Report",
+    "variable_name": "incentive_scheme",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "incentive_scheme",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: incentive_scheme\nDescription: INCENTIVE SCHEME"
+  },
+  {
+    "id": "report_var_0101",
+    "title": "minutes variable in Docket Employee Report",
+    "content": "PRESENT MINUTES",
+    "report_name": "Docket Employee Report",
+    "variable_name": "minutes",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "minutes",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: minutes\nDescription: PRESENT MINUTES"
+  },
+  {
+    "id": "report_var_0102",
+    "title": "month_period variable in Docket Employee Report",
+    "content": "REPRESENTS A SPECIFIC CALENDAR MONTH OR FISCAL MONTH. IT IS USED FOR MONTHLY REPORTING, AGGREGATIONS, AND TRENDS.",
+    "report_name": "Docket Employee Report",
+    "variable_name": "month_period",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month_period",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: month_period\nDescription: REPRESENTS A SPECIFIC CALENDAR MONTH OR FISCAL MONTH. IT IS USED FOR MONTHLY REPORTING, AGGREGATIONS, AND TRENDS."
+  },
+  {
+    "id": "report_var_0103",
+    "title": "performance_index variable in Docket Employee Report",
+    "content": "PERCENTAGE OF PERFORMANCE OF THE EMPLOYEE",
+    "report_name": "Docket Employee Report",
+    "variable_name": "performance_index",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "performance_index",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: performance_index\nDescription: PERCENTAGE OF PERFORMANCE OF THE EMPLOYEE"
+  },
+  {
+    "id": "report_var_0104",
+    "title": "quantity variable in Docket Employee Report",
+    "content": "TOTAL QUANTITY PRODCUED",
+    "report_name": "Docket Employee Report",
+    "variable_name": "quantity",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "quantity",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: quantity\nDescription: TOTAL QUANTITY PRODCUED"
+  },
+  {
+    "id": "report_var_0105",
+    "title": "supervisor variable in Docket Employee Report",
+    "content": "SUPERVISOR NAME",
+    "report_name": "Docket Employee Report",
+    "variable_name": "supervisor",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "supervisor",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: supervisor\nDescription: SUPERVISOR NAME"
+  },
+  {
+    "id": "report_var_0106",
+    "title": "token_number variable in Docket Employee Report",
+    "content": "TOKEN NUMBER",
+    "report_name": "Docket Employee Report",
+    "variable_name": "token_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "token_number",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: token_number\nDescription: TOKEN NUMBER"
+  },
+  {
+    "id": "report_var_0107",
+    "title": "week_period variable in Docket Employee Report",
+    "content": "REPRESENTS A SPECIFIC 7-DAY WEEK WITHIN A YEAR. IT IS USED TO GROUP OR FILTER DOCKET DATA ON A WEEKLY BASIS.",
+    "report_name": "Docket Employee Report",
+    "variable_name": "week_period",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "week_period",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: week_period\nDescription: REPRESENTS A SPECIFIC 7-DAY WEEK WITHIN A YEAR. IT IS USED TO GROUP OR FILTER DOCKET DATA ON A WEEKLY BASIS."
+  },
+  {
+    "id": "report_var_0108",
+    "title": "year_period variable in Docket Employee Report",
+    "content": "REPRESENTS AN ENTIRE CALENDAR YEAR OR FINANCIAL/FISCAL YEAR. IT IS USED FOR HIGH-LEVEL, LONG-TERM SUMMARIES",
+    "report_name": "Docket Employee Report",
+    "variable_name": "year_period",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year_period",
+      "Docket Employee Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Docket Employee Report\nVariable: year_period\nDescription: REPRESENTS AN ENTIRE CALENDAR YEAR OR FINANCIAL/FISCAL YEAR. IT IS USED FOR HIGH-LEVEL, LONG-TERM SUMMARIES"
+  },
+  {
+    "id": "report_var_0109",
+    "title": "business_group variable in On Time Delivery Index Report",
+    "content": "THE SPECIFIC BUSINESS UNIT",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "business_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "business_group",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: business_group\nDescription: THE SPECIFIC BUSINESS UNIT"
+  },
+  {
+    "id": "report_var_0110",
+    "title": "cust_po_date variable in On Time Delivery Index Report",
+    "content": "INVOICE DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "cust_po_date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "cust_po_date",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: cust_po_date\nDescription: INVOICE DATE"
+  },
+  {
+    "id": "report_var_0111",
+    "title": "cust_po_number variable in On Time Delivery Index Report",
+    "content": "CUSTOMER PURCHASE ORDER NUMBER",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "cust_po_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "cust_po_number",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: cust_po_number\nDescription: CUSTOMER PURCHASE ORDER NUMBER"
+  },
+  {
+    "id": "report_var_0112",
+    "title": "customer variable in On Time Delivery Index Report",
+    "content": "CUSTOMER NAME",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "customer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "customer",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: customer\nDescription: CUSTOMER NAME"
+  },
+  {
+    "id": "report_var_0113",
+    "title": "customer_number variable in On Time Delivery Index Report",
+    "content": "UNIQUE IDENTIFIER NUMBER FOR THE CUSTOMER",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "customer_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "customer_number",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: customer_number\nDescription: UNIQUE IDENTIFIER NUMBER FOR THE CUSTOMER"
+  },
+  {
+    "id": "report_var_0114",
+    "title": "desp_mon variable in On Time Delivery Index Report",
+    "content": "DISPATCH MONTH",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "desp_mon",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "desp_mon",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: desp_mon\nDescription: DISPATCH MONTH"
+  },
+  {
+    "id": "report_var_0115",
+    "title": "division variable in On Time Delivery Index Report",
+    "content": "DIVISION NAME ( ACD, TRM)",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "division",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "division",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: division\nDescription: DIVISION NAME ( ACD, TRM)"
+  },
+  {
+    "id": "report_var_0116",
+    "title": "inv_date variable in On Time Delivery Index Report",
+    "content": "INVOICE DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "inv_date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "inv_date",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: inv_date\nDescription: INVOICE DATE"
+  },
+  {
+    "id": "report_var_0117",
+    "title": "inv_date_yymm variable in On Time Delivery Index Report",
+    "content": "MONTH OF INVOICE DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "inv_date_yymm",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "inv_date_yymm",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: inv_date_yymm\nDescription: MONTH OF INVOICE DATE"
+  },
+  {
+    "id": "report_var_0118",
+    "title": "inv_number variable in On Time Delivery Index Report",
+    "content": "INVOICE NUMBER",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "inv_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "inv_number",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: inv_number\nDescription: INVOICE NUMBER"
+  },
+  {
+    "id": "report_var_0119",
+    "title": "item_code variable in On Time Delivery Index Report",
+    "content": "ITEM CODE / SBM NO / SBM ID / ITEM NO",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "item_code",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_code",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: item_code\nDescription: ITEM CODE / SBM NO / SBM ID / ITEM NO"
+  },
+  {
+    "id": "report_var_0120",
+    "title": "item_description variable in On Time Delivery Index Report",
+    "content": "ITEM DESCRIPTION",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "item_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_description",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: item_description\nDescription: ITEM DESCRIPTION"
+  },
+  {
+    "id": "report_var_0121",
+    "title": "item_type variable in On Time Delivery Index Report",
+    "content": "TYPE OF ITEM",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "item_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_type",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: item_type\nDescription: TYPE OF ITEM"
+  },
+  {
+    "id": "report_var_0122",
+    "title": "ld_clause variable in On Time Delivery Index Report",
+    "content": "LATE DELIVERY CLAUSE / LIQUIDITY DAMAGE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "ld_clause",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "ld_clause",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: ld_clause\nDescription: LATE DELIVERY CLAUSE / LIQUIDITY DAMAGE"
+  },
+  {
+    "id": "report_var_0123",
+    "title": "oa_cdd variable in On Time Delivery Index Report",
+    "content": "PROMISE DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "oa_cdd",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_cdd",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: oa_cdd\nDescription: PROMISE DATE"
+  },
+  {
+    "id": "report_var_0124",
+    "title": "oa_crn_date_yymm variable in On Time Delivery Index Report",
+    "content": "MONTH OF OA CREATION DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "oa_crn_date_yymm",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_crn_date_yymm",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: oa_crn_date_yymm\nDescription: MONTH OF OA CREATION DATE"
+  },
+  {
+    "id": "report_var_0125",
+    "title": "oa_number variable in On Time Delivery Index Report",
+    "content": "ORDER NUMBER / OA NUMBER / SO NUMBER",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "oa_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_number",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: oa_number\nDescription: ORDER NUMBER / OA NUMBER / SO NUMBER"
+  },
+  {
+    "id": "report_var_0126",
+    "title": "product_group variable in On Time Delivery Index Report",
+    "content": "PRODUCT GROUP",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "product_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_group",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: product_group\nDescription: PRODUCT GROUP"
+  },
+  {
+    "id": "report_var_0127",
+    "title": "product_model variable in On Time Delivery Index Report",
+    "content": "PRODUCT MODEL",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "product_model",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_model",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: product_model\nDescription: PRODUCT MODEL"
+  },
+  {
+    "id": "report_var_0128",
+    "title": "promise_date_yymm variable in On Time Delivery Index Report",
+    "content": "MONTH OF PROMISE DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "promise_date_yymm",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "promise_date_yymm",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: promise_date_yymm\nDescription: MONTH OF PROMISE DATE"
+  },
+  {
+    "id": "report_var_0129",
+    "title": "remark variable in On Time Delivery Index Report",
+    "content": "REMARKS ON THOSE ORDER WHICH GOT DELAYED",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "remark",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "remark",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: remark\nDescription: REMARKS ON THOSE ORDER WHICH GOT DELAYED"
+  },
+  {
+    "id": "report_var_0130",
+    "title": "remark_description variable in On Time Delivery Index Report",
+    "content": "DESCRIPTION OF THE REMARK",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "remark_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "remark_description",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: remark_description\nDescription: DESCRIPTION OF THE REMARK"
+  },
+  {
+    "id": "report_var_0131",
+    "title": "sbu variable in On Time Delivery Index Report",
+    "content": "ORGANISATION NAME",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "sbu",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "sbu",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: sbu\nDescription: ORGANISATION NAME"
+  },
+  {
+    "id": "report_var_0132",
+    "title": "date variable in On Time Delivery Index Report",
+    "content": "SHOWS DATE OF PROMISE DATE/ ORDER CREATION DATE/ ORDER CUSTOMER DELIVERY DATE/ INVOICE DATE/",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "date",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: date\nDescription: SHOWS DATE OF PROMISE DATE/ ORDER CREATION DATE/ ORDER CUSTOMER DELIVERY DATE/ INVOICE DATE/"
+  },
+  {
+    "id": "report_var_0133",
+    "title": "month variable in On Time Delivery Index Report",
+    "content": "SHOWS MONTH OF DESPATCH MONTH AND PROMISE DATE",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: month\nDescription: SHOWS MONTH OF DESPATCH MONTH AND PROMISE DATE"
+  },
+  {
+    "id": "report_var_0134",
+    "title": "year variable in On Time Delivery Index Report",
+    "content": "SHOWS YEAR BY DISPATCH ORDERS",
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year",
+      "On Time Delivery Index Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: On Time Delivery Index Report\nVariable: year\nDescription: SHOWS YEAR BY DISPATCH ORDERS"
+  },
+  {
+    "id": "report_var_0135",
+    "title": "cdd variable in OA Trolley Report",
+    "content": "CUSTOMER DELIVER DATE OF ORDER",
+    "report_name": "OA Trolley Report",
+    "variable_name": "cdd",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "cdd",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: cdd\nDescription: CUSTOMER DELIVER DATE OF ORDER"
+  },
+  {
+    "id": "report_var_0136",
+    "title": "customer variable in OA Trolley Report",
+    "content": "THE COMPANY OR CLIENT WHO ORDERED THE GOODS",
+    "report_name": "OA Trolley Report",
+    "variable_name": "customer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "customer",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: customer\nDescription: THE COMPANY OR CLIENT WHO ORDERED THE GOODS"
+  },
+  {
+    "id": "report_var_0137",
+    "title": "inspection_norm variable in OA Trolley Report",
+    "content": "THE SPECIFIC QUALITY CONTROL (QC) STANDARD OR TESTING PROTOCOL THIS BATCH MUST PASS BEFORE IT CAN BE LOADED ONTO A TRUCK.",
+    "report_name": "OA Trolley Report",
+    "variable_name": "inspection_norm",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "inspection_norm",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: inspection_norm\nDescription: THE SPECIFIC QUALITY CONTROL (QC) STANDARD OR TESTING PROTOCOL THIS BATCH MUST PASS BEFORE IT CAN BE LOADED ONTO A TRUCK."
+  },
+  {
+    "id": "report_var_0138",
+    "title": "item_description variable in OA Trolley Report",
+    "content": "A CLEAR, DESCRIPTION OF THE MAIN ITEM OR ASSEMBLY ON THE TROLLEY",
+    "report_name": "OA Trolley Report",
+    "variable_name": "item_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_description",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: item_description\nDescription: A CLEAR, DESCRIPTION OF THE MAIN ITEM OR ASSEMBLY ON THE TROLLEY"
+  },
+  {
+    "id": "report_var_0139",
+    "title": "item_type variable in OA Trolley Report",
+    "content": "CLASSIFIES WHAT KIND OF ITEM THE PARENT IS. IN MANUFACTURING, THIS USUALLY DISTINGUISHES BETWEEN THINGS",
+    "report_name": "OA Trolley Report",
+    "variable_name": "item_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_type",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: item_type\nDescription: CLASSIFIES WHAT KIND OF ITEM THE PARENT IS. IN MANUFACTURING, THIS USUALLY DISTINGUISHES BETWEEN THINGS"
+  },
+  {
+    "id": "report_var_0140",
+    "title": "ld_clause variable in OA Trolley Report",
+    "content": "LEGAL CLAUSE IMPOSING FINANCIAL PENALTIES OR CHARGES IF DELIVERY DEADLINES ARE MISSED.",
+    "report_name": "OA Trolley Report",
+    "variable_name": "ld_clause",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "ld_clause",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: ld_clause\nDescription: LEGAL CLAUSE IMPOSING FINANCIAL PENALTIES OR CHARGES IF DELIVERY DEADLINES ARE MISSED."
+  },
+  {
+    "id": "report_var_0141",
+    "title": "month variable in OA Trolley Report",
+    "content": "PLANNING MONTH",
+    "report_name": "OA Trolley Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: month\nDescription: PLANNING MONTH"
+  },
+  {
+    "id": "report_var_0142",
+    "title": "oa_number variable in OA Trolley Report",
+    "content": "ORDER ACKNOWLEDGMENT NUMBER",
+    "report_name": "OA Trolley Report",
+    "variable_name": "oa_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_number",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: oa_number\nDescription: ORDER ACKNOWLEDGMENT NUMBER"
+  },
+  {
+    "id": "report_var_0143",
+    "title": "oa_status variable in OA Trolley Report",
+    "content": "PLANNING ORDER STATUS",
+    "report_name": "OA Trolley Report",
+    "variable_name": "oa_status",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_status",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: oa_status\nDescription: PLANNING ORDER STATUS"
+  },
+  {
+    "id": "report_var_0144",
+    "title": "date variable in OA Trolley Report",
+    "content": "ORDERED DATE OF ORDER /CUSTOMER DELIVERY DATE/ SCHEDULED SHIP DATE",
+    "report_name": "OA Trolley Report",
+    "variable_name": "date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "date",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: date\nDescription: ORDERED DATE OF ORDER /CUSTOMER DELIVERY DATE/ SCHEDULED SHIP DATE"
+  },
+  {
+    "id": "report_var_0145",
+    "title": "org_name variable in OA Trolley Report",
+    "content": "ORGANIZATION NAME",
+    "report_name": "OA Trolley Report",
+    "variable_name": "org_name",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "org_name",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: org_name\nDescription: ORGANIZATION NAME"
+  },
+  {
+    "id": "report_var_0146",
+    "title": "parent_item variable in OA Trolley Report",
+    "content": "STANDARD BILL MATERIAL NUMBER. TRACKS THE INTERNAL MANUFACTURING/SHOP-FLOOR MATERIAL",
+    "report_name": "OA Trolley Report",
+    "variable_name": "parent_item",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "parent_item",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: parent_item\nDescription: STANDARD BILL MATERIAL NUMBER. TRACKS THE INTERNAL MANUFACTURING/SHOP-FLOOR MATERIAL"
+  },
+  {
+    "id": "report_var_0147",
+    "title": "product_group variable in OA Trolley Report",
+    "content": "PRODUCT GROUP",
+    "report_name": "OA Trolley Report",
+    "variable_name": "product_group",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_group",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: product_group\nDescription: PRODUCT GROUP"
+  },
+  {
+    "id": "report_var_0148",
+    "title": "product_model variable in OA Trolley Report",
+    "content": "PRODUCT MODEL",
+    "report_name": "OA Trolley Report",
+    "variable_name": "product_model",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "product_model",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: product_model\nDescription: PRODUCT MODEL"
+  },
+  {
+    "id": "report_var_0149",
+    "title": "ssd variable in OA Trolley Report",
+    "content": "SCHEDULE SHIP DATE OF ORDER",
+    "report_name": "OA Trolley Report",
+    "variable_name": "ssd",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "ssd",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: ssd\nDescription: SCHEDULE SHIP DATE OF ORDER"
+  },
+  {
+    "id": "report_var_0150",
+    "title": "month variable in OA Trolley Report",
+    "content": "SHOWS MONTH BY PLANNING MONTH/ SCHEDULED SHIP DATE",
+    "report_name": "OA Trolley Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: month\nDescription: SHOWS MONTH BY PLANNING MONTH/ SCHEDULED SHIP DATE"
+  },
+  {
+    "id": "report_var_0151",
+    "title": "year variable in OA Trolley Report",
+    "content": "SHOWS YEAR BY CUSTOMER DELIVERY DATE/ SCHEDULED SHIP DATE",
+    "report_name": "OA Trolley Report",
+    "variable_name": "year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year",
+      "OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: OA Trolley Report\nVariable: year\nDescription: SHOWS YEAR BY CUSTOMER DELIVERY DATE/ SCHEDULED SHIP DATE"
+  },
+  {
+    "id": "report_var_0152",
+    "title": "buyer variable in Buyerwise OA Trolley Report",
+    "content": "TROLLEY ASSIGNED TO SPECIIFC BUYER NAME",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "buyer",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "buyer",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: buyer\nDescription: TROLLEY ASSIGNED TO SPECIIFC BUYER NAME"
+  },
+  {
+    "id": "report_var_0153",
+    "title": "buyer_status variable in Buyerwise OA Trolley Report",
+    "content": "BUYER EXPECTED DATE STATUS",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "buyer_status",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "buyer_status",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: buyer_status\nDescription: BUYER EXPECTED DATE STATUS"
+  },
+  {
+    "id": "report_var_0154",
+    "title": "item_description variable in Buyerwise OA Trolley Report",
+    "content": "A CLEAR, DESCRIPTION OF THE MAIN ITEM OR ASSEMBLY ON THE TROLLEY",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "item_description",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_description",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: item_description\nDescription: A CLEAR, DESCRIPTION OF THE MAIN ITEM OR ASSEMBLY ON THE TROLLEY"
+  },
+  {
+    "id": "report_var_0155",
+    "title": "item_type variable in Buyerwise OA Trolley Report",
+    "content": "CLASSIFIES WHAT KIND OF ITEM THE PARENT IS. IN MANUFACTURING",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "item_type",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "item_type",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: item_type\nDescription: CLASSIFIES WHAT KIND OF ITEM THE PARENT IS. IN MANUFACTURING"
+  },
+  {
+    "id": "report_var_0156",
+    "title": "oa_number variable in Buyerwise OA Trolley Report",
+    "content": "ORDER ACKNOWLEDGMENT NUMBER",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "oa_number",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "oa_number",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: oa_number\nDescription: ORDER ACKNOWLEDGMENT NUMBER"
+  },
+  {
+    "id": "report_var_0157",
+    "title": "org_name variable in Buyerwise OA Trolley Report",
+    "content": "ORGANIZATION NAME",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "org_name",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "org_name",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: org_name\nDescription: ORGANIZATION NAME"
+  },
+  {
+    "id": "report_var_0158",
+    "title": "parent_item variable in Buyerwise OA Trolley Report",
+    "content": "STANDARD BILL MATERIAL NUMBER. TRACKS THE INTERNAL MANUFACTURING/SHOP-FLOOR MATERIAL BREAKDOWN",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "parent_item",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "parent_item",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: parent_item\nDescription: STANDARD BILL MATERIAL NUMBER. TRACKS THE INTERNAL MANUFACTURING/SHOP-FLOOR MATERIAL BREAKDOWN"
+  },
+  {
+    "id": "report_var_0159",
+    "title": "trolley_date variable in Buyerwise OA Trolley Report",
+    "content": "SPECIFIC BUYER UPDATE THEIR TROLLEY BALANCE DATE",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "trolley_date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "trolley_date",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: trolley_date\nDescription: SPECIFIC BUYER UPDATE THEIR TROLLEY BALANCE DATE"
+  },
+  {
+    "id": "report_var_0160",
+    "title": "trolley_status variable in Buyerwise OA Trolley Report",
+    "content": "SPECIFIC BUYER UPDATED THEIR STATUS MANUALLY REMARKS ENTERD - BALANCE.",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "trolley_status",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "trolley_status",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: trolley_status\nDescription: SPECIFIC BUYER UPDATED THEIR STATUS MANUALLY REMARKS ENTERD - BALANCE."
+  },
+  {
+    "id": "report_var_0161",
+    "title": "date variable in Buyerwise OA Trolley Report",
+    "content": "SHOWS DATE BY TROLLEY DATE",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "date",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "date",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: date\nDescription: SHOWS DATE BY TROLLEY DATE"
+  },
+  {
+    "id": "report_var_0162",
+    "title": "month variable in Buyerwise OA Trolley Report",
+    "content": "SHOWS MONTH BY TROLLEY DATE",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "month",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "month",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: month\nDescription: SHOWS MONTH BY TROLLEY DATE"
+  },
+  {
+    "id": "report_var_0163",
+    "title": "year variable in Buyerwise OA Trolley Report",
+    "content": "SHOWS YEAR BY TROLLEY DATE",
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "year",
+    "knowledge_type": "report_variable",
+    "tags": [
+      "year",
+      "Buyerwise OA Trolley Report",
+      "variable definition"
+    ],
+    "retrieval_text": "Report: Buyerwise OA Trolley Report\nVariable: year\nDescription: SHOWS YEAR BY TROLLEY DATE"
   }
 ]

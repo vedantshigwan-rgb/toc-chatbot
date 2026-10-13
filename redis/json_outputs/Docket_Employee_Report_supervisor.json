@@ -1,66 +1,317 @@
 [
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Atul Bhoite"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Somnath Khandekar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Nikhil Devade"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Santosh Jadhav"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nikhil Devade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Somnath Khandekar"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Anil pandey"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Somnath Khandekar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Prashant Bhalsingh"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Ratnakar Ghodake",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Balasaheb Sakrudkar"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Santosh Jadhav",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Anil Umare"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "YOGESH PAWAR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Bodhale SM"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Atul Bhoite",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Ganesh Ajabe"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Saurabh Chavan"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Umare",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Dharmadhikari SR"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Somnath Khandekar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Nitin Nigade"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Bodhale SM",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "YOGESH PAWAR"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Prashant Bhalsingh",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Anil Pandey"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nikhil Devade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
-        "SUPV_NAME": "Ratnakar Ghodake"
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Atul Bhoite",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Dharmadhikari SR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Bodhale SM",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Balasaheb Sakrudkar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Ratnakar Ghodake",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Saurabh Chavan",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nitin Nigade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Prashant Bhalsingh",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Ganesh Ajabe",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Atul Bhoite",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Balasaheb Sakrudkar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Saurabh Chavan",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Balasaheb Sakrudkar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "YOGESH PAWAR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "YOGESH PAWAR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Bodhale SM",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nikhil Devade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Santosh Jadhav",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Dharmadhikari SR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Dharmadhikari SR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nitin Nigade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Umare",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Prashant Bhalsingh",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Saurabh Chavan",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nitin Nigade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Ganesh Ajabe",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Umare",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     }
 ]

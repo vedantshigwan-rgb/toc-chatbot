@@ -1,486 +1,870 @@
 [
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- ASSEMBLY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- BO SF/FINISH PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CONTROL PANEL AND PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CONTROL PANEL AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "EQUIPMENT.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FILTERS/ELEMENTS/SEPARATOR.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FILTERS/ELEMENTS/SEPARATOR.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "DRYERS, MOISTURE SEPARATOR.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "DRYERS, MOISTURE SEPARATOR.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "EQUIPMENT.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FK_3-LIGHT FAB <100 KG, FRP PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FK_3-LIGHT FAB <100 KG, FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "LIGHT MACHINING SPARES.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "LIGHT MACHINING SPARES.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PISTON RODS/GUDGEON PINS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PRV,SRV,TRV,PL.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PRV,SRV,TRV,PL.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MOTOR,WORM GB,ENGINES AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "RAW MATERIAL (PIPE/BAR/PLATES ETC).PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MS- FORGING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MOTOR,WORM GB,ENGINES AND PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MS- OSP SF PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MS- FORGING O/S.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PISTON RODS/GUDGEON PINS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- MS CAST KPCL FOUNDRY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "VALVE AND ACCESSORIES.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "VALVE AND ACCESSORIES.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "TEFLON RINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "TEFLON RINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- OSP CAST/FORG O/S.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- OSP CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "BANDED BELTS/V-BELT/FLAT BELT.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "BANDED BELTS/V-BELT/FLAT BELT.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FILTERS, LUBRICATOR, STRAINER AND PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CONTROL VALVE.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CONTROL VALVE.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COOLERS,MOISTURE SEPARATOR.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "COOLERS,MOISTURE SEPARATOR.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FILTERS, LUBRICATOR, STRAINER AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "HIPL PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HIPL PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "OTHR EL,GLND,LUG,TIES.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PRV,SRV,TRV,OR. PL.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PRV,SRV,TRV,OR. PL.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MPVL/SERVO CYL/ACCESSORIES.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MPVL/SERVO CYL/ACCESSORIES.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "OTHR EL,GLND,LUG,TIES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- ELECT  SUBCON ITEMS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- OSP CAST KPCL FOUNDRY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- OSP CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SAFETY VALVES.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SAFETY VALVES.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "TWO BIN.TWO BIN"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "TWO BIN.TWO BIN",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD-STIKERS, NAME PLATE.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD-STIKERS, NAME PLATE.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- BO PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- BO PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- OSP CAST KPCL FOUNDRY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "BEARINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "BEARINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "ELECTRICAL/INSTRUMENT/MOTORS/PUMPS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COUPLING,AVM PARTS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "COUPLING,AVM PARTS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "ELECTRICAL/INSTRUMENT/MOTORS/PUMPS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "GASKETS/PACKINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GASKETS/PACKINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "HOSE AND ACCESSORIES.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HOSE, HOSE KIT, FITTING KIT.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "HOSE, HOSE KIT, FITTING KIT.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HEATER,FL MTR,CABLE.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "HEATER,FL MTR,CABLE.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HOSE AND ACCESSORIES.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "INSTRUMENTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "INSTRUMENTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PRV,SRV,TRV.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PRV,SRV,TRV.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- MFGD ASSLY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- NPD.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "RUBBER RINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "RUBBER RINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- MFGD ASSLY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- MS CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "COMBI COOLERS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- MS CAST/FORG O/S.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COMBI COOLERS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "BEARINGS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "BEARINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FAN.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "DRYERS, MOISTURE SEPARATOR.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "DRYERS, MOISTURE SEPARATOR.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MACHINED COMPONENTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MACHINED COMPONENTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PIPES,TUBES AND FITTINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PIPES,TUBES AND FITTINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- MFGD MACH.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "RECEIVER.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "RECEIVER.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "ENGINES AND PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "LIGHT FAB <100 KG,FRP PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "ENGINES AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PISTON/SEALING/BEARING/RIDER RINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GAUGES/INSRUMENTS(PRESSURE/FLOW SWITCH).PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PUMP,FILTERS, STRAINER.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "RAW MATERIALS.CASTING"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "TWO BIN.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PISTON/SEALING/BEARING/RIDER RINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- MFGD MACH.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PUMP,FILTERS, STRAINER.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CASTING/MACHINING.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "RAW MATERIALS.CASTING",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AIR END RECIP- BOUGHT OUT PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "TWO BIN.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AIR END SCREW- BOUGHT OUT PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AIR END- NPD.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AIR END RECIP- BOUGHT OUT PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CABLE TRAY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AIR END SCREW- BOUGHT OUT PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "DRYERS AND PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AIR END- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CABLE TRAY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CASTING/MACHINING.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MFGD MACH.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "DRYERS AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MS- CASTING O/S.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "RINGS AND PACKINGS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MS- CASTING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- BEARING, IMPORT BEARING.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "RINGS AND PACKINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- BO PARTS,GP.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- MS CAST KPCL FOUNDRY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CASTING RINGS PISTON.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- BO PARTS,GP.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- BEARING, IMPORT BEARING.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FABRICATION PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "COOLERS/TUBE BUNDLE/HEADERS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "COUPLING,AVM PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CASTING RINGS PISTON.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COOLERS/TUBE BUNDLE/HEADERS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "GEAR.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COUPLING,AVM PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FORGINGS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FABRICATION PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "LUBRICANT/OIL.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FORGINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "OSP- CASTING O/S.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GEAR.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MOTOR AND PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "LUBRICANT/OIL.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MS- KPCL FOUNDRY.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD- CAST/FORG O/S.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MOTOR AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD-GKTS,SEAL,RUBBER,SPRING,BELT.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "STIKERS, NAME PLATE.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "OSP- CASTING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "CASTINGS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD- CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "AE- OSP SF PARTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD-GKTS,SEAL,RUBBER,SPRING,BELT.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "STIKERS, NAME PLATE.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "COOLERS, FAN.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "CASTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "IMPORTS.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "AE- OSP SF PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "KIT ITEMS.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COOLERS, FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "PHANTOM.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "IMPORTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "MFG.SPARES"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "KIT ITEMS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD BEARING, IMPORT BEARING.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MFG.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "SBD-GKTS,SEAL,RUBBER,SPRING.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "STABLIZER.PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "PHANTOM.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "ITEM_CATEGORY": "STD FITNG (TUBE AND PIPE FITTINGS).PLANNED"
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "SBD-GKTS,SEAL,RUBBER,SPRING.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "STABLIZER.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "STD FITNG (TUBE AND PIPE FITTINGS).PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     }
 ]

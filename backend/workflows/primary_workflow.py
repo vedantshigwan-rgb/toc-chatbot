@@ -69,8 +69,8 @@ from services.result_analysis_service import (
 from services.extra_sql_filter_service import (
     apply_extra_sql_filters,
 )
-from services.org_name_sql_filter_service import (
-    enforce_org_name_sql_filter,
+from services.report_option_sql_filter_service import (
+    apply_report_option_sql_filters,
 )
 from utils.openai_pool import OpenAIPool
 from utils.search_faiss_indexes import (
@@ -1222,11 +1222,26 @@ class PrimaryWorkflow:
 
 
         # ============================================================
-        # STEP 7A: Enforce org_name for every source type
+        # STEP 7A: Apply report-configured option-variable SQL rules
         # ============================================================
+        #
+        # Roles and options.xlsx decides which variables are controlled
+        # report options for the selected report. redis_mapping.xlsx /
+        # redis mapping.xlsx decides which physical table/column each one
+        # maps to.
+        #
+        # If a configured option value is supplied from ANY source, this
+        # step makes its mapped-column predicate authoritative:
+        #
+        #     COLUMN LIKE '%{variable_name}%'
+        #
+        # If a configured option value is NOT supplied, this step removes
+        # only an LLM-generated mapped-column predicate that still depends
+        # on that unresolved placeholder. Hardcoded business predicates are
+        # left untouched.
 
-        org_name_filter_result = (
-            enforce_org_name_sql_filter(
+        report_option_filter_result = (
+            apply_report_option_sql_filters(
                 sql_template=final_sql_template,
                 report_name=(
                     prepared_request.report_name
@@ -1240,12 +1255,12 @@ class PrimaryWorkflow:
         print()
         print("=" * 80)
         print(
-            "[PRIMARY] ORG_NAME SQL FILTER RESULT"
+            "[PRIMARY] REPORT OPTION SQL FILTER RESULT"
         )
         print("=" * 80)
         print(
             json.dumps(
-                org_name_filter_result,
+                report_option_filter_result,
                 indent=2,
                 ensure_ascii=False,
                 default=str,
@@ -1253,16 +1268,16 @@ class PrimaryWorkflow:
         )
         print("=" * 80)
 
-        if not org_name_filter_result.get(
+        if not report_option_filter_result.get(
             "success"
         ):
             error_message = (
-                org_name_filter_result.get(
+                report_option_filter_result.get(
                     "message"
                 )
                 or (
-                    "Failed to enforce org_name "
-                    "on generated SQL."
+                    "Failed to apply report option "
+                    "rules to generated SQL."
                 )
             )
 
@@ -1278,12 +1293,12 @@ class PrimaryWorkflow:
                 category=(
                     ErrorCategory.SQL_VALIDATION_ERROR
                 ),
-                code="org_name_sql_filter_failed",
+                code="report_option_sql_filter_failed",
                 message=error_message,
                 retryable=False,
                 details={
-                    "org_name_filter_result": (
-                        org_name_filter_result
+                    "report_option_filter_result": (
+                        report_option_filter_result
                     ),
                     "variables": normalized_variables,
                 },
@@ -1310,15 +1325,15 @@ class PrimaryWorkflow:
                 ),
                 diagnostics={
                     "storage_warning": storage_warning,
-                    "org_name_filter_result": (
-                        org_name_filter_result
+                    "report_option_filter_result": (
+                        report_option_filter_result
                     ),
                 },
                 **base_result_fields,
             )
 
         final_sql_template = str(
-            org_name_filter_result.get(
+            report_option_filter_result.get(
                 "sql_template",
                 final_sql_template,
             )
@@ -1326,18 +1341,31 @@ class PrimaryWorkflow:
 
 
         # ============================================================
-        # STEP 7B: Apply remaining sidebar option variables as SQL filters
+        # STEP 7B: Apply any remaining legacy source=option filters
         # ============================================================
-        # org_name is intentionally excluded here. STEP 7A has already
-        # enforced the authoritative report-wise LIKE condition for it,
-        # regardless of whether its source was input or option.
+        # Variables configured in Roles and options.xlsx have already been
+        # handled authoritatively by STEP 7A, regardless of their source.
+        # Keep the older generic option-filter service only as a fallback for
+        # source=option variables that are not configured in that workbook.
+
+        configured_report_option_names = {
+            str(name or "").strip().lower()
+            for name in (
+                report_option_filter_result.get(
+                    "configured_variable_names"
+                )
+                or []
+            )
+            if str(name or "").strip()
+        }
 
         remaining_extra_filter_variables = [
             variable
             for variable in extra_filter_variables
             if str(
                 variable.get("name") or ""
-            ).strip().lower() != "org_name"
+            ).strip().lower()
+            not in configured_report_option_names
         ]
 
         extra_filter_result = (
@@ -1416,8 +1444,8 @@ class PrimaryWorkflow:
                     "extra_filter_variables": (
                         remaining_extra_filter_variables
                     ),
-                    "org_name_filter_result": (
-                        org_name_filter_result
+                    "report_option_filter_result": (
+                        report_option_filter_result
                     ),
                 },
             )
@@ -1462,8 +1490,8 @@ class PrimaryWorkflow:
                     "storage_warning": (
                         storage_warning
                     ),
-                    "org_name_filter_result": (
-                        org_name_filter_result
+                    "report_option_filter_result": (
+                        report_option_filter_result
                     ),
                     "extra_filter_result": (
                         extra_filter_result
@@ -2799,8 +2827,8 @@ class PrimaryWorkflow:
             "value_validation": (
                 value_validation_diagnostics
             ),
-            "org_name_filter": (
-                org_name_filter_result
+            "report_option_filters": (
+                report_option_filter_result
             ),
             "extra_sql_filters": (
                 extra_filter_result
@@ -2929,8 +2957,8 @@ class PrimaryWorkflow:
                     value_validation_diagnostics
                 ),
 
-                "org_name_filter": (
-                    org_name_filter_result
+                "report_option_filters": (
+                    report_option_filter_result
                 ),
 
                 "extra_sql_filters": (

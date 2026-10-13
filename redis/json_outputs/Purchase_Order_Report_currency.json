@@ -1,22 +1,37 @@
 [
     {
         "REPORT_NAME": "Purchase Order Report",
-        "CURRENCY": "GBP"
+        "VARIABLE_NAME": "currency",
+        "VALUE": "GBP",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "CURRENCY": "USD"
+        "VARIABLE_NAME": "currency",
+        "VALUE": "USD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "CURRENCY": "INR"
+        "VARIABLE_NAME": "currency",
+        "VALUE": "INR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "CURRENCY": "EUR"
+        "VARIABLE_NAME": "currency",
+        "VALUE": "EUR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "CURRENCY": "JPY"
+        "VARIABLE_NAME": "currency",
+        "VALUE": "JPY",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     }
 ]

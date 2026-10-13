@@ -146,14 +146,37 @@ def load_help_documents() -> list[dict[str, Any]]:
                 "content": content,
                 "tags": normalized_tags,
                 "retrieval_text": retrieval_text,
+                "knowledge_type": "general",
             }
         )
 
-    if not documents:
-        raise ValueError(
-            "No help documents were found."
-        )
+    # Report-specific variable descriptions are kept separate from the
+    # generic app guide, and included in the same searchable index.
+    variable_path = BASE_DIR / "data" / "help" / "report_variable_descriptions.json"
+    with variable_path.open("r", encoding="utf-8") as file:
+        variable_rows = json.load(file)
+    for position, row in enumerate(variable_rows):
+        report = str(row["report_name"]).strip()
+        variable = str(row["variable_name"]).strip()
+        description = str(row["description"]).strip()
+        document_id = f"report_var_{position + 1:04d}"
+        title = f"{variable} variable in {report}"
+        documents.append({
+            "id": document_id,
+            "title": title,
+            "content": description,
+            "report_name": report,
+            "variable_name": variable,
+            "knowledge_type": "report_variable",
+            "tags": [variable, report, "variable definition"],
+            "retrieval_text": (
+                f"Report: {report}\nVariable: {variable}\n"
+                f"Description: {description}"
+            ),
+        })
 
+    if not documents:
+        raise ValueError("No help documents were found.")
     return documents
 
 

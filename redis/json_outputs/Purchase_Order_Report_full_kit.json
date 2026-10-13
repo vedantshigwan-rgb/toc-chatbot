@@ -1,34 +1,58 @@
 [
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "MS_FK_2"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "MTS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "MTS"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "MS_FK_2",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "SBD_FK_3"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "SBD_FK_3",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "SBD_FK_2"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "SBD_FK_2",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "MS_FK_1"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "MS_FK_1",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "SBD_FK_1"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "SBD_FK_1",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "AE_FK_1"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "AE_FK_1",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
-        "FK_NAME": "NA"
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
     }
 ]

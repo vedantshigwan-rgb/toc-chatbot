@@ -1,0 +1,2186 @@
+[
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - MARINE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - MARINE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "DEC-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUN-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "SEP-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "OCT-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2023",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAY-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JAN-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "MAR-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "NOV-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "FEB-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "APR-2025",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "JUL-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2026",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "desp_mon",
+        "VALUE": "AUG-2024",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    }
+]

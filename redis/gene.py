@@ -8,6 +8,8 @@ from typing import Any, Dict, Iterable, List, Mapping, Optional, Set, Tuple
 import pandas as pd
 from dotenv import load_dotenv
 
+from autocomplete_config import get_controller_variable, get_period_dependency
+
 try:
     import oracledb
     from oracledb import DatabaseError
@@ -368,6 +370,35 @@ def validate_selected_rows(rows: pd.DataFrame) -> None:
         )
 
 
+
+
+def normalize_name_for_match(value: Any) -> str:
+    """Normalize report/variable names for configuration matching."""
+    text = "" if value is None else str(value).strip().casefold()
+    text = re.sub(r"[^a-z0-9]+", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def find_mapping_row(
+    mapping: pd.DataFrame,
+    report_name: str,
+    variable_name: str,
+):
+    """Find one mapping row by logical report + logical variable name."""
+
+    report_key = normalize_name_for_match(report_name)
+    variable_key = normalize_name_for_match(variable_name)
+
+    matches = mapping[
+        mapping["report_name"].map(normalize_name_for_match).eq(report_key)
+        & mapping["variable_name"].map(normalize_name_for_match).eq(variable_key)
+    ]
+
+    if matches.empty:
+        return None
+
+    return next(matches.itertuples(index=False))
+
 # -----------------------------------------------------------------------------
 # Main processing
 # -----------------------------------------------------------------------------
@@ -384,11 +415,28 @@ def generate_json_from_excel(
     """
     Generate JSON only for rows marked as Redis variables.
 
-    Expected logical fields in the changed workbook:
-      report name | variables | column names | table name | storage_type
+    NEW STORAGE MODEL
+    -----------------
+    A report may have ONE configured controlling autocomplete variable.
 
-    Both "Non-redis variable" and "Non- redis variable" are recognized and
-    skipped. Only "Redis variable" rows query Oracle and create JSON files.
+    Example:
+        Inventory Report -> org_name -> ORG_NAME
+
+    The controller itself is loaded globally.
+
+    Every other Redis variable is generated as DISTINCT pairs:
+        controller value + target variable value
+
+    Example JSON row for buyer_name:
+        {
+            "REPORT_NAME": "Inventory Report",
+            "VARIABLE_NAME": "buyer_name",
+            "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+            "CONTROLLER_VARIABLE": "org_name",
+            "CONTROLLER_VALUE": "ACD - SPARES"
+        }
+
+    Reports without a configured controller keep the old global behavior.
     """
 
     mapping = load_mapping(Path(excel_path), sheet_name)
@@ -397,6 +445,22 @@ def generate_json_from_excel(
     non_redis_rows = mapping[mapping["storage_type"] == "non-redis"].copy()
 
     validate_selected_rows(redis_rows)
+
+    # Check all declared period dependencies before contacting Oracle.
+    for report_name in ("Docket Report", "Docket Employee Report"):
+        dependency = get_period_dependency(report_name)
+        assert dependency is not None
+        required = [dependency["controller"]]
+        if dependency["virtual_period_columns"]:
+            required.extend(dependency["virtual_period_columns"].values())
+        else:
+            required.extend(("period_type", "period_name"))
+        for variable in required:
+            found = find_mapping_row(mapping, report_name, variable)
+            if found is None or found.storage_type != "redis":
+                raise ValueError(
+                    f"{report_name}: Redis mapping must include Redis variable {variable!r}"
+                )
 
     print(f"[INFO] Mapping rows: {len(mapping)}")
     print(f"[INFO] Redis rows to process: {len(redis_rows)}")
@@ -436,25 +500,144 @@ def generate_json_from_excel(
 
             safe_table = validate_oracle_identifier(table_name, "table name")
 
-            query = f"""
-                SELECT DISTINCT {safe_column}
-                FROM {safe_table}
-                WHERE {safe_column} IS NOT NULL
-            """
+            controller_variable = get_controller_variable(report_name)
+            controller_row = None
+            safe_controller_column = None
+
+            if controller_variable:
+                controller_row = find_mapping_row(
+                    mapping,
+                    report_name,
+                    controller_variable,
+                )
+
+                if controller_row is None:
+                    raise ValueError(
+                        f"Configured autocomplete controller '{controller_variable}' "
+                        f"was not found in redis_mapping.xlsx for report "
+                        f"'{report_name}'."
+                    )
+
+                if str(controller_row.storage_type).strip() != "redis":
+                    raise ValueError(
+                        f"Configured autocomplete controller '{controller_variable}' "
+                        f"must be marked as Redis variable for report '{report_name}'."
+                    )
+
+                controller_table = str(controller_row.table_name).strip()
+                if "." not in controller_table:
+                    controller_table = f"{DEFAULT_SCHEMA}.{controller_table}"
+
+                safe_controller_table = validate_oracle_identifier(
+                    controller_table,
+                    "controller table name",
+                )
+
+                if safe_controller_table != safe_table:
+                    raise ValueError(
+                        f"Controller '{controller_variable}' and target variable "
+                        f"'{variable_name}' must belong to the same report table. "
+                        f"Controller table={safe_controller_table}; "
+                        f"target table={safe_table}."
+                    )
+
+                safe_controller_column = validate_oracle_identifier(
+                    clean_column_name(controller_row.column_name),
+                    "controller column name",
+                )
+
+            is_controller = (
+                controller_variable is not None
+                and normalize_name_for_match(variable_name)
+                == normalize_name_for_match(controller_variable)
+            )
+
+            dependency = get_period_dependency(report_name)
+            is_physical_period_name = bool(
+                dependency
+                and not dependency["virtual_period_columns"]
+                and normalize_name_for_match(variable_name)
+                == normalize_name_for_match(dependency["period_name_variable"])
+            )
+
+            if is_physical_period_name:
+                type_row = find_mapping_row(
+                    mapping, report_name, dependency["period_type_variable"]
+                )
+                if type_row is None or type_row.storage_type != "redis":
+                    raise ValueError("Period type mapping is missing")
+                type_table = str(type_row.table_name).strip()
+                if "." not in type_table:
+                    type_table = f"{DEFAULT_SCHEMA}.{type_table}"
+                if validate_oracle_identifier(type_table, "period type table") != safe_table:
+                    raise ValueError("PERIOD_TYPE and PERIOD_NAME must use the same table")
+                safe_type_column = validate_oracle_identifier(
+                    clean_column_name(type_row.column_name), "period type column"
+                )
+                query = f"""
+                    SELECT DISTINCT
+                        {safe_controller_column} AS CONTROLLER_VALUE,
+                        {safe_type_column} AS PERIOD_TYPE,
+                        {safe_column} AS VALUE
+                    FROM {safe_table}
+                    WHERE {safe_controller_column} IS NOT NULL
+                      AND {safe_type_column} IS NOT NULL
+                      AND {safe_column} IS NOT NULL
+                """
+            elif controller_variable and not is_controller:
+                query = f"""
+                    SELECT DISTINCT
+                        {safe_controller_column} AS CONTROLLER_VALUE,
+                        {safe_column} AS VALUE
+                    FROM {safe_table}
+                    WHERE {safe_controller_column} IS NOT NULL
+                      AND {safe_column} IS NOT NULL
+                """
+            else:
+                query = f"""
+                    SELECT DISTINCT
+                        {safe_column} AS VALUE
+                    FROM {safe_table}
+                    WHERE {safe_column} IS NOT NULL
+                """
 
             print(
                 f"[INFO] Excel row {excel_row_number}: "
-                f"{report_name} / {variable_name} -> {safe_table}.{safe_column}"
+                f"{report_name} / {variable_name} -> {safe_table}.{safe_column}; "
+                f"controller={controller_variable or 'none'}"
             )
 
             results = run_sql(query, limit=limit)
 
-            # Preserve the existing JSON shape: REPORT_NAME plus the Oracle
-            # result column. VARIABLE_NAME remains encoded in the file name.
-            enriched_results = [
-                {"REPORT_NAME": report_name, **result_row}
-                for result_row in results
-            ]
+            enriched_results = []
+
+            for result_row in results:
+                value = result_row.get("VALUE")
+                if value is None:
+                    continue
+
+                controller_value = ""
+                if controller_variable and not is_controller:
+                    raw_controller_value = result_row.get("CONTROLLER_VALUE")
+                    if raw_controller_value is None:
+                        continue
+                    controller_value = str(raw_controller_value).strip()
+                    if not controller_value:
+                        continue
+
+                enriched_row = {
+                    "REPORT_NAME": report_name,
+                    "VARIABLE_NAME": variable_name,
+                    "VALUE": value,
+                    "CONTROLLER_VARIABLE": controller_variable or "",
+                    "CONTROLLER_VALUE": controller_value,
+                }
+                if is_physical_period_name:
+                    period_type = result_row.get("PERIOD_TYPE")
+                    if period_type is None or not str(period_type).strip():
+                        continue
+                    enriched_row["PERIOD_TYPE"] = str(period_type).strip()
+                enriched_results.append(enriched_row)
 
             json_file_name = (
                 f"{safe_file_name(report_name)}_"
@@ -476,6 +659,79 @@ def generate_json_from_excel(
                 f"{report_name} / {variable_name}: {exc}"
             )
 
+    # Docket Report does NOT have physical PERIOD_TYPE / PERIOD_NAME columns.
+    # Generate virtual dropdown records from the three existing period columns.
+    for report_name in ("Docket Report",):
+        dependency = get_period_dependency(report_name)
+        if not dependency or not dependency["virtual_period_columns"]:
+            continue
+        try:
+            controller_row = find_mapping_row(
+                mapping, report_name, dependency["controller"]
+            )
+            table = str(controller_row.table_name).strip()
+            if "." not in table:
+                table = f"{DEFAULT_SCHEMA}.{table}"
+            safe_table = validate_oracle_identifier(table, "Docket table")
+            safe_org_column = validate_oracle_identifier(
+                clean_column_name(controller_row.column_name), "organization column"
+            )
+            type_rows: set[tuple[str, str]] = set()
+            name_rows: set[tuple[str, str, str]] = set()
+            for period_type, logical_column in dependency["virtual_period_columns"].items():
+                period_row = find_mapping_row(mapping, report_name, logical_column)
+                if period_row is None:
+                    raise ValueError(f"Docket period column missing: {logical_column}")
+                period_table = str(period_row.table_name).strip()
+                if "." not in period_table:
+                    period_table = f"{DEFAULT_SCHEMA}.{period_table}"
+                if validate_oracle_identifier(period_table, "period table") != safe_table:
+                    raise ValueError("Docket period columns must use one table")
+                period_column = validate_oracle_identifier(
+                    clean_column_name(period_row.column_name), "period column"
+                )
+                query = f"""
+                    SELECT DISTINCT
+                        {safe_org_column} AS CONTROLLER_VALUE,
+                        {period_column} AS VALUE
+                    FROM {safe_table}
+                    WHERE {safe_org_column} IS NOT NULL
+                      AND {period_column} IS NOT NULL
+                """
+                for result_row in run_sql(query, limit=limit):
+                    org = str(result_row.get("CONTROLLER_VALUE") or "").strip()
+                    period_name = str(result_row.get("VALUE") or "").strip()
+                    if org and period_name:
+                        type_rows.add((org, period_type))
+                        name_rows.add((org, period_type, period_name))
+
+            for variable_name, source_rows in (
+                ("period_type", sorted(type_rows)),
+                ("period_name", sorted(name_rows)),
+            ):
+                output_rows = []
+                for item in source_rows:
+                    org, period_type = item[:2]
+                    payload = {
+                        "REPORT_NAME": report_name,
+                        "VARIABLE_NAME": variable_name,
+                        "VALUE": period_type if variable_name == "period_type" else item[2],
+                        "CONTROLLER_VARIABLE": dependency["controller"],
+                        "CONTROLLER_VALUE": org,
+                    }
+                    if variable_name == "period_name":
+                        payload["PERIOD_TYPE"] = period_type
+                    output_rows.append(payload)
+                file_path = destination / (
+                    f"{safe_file_name(report_name)}_{variable_name}.json"
+                )
+                write_json_file(file_path, output_rows)
+                succeeded += 1
+                print(f"[DONE] {file_path.name}: {len(output_rows)} record(s)")
+        except Exception as exc:
+            failed += 1
+            print(f"[FAILED] Generating Docket virtual period values: {exc}")
+
     print(
         f"\n[SUMMARY] Created: {succeeded}; Failed: {failed}; "
         f"Skipped non-Redis: {len(non_redis_rows)}"
@@ -486,7 +742,7 @@ def generate_json_from_excel(
 
 
 def find_excel_file(base_dir: Path) -> Path:
-    """Find redis_mapping.xlsx, redis mapping.xlsx, or numbered copies."""
+    """Find redis_mapping.xlsx, redis_mapping.xlsx, or numbered copies."""
 
     patterns = (
         "redis_mapping*.xlsx",

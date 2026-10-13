@@ -11,6 +11,8 @@ import {
 export default function LookupPopover() {
   const {
     lookup,
+    requestMode,
+    replyingTo,
     selectLookupValue,
     selectDateValue,
   } = useChat();
@@ -64,7 +66,7 @@ export default function LookupPopover() {
   ]);
 
 
-  if (!lookup.open) {
+  if (!lookup.open || requestMode !== "normal_message" || replyingTo) {
     return null;
   }
 

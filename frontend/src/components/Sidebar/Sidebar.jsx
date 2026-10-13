@@ -11,6 +11,7 @@ import {
 
 import {
   fetchAutocompleteValues,
+  fetchPeriodOptions,
 } from "../../services/autocompleteApi";
 
 import Dropdown from "./Dropdown";
@@ -28,6 +29,13 @@ function normalizeIdentifier(value) {
 }
 
 
+function normalizeReportName(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase();
+}
+
+
 function getLabel(item) {
   return (
     item?.label ||
@@ -35,6 +43,502 @@ function getLabel(item) {
     item?.name ||
     item?.id ||
     ""
+  );
+}
+
+
+function buildReportChoices(baseTabs) {
+  const reportsByName = new Map();
+
+  for (const baseTab of baseTabs || []) {
+    for (const subTab of baseTab.sub_tabs || []) {
+      for (const reportItem of subTab.reports || []) {
+        const reportName =
+          String(
+            reportItem?.report_name ||
+            reportItem?.label ||
+            ""
+          ).trim();
+
+        const reportKey =
+          normalizeReportName(reportName);
+
+        if (!reportKey) {
+          continue;
+        }
+
+        /*
+         * One logical report is shown once even when Roles and options.xlsx
+         * places the same report under multiple old Base/Sub-tab paths.
+         * selectReport() still receives the original report id and restores
+         * the hidden path internally for the rest of the application.
+         */
+        if (!reportsByName.has(reportKey)) {
+          reportsByName.set(
+            reportKey,
+            {
+              ...reportItem,
+              label:
+                getLabel(reportItem) ||
+                reportName,
+            }
+          );
+        }
+      }
+    }
+  }
+
+  return Array.from(
+    reportsByName.values()
+  ).sort((a, b) => {
+    const nameA = String(
+      a.label || a.report_name || ""
+    ).trim();
+
+    const nameB = String(
+      b.label || b.report_name || ""
+    ).trim();
+
+    return nameA.localeCompare(
+      nameB,
+      "en",
+      {
+        sensitivity: "base",
+        numeric: true,
+      }
+    );
+  });
+}
+
+
+function ReportOptionControl({
+  option,
+  selectedReport,
+  reportVariables,
+  controllerVariableName,
+  controllerValue,
+  periodTypeValue,
+  value,
+  onValueChange,
+}) {
+  const [search, setSearch] =
+    useState(value || "");
+
+  const [values, setValues] =
+    useState([]);
+
+  const [loading, setLoading] =
+    useState(false);
+
+  const [error, setError] =
+    useState(null);
+
+  const [focused, setFocused] =
+    useState(false);
+
+  const pickerRef = useRef(null);
+
+  // Unlike the Report picker, filter options previously remained open
+  // when a user clicked anywhere outside the options list.
+  useEffect(() => {
+    if (!focused) {
+      return undefined;
+    }
+
+    function handleOutsidePointerDown(event) {
+      if (
+        pickerRef.current &&
+        !pickerRef.current.contains(event.target)
+      ) {
+        setFocused(false);
+      }
+    }
+
+    function handleEscape(event) {
+      if (event.key === "Escape") {
+        setFocused(false);
+      }
+    }
+
+    document.addEventListener("pointerdown", handleOutsidePointerDown);
+    document.addEventListener("keydown", handleEscape);
+
+    return () => {
+      document.removeEventListener("pointerdown", handleOutsidePointerDown);
+      document.removeEventListener("keydown", handleEscape);
+    };
+  }, [focused]);
+
+
+  const optionVariable =
+    useMemo(() => {
+      const optionVariableId =
+        normalizeIdentifier(
+          option?.variable_name
+        );
+
+      return (
+        reportVariables.find(
+          (variable) =>
+            normalizeIdentifier(
+              variable?.variable_name
+            ) === optionVariableId
+        ) || null
+      );
+    }, [
+      option,
+      reportVariables,
+    ]);
+
+
+  const reportName = String(selectedReport?.report_name || "").trim();
+  const isPeriodReport = [
+    "Docket Report", "Docket Employee Report"
+  ].includes(reportName);
+  const isPeriodTypeOption =
+    isPeriodReport && normalizeIdentifier(option?.variable_name) === "period_type";
+  const isPeriodNameOption =
+    isPeriodReport && normalizeIdentifier(option?.variable_name) === "period_name";
+  const autocompleteEnabled =
+    isPeriodTypeOption || isPeriodNameOption ||
+    optionVariable?.autocomplete_enabled === true ||
+    option?.autocomplete_enabled === true;
+
+
+  const variableName =
+    String(
+      optionVariable?.variable_name ||
+      option?.variable_name ||
+      ""
+    ).trim();
+
+
+  const controllerId =
+    normalizeIdentifier(
+      controllerVariableName
+    );
+
+  const variableId =
+    normalizeIdentifier(
+      variableName
+    );
+
+  const isController =
+    Boolean(
+      controllerId &&
+      variableId === controllerId
+    );
+
+  const requiresController = Boolean(
+    (controllerId && !isController && !String(controllerValue || "").trim()) ||
+    (isPeriodNameOption && !String(periodTypeValue || "").trim())
+  );
+
+
+  useEffect(() => {
+    setSearch(value || "");
+  }, [value]);
+
+
+  useEffect(() => {
+    if (
+      !selectedReport ||
+      !variableName ||
+      !autocompleteEnabled ||
+      !focused ||
+      requiresController
+    ) {
+      setValues([]);
+      setLoading(false);
+      setError(null);
+      return undefined;
+    }
+
+    const controller =
+      new AbortController();
+
+    const query =
+      String(search || "").trim();
+
+    const timer =
+      window.setTimeout(
+        async () => {
+          setLoading(true);
+          setError(null);
+
+          try {
+            const resolvedReportName =
+              selectedReport.autocomplete_report_name ||
+              selectedReport.report_name;
+            const result = (isPeriodTypeOption || isPeriodNameOption)
+              ? await fetchPeriodOptions({
+                  reportName: resolvedReportName,
+                  orgValue: controllerValue,
+                  periodType: isPeriodNameOption ? periodTypeValue : "",
+                  query,
+                  limit: 40,
+                  signal: controller.signal,
+                })
+              : await fetchAutocompleteValues({
+                  reportName: resolvedReportName,
+                  variableName,
+                  query,
+                  limit: 40,
+                  controllerVariableName: isController ? "" : controllerVariableName,
+                  controllerValue: isController ? "" : controllerValue,
+                  signal: controller.signal,
+                });
+
+            setValues(
+              Array.isArray(result)
+                ? result
+                : []
+            );
+          } catch (requestError) {
+            if (
+              requestError.name ===
+              "AbortError"
+            ) {
+              return;
+            }
+
+            console.error(
+              "Report option autocomplete failed:",
+              requestError
+            );
+
+            setValues([]);
+            setError(
+              requestError.message ||
+              "Could not load values."
+            );
+          } finally {
+            if (
+              !controller.signal.aborted
+            ) {
+              setLoading(false);
+            }
+          }
+        },
+        query ? 220 : 0
+      );
+
+    return () => {
+      window.clearTimeout(timer);
+      controller.abort();
+    };
+  }, [
+    selectedReport,
+    variableName,
+    autocompleteEnabled,
+    focused,
+    requiresController,
+    search,
+    isController,
+    controllerVariableName,
+    controllerValue,
+    isPeriodTypeOption,
+    isPeriodNameOption,
+    periodTypeValue,
+  ]);
+
+
+  function chooseValue(nextValue) {
+    const cleanValue =
+      String(nextValue || "").trim();
+
+    if (!cleanValue) {
+      return;
+    }
+
+    onValueChange(
+      variableName,
+      cleanValue
+    );
+
+    setSearch(cleanValue);
+    setFocused(false);
+  }
+
+
+  function clearValue() {
+    onValueChange(
+      variableName,
+      ""
+    );
+
+    setSearch("");
+    setFocused(false);
+  }
+
+
+  function chooseManualValue() {
+    if (
+      !autocompleteEnabled &&
+      search.trim()
+    ) {
+      chooseValue(search);
+    }
+  }
+
+
+  return (
+    <section
+      className="sidebar-option-value-section"
+      ref={pickerRef}
+      onBlur={(event) => {
+        // Keep the popup open when focus moves to a suggestion inside it.
+        if (
+          event.relatedTarget &&
+          !event.currentTarget.contains(event.relatedTarget)
+        ) {
+          setFocused(false);
+        }
+      }}
+    >
+      <div className="sidebar-option-value-header">
+        <span className="sidebar-option-value-label">
+          {option.label || variableName}
+        </span>
+
+        {value && (
+          <button
+            type="button"
+            className="sidebar-option-clear"
+            onClick={clearValue}
+          >
+            Clear
+          </button>
+        )}
+      </div>
+
+
+      <div className="sidebar-option-search-wrap">
+        <input
+          type="text"
+          className="sidebar-option-search"
+          value={search}
+          autoComplete="off"
+          disabled={requiresController}
+          placeholder={
+            requiresController
+              ? (isPeriodNameOption && !periodTypeValue
+                  ? "Select PERIOD TYPE first"
+                  : `Select ${controllerVariableName} first`)
+              : autocompleteEnabled
+                ? `Search ${option.label || variableName}...`
+                : `Enter ${option.label || variableName}...`
+          }
+          onFocus={() => {
+            if (!requiresController) {
+              setFocused(true);
+            }
+          }}
+          onChange={(event) => {
+            const nextSearch =
+              event.target.value;
+
+            setSearch(nextSearch);
+
+            /*
+             * Typing means the previously committed value is no longer
+             * authoritative until a suggestion/manual value is selected.
+             */
+            if (value) {
+              onValueChange(
+                variableName,
+                ""
+              );
+            }
+
+            if (!requiresController) {
+              setFocused(true);
+            }
+          }}
+          onKeyDown={(event) => {
+            if (
+              event.key === "Enter" &&
+              !autocompleteEnabled &&
+              !requiresController
+            ) {
+              event.preventDefault();
+              chooseManualValue();
+            }
+          }}
+        />
+
+
+        {value && (
+          <span className="sidebar-option-selected-check">
+            ✓
+          </span>
+        )}
+
+
+        {focused &&
+          autocompleteEnabled &&
+          !requiresController && (
+            <div className="sidebar-option-results">
+              {loading && (
+                <div className="sidebar-option-state">
+                  Loading values...
+                </div>
+              )}
+
+              {!loading &&
+                error && (
+                  <div className="sidebar-option-state error">
+                    {error}
+                  </div>
+                )}
+
+              {!loading &&
+                !error &&
+                values.length === 0 && (
+                  <div className="sidebar-option-state">
+                    No matching values
+                  </div>
+                )}
+
+              {!loading &&
+                !error &&
+                values.map(
+                  (item) => (
+                    <button
+                      key={item}
+                      type="button"
+                      className="sidebar-option-result"
+                      onMouseDown={(event) => {
+                        event.preventDefault();
+                      }}
+                      onClick={() => {
+                        chooseValue(item);
+                      }}
+                    >
+                      {item}
+                    </button>
+                  )
+                )}
+            </div>
+          )}
+      </div>
+
+
+      {requiresController && (
+        <div className="sidebar-option-manual-hint">
+          {isPeriodNameOption && !periodTypeValue
+            ? "Select PERIOD TYPE first."
+            : `Select ${controllerVariableName} first.`}
+        </div>
+      )}
+
+      {!requiresController &&
+        !autocompleteEnabled && (
+          <div className="sidebar-option-manual-hint">
+            Manual value — press Enter to select.
+          </div>
+        )}
+    </section>
   );
 }
 
@@ -50,468 +554,80 @@ export default function Sidebar() {
 
     baseTabs,
 
-    selectedBaseTabId,
-    selectBaseTab,
-
-    selectedSubTabId,
-    selectSubTab,
-
     selectedReport,
-    selectedReportId,
     selectReport,
     conversationReportName,
     reportLocked,
 
-    selectedOption,
-    selectedOptionId,
-    selectOption,
-
+    requestMode,
+    reportOptions,
     reportVariables,
+    reportAutocompleteController,
+    selectedControllerValue,
 
-    selectedOptionValue,
-    setSelectedOptionValue,
+    selectedOptionValues,
+    setReportOptionValue,
 
     newChat,
   } = useChat();
 
 
-  // ==========================================================
-  // Refs
-  // ==========================================================
-
   const resizingRef =
     useRef(false);
 
-  const treeZoneRef =
-    useRef(null);
 
-  const flyoutCloseTimerRef =
-    useRef(null);
-
-
-  // ==========================================================
-  // Flyout navigation state
-  // ==========================================================
-
-  const [
-    flyoutOpen,
-    setFlyoutOpen,
-  ] = useState(false);
+  const allReports =
+    useMemo(
+      () => buildReportChoices(
+        baseTabs
+      ),
+      [baseTabs]
+    );
 
 
-  const [
-    flyoutTop,
-    setFlyoutTop,
-  ] = useState(0);
-
-
-  const [
-    hoveredBaseId,
-    setHoveredBaseId,
-  ] = useState(null);
-
-
-  const [
-    hoveredSubId,
-    setHoveredSubId,
-  ] = useState(null);
-
-
-  // ==========================================================
-  // Flyout data
-  // ==========================================================
-
-  const previewBase =
+  const selectedReportChoice =
     useMemo(() => {
-      if (!hoveredBaseId) {
+      if (!selectedReport) {
         return null;
       }
 
-      return (
-        baseTabs.find(
-          (item) =>
-            item.id === hoveredBaseId
-        ) || null
-      );
-    }, [
-      hoveredBaseId,
-      baseTabs,
-    ]);
-
-
-  const previewSubTabs =
-    previewBase?.sub_tabs || [];
-
-
-  const previewSub =
-    useMemo(() => {
-      if (!hoveredSubId) {
-        return null;
-      }
-
-      return (
-        previewSubTabs.find(
-          (item) =>
-            item.id === hoveredSubId
-        ) || null
-      );
-    }, [
-      hoveredSubId,
-      previewSubTabs,
-    ]);
-
-
-  const previewReports =
-    previewSub?.reports || [];
-
-
-  // ==========================================================
-  // Option value selector
-  // ==========================================================
-
-  const [
-    optionSearch,
-    setOptionSearch,
-  ] = useState("");
-
-
-  const [
-    optionValues,
-    setOptionValues,
-  ] = useState([]);
-
-
-  const [
-    optionValuesLoading,
-    setOptionValuesLoading,
-  ] = useState(false);
-
-
-  const [
-    optionValuesError,
-    setOptionValuesError,
-  ] = useState(null);
-
-
-  const [
-    optionValueFocused,
-    setOptionValueFocused,
-  ] = useState(false);
-
-
-  /*
-   * Match the option selected from Roles and options.xlsx
-   * against the complete variable metadata returned for
-   * the selected report.
-   */
-  const selectedOptionVariable =
-    useMemo(() => {
-      if (!selectedOption) {
-        return null;
-      }
-
-      const selectedVariableId =
-        normalizeIdentifier(
-          selectedOption.variable_name
+      const selectedName =
+        normalizeReportName(
+          selectedReport.report_name ||
+          selectedReport.label ||
+          ""
         );
 
       return (
-        reportVariables.find(
-          (variable) =>
-            normalizeIdentifier(
-              variable.variable_name
-            ) === selectedVariableId
+        allReports.find(
+          (reportItem) =>
+            normalizeReportName(
+              reportItem.report_name ||
+              reportItem.label ||
+              ""
+            ) === selectedName
         ) || null
       );
     }, [
-      selectedOption,
-      reportVariables,
+      allReports,
+      selectedReport,
     ]);
 
 
-  const optionAutocompleteEnabled =
-    selectedOptionVariable
-      ?.autocomplete_enabled === true ||
-    selectedOption
-      ?.autocomplete_enabled === true;
+  const reportSelectorOptions =
+    reportLocked &&
+    selectedReportChoice
+      ? [selectedReportChoice]
+      : allReports;
 
-
-  const autocompleteVariableName =
-    selectedOptionVariable
-      ?.variable_name ||
-    selectedOption
-      ?.variable_name ||
-    "";
-
-
-  /*
-   * When a different option is selected:
-   *
-   * ORG NAME
-   * PERIOD TYPE
-   * PERIOD NAME
-   *
-   * clear the previous value and immediately allow
-   * its values to be displayed.
-   */
-  useEffect(() => {
-    setOptionSearch("");
-    setOptionValues([]);
-    setOptionValuesError(null);
-
-    setOptionValueFocused(
-      Boolean(selectedOption)
-    );
-  }, [
-    selectedOption?.id,
-    selectedReport?.id,
-  ]);
-
-
-  // ==========================================================
-  // Load option values from Redis
-  // ==========================================================
-
-  useEffect(() => {
-    if (
-      !selectedReport ||
-      !selectedOption ||
-      !autocompleteVariableName ||
-      !optionAutocompleteEnabled
-    ) {
-      setOptionValues([]);
-      setOptionValuesLoading(false);
-      setOptionValuesError(null);
-
-      return undefined;
-    }
-
-
-    const controller =
-      new AbortController();
-
-
-    const query =
-      optionSearch.trim();
-
-
-    const delay =
-      query ? 220 : 0;
-
-
-    const timer =
-      window.setTimeout(
-        async () => {
-          setOptionValuesLoading(true);
-          setOptionValuesError(null);
-
-          try {
-            const values =
-              await fetchAutocompleteValues({
-                reportName:
-                  selectedReport
-                    .autocomplete_report_name ||
-                  selectedReport
-                    .report_name,
-
-                variableName:
-                  autocompleteVariableName,
-
-                query,
-
-                limit: 40,
-
-                signal:
-                  controller.signal,
-              });
-
-
-            setOptionValues(
-              Array.isArray(values)
-                ? values
-                : []
-            );
-          } catch (error) {
-            if (
-              error.name === "AbortError"
-            ) {
-              return;
-            }
-
-            console.error(
-              "Sidebar option value error:",
-              error
-            );
-
-            setOptionValues([]);
-
-            setOptionValuesError(
-              error.message ||
-              "Could not load values."
-            );
-          } finally {
-            if (
-              !controller.signal.aborted
-            ) {
-              setOptionValuesLoading(
-                false
-              );
-            }
-          }
-        },
-        delay
-      );
-
-
-    return () => {
-      window.clearTimeout(timer);
-
-      controller.abort();
-    };
-  }, [
-    selectedReport?.id,
-    selectedReport?.report_name,
-    selectedReport
-      ?.autocomplete_report_name,
-
-    selectedOption?.id,
-
-    autocompleteVariableName,
-    optionAutocompleteEnabled,
-
-    optionSearch,
-  ]);
-
-
-  // ==========================================================
-  // Flyout close timer cleanup
-  // ==========================================================
-
-  useEffect(() => {
-    return () => {
-      if (
-        flyoutCloseTimerRef.current
-      ) {
-        window.clearTimeout(
-          flyoutCloseTimerRef.current
-        );
-      }
-    };
-  }, []);
-
-
-  // ==========================================================
-  // Flyout helpers
-  // ==========================================================
-
-  function cancelFlyoutClose() {
-    if (
-      flyoutCloseTimerRef.current
-    ) {
-      window.clearTimeout(
-        flyoutCloseTimerRef.current
-      );
-
-      flyoutCloseTimerRef.current =
-        null;
-    }
-  }
-
-
-  function closeFlyout() {
-    cancelFlyoutClose();
-
-    setFlyoutOpen(false);
-    setHoveredBaseId(null);
-    setHoveredSubId(null);
-  }
-
-
-  function scheduleFlyoutClose() {
-    cancelFlyoutClose();
-
-    flyoutCloseTimerRef.current =
-      window.setTimeout(() => {
-        setFlyoutOpen(false);
-
-        setHoveredBaseId(null);
-        setHoveredSubId(null);
-
-        flyoutCloseTimerRef.current =
-          null;
-      }, 300);
-  }
-
-
-  /*
-   * This fixes the issue where PRODUCTION was opening
-   * its flyout beside PLANNING.
-   *
-   * We calculate the top position from the actual
-   * Base-tab row currently being hovered.
-   */
-  function openBaseFlyout(
-    baseTabId,
-    element
-  ) {
-    if (
-      !treeZoneRef.current ||
-      !element
-    ) {
-      return;
-    }
-
-
-    const zoneRect =
-      treeZoneRef.current
-        .getBoundingClientRect();
-
-
-    const itemRect =
-      element
-        .getBoundingClientRect();
-
-
-    const top =
-      itemRect.top -
-      zoneRect.top;
-
-
-    setFlyoutTop(
-      Math.max(0, top)
-    );
-
-
-    setFlyoutOpen(true);
-
-    setHoveredBaseId(
-      baseTabId
-    );
-
-    /*
-     * Do not show a report from the previously
-     * hovered Base tab.
-     */
-    setHoveredSubId(null);
-  }
-
-
-  // ==========================================================
-  // Sidebar resize
-  // ==========================================================
 
   function handleResizeStart() {
-    resizingRef.current =
-      true;
-
+    resizingRef.current = true;
     document.body.style.userSelect =
       "none";
 
-
     function handleMouseMove(event) {
-      if (
-        !resizingRef.current
-      ) {
+      if (!resizingRef.current) {
         return;
       }
 
@@ -524,16 +640,11 @@ export default function Sidebar() {
           450
         );
 
-      setSidebarWidth(
-        nextWidth
-      );
+      setSidebarWidth(nextWidth);
     }
 
-
     function handleMouseUp() {
-      resizingRef.current =
-        false;
-
+      resizingRef.current = false;
       document.body.style.userSelect =
         "";
 
@@ -548,7 +659,6 @@ export default function Sidebar() {
       );
     }
 
-
     document.addEventListener(
       "mousemove",
       handleMouseMove
@@ -561,50 +671,6 @@ export default function Sidebar() {
   }
 
 
-  // ==========================================================
-  // Option value helpers
-  // ==========================================================
-
-  function chooseOptionValue(value) {
-    const cleanValue =
-      String(value || "").trim();
-
-    if (!cleanValue) {
-      return;
-    }
-
-    setSelectedOptionValue(
-      cleanValue
-    );
-
-    setOptionSearch(
-      cleanValue
-    );
-
-    setOptionValueFocused(
-      false
-    );
-  }
-
-
-  function chooseManualValue() {
-    const cleanValue =
-      optionSearch.trim();
-
-    if (!cleanValue) {
-      return;
-    }
-
-    chooseOptionValue(
-      cleanValue
-    );
-  }
-
-
-  // ==========================================================
-  // Render
-  // ==========================================================
-
   return (
     <div
       className={
@@ -615,7 +681,6 @@ export default function Sidebar() {
             : ""
         )
       }
-
       style={{
         width:
           sidebarCollapsed
@@ -625,27 +690,22 @@ export default function Sidebar() {
     >
       <div
         className="resize-handle"
-
-        onMouseDown={
-          handleResizeStart
-        }
+        onMouseDown={handleResizeStart}
       />
 
 
       <button
         type="button"
-
         className="new-chat"
-
         onClick={newChat}
       >
         ＋ New chat
       </button>
 
-
-      {navigationLoading && (
+      <div className="sidebar-content-scroll">
+        {navigationLoading && (
         <div className="navigation-state">
-          Loading navigation...
+          Loading reports...
         </div>
       )}
 
@@ -660,580 +720,103 @@ export default function Sidebar() {
       {!navigationLoading &&
         !navigationError && (
           <>
-            {/* =================================================
-                NAVIGATION
-
-                Permanent:
-                    Base tabs
-
-                Flyout:
-                    Sub tab → Report
-
-                OPTION DOES NOT GO INTO THE FLYOUT.
-            ================================================= */}
-
-            <div
-              ref={treeZoneRef}
-
-              className="sidebar-tree-zone"
-
-              onMouseEnter={() => {
-                cancelFlyoutClose();
-              }}
-
-              onMouseLeave={() => {
-                scheduleFlyoutClose();
-              }}
-            >
-              <div className="sidebar-tree-title">
-                Navigation
+            {reportLocked && (
+              <div className="sidebar-report-lock">
+                Report locked for this chat: {conversationReportName}
               </div>
+            )}
 
-              {reportLocked && (
-                <div className="sidebar-report-lock">
-                  Report locked for this chat: {conversationReportName}
+
+            <Dropdown
+              label="Report"
+              options={reportSelectorOptions}
+              selectedId={
+                selectedReportChoice?.id ||
+                null
+              }
+              placeholder="Select a report"
+              allowNone={false}
+              onSelect={(reportId) => {
+                if (!reportId) {
+                  return;
+                }
+
+                selectReport(reportId);
+              }}
+            />
+
+
+            {selectedReport && requestMode === "normal_message" &&
+              reportOptions.length > 0 && (
+                <>
+                  <div className="sidebar-tree-title">
+                    Filters
+                  </div>
+
+                  {reportOptions.map(
+                    (option) => {
+                      const variableId =
+                        normalizeIdentifier(
+                          option.variable_name
+                        );
+
+                      return (
+                        <ReportOptionControl
+                          key={
+                            option.id ||
+                            variableId
+                          }
+                          option={option}
+                          selectedReport={
+                            selectedReport
+                          }
+                          reportVariables={
+                            reportVariables
+                          }
+                          controllerVariableName={
+                            reportAutocompleteController
+                              ?.variable_name ||
+                            ""
+                          }
+                          controllerValue={
+                            selectedControllerValue
+                          }
+                          periodTypeValue={
+                            selectedOptionValues.period_type || ""
+                          }
+                          value={
+                            selectedOptionValues[
+                              variableId
+                            ] || ""
+                          }
+                          onValueChange={
+                            setReportOptionValue
+                          }
+                        />
+                      );
+                    }
+                  )}
+                </>
+              )}
+
+
+            {selectedReport && requestMode === "normal_message" &&
+              reportOptions.length === 0 && (
+                <div className="navigation-state">
+                  This report has no sidebar filters.
                 </div>
               )}
 
 
-              {/* =============================================
-                  BASE TABS
-              ============================================== */}
-
-              <div className="sidebar-base-menu">
-                {baseTabs.map(
-                  (baseTab) => {
-                    const active =
-                      baseTab.id ===
-                      selectedBaseTabId;
-
-
-                    return (
-                      <button
-                        key={
-                          baseTab.id
-                        }
-
-                        type="button"
-
-                        disabled={
-                          reportLocked && !active
-                        }
-
-                        title={
-                          reportLocked && !active
-                            ? `This chat is locked to ${conversationReportName}. Start a new chat to change reports.`
-                            : undefined
-                        }
-
-                        className={
-                          "sidebar-base-item" +
-                          (
-                            active
-                              ? " active"
-                              : ""
-                          )
-                        }
-
-                        onMouseEnter={(event) => {
-                          cancelFlyoutClose();
-
-                          openBaseFlyout(
-                            baseTab.id,
-                            event.currentTarget
-                          );
-                        }}
-
-                        onFocus={(event) => {
-                          cancelFlyoutClose();
-
-                          openBaseFlyout(
-                            baseTab.id,
-                            event.currentTarget
-                          );
-                        }}
-
-                        onClick={(event) => {
-                          selectBaseTab(
-                            baseTab.id
-                          );
-
-                          cancelFlyoutClose();
-
-                          openBaseFlyout(
-                            baseTab.id,
-                            event.currentTarget
-                          );
-                        }}
-                      >
-                        <span className="sidebar-base-name">
-                          {getLabel(
-                            baseTab
-                          )}
-                        </span>
-
-                        <span className="sidebar-base-arrow">
-                          ›
-                        </span>
-                      </button>
-                    );
-                  }
-                )}
-              </div>
-
-
-              {/* =============================================
-                  FLYOUT
-
-                  ONLY:
-                      SUB TAB
-                      REPORT
-              ============================================== */}
-
-              {flyoutOpen &&
-                previewBase && (
-                  <div
-                    className="sidebar-nav-flyout"
-
-                    style={{
-                      top: `${flyoutTop}px`,
-                    }}
-
-                    onMouseEnter={() => {
-                      cancelFlyoutClose();
-                    }}
-
-                    onMouseLeave={() => {
-                      scheduleFlyoutClose();
-                    }}
-                  >
-                    {/* =======================================
-                        SUB TAB COLUMN
-                    ======================================== */}
-
-                    <div className="sidebar-nav-column">
-                      <div className="sidebar-nav-column-title">
-                        Sub tab
-                      </div>
-
-
-                      {previewSubTabs.map(
-                        (subTab) => {
-                          const active =
-                            subTab.id ===
-                            selectedSubTabId;
-
-
-                          return (
-                            <button
-                              key={
-                                subTab.id
-                              }
-
-                              type="button"
-
-                              disabled={
-                                reportLocked && !active
-                              }
-
-                              title={
-                                reportLocked && !active
-                                  ? `This chat is locked to ${conversationReportName}. Start a new chat to change reports.`
-                                  : undefined
-                              }
-
-                              className={
-                                "sidebar-nav-flyout-item" +
-                                (
-                                  active
-                                    ? " active"
-                                    : ""
-                                )
-                              }
-
-                              onMouseEnter={() => {
-                                cancelFlyoutClose();
-
-                                setHoveredSubId(
-                                  subTab.id
-                                );
-                              }}
-
-                              onFocus={() => {
-                                cancelFlyoutClose();
-
-                                setHoveredSubId(
-                                  subTab.id
-                                );
-                              }}
-
-                              onClick={() => {
-                                selectSubTab(
-                                  subTab.id
-                                );
-
-                                setHoveredSubId(
-                                  subTab.id
-                                );
-                              }}
-                            >
-                              <span>
-                                {getLabel(
-                                  subTab
-                                )}
-                              </span>
-
-                              <span>
-                                ›
-                              </span>
-                            </button>
-                          );
-                        }
-                      )}
-                    </div>
-
-
-                    {/* =======================================
-                        REPORT COLUMN
-
-                        THIS IS THE LAST FLYOUT COLUMN.
-                    ======================================== */}
-
-                    {previewSub && (
-                      <div className="sidebar-nav-column">
-                        <div className="sidebar-nav-column-title">
-                          Report
-                        </div>
-
-
-                        {previewReports.length ===
-                        0 ? (
-                          <div className="sidebar-nav-empty">
-                            No reports
-                          </div>
-                        ) : (
-                          previewReports.map(
-                            (reportItem) => {
-                              const active =
-                                reportItem.id ===
-                                selectedReportId;
-
-
-                              return (
-                                <button
-                                  key={
-                                    reportItem.id
-                                  }
-
-                                  type="button"
-
-                                  disabled={
-                                    reportLocked && !active
-                                  }
-
-                                  title={
-                                    reportLocked && !active
-                                      ? `This chat is locked to ${conversationReportName}. Start a new chat to change reports.`
-                                      : undefined
-                                  }
-
-                                  className={
-                                    "sidebar-nav-flyout-item" +
-                                    (
-                                      active
-                                        ? " active"
-                                        : ""
-                                    )
-                                  }
-
-                                  onClick={() => {
-                                    /*
-                                     * Clicking the report commits the
-                                     * currently hovered navigation path.
-                                     */
-                                    if (
-                                      previewBase.id !==
-                                      selectedBaseTabId
-                                    ) {
-                                      selectBaseTab(
-                                        previewBase.id
-                                      );
-                                    }
-
-
-                                    if (
-                                      previewSub.id !==
-                                      selectedSubTabId
-                                    ) {
-                                      selectSubTab(
-                                        previewSub.id
-                                      );
-                                    }
-
-
-                                    selectReport(
-                                      reportItem.id
-                                    );
-
-
-                                    /*
-                                     * OPTION is not shown here.
-                                     * It will appear as the permanent
-                                     * dropdown below Navigation.
-                                     */
-                                    closeFlyout();
-                                  }}
-                                >
-                                  <span>
-                                    {getLabel(
-                                      reportItem
-                                    )}
-                                  </span>
-                                </button>
-                              );
-                            }
-                          )
-                        )}
-                      </div>
-                    )}
-                  </div>
-                )}
-            </div>
-
-
-            {/* =================================================
-                STATIC OPTION DROPDOWN
-
-                Comes from:
-                    Roles and options.xlsx
-
-                Example:
-                    Docket Report
-                        ORG NAME
-                        PERIOD TYPE
-                        PERIOD NAME
-            ================================================= */}
-
-            {selectedReport && (
-              <Dropdown
-                label="Option"
-
-                options={
-                  selectedReport.options ||
-                  []
-                }
-
-                selectedId={
-                  selectedOptionId
-                }
-
-                placeholder="Select an option"
-
-                allowNone
-
-                noneLabel="None / No filter"
-
-                onSelect={(optionId) => {
-                  selectOption(
-                    optionId
-                  );
-
-                  setOptionValueFocused(
-                    Boolean(optionId)
-                  );
-                }}
-              />
-            )}
-
-
-            {/* =================================================
-                SELECTED OPTION VALUE
-
-                Redis variable:
-                    show Redis values
-
-                Non-Redis variable:
-                    manual input
-            ================================================= */}
-
-            {selectedOption && (
-              <section className="sidebar-option-value-section">
-                <div className="sidebar-option-value-header">
-                  <span className="sidebar-option-value-label">
-                    {selectedOption.label}
-                  </span>
-
-
-                  {selectedOptionValue && (
-                    <button
-                      type="button"
-
-                      className="sidebar-option-clear"
-
-                      onClick={() => {
-                        setSelectedOptionValue(
-                          ""
-                        );
-
-                        setOptionSearch(
-                          ""
-                        );
-
-                        setOptionValueFocused(
-                          true
-                        );
-                      }}
-                    >
-                      Clear
-                    </button>
-                  )}
-                </div>
-
-
-                <div className="sidebar-option-search-wrap">
-                  <input
-                    type="text"
-
-                    className="sidebar-option-search"
-
-                    value={
-                      optionSearch
-                    }
-
-                    autoComplete="off"
-
-                    placeholder={
-                      optionAutocompleteEnabled
-                        ? `Search ${selectedOption.label}...`
-                        : `Enter ${selectedOption.label}...`
-                    }
-
-                    onFocus={() => {
-                      setOptionValueFocused(
-                        true
-                      );
-                    }}
-
-                    onChange={(event) => {
-                      setOptionSearch(
-                        event.target.value
-                      );
-
-                      setSelectedOptionValue(
-                        ""
-                      );
-
-                      setOptionValueFocused(
-                        true
-                      );
-                    }}
-
-                    onKeyDown={(event) => {
-                      if (
-                        event.key ===
-                          "Enter" &&
-                        !optionAutocompleteEnabled
-                      ) {
-                        event.preventDefault();
-
-                        chooseManualValue();
-                      }
-                    }}
-                  />
-
-
-                  {selectedOptionValue && (
-                    <span className="sidebar-option-selected-check">
-                      ✓
-                    </span>
-                  )}
-
-
-                  {optionValueFocused &&
-                    optionAutocompleteEnabled && (
-                      <div className="sidebar-option-results">
-                        {optionValuesLoading && (
-                          <div className="sidebar-option-state">
-                            Loading values...
-                          </div>
-                        )}
-
-
-                        {!optionValuesLoading &&
-                          optionValuesError && (
-                            <div className="sidebar-option-state error">
-                              {optionValuesError}
-                            </div>
-                          )}
-
-
-                        {!optionValuesLoading &&
-                          !optionValuesError &&
-                          optionValues.length ===
-                            0 && (
-                            <div className="sidebar-option-state">
-                              No matching values
-                            </div>
-                          )}
-
-
-                        {!optionValuesLoading &&
-                          !optionValuesError &&
-                          optionValues.map(
-                            (value) => (
-                              <button
-                                key={
-                                  value
-                                }
-
-                                type="button"
-
-                                className="sidebar-option-result"
-
-                                onMouseDown={(event) => {
-                                  /*
-                                   * Prevent input blur before
-                                   * the value is selected.
-                                   */
-                                  event.preventDefault();
-                                }}
-
-                                onClick={() => {
-                                  chooseOptionValue(
-                                    value
-                                  );
-                                }}
-                              >
-                                {value}
-                              </button>
-                            )
-                          )}
-                      </div>
-                    )}
-                </div>
-
-
-                {!optionAutocompleteEnabled && (
-                  <div className="sidebar-option-manual-hint">
-                    Manual value — press Enter to select.
-                  </div>
-                )}
-              </section>
-            )}
-
-
-            {/* =================================================
-                COMPLETE VARIABLE LIST ICON / PLATE
-            ================================================= */}
-
-            {selectedReport && (
+            {selectedReport && requestMode === "normal_message" && (
               <VariableChips />
             )}
           </>
         )}
 
 
-      <HistoryList />
+        <HistoryList />
+      </div>
 
       <UserProfile />
     </div>

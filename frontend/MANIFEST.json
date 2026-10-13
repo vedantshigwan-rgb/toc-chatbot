@@ -1,0 +1,29 @@
+{
+  "baseline": [
+    "TOC_backend_primary_only_7.zip",
+    "Frontend_2.zip",
+    "redis_1.zip"
+  ],
+  "changed_files": [
+    "backend/main.py",
+    "frontend/src/context/ChatContext.jsx",
+    "frontend/src/components/HelpPanel.jsx",
+    "frontend/src/utils/responseActions.js",
+    "frontend/src/components/Sidebar/Sidebar.jsx",
+    "frontend/src/components/MainPanel/InputArea.jsx",
+    "frontend/src/components/MainPanel/LookupPopover.jsx",
+    "backend/services/help_retrieval_service.py",
+    "backend/services/metadata_safe_context.py",
+    "backend/services/help_service.py",
+    "backend/services/result_analysis_service.py",
+    "backend/services/metadata_query_service.py",
+    "backend/services/metadata_response_service.py",
+    "backend/services/report_variable_help_service.py",
+    "backend/scripts/build_help_faiss.py",
+    "backend/tests/test_report_modes_upgrade.py",
+    "backend/workflows/workflow_manager.py",
+    "backend/data/help/help_knowledge.json",
+    "backend/data/help/report_variable_descriptions.json"
+  ],
+  "redis_changed": false
+}

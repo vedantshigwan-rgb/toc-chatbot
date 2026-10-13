@@ -13,6 +13,7 @@ from services.feedback_context_service import FeedbackContextService, FeedbackCo
 from services.feedback_rewrite_service import FeedbackRewriteService, FeedbackRewriteServiceError
 from services.flagged_faq_service import FlaggedFaqService
 from services.request_preprocessor import prepare_normalized_request
+from services.report_variable_intent_router import has_valid_report_variables
 from services.greeting_service import GreetingService, GreetingServiceError
 from services.help_service import HelpService, HelpServiceError
 from services.metadata_query_service import MetadataQueryService, MetadataQueryServiceError
@@ -137,13 +138,25 @@ class WorkflowManager:
         cleaned_report = str(report_name or "").strip() or None
 
         try:
-            classification = await self.intent_classifier.classify(
-                user_input=cleaned_input,
-                memory=None,
-                quoted_message=None,
-                selected_data_context=cleaned_report,
-                result_context_available=False,
-            )
+            if has_valid_report_variables(cleaned_report, normalized_variables):
+                # The user supplied a report-specific variable and its value.
+                # Treat it as a data request without consulting the intent LLM.
+                classification = IntentClassification(
+                    intent=IntentType.DATA_QUERY,
+                    confidence=1.0,
+                    reason="Valid structured variable for the selected report.",
+                    context_used=False,
+                    is_ambiguous=False,
+                    possible_intents=[],
+                )
+            else:
+                classification = await self.intent_classifier.classify(
+                    user_input=cleaned_input,
+                    memory=None,
+                    quoted_message=None,
+                    selected_data_context=cleaned_report,
+                    result_context_available=False,
+                )
         except IntentClassifierError as exc:
             error = WorkflowError(
                 category=ErrorCategory.INTERNAL_ERROR,
@@ -289,7 +302,7 @@ class WorkflowManager:
                 variables=[],
                 diagnostics={
                     "routing": self._routing(None, "help"),
-                    "help": {"match_count": len(matches), "matches": matches},
+                    "help": {"match_count": len(matches)},
                 },
             )
         except HelpServiceError as exc:
@@ -350,7 +363,10 @@ class WorkflowManager:
                 report_name=cleaned_report,
                 diagnostics={
                     "routing": self._routing(None, "metadata"),
-                    "metadata": service_result,
+                    "metadata": {
+                        "status": service_status,
+                        "match_count": len(service_result.get("matches") or []),
+                    },
                 },
             )
         except MetadataQueryServiceError as exc:

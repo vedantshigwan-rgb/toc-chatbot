@@ -1,34 +1,93 @@
 [
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2025-26"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2025-26",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2019-20"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2023-24",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2022-23"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2020-21",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2020-21"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2021-22",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2026-27"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2022-23",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2023-24"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2026-27",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2021-22"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2024-25",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "FIN_YEAR": "2024-25"
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2023-24",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2022-23",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2019-20",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2026-27",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2024-25",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "fin_year",
+        "VALUE": "2025-26",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     }
 ]

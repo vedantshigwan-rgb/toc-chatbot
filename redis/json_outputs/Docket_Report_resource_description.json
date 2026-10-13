@@ -1,562 +1,1080 @@
 [
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC - HU80-EX, MITSU"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SPECIAL BORING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RUSSIAN BORING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "FINE BORING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HOBBING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VTC-VL125CM HONOR SE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MARKING CON ROD CELL"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Turning Center ACD -",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CENTER LATHE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HOBING MACHINE (CNC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CENTER LATHE - ENTER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SHAPING MACHINE (VER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PLANO MILLING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MARKING CON ROD CELL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "WASHING MACHINE MANU"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC 5 Axis Vetical M",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Center Lathe"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MILLING MACHINE - H.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Micropoint Grinding "
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RESOURCE 2 FOR SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Laser Marking / name"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CHUCKER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC TURNING CENTER H"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC Doosan HM 800",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "WMW INT. GEAR GRINDI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "KIRLOSKAR SHAPING SU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SI 8"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "H.M.T RADIAL DRILLIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Hoffler Rapid 1250 L"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Drill Resharpening M",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Shrink Fit Machine -"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Shrink Fit Machine -",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BALANCING MACHINE (M"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BEBCH CON ROD CELL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC Vertical Machini"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BENCH SCREW ROTOR CE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC ANGULAR HEAD GRI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MILLING M/C HMT FN3V"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HONING MACHINE (Make",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC TURNING CENTER -"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC Vertical Machini",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "GUN DRILLING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Jig Mill",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BENCH CRANK CYLINDER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VTL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RESOURCE 4 FOR SCREW"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BAND SAW M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "ENTERPRISE CENTER LA"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HOBBING M/C - RUSSIA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Hofler HF 900 CNC Ho"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "GUN DRILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "TOOL & CUTTER - TOOL"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SHAPING MACHINE HORI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC-DOOSAN"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "ROUGH BORING SPM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HONING MACHINE (Make"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PRESSURE TESTING CYL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "WASHING MACHINE ROTA"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BARE COMPRESSOR ASSE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "ROTOR PROFILE GRINDI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BARE COMP ASSEMBLY T",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "YAZDA HMC 80N"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "ENTERPRISE CENTER LA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CYL GRINDING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "AXIA-55",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HONING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MILLING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC - BFW (BMV 51)"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "INT GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "GEAR HOBBING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RADIAL DRILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VTC-VL125CM HONOR SE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PLANO MILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PRESSURE TESTING FOR"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RUSSIAN BORING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SUR GRINDING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC - NICOLAS CORREA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CUTTER GRINDER-Holro"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC - BFW (BMV 51)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BENCH MISC CELL 1"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "GEAR HOBBING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "INTERNAL GRINDING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VERTICAL SHAPING MAC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HORI.BORING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BEBCH CON ROD CELL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CENTER LATHE (HEAVY "
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HM1000 DOOSAN HMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC (MAKE: ACE DESIG"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC - HU80-EX, MITSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "INT GRINDING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC-40",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VTL"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SUR GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PLANO MILLING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CUTTER GRINDER-Holro",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC - Doosan HM 800"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CYLINDRICAL GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC - NICOLAS CORREA"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MARKING CRANK CYL CE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "TEETH GRINDING MACHI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC (BMV 51)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Jig Mill"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SI 8",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SCREW CUTTING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "WMW BORE GRINDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC 5 Axis Vetical M"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HOFLER Rapid 1500 Te",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Centre Grinding mach"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Vacuum Cleaner, 60lt",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "ROUGH BORING SPM"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RUSSIAN INT.HOBBING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RESOURCE 2 FOR SCREW"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC TURNING CENTER (",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Electric stacker MHE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC 5 Axis Vertical ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CHUCKER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "1 MW MOTOR  TEST BED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BORE GRD. M/C ELBE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BALANCING MACHINE (M",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Hoffler Rapid 2500 L"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PAINT BOOTH - TRM AS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC TURNING CENTER ("
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "FINAL INSPECTION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "KEYWAY MILLING MACHI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PRESSURE TESTING CAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Rotary surface Grind"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC- (MAKE: BFW, MOD"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CYL GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "GAS CUTTING PROFILE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "DRILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "FINAL INSPECTION"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VTC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "YAZDA HMC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "YAZDA HMC 80N",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MAKINO HMC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Jig Mill",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HM1000 DOOSAN HMC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PLANO MILLING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MILLING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SPECIAL BORING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HOBBING M/C - RUSSIA"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SURFACE GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SHAPING MACHINE (VER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC TURNING CENTER -",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CYLINDRICAL GRINDING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BENCH CASING CELL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BORE GRINDING MACHIN"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HORI.BORING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "TESTING M/C-Holroyd-"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "INTERNAL GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC (BMV 51)"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Jyoti",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC Doosan HM 800"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "ENTERPRISE CENTER LA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "KIRLOSKAR SHAPING SU"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "INT. GRD. M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RUSSIAN INT.HOBBING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HELIX 400",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PORTABLE DRILLING MA"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Hoffler Rapid 2500 L",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Reciprocating table "
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC- (MAKE: BFW, MOD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RAD DRILLING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BOMBAY LATHE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC 5 Axis Vertical "
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "TOOL & CUTTER - TOOL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RADIAL DRILLING MACH"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HONING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PRESSURE TESTING CAS"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "TEETH GRINDING MACHI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC DOOSAN CYLINDER "
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VTL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RADIAL DRILLING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "YAZDA HMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HOBING MACHINE (CNC)"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MAKINO HMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HMC - NICOLAS CORREA"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC DOOSAN CYLINDER ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VERTICAL SHAPING MAC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CENTER LATHE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BENCH CASING CELL"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "K/W SEATER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BEBCH CON ROD CELL"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC - Doosan HM 800",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SHAPING MACHINE HORI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SUR GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MARKING CRANK CYL CE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "KEYWAY MILLING MACHI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BARE COMP ASSEMBLY T"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RESOURCE 1 FOR SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RESOURCE 3 FOR SCREW"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RESOURCE 4 FOR SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "AXIA-55"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PORTABLE DRILLING MA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "FP-40"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BORE GRD. M/C ELBE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "H.M.T VERTICAL MILLI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BENCH CASING CELL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "INT. GRD. M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BENCH MISC CELL 1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HOFLER Rapid 1500 Te"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CENTER LATHE (HEAVY ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "H.M.T RADIAL DRILLIN"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "WASHING MACHINE MANU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CNC ANGULAR HEAD GRI"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MILLING M/C HMT FN3V",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "TURNING CENTER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RADIAL DRILLING - HM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Turning Center ACD -"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC - NICOLAS CORREA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "SURFACE GRINDING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "FINAL INSPECTION ACT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "DRILLING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Centre Grinding mach",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "FINE BORING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Laser Marking / name",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VTC"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "TESTING M/C-Holroyd-",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Tool and Cutter - Ro"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "LAPONITE BROACHING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "DY BALANCING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Hofler HF 900 CNC Ho",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PRESSURE TESTING CYL"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Rotary surface Grind",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Pillar Drilling"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "GAS CUTTING PROFILE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "WMW BORE GRINDER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RAD DRILLING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Drill Resharpening M"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HMC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "LAPONITE BROACHING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SCREW CUTTING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BENCH SCREW ROTOR CE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "PRESSURE TESTING FOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "PAINT BOOTH - TRM AS"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "ROTOR PROFILE GRINDI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "ROTOR MILLING -CLC-2"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "ROTOR MILLING -CLC-2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC-40"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "GUN DRILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MILLING"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Tool and Cutter - Ro",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "VMC - BFW"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Center Lathe",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "MILLING MACHINE - H."
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "DY BALANCING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RADIAL DRILLING - HM"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CENTER LATHE- ENTERP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "FINAL INSPECTION ACT"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Pillar Drilling",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "CENTER LATHE- ENTERP"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "FP-40",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BAND SAW M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "H.M.T VERTICAL MILLI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BARE COMPRESSOR ASSE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Electric stacker MHE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "K/W SEATER"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CYL GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RESOURCE 1 FOR SCREW"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Reciprocating table ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Vacuum Cleaner, 60lt"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC-DOOSAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "RUSSIAN HOBBING M/C"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "COOLING TOWER NO.1 -",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "Jyoti"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "WASHING MACHINE ROTA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "HELIX 400"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "SURFACE GRINDING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "COOLING TOWER NO.1 -"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "TURNING CENTER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "BOMBAY LATHE"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BORE GRINDING MACHIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RESOURCE_DESC": "1 MW MOTOR  TEST BED"
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RADIAL DRILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "HOBBING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CENTER LATHE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC - BFW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "BENCH CRANK CYLINDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CENTER LATHE - ENTER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RESOURCE 3 FOR SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RUSSIAN HOBBING M/C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "CNC TURNING CENTER H",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "WMW INT. GEAR GRINDI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Hoffler Rapid 1250 L",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "Micropoint Grinding ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "VMC (MAKE: ACE DESIG",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "RADIAL DRILLING MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_description",
+        "VALUE": "MILLING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     }
 ]

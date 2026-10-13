@@ -1,46 +1,107 @@
 [
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "PNT M/c Shop"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "PNT M/c Shop",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Miscellaneous Shop T"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Miscellaneous Shop P",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Bench PNT"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "CNC Shop PNT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "TRM Gear M/c Shop"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "PNT M/c Shop",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Bench TRM Heavy"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Bench TRM Gear",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Miscellaneous Shop P"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "M/c Disposal",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "M/c Disposal"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Bench Fab. PNT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "CNC Shop PNT"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Bench TRM Heavy",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Bench TRM Gear"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Miscellaneous Shop T",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Bench Fab. PNT"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Bench PNT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "RES_DIV": "Assly. M/c Shop"
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Assly. M/c Shop",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Miscellaneous Shop P",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Bench TRM Gear",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "TRM Gear M/c Shop",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "res_div",
+        "VALUE": "Bench TRM Heavy",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     }
 ]

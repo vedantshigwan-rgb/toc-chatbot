@@ -404,6 +404,10 @@ async def ask(
     start_time = time.time()
     user_id = current_user_email(request)
     variables = _variables_payload(payload)
+    # Help/Report Terms never consume input variables or sidebar filters,
+    # including when a client calls /ask directly instead of using the UI.
+    if payload.message_type in ("help", "metadata"):
+        variables = []
 
     chat_store = getattr(request.app.state, "chat_store", None)
     manager = getattr(request.app.state, "workflow_manager", None)

@@ -1,34 +1,114 @@
 [
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "Bajare, Mr. Amar Vijay"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Bajare, Mr. Amar Vijay",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "PARAB, Mr. GURUPRASAD SHIVAJI"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "SHINDE, Mr. SHIVAJI UTTAM"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "ADAI, Mr. SANDEEP APPASAHEB"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "BARGAL, Mr. VISHAL SANJAY"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "Alle, Mr. Sachin Yuvaraj"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "Garde, Mr. Krushnakumar Annasa"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Garde, Mr. Krushnakumar Annasa",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
-        "BUYER_NAME": "WANDHEKAR, Mr. TUKARAM SHESHAR"
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     }
 ]

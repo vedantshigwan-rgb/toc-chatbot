@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 from datetime import date, datetime
 from decimal import Decimal
 from enum import Enum
@@ -234,7 +235,7 @@ async def generate_result_analysis(
     rows: List[Dict[str, Any]],
     client,
     semaphore,
-    model: str = "gpt-5-mini",
+    model: str = "gpt-4.1-mini",
 ) -> str:
     """
     Generate a short grounded explanation of SQL results.
@@ -289,7 +290,10 @@ async def generate_result_analysis(
     11. If a number is extremely large, you may also express it naturally using million/billion where useful.
     12. Do not invent units or currency symbols when they are not explicitly known.
     13. Do not make business conclusions that are not supported by the supplied information.
-    14. Keep the answer concise: normally 2 to 4 sentences.
+    14. Match the answer length to the question. Give a short direct answer
+        for simple requests. For comparisons, trends or complex breakdowns,
+        explain supported observations in a few short paragraphs if useful.
+        Do not pad the answer or invent reasons.
     15. End naturally by indicating that the detailed breakdown is available in the table only when useful.
     16. Do not list every record because the user can open the detailed table separately.
 
@@ -320,16 +324,24 @@ async def generate_result_analysis(
         default=str,
     )}
 
-    Answer the user's question naturally and concisely.
+    Answer naturally at the level of detail the question requires.
+    Use only the supplied profile; avoid unsupported conclusions.
     """.strip()
 
     async with semaphore:
-        response = (
-            await client.responses.create(
-                model=model,
-                instructions=system_prompt,
-                input=user_prompt,
-            )
+        response = await client.responses.create(
+            model=os.getenv(
+                "RESULT_RESPONSE_MODEL",
+                model
+            ),
+            instructions=system_prompt,
+            input=user_prompt,
+            temperature=float(
+                os.getenv(
+                    "RESULT_RESPONSE_TEMPERATURE",
+                    "0.85"
+                )
+            ),
         )
 
     output_text = str(
@@ -1533,8 +1545,10 @@ IMPORTANT RULES:
     - workflow
     - agent
 
-14. Keep the answer concise unless the user explicitly
-    requests detailed analysis.
+14. Match your level of detail to the question. Give concise answers
+    to simple questions, and explain useful comparisons or patterns
+    in short paragraphs for complex questions. Do not add filler.
+    Never draw conclusions beyond the supplied rows.
 """.strip()
 
         payload = {
@@ -1613,6 +1627,7 @@ IMPORTANT RULES:
             model_call_failed_code=(
                 "result_analysis_model_failed"
             ),
+            user_facing=True,
         )
 
     # ========================================================
@@ -1626,6 +1641,7 @@ IMPORTANT RULES:
         user_prompt: str,
         empty_response_code: str,
         model_call_failed_code: str,
+        user_facing: bool = False,
     ) -> str:
 
         try:
@@ -1656,18 +1672,29 @@ IMPORTANT RULES:
 
         try:
 
-            async with (
-                self.pool.semaphore
-            ):
+            response_model = self.model
+            request_options = {}
 
-                response = (
-                    await client.responses.create(
-                        model=self.model,
-                        instructions=(
-                            system_prompt
-                        ),
-                        input=user_prompt,
+            if user_facing:
+                response_model = os.getenv(
+                    "FOLLOWUP_RESPONSE_MODEL",
+                    "gpt-4.1-mini"
+                )
+
+                request_options["temperature"] = float(
+                    os.getenv(
+                        "FOLLOWUP_RESPONSE_TEMPERATURE",
+                        "0.45"
                     )
+                )
+
+            async with self.pool.semaphore:
+
+                response = await client.responses.create(
+                    model=response_model,
+                    instructions=system_prompt,
+                    input=user_prompt,
+                    **request_options,
                 )
 
         except Exception as error:

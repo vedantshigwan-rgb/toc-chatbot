@@ -1,122 +1,126 @@
 [
   {
-    "id": "help_001",
-    "title": "Asking a new question",
-    "content": "Enter a complete request in the chat. The assistant determines the type of request and sends it to the appropriate processing flow. A complete new request is treated as a new request even when previous conversation exists.",
+    "id": "help_000",
+    "title": "Application overview and the three chat modes",
+    "content": "Start a new chat and choose a report. The report stays linked to that conversation. Use Ask to get report data, totals, comparisons, or lists. In Ask, optional filters in the sidebar and /variables in the message help narrow data questions. Use Help to learn how the application works and to understand the input variables available for the selected report; Help does not require filters or /variables. Use Report Terms when you want to understand an unfamiliar column name or business term shown in your report; it explains meanings rather than retrieving live values. For detailed Ask results, use the Table action when available. To switch reports, start a New chat.",
     "tags": [
-      "question",
-      "new request",
-      "chat"
+      "overview",
+      "getting started",
+      "application",
+      "how it works",
+      "modes"
+    ]
+  },
+  {
+    "id": "help_001",
+    "title": "Selecting a report",
+    "content": "Select a report from the Report dropdown on the left before asking a data question, a Help question, or a Report Terms question. Each chat is linked to its selected report. Start a New chat to work with another report.",
+    "tags": [
+      "report",
+      "select",
+      "change"
     ]
   },
   {
     "id": "help_002",
-    "title": "Selecting a data context",
-    "content": "The interface allows a data context to be selected before submitting a request. The selected context is sent to the backend with the message. The backend decides whether that context is relevant to the detected request type.",
+    "title": "Ask mode: get report data",
+    "content": "Use Ask to request information from the selected report, such as totals, counts, item lists, or buyer-wise breakdowns. Write the business question in plain language and send it.",
     "tags": [
-      "selection",
-      "data context",
-      "interface"
+      "ask",
+      "data",
+      "report"
     ]
   },
   {
     "id": "help_003",
-    "title": "Using input variables",
-    "content": "A request can contain input variables and their selected values. These values are sent to the backend together with the user's question and can be used when processing a data request.",
+    "title": "Ask mode: insert variables",
+    "content": "Only in Ask mode, type / in the message field to see variables available for the selected report. Choose a variable and enter/select its value to filter a data question.",
     "tags": [
-      "variables",
-      "input",
-      "values"
+      "ask",
+      "variable",
+      "slash",
+      "input"
     ]
   },
   {
     "id": "help_004",
-    "title": "Using optional filters",
-    "content": "Optional values selected from the interface can be sent as additional filters. If the user selects the no-filter option, the optional value is not sent as an active filter to the backend.",
+    "title": "Ask mode: sidebar filters",
+    "content": "In Ask mode, use the optional sidebar filters under the report selector to narrow a data question. You can leave filters empty. Available filters depend on the report.",
     "tags": [
+      "ask",
       "filter",
-      "optional",
-      "no filter"
+      "sidebar"
     ]
   },
   {
     "id": "help_005",
-    "title": "Changing a previous request",
-    "content": "A follow-up message can modify, correct, refine, add to, or remove something from an earlier request. The assistant can use the relevant previous request context to understand the requested change.",
+    "title": "Help mode: variables and app guidance",
+    "content": "Use Help to ask how to operate the chatbot or what an input variable means in the selected report. Help does not require sidebar filters or /variable syntax. Example: What does days mean in this report?",
     "tags": [
-      "follow up",
-      "feedback",
-      "modify",
-      "previous request"
+      "help",
+      "variables",
+      "guide"
     ]
   },
   {
     "id": "help_006",
-    "title": "Asking about previous results",
-    "content": "The user can ask questions about results that were already returned. Existing results can be summarized, explained, compared, sorted, filtered, ranked, or otherwise analysed when the required information is already available in the result.",
+    "title": "Report Terms: understand result fields",
+    "content": "Use Report Terms to ask what an unfamiliar report column, label, abbreviation, or business term means. Report Terms explains concepts for the selected report; it does not list actual stored values or run a data query.",
     "tags": [
-      "results",
-      "analysis",
-      "summary",
-      "explain"
+      "report terms",
+      "metadata",
+      "columns",
+      "definitions"
     ]
   },
   {
     "id": "help_007",
-    "title": "Asking for metadata information",
-    "content": "The user can ask what an application-defined data concept, abbreviation, field, table, report, dataset, measure, or other metadata element means. Metadata questions are answered using the configured application metadata rather than the public web.",
+    "title": "Starting a new chat",
+    "content": "Click + New chat to start a separate conversation. Pick the appropriate report before asking report-specific questions.",
     "tags": [
-      "metadata",
-      "definition",
-      "meaning"
-    ]
-  },
-  {
-    "id": "help_008",
-    "title": "Checking available values",
-    "content": "The user can ask which actual values are available for a data element or whether a particular value exists. The assistant resolves the relevant metadata and safely checks the connected data source.",
-    "tags": [
-      "value lookup",
-      "available values",
-      "validation"
-    ]
-  },
-  {
-    "id": "help_009",
-    "title": "General information questions",
-    "content": "General informational questions that do not depend on private application data can be answered separately from data retrieval requests. These questions do not use the selected application data context.",
-    "tags": [
-      "general",
-      "information"
-    ]
-  },
-  {
-    "id": "help_010",
-    "title": "Clarification requests",
-    "content": "If additional information is required while processing a request, the assistant may ask a clarification question. The clarification response should continue the paused operation rather than being treated as an unrelated new request.",
-    "tags": [
-      "clarification",
-      "continue",
-      "missing information"
-    ]
-  },
-  {
-    "id": "help_011",
-    "title": "Starting a different request",
-    "content": "A complete standalone message is treated according to its own purpose. Previous conversation does not automatically make every new message a continuation of the earlier request.",
-    "tags": [
-      "new request",
+      "new chat",
       "conversation"
     ]
   },
   {
-    "id": "help_012",
-    "title": "When a request cannot be understood safely",
-    "content": "If the assistant cannot safely determine what the user wants, it can request clarification instead of guessing the intended operation.",
+    "id": "help_008",
+    "title": "Reviewing previous chats",
+    "content": "Use Recent in the left sidebar to open earlier chats. A chat retains its selected report so it cannot be changed mid-conversation.",
     "tags": [
-      "unknown",
-      "clarification",
-      "ambiguity"
+      "recent",
+      "history",
+      "chat"
+    ]
+  },
+  {
+    "id": "help_009",
+    "title": "Refining an earlier data result",
+    "content": "If an existing Ask result supports feedback, use its reply or modify action to describe the change you want. This can reconstruct and rerun the selected data question.",
+    "tags": [
+      "feedback",
+      "modify",
+      "reply"
+    ]
+  },
+  {
+    "id": "help_010",
+    "title": "Viewing detailed results",
+    "content": "When the assistant provides a data table, use the available table action to view the detailed breakdown. Explanations in chat summarize the business information rather than showing every record.",
+    "tags": [
+      "table",
+      "results",
+      "details"
+    ]
+  },
+  {
+    "id": "help_011",
+    "title": "When an explanation is unclear",
+    "content": "If you are unsure about a variable, use Help. If a column heading or term in a report result is unfamiliar, use Report Terms. If you want actual business values or calculations, use Ask.",
+    "tags": [
+      "help",
+      "report terms",
+      "ask",
+      "modes"
     ]
   }
 ]

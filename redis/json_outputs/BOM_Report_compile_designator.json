@@ -1,54 +1,156 @@
 [
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-36"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-36",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-82"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-25"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-21"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-81",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-83"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-34",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-24"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-27",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-34"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-24",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-35"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-35",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-22"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-25",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-27"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-21",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-26"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "NA"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-82",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "BOM Report",
-        "COMPILE_DESIGNATOR": "MRP-81"
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-26",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-22",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "compile_designator",
+        "VALUE": "MRP-83",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
     }
 ]

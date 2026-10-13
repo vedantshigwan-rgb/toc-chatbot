@@ -1,38 +1,170 @@
 [
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "PED - GEAR BOX"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "PED - DEFENCE"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "ACD - CENTRI"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "NMD - FORGING",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "ACD - RECIP"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "ACD - SCREW"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "NMD - FORGING",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "PED - RAIL"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - INDUSTRIAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "NMD - FABRICATION"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "NMD - FORGING"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - DEFENCE",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "SBU_NAME": "ACD - GSU"
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "ACD - SCREW",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "NMD - FORGING",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "ACD - SCREW",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "NMD - FABRICATION",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "ACD - RECIP",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "ACD - RECIP",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "ACD - CENTRI",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - MARINE"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "ACD - GSU",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "sbu",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     }
 ]

@@ -1,46 +1,107 @@
 [
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "W"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "Z"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "V",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "H"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "W",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "R"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "7",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "5"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "X",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "7"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "R",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "1"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "W",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "4"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "U",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "U"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "X",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "X"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "Z",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
-        "DIV_CODE": "V"
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "H",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "4",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "div_code",
+        "VALUE": "R",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     }
 ]

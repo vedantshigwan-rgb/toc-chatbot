@@ -1,10 +1,16 @@
 [
     {
         "REPORT_NAME": "OA Trolley Report",
-        "OA_STATUS": 5.0
+        "VARIABLE_NAME": "oa_status",
+        "VALUE": 3.0,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "OA_STATUS": 3.0
+        "VARIABLE_NAME": "oa_status",
+        "VALUE": 5.0,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     }
 ]

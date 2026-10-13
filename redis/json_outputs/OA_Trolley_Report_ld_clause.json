@@ -1,446 +1,954 @@
 [
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % PER WEEK AND MAX 10 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "MAX 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % per week to max. 5 % on pro rata basis."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% TO 5% max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "2% per Month max up to 10% on customer Total Po Value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% TO 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week to max 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "AS PER IRS CONDITIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % per week subject to 5% of basic order value max."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "AS PER IRS CONDTIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% / Week uptoTO A MAXIMUM OF 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Applicable Min 2% Max 10%.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "LD is applicable @ 0.5% per week or part of the week subject to a maximum of 5% of PO value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "2% PER MONTH MAX 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "MAX UP 105"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Not APPLICABLE"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Not Applicable",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % to 5% max"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week to max 5% of basic order value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Applicable i.e.2% per week subject to max 10% on C/Rly total order value Rs-44,60,000.00."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Yes 0.5% per week, subject to max. 5% of basic PO value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK UPTO 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % per week to max. 5 % on pro rata basis.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% TO MAX. 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % per week subject to max 5% of total basic value.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK TO MAX 5% AFTER 15-11-2026"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5%per Month  up to 5% maximum",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "@ 0.5% PER WEEK TO MAX. 5% VALUE OF ORDER"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK UPTO 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "LD @0.5% per week subject to maximum of 10% per week will be applicable after expected",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Applicable Min 2% Max 10%."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "LD @0.05% per week subject to maximum of 5% per week will be applicable after expected",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% TO 5% max"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Liquidated Damages is applicable beyond 4 months of minimum @ 0.5% to Maximum 5% on the total supplies Value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.75% to 7.5% Max"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "MAX 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "AS PER IRS CONDTIONS"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "APPLICABLE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "not applicable"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "MAX 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% to max 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% EVERY WEEK UPTO MAXIMUM OF 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NOT APPLICABLE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.25% per week and max upto 10% on total order val"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week subject to max 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK MAX 7.5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % PER WEEK & MAX 10 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 to 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 to 5% max"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5%PER WEEK TO MAX 5% OF BASIC ORDER VALUE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Not Applicable"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "not applicable",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 TO 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% / Week uptoTO A MAXIMUM OF 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 to 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "shall be charged at 0.5% per week subject to a maximum of 5% of the total order value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% Max. upto 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "2% per Month and max up to 10% of Total PO value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "applicable @0.5% per week subject to maximum of 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "As mentioned in BSP-Purchase Order General Conditions",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "LD @ of 0.5% per week subject to maximum of 10% total PO value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% Per week max 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "2% per Month max up to 10% on total order value."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week, subject to a maximum of 5% of PO value.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "1% per week subject to maximum 10% of basic order value.LD shall be applicable after 24 weeks"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "no"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "YES"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "NIL"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "applicable @0.5% per week subject to maximum of 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "MAX 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 TO 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "N/A"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": ".5% TO 5% PER WEEK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "NO"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "NOT Applicable"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % to 5% max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "2% per Month and max up to 10% of Total PO value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "YES 0.5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% TO 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "LD @0.5% per week subject to maximum of 5% per week will be applicable after expected",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "1% per week subject to maximum 10% of basic order value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% of supply order per week maximum upto 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Liquidated Damages is applicable beyond 4 months of minimum @ 0.5% to Maximum 5% on the total supplies Value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week subject to max 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "PO should be brought to notice prior to dispatch of material, failing to which, it shall be treated as correct/final and shall be binding for invoice verification/payment. Maximum Tolerance allowed is +/- 5% of PO Quantity."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "AS PRS CONDITIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "As mentioned in BSP-Purchase Order General Conditions"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % per week upto 5 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % of the total basic order value for Per Week of delay Maximum 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "na",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% Per week max 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "MAX UP 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "AS PER IRS CONIDTIONS"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5%per week max. 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Yes 0.5% per week, subject to max. 5% of basic PO value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week max upto  5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 per week max upto to 5% maximum"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "LD is applicable @ 0.5% per week or part of the week subject to a maximum of 5% of PO value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5%PER WEEK TO MAX 5% OF BASIC ORDER VALUE"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 to 5 % Max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5%  per week  to maximum 5% of PO value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week max upto 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "No Applicable"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "APPLICABLE"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "yes, the right to charge a penalty of 0.5% of the order value per week to a maximum of 10% OF THE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "YES 0.5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "PO should be brought to notice prior to dispatch of material, failing to which, it shall be treated as correct/final and shall be binding for invoice verification/payment. Maximum Tolerance allowed is +/- 5% of PO Quantity.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "LD @0.5% per week subject to maximum of 10% per week will be applicable after expected"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": ".5 per week to max 10 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "@0.5% per week subject to maximum of 5% per week will be applicable after expected"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% TO MAX. 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % to 5 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "1% per week subject to maximum 10% of basic order value.LD shall be applicable after 24 weeks",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "yes, the right to charge a penalty of 0.5% of the order value per week to a maximum of 10% of the order value."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "1% per week subject to maximum 10% of basic order value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% to Max.5% of order value with grace period of 2 weeks"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "@ 0.5% PER WEEK TO MAX. 5% VALUE OF ORDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK MAX UPTO 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK MAX 7.5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % to 5 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK MAX 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% TO 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "NOT APPLICABLE"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% to Max.5% of order value with grace period of 2 weeks",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "MAX 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK TO MAX 5% AFTER 15-11-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week max upto  5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "1% PER WEEK MAX UPTO 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "1% per week subject to max upto 10% of basic order value.LD shall be applicable after 24 weeks"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 to 5% max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5%per Month  up to 5% maximum"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % of the total basic order value for Per Week of delay Maximum 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "LD @0.05% per week subject to maximum of 5% per week will be applicable after expected"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% of supply order per week maximum upto 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "no",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": ".5 per week to max 10 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "@0.5% per week subject to maximum of 5% per week will be applicable after expected",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "LD @0.5% per week subject to maximum of 5% per week will be applicable"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "AS PER IRS CONDITIONS"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Applicable after 30 weeks from GAD approval, at a rate of 0.5% per week subject to a maximum of 5% of undelivered portion of total order value, from date of final delivery.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "1% PER WEEK MAX UPTO 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "1% per week subject to max upto 10% of basic order value.LD shall be applicable after 24 weeks",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week to max 5% of basic order value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Not"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% OF BASIC VALUE MAX UPTO 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5%per week max. 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "AS PER IRS CONIDTIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Applicable i.e..2% per week subject to max 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week subject to maximum of 5 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "yes, the right to charge a penalty of 0.5% of the order value per week to a maximum of 10% OF THE"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "YES  APPLICABLE AS PER THE CONTRACT."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "LD @ of 0.5% per week subject to maximum of 10% total PO value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "yes, the right to charge a penalty of"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK MAX 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Applicable 0.5% per week"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5%week up to 5% maximum",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week of basic price upto max 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NIL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % per week subject to max 5% of total basic value."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "YES  APPLICABLE AS PER THE CONTRACT.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "Applicable after 30 weeks from GAD approval, at a rate of 0.5% per week subject to a maximum of 5% of undelivered portion of total order value, from date of final delivery."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% EVERY WEEK UPTO MAXIMUM OF 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% to max.5 % of total order value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "LD @0.5% per week subject to maximum of 5% per week will be applicable",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "AS PRS CONDITIONS"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK MAX UPTO 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% PER WEEK & MAX 10 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% to max.5 % of total order value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5%week up to 5% maximum"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week and Max up to 10% on total PO value (including taxes)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "NA"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week or 5% of PO value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week subject to maximum of 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "2% per Month max up to 10% on customer Total Po Value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% to max 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "no",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "N.A."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week subject to maximum of 5 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% Max. upto 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week or part of the week subject to a maximum of 5% of basic order value."
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% to max 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "N.A"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Not",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "shall be charged at 0.5% per week subject to a maximum of 5% of the total order value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NOT APPLICABLE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % PER WEEK & MAX 5 %"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N.A.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "2% PER MONTH MAX 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N.A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% to 5% max"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 PERCENT PER WEEK UPTO 5 PERCENT"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5 % of per week to max 5% of total order value"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "No Applicable",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "LD @0.5% per week subject to maximum of 5% per week will be applicable after expected"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": ".5% TO 5% PER WEEK"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% OF BASIC VALUE MAX UPTO 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "yes, the right to charge a penalty of 0.5% of the order value per week to a maximum of 10% of the order value.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week max upto 5%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "APPLICABLE 0.5% PER WEEK MAX UP 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% per week and Max up to 10% on total PO value (including taxes)"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% PER WEEK & MAX 10 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
-        "LD_CLAUSE": "0.5% TO 10%"
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % PER WEEK & MAX 10 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Applicable 0.5% per week",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % PER WEEK & MAX 5 %",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Applicable i.e..2% per week subject to max 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5%  per week  to maximum 5% of PO value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "MAX UP 105",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "NOT Applicable",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% to max 10%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "2% per Month max up to 10% on total order value.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Applicable Min 2% Max 10%.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "Applicable i.e.2% per week subject to max 10% on C/Rly total order value Rs-44,60,000.00.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week or part of the week subject to a maximum of 5% of basic order value.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.75% to 7.5% Max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% to 5% max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "YES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "no",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "yes, the right to charge a penalty of",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.25% per week and max upto 10% on total order val",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % per week subject to 5% of basic order value max.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week to max 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 % of per week to max 5% of total order value",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5% per week of basic price upto max 5%",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 to 10% max",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "ld_clause",
+        "VALUE": "0.5 per week max upto to 5% maximum",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     }
 ]

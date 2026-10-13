@@ -10,6 +10,8 @@ from openpyxl import load_workbook
 from sqlglot import exp, parse_one
 from sqlglot.errors import ParseError
 
+from services.sql_template_placeholders import SQLTemplatePlaceholderGuard
+
 
 # ============================================================================
 # CONFIGURATION
@@ -17,7 +19,7 @@ from sqlglot.errors import ParseError
 
 DEFAULT_VARIABLE_MAPPING_WORKBOOK = (
     Path(__file__).resolve().parents[1]
-    / "redis mapping.xlsx"
+    / "redis_mapping.xlsx"
 )
 
 REQUIRED_MAPPING_HEADERS = {
@@ -590,9 +592,13 @@ def apply_extra_sql_filters(
         .strip()
     )
 
+    # Hide {variable} syntax from SQLGlot (otherwise numeric placeholders
+    # can become STRUCT(variable) when an additional filter is applied).
+    placeholder_guard = SQLTemplatePlaceholderGuard(sql_without_semicolon)
+
     try:
         expression = parse_one(
-            sql_without_semicolon,
+            placeholder_guard.protected_sql,
             read=dialect,
         )
 
@@ -1039,11 +1045,18 @@ def apply_extra_sql_filters(
     # Serialize back to Oracle SQL.
     # ----------------------------------------------------------------
 
-    final_sql_template = (
-        expression.sql(
-            dialect=dialect
-        ).strip()
-    )
+    try:
+        final_sql_template = placeholder_guard.restore(
+            expression.sql(dialect=dialect).strip()
+        )
+    except ValueError as error:
+        return {
+            "success": False,
+            "message": "SQL template placeholders could not be restored.",
+            "sql_template": cleaned_sql,
+            "applied_filters": applied_filters,
+            "exception_type": type(error).__name__,
+        }
 
     if had_semicolon:
         final_sql_template += ";"

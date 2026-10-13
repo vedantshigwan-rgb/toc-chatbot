@@ -10,7 +10,7 @@ import LookupPopover from "./LookupPopover";
 const MODES = [
   { value: "normal_message", label: "Ask" },
   { value: "help", label: "Help" },
-  { value: "metadata", label: "Metadata" },
+  { value: "metadata", label: "Report Terms" },
 ];
 
 export default function InputArea() {
@@ -65,12 +65,12 @@ export default function InputArea() {
     placeholder = "Describe how this Primary result should change";
   } else if (requestMode === "help") {
     placeholder = selectedReport
-      ? "Ask how to use this report"
+      ? "Ask about report variables or how to use the application"
       : "Select a report before using Help mode";
   } else if (requestMode === "metadata") {
     placeholder = selectedReport
-      ? "Ask about a table, column, or report field"
-      : "Select a report before using Metadata mode";
+      ? "Ask what a term or column means in this report"
+      : "Select a report before using Report Terms mode";
   } else if (selectedReport) {
     placeholder = "Ask about this report, or type / to insert a variable";
   } else {
@@ -108,7 +108,7 @@ export default function InputArea() {
         )}
       </div>
 
-      <LookupPopover />
+      {!replyingTo && requestMode === "normal_message" && <LookupPopover />}
 
       <div className="input-row">
         <input
@@ -154,10 +154,14 @@ export default function InputArea() {
 
       <div className="hint">
         {replyingTo
-          ? "This message will reconstruct and rerun the selected Primary request."
-          : selectedReport
-            ? "Sidebar options are optional filters. Type / to insert any variable available for this report."
-            : "Ask mode can handle greetings without a report. Help, Metadata, and data queries require a report."}
+          ? "This message will refine and rerun the selected data request."
+          : requestMode === "help"
+            ? "Ask about how the application works or what a report variable means."
+            : requestMode === "metadata"
+              ? "Learn what a business term or report column means. No filters are needed."
+              : selectedReport
+                ? "Sidebar filters are optional. Type / to insert a variable."
+                : "You can say hello without selecting a report. Select a report for data questions."}
       </div>
     </div>
   );

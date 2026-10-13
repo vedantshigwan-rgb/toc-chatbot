@@ -1,0 +1,817 @@
+[
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "buyer",
+    "description": "IT SHOWS THE NAME OF THE BUYER RESONSIBLE FOR PURCHASING THE ITEM"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "days",
+    "description": "LEAD TIME FOR PROCURING THE CHILD ITEM . USAUALLY MENTIONED IN DAYS (PROCUREMENT LEAD TIME)"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "item",
+    "description": "IT SHOWS IN TERMS OF ITEM CODE OF THE CHILD ITEM"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "item_cost",
+    "description": "IT IS STANDARD COST OF THE ITEM."
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "item_description",
+    "description": "DESCRIBING OF THE CHILD ITEM"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "item_type",
+    "description": "IT IS A TEMPLATE OF CHILD ITEM"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "product_group",
+    "description": "IT IS A PRODUCT GROUP"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "product_model",
+    "description": "SHOWS THE MODEL NUMBER"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "quantity",
+    "description": "THIS TRACKS BULK PURCHASE ALLOCATIONS TO A BIN, SETS THE MINIMUM AND MAXIMUM ORDER LIMITS FOR A CHILD ITEM, AND MONITORS BOTH ITS CURRENT-MONTH REQUIRED QUANTITY AND REMAINING POST-ALLOCATION BALANCE."
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "reason",
+    "description": "REASONS OR CODE OF DESCRIPTION. FIXED REASONS"
+  },
+  {
+    "report_name": "Inventory Report",
+    "variable_name": "req_qty_month",
+    "description": "THE REQUIRED QUANTITY MAPPED ACROSS MONTHLY BREAKDOWNS"
+  },
+  {
+    "report_name": "Buyer Wise Inventory Report",
+    "variable_name": "buyer",
+    "description": "SHOWS THE NAME OF BUYER"
+  },
+  {
+    "report_name": "Buyer Wise Inventory Report",
+    "variable_name": "month",
+    "description": "SHOWS THE MONTH"
+  },
+  {
+    "report_name": "Buyer Wise Inventory Report",
+    "variable_name": "org_name",
+    "description": "NAME OF THE ORGANISATION. (ACD - SPARES , TRM - RAIL, ACD - CENTRI, ACD - RECIP, ACD - SCREW, TRM - GEAR BOX, TRM - DEFENCE, ACD - GSU)"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "bom_count",
+    "description": "RECORD THE BILL OF MATERIAL ( BOM ) COUNT."
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "buyer",
+    "description": "SHOWS THE BUYER"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "customer",
+    "description": "COMPANY NAME ( CUSTOMER)"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "days",
+    "description": "MAXIMUM LEAD TIME AMONG ALL THE CHILD ITEM"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "full_kit",
+    "description": "THE NAME OF THE FULL KIT ."
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "item_cost",
+    "description": "SHOWS COST OF THE ITEM ( ITEM COST)"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "item_description",
+    "description": "DESCRIPTION OF THE ITEM IN THE INVENTORY"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "item_type",
+    "description": "TYPE OF ITEM"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "month",
+    "description": "TARGET MONTH BY WHICH THE ITEM OR COMPONENT IS REQUIRED."
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "oa_colour",
+    "description": "SHOWS DIFFERNT ORDER ACCEPTANCE COLOUR DEPENDING ON THE AVAILABILITY. COLOR : BLACK- DELAYED RED - RISK OF DELAY YELLOW- DUE GREEN- IN TIME WHITE - NOT DUE, DO NOT INWARD ORGANGE - FULL AVAILABILITY"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "oa_number",
+    "description": "ORDER ACCEPTANCE NUMBER"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "order_type",
+    "description": "TYPE OF ORDER"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "parent_item",
+    "description": "STANDARD BILL OF MATERIAL NUMBER (SBM NUMBER) / ITEM CODE / ITEM NUMBER / SBM ID"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "product_group",
+    "description": "DIFFERNT GROUP UNDER WHICH THE PRODUCTS ARE CATEGORIZED"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "product_model",
+    "description": "PRODUCT MODEL"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "quantity",
+    "description": "SHOWS THE LINE QUANTITY OF THE COMPONENTS IN THE ORDER.; SALES ORDER QUANTITY"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "sub_full_kit",
+    "description": "INDICATES THE SUB-FULL-KIT OR IDENTIFIER ASSOCIATED WITH THE FULL KIT"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "date",
+    "description": "NEED BY DATE OF ORDER"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "month",
+    "description": "SHOWS THE MONTH"
+  },
+  {
+    "report_name": "Order Report",
+    "variable_name": "year",
+    "description": "SHOWS THE YEAR"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "bom_level",
+    "description": "DIFFERENT LEVELS UNDER THE BOM , EACH LEVELS HAVE SUB- LEVELS"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "buyer",
+    "description": "NAME OF THE BUYER"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "category",
+    "description": "CATEGORY OF THE CHILD ITEM"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "child_description",
+    "description": "SHOWS CHILD ITEM NAME"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "child_item",
+    "description": "CONTAINS THE ITEM CODE"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "child_item_type",
+    "description": "CHILD ITEM TYPE"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "compile_designator",
+    "description": "COMPILE_DESIGNATOR (NAME OF MRP) MPS, MRP or DRP plan identifier"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "customer",
+    "description": "NAME OF THE CUSTOMER"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "days",
+    "description": "MANUFACTURING LEAD TIME (FOR MAKE ITEMS) OR PURCHASING LEAD TIME (FOR BUY ITEMS), MEASURED IN DAYS."
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "delivery_date",
+    "description": "ORDER PROMISE DATE / CDD( CUSTOMER DELIVERY DATE)"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "expected_date_color",
+    "description": "(CURRENT EXPECTED DATE COLOUR) SHOWING THE SHORTAGE OF ITEM DELIVERY IS COMMUNICATED BETWEEN BUYER AND SUPPLIER"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "full_kit",
+    "description": "NAME OF THE FULLKIT"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "inventory_planning_code",
+    "description": "CODE OF INVENTORY PLANNING (MIN_MAX / REORDER)"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "oa_colour",
+    "description": "DIFFERNT ORDER ACCEPTANCE COLOUR DEPENDING ON THE AVAILABILITY. COLOR : BLACK- DELAYED RED - RISK OF DELAY YELLOW- DUE DELIVERY GREEN- IN TIME WHITE - NOT DUE ORANGE - FULL AVAILABILITY"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "oa_need_by_date",
+    "description": "ORDER NEED BY DATE"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "oa_number",
+    "description": "ORDER NUMBER"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "order_type_text",
+    "description": "OA TYPES"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "org_name",
+    "description": "NAME OF THE ORGANISATION"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "parent_description",
+    "description": "SHOWS PARENT ITEM NAME"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "parent_item",
+    "description": "PARENT ITEM CODE"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "product_group",
+    "description": "PRODUCT GROUP"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "product_model",
+    "description": "PRODUCT MODEL"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "quantity",
+    "description": "AVAILABLE PARENT ITEM STOCK, INCLUDING ITEMS IN RECEIVING AWAITING INSPECTION."
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "ssd",
+    "description": "SCHEDULE SHIP DATE ( SSD)"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "sub_full_kit",
+    "description": "INDICATES THE SUB-FULL-KIT OR IDENTIFIER ASSOCIATED WITH THE FULL KIT"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "supplier",
+    "description": "NAME OF THE VENDOR"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "uom",
+    "description": "UNIT OF MEASURMENT"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "month",
+    "description": "SHOWS MONTH OF NEED BY DATE"
+  },
+  {
+    "report_name": "BOM Report",
+    "variable_name": "year",
+    "description": "SHOWS YEAR OF NEED BY DATE"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "amount",
+    "description": "DUE AMOUNT ( DUE QUANTITY * UNIT PRICE)"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "approval_status",
+    "description": "PO AUTHORISATION STATUS ( APPROVED OR NOT)"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "buyer",
+    "description": "NAME OF THE BUYER"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "currency",
+    "description": "CURRENCY OF THE PURCHASE ORDER"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "customer",
+    "description": "CUSTOMER NAME"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "date",
+    "description": "PROMISE DATE OF DELIVERY OR CREATION DATE OF THE PURCHASE ORDER"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "days",
+    "description": "LEAD TIME (BOM LEAD TIME)"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "full_kit",
+    "description": "ITEM FULLKIT NAME"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "item_category",
+    "description": "ITEM CATEGORY"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "item_code",
+    "description": "UNIQUE CODE OF THE ITEM"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "month",
+    "description": "EXPECTED DELIVERY OR PO CREATION MONTH"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "po_number",
+    "description": "PURCHASE ORDER NUMBER"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "product_group",
+    "description": "PRODUCT GROUP"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "product_model",
+    "description": "COMPRESSOR MODEL"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "quantity",
+    "description": "TOTAL, REQUIRED, OR PENDING ITEM QUANTITY ACROSS STOCK, WIP, REJECTION, OUTSIDE PROCESSING, ASN, GRN, AND PO STAGES."
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "supplier",
+    "description": "SUPPLIER NAME"
+  },
+  {
+    "report_name": "Purchase Order Report",
+    "variable_name": "year",
+    "description": "EXPECTED DELIVERY OR PURCHASE ORDER CREATION YEAR."
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "division_code",
+    "description": "DIVISION OF MACHINES (RESOURCES)"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "fin_year",
+    "description": "FINANCIAL YEAR"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "idle_reason",
+    "description": "MACHINE DOWNTIME REASON"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "minutes",
+    "description": "IN TERMS OF MACHINE ( IN TERMS OF TIME - IN MINS"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "month_period",
+    "description": "REPRESENTS A SPECIFIC CALENDAR MONTH OR FISCAL MONTH. IT IS USED FOR MONTHLY REPORTING, AGGREGATIONS, AND TRENDS."
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "org_name",
+    "description": "NAME OF THE ORGANISATION. (ACD - SPARES , TRM - RAIL, ACD - CENTRI, ACD - RECIP, ACD - SCREW, TRM - GEAR BOX, TRM - DEFENCE, ACD - GSU)"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "percentage",
+    "description": "(SETTING + OPERATION TIME)"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "performance_index",
+    "description": "ACTUAL PERFORMANCE( PRODUCED / PRESENT)"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "quantity",
+    "description": "QTY OF FINISHED PRODUCT FOR THE PARTICULAR OPERATION"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "res_div",
+    "description": "RESOURCE DIVISION . IT INDICATE THE ACTUAL MACHINE DIVIDED INTO DIFFERENT CATEGORIES ACCORDING TO ITS TYPE."
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "resource_code",
+    "description": "RESOURCE CODE"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "resource_description",
+    "description": "RESOURCE NAME"
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "week_period",
+    "description": "REPRESENTS A SPECIFIC 7-DAY WEEK WITHIN A YEAR. IT IS USED TO GROUP OR FILTER DOCKET DATA ON A WEEKLY BASIS."
+  },
+  {
+    "report_name": "Docket Report",
+    "variable_name": "year_period",
+    "description": "REPRESENTS AN ENTIRE CALENDAR YEAR OR FINANCIAL/FISCAL YEAR. IT IS USED FOR HIGH-LEVEL, LONG-TERM SUMMARIES"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "amount",
+    "description": "EXTERNAL GRATIA -; TOTAL INCENTIVE"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "employee",
+    "description": "EMPLOYEE NAME"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "employee_department",
+    "description": "EMPLOYEE DEPATMENT"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "employee_org",
+    "description": "EMPLOYEE UNDER WHICH ORG"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "fin_year",
+    "description": "FINANACIAL YEAR"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "incentive_scheme",
+    "description": "INCENTIVE SCHEME"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "minutes",
+    "description": "PRESENT MINUTES"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "month_period",
+    "description": "REPRESENTS A SPECIFIC CALENDAR MONTH OR FISCAL MONTH. IT IS USED FOR MONTHLY REPORTING, AGGREGATIONS, AND TRENDS."
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "performance_index",
+    "description": "PERCENTAGE OF PERFORMANCE OF THE EMPLOYEE"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "quantity",
+    "description": "TOTAL QUANTITY PRODCUED"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "supervisor",
+    "description": "SUPERVISOR NAME"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "token_number",
+    "description": "TOKEN NUMBER"
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "week_period",
+    "description": "REPRESENTS A SPECIFIC 7-DAY WEEK WITHIN A YEAR. IT IS USED TO GROUP OR FILTER DOCKET DATA ON A WEEKLY BASIS."
+  },
+  {
+    "report_name": "Docket Employee Report",
+    "variable_name": "year_period",
+    "description": "REPRESENTS AN ENTIRE CALENDAR YEAR OR FINANCIAL/FISCAL YEAR. IT IS USED FOR HIGH-LEVEL, LONG-TERM SUMMARIES"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "business_group",
+    "description": "THE SPECIFIC BUSINESS UNIT"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "cust_po_date",
+    "description": "INVOICE DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "cust_po_number",
+    "description": "CUSTOMER PURCHASE ORDER NUMBER"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "customer",
+    "description": "CUSTOMER NAME"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "customer_number",
+    "description": "UNIQUE IDENTIFIER NUMBER FOR THE CUSTOMER"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "desp_mon",
+    "description": "DISPATCH MONTH"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "division",
+    "description": "DIVISION NAME ( ACD, TRM)"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "inv_date",
+    "description": "INVOICE DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "inv_date_yymm",
+    "description": "MONTH OF INVOICE DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "inv_number",
+    "description": "INVOICE NUMBER"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "item_code",
+    "description": "ITEM CODE / SBM NO / SBM ID / ITEM NO"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "item_description",
+    "description": "ITEM DESCRIPTION"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "item_type",
+    "description": "TYPE OF ITEM"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "ld_clause",
+    "description": "LATE DELIVERY CLAUSE / LIQUIDITY DAMAGE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "oa_cdd",
+    "description": "PROMISE DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "oa_crn_date_yymm",
+    "description": "MONTH OF OA CREATION DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "oa_number",
+    "description": "ORDER NUMBER / OA NUMBER / SO NUMBER"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "product_group",
+    "description": "PRODUCT GROUP"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "product_model",
+    "description": "PRODUCT MODEL"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "promise_date_yymm",
+    "description": "MONTH OF PROMISE DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "remark",
+    "description": "REMARKS ON THOSE ORDER WHICH GOT DELAYED"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "remark_description",
+    "description": "DESCRIPTION OF THE REMARK"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "sbu",
+    "description": "ORGANISATION NAME"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "date",
+    "description": "SHOWS DATE OF PROMISE DATE/ ORDER CREATION DATE/ ORDER CUSTOMER DELIVERY DATE/ INVOICE DATE/"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "month",
+    "description": "SHOWS MONTH OF DESPATCH MONTH AND PROMISE DATE"
+  },
+  {
+    "report_name": "On Time Delivery Index Report",
+    "variable_name": "year",
+    "description": "SHOWS YEAR BY DISPATCH ORDERS"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "cdd",
+    "description": "CUSTOMER DELIVER DATE OF ORDER"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "customer",
+    "description": "THE COMPANY OR CLIENT WHO ORDERED THE GOODS"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "inspection_norm",
+    "description": "THE SPECIFIC QUALITY CONTROL (QC) STANDARD OR TESTING PROTOCOL THIS BATCH MUST PASS BEFORE IT CAN BE LOADED ONTO A TRUCK."
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "item_description",
+    "description": "A CLEAR, DESCRIPTION OF THE MAIN ITEM OR ASSEMBLY ON THE TROLLEY"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "item_type",
+    "description": "CLASSIFIES WHAT KIND OF ITEM THE PARENT IS. IN MANUFACTURING, THIS USUALLY DISTINGUISHES BETWEEN THINGS"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "ld_clause",
+    "description": "LEGAL CLAUSE IMPOSING FINANCIAL PENALTIES OR CHARGES IF DELIVERY DEADLINES ARE MISSED."
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "month",
+    "description": "PLANNING MONTH"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "oa_number",
+    "description": "ORDER ACKNOWLEDGMENT NUMBER"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "oa_status",
+    "description": "PLANNING ORDER STATUS"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "date",
+    "description": "ORDERED DATE OF ORDER /CUSTOMER DELIVERY DATE/ SCHEDULED SHIP DATE"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "org_name",
+    "description": "ORGANIZATION NAME"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "parent_item",
+    "description": "STANDARD BILL MATERIAL NUMBER. TRACKS THE INTERNAL MANUFACTURING/SHOP-FLOOR MATERIAL"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "product_group",
+    "description": "PRODUCT GROUP"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "product_model",
+    "description": "PRODUCT MODEL"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "ssd",
+    "description": "SCHEDULE SHIP DATE OF ORDER"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "month",
+    "description": "SHOWS MONTH BY PLANNING MONTH/ SCHEDULED SHIP DATE"
+  },
+  {
+    "report_name": "OA Trolley Report",
+    "variable_name": "year",
+    "description": "SHOWS YEAR BY CUSTOMER DELIVERY DATE/ SCHEDULED SHIP DATE"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "buyer",
+    "description": "TROLLEY ASSIGNED TO SPECIIFC BUYER NAME"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "buyer_status",
+    "description": "BUYER EXPECTED DATE STATUS"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "item_description",
+    "description": "A CLEAR, DESCRIPTION OF THE MAIN ITEM OR ASSEMBLY ON THE TROLLEY"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "item_type",
+    "description": "CLASSIFIES WHAT KIND OF ITEM THE PARENT IS. IN MANUFACTURING"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "oa_number",
+    "description": "ORDER ACKNOWLEDGMENT NUMBER"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "org_name",
+    "description": "ORGANIZATION NAME"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "parent_item",
+    "description": "STANDARD BILL MATERIAL NUMBER. TRACKS THE INTERNAL MANUFACTURING/SHOP-FLOOR MATERIAL BREAKDOWN"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "trolley_date",
+    "description": "SPECIFIC BUYER UPDATE THEIR TROLLEY BALANCE DATE"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "trolley_status",
+    "description": "SPECIFIC BUYER UPDATED THEIR STATUS MANUALLY REMARKS ENTERD - BALANCE."
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "date",
+    "description": "SHOWS DATE BY TROLLEY DATE"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "month",
+    "description": "SHOWS MONTH BY TROLLEY DATE"
+  },
+  {
+    "report_name": "Buyerwise OA Trolley Report",
+    "variable_name": "year",
+    "description": "SHOWS YEAR BY TROLLEY DATE"
+  }
+]

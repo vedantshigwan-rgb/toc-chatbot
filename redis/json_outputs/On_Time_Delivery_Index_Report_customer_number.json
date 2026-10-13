@@ -1,1810 +1,3880 @@
 [
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104877"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C082867",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - INDUSTRIAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100231"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C024359",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103077"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103205",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C022549"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001530",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103205"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102125",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100221"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102121",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101616"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104503",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101434"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103447",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102830"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102568",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200057"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001600",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C014052"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104463",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104824"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104988",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001520"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104726",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104858"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101528",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104903"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104900",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104711"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010574",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100269"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103151",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102014"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102910",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102471"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C023208",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104436"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101388",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104308"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C088405",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104169"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102555",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101571"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100221",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103786"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104047",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C088405"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C087274",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102403"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001630",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103741"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104450",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100931"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101434",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105039"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103782",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101200"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104708",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010004"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100771",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104560"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046911",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103742"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103506",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C033740"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103477",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102880"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103353",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010034"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104642",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104915"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C033740",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104451"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104334",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104667"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103083",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100711"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104291",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104562"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104639",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104579"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C040012",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104616"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103456",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104749"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104031",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200086"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104629",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C041865"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105032",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104251"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100269",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104936"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C041865",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104908"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104955",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104998"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104907",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104990"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104964",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C022273"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104990",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101489"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100526",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C023508"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001530",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C005920"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104800",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104747"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C005920",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200084"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104564",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104696"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000793",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104780"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104622",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010133"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104744",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104541"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C025117",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102121"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001630",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105048"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103690",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C046188"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104700",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103061"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "3EC011151",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C024274"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101528",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102902"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C022549",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104694"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100231",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104886"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010133",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017087"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104835",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017150"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101434",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C020674"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000353",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104900"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104385",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104527"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001630",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C046545"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001510",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104193"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104828",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104474"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010121",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104323"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100178",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104369"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104834",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104047"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104386",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103709"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103662",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C087274"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C044815",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103586"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104169",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104455"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104422",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104726"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104434",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104450"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104369",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105003"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104305",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104383"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C025312",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104411"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100424",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104552"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104440",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102792"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104123",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104836"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103662",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103456"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104337",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017436"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103602",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104421"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104422",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104684"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104501",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103930"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104508",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103959"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104398",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C052310"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104455",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104400"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104519",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C023686"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103742",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C040012"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103303",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102616"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102983",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100186"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103477",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104654"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103945",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104703"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102880",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104692"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C052310",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104955"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104594",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104628"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010060",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104060"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104691",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200067"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100186",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104758"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104670",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C000793"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046545",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - MARINE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104615"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C040012",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103544"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104925",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104613"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104983",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102125"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101099",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104463"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200060",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100937"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104717",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104476"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105028",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C045984"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C006010",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C022662"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104953",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104846"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104616",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104946"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104720",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103334"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C024274",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104386"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104747",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C022843"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104041",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104392"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105052",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101572"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103990",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C006240"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046911",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C025312"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100863",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104318"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104941",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104358"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C025168",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C041921"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104666",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104508"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200057",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104850"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103061",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102789"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C014052",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103210"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104834",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100771"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104824",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017162"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001550",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103275"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102471",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103477"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100937",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104589"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104731",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101099"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104863",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001060"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104283",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100766"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C022843",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104269"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102157",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104756"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102036",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104848"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101537",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104489"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C044701",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101947"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104365",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C046705"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C024294",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104951"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104182",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104629"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104318",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104268"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100035",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104989"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104493",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100526"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104429",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104953"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100178",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C005910"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104295",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104800"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104420",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104564"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104328",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104549"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105055",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104921"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000384",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102606"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102672",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102613"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104495",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C082867"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104427",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100424"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102792",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200058"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "3EC011151",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C000353"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103456",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C044998"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010133",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102568"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C043422",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C059487"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017436",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104834"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C033740",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001490"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104589",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001531"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102880",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104041"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104915",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104988"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104737",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100503"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104684",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104542"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102890",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C045982"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103945",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104283"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103959",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001500"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C022549",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C044815"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100766",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104422"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102616",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C044701"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104616",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100035"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104618",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010027"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104727",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104468"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100863",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C046531"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104945",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104507"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104758",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104500"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103756",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104519"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104989",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017165"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C022273",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104970"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105049",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C005880"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104757",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104741"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103280",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102890"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105036",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104391"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200090",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103258"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200084",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104618"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001550",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101854"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010133",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104945"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102606",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105032"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104721",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105016"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104754",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C032830"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C025072",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104725"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104780",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104912"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000135",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105028"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103077",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104729"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104588",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104720"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001560",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104072"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104541",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104702"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101282",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C000135"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104847",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103990"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104316",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C024359"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102902",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104395"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001520",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101528"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104903",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100863"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104776",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104588"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100817",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104941"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101616",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104835"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102014",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104234"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102471",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104503"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104436",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104847"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C045984",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103505"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104542",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102421"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103334",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104545"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C014022",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104316"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104881",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104209"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104392",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100791"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000353",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103725"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C006240",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001510"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C023764",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C059446"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103786",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104927"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103709",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104543"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104242",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104565"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100311",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102652"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100217",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103961"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104354",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010574"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104396",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100194"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102789",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102036"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105003",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C089487"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101910",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C050530"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017088",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103381"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103596",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104434"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001520",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101388"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101528",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104440"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017162",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104493"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017003",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104123"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010034",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - MARINE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C043650"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104903",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C014079"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104741",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104242"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104667",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103824"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102880",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105055"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100711",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C020221"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104400",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C024643"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046911",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104495"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C045934",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103782"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104654",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104526"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104703",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017003"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104951",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017083"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104723",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103945"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103471",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103506"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046911",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103042"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200086",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100440"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105016",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104641"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104941",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104639"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104628",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104584"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105033",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104210"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103930",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104019"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010133",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104829"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001600",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104717"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001530",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104996"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200085",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105036"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100231",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104721"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100221",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "3EC011151"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101616",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001530"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104385",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101282"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102830",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104995"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104545",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105029"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104827",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104666"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C059487",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001550"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100791",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001630"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001531",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103608"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C059446",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104512"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100863",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104731"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104864",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104814"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100231",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103662"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001630",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104338"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001510",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102157"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104087",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103351"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103608",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C023208"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010133",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104547"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C045982",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104388"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200113",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010121"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100503",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104295"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104814",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104426"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102652",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104398"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C025323",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104586"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104041",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010165"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104346",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103609"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104478",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105012"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103351",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101910"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104429",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104554"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104835",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104873"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C020221",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104853"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103609",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103471"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103210",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103353"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010004",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104313"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104397",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103083"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104560",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104291"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001620",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104594"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C082867",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - INDUSTRIAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C010060"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C082867",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103342"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104451",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C045934"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101099",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C020831"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103042",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104670"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104269",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104727"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104584",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104839"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C024359",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104925"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101947",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104944"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105004",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105033"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103765",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104671"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104991",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100817"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104912",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104788"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104829",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104750"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104908",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C006080"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104671",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104612"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104060",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104744"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104072",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104875"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102252",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200090"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103812",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103812"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104696",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104999"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104663",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104687"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101388",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200085"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103192",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103690"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103415",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104663"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104995",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C046911"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104234",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001560"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104669",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103192"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104209",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103415"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104890",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104385"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001620",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103447"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104927",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104669"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104041",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001600"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100269",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100472"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104860",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104890"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C020674",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104864"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100424",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104828"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104565",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104776"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104946",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104733"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103961",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104483"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C043422",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C021602"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104388",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104863"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100194",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101627"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101571",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C043422"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101190",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103151"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104474",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102910"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104547",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104310"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010027",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101190"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102568",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C023764"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102403",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104365"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104358",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C024294"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C014079",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104182"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103741",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104305"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046531",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104346"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100931",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104478"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C041921",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104429"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104586",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104396"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104866",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104337"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C050530",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104420"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105039",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104501"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101200",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104328"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105012",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104866"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104830",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100217"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104853",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104354"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017165",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102672"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103275",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C087245"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001600",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C017088"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C023686",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103596"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100440",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104427"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101854",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C043909"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104756",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103814"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104749",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104506"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104839",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103303"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104848",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104334"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104855",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104439"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104210",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104691"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105017",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104778"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104970",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104983"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104955",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104723"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104251",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104907"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100503",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103765"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C032830",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102685"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102685",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104701"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104758",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104943"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104701",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105049"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104943",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C006010"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104996",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104757"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103742",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104195"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C005910",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104742"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104750",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103280"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104549",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102252"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001520",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104597"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104615",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104700"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103544",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C025072"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000384",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103359"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104395",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C025323"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100424",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C025168"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104541",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "UNIDENTIFIED"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104827"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103505",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001620"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046188",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102983"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C024274",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104860"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103725",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100178"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104858",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C014022"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102983",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - WINDMILL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104881"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104694",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101423"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104476",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104430"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105037",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101537"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104483",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102555"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C021602",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001100"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104846",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103602"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101627",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102360"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046545",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104221"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200081",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100311"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104193",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104578"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104308",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C102939"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101572",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C000384"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103351",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104397"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104430",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104830"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C050530",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104708"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103381",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104737"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104323",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104642"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102014",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104033"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104468",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C101500"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104396",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104031"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104500",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104855"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103586",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104991"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104578",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104765"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104850",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104937"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103824",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104964"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C087245",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105021"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100771",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C001160"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C043909",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C103756"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104526",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C200060"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104873",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104551"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017083",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104572"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104970",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104622"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104358",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C100138"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103930",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C025117"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104033",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C105052"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010165",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
     },
     {
         "REPORT_NAME": "On Time Delivery Index Report",
-        "CUSTOMER_NUMBER": "2C104754"
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104439",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101500",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103258",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104579",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104692",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103258",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103608",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104489",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104778",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104019",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104268",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104944",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104765",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104545",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105021",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104998",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104729",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104616",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104551",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104572",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104742",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C006080",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104999",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104687",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103359",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102613",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104877",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C025323",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104613",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "COMMON"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105048",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C105029",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200058",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C044998",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102421",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100472",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001490",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104711",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104886",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104733",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102902",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100231",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200067",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C043650",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C200094",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104512",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104543",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C022662",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017087",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017150",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104527",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001500",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104338",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104310",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C089487",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101423",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001600",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001100",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102360",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104221",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104426",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104507",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C102939",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C010165",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C024643",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104383",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104411",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101910",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104554",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103814",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104506",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104552",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104836",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103471",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001550",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104421",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C005880",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104313",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104391",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001060",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104562",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104641",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C103342",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C020831",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C046705",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C000353",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104725",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104824",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104937",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104936",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C001160",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C101489",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104234",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104788",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C023508",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - CENTRIFUGAL"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104195",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104612",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100424",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - PROJECTS - RECIP"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104875",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - RECIPROCATING"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C100138",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "PED - GEARBOX"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104597",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C017162",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "TRM - RAIL AND IND"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104921",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "On Time Delivery Index Report",
+        "VARIABLE_NAME": "customer_number",
+        "VALUE": "2C104702",
+        "CONTROLLER_VARIABLE": "business_group",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     }
 ]

@@ -17,7 +17,7 @@ export const ACTION_BADGES = {
   clarification_required: "Clarification needed",
   feedback_error: "Cannot modify result",
   variable_error: "Fix variable input",
-  metadata_not_found: "Metadata not found",
+  metadata_not_found: "Report term not found",
   unknown: "Request not understood",
   retry: "Try again",
 };

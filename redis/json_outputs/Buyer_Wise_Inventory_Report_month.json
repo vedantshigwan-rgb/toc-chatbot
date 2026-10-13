@@ -1,22 +1,387 @@
 [
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",
-        "REPORT_MONTH": "SEP-2026"
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",
-        "REPORT_MONTH": "DEC-2026"
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",
-        "REPORT_MONTH": "Future"
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",
-        "REPORT_MONTH": "OCT-2026"
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",
-        "REPORT_MONTH": "NOV-2026"
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "Future",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     }
 ]

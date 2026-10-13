@@ -1,5 +1,5 @@
 {
   "embedding_model": "text-embedding-3-small",
   "dimension": 1536,
-  "document_count": 12
+  "document_count": 175
 }

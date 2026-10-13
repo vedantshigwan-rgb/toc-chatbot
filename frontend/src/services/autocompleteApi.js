@@ -134,6 +134,19 @@ export async function fetchReportVariables({
       cleanedReportName
     ),
 
+    autocompleteController:
+      responseData?.autocomplete_controller &&
+      typeof responseData.autocomplete_controller === "object"
+        ? {
+            variable_name: String(
+              responseData.autocomplete_controller.variable_name || ""
+            ),
+            required_for_dependent_variables:
+              responseData.autocomplete_controller
+                .required_for_dependent_variables === true,
+          }
+        : null,
+
     variables: Array.isArray(
       responseData?.variables
     )
@@ -177,6 +190,9 @@ export async function fetchAutocompleteValues({
   variableName,
   query = "",
   limit = 20,
+  controllerVariableName = "",
+  controllerValue = "",
+  periodType = "",
   signal,
 }) {
   const cleanedReportName =
@@ -211,6 +227,30 @@ export async function fetchAutocompleteValues({
     parameters.set("q", cleanedQuery);
   }
 
+  const cleanedControllerVariableName =
+    String(controllerVariableName || "").trim();
+
+  const cleanedControllerValue =
+    String(controllerValue || "").trim();
+
+  if (cleanedControllerVariableName) {
+    parameters.set(
+      "controller_variable_name",
+      cleanedControllerVariableName
+    );
+  }
+
+  if (cleanedControllerValue) {
+    parameters.set(
+      "controller_value",
+      cleanedControllerValue
+    );
+  }
+
+  if (String(periodType || "").trim()) {
+    parameters.set("period_type", String(periodType).trim());
+  }
+
   const response = await fetch(
     `${AUTOCOMPLETE_API_BASE_URL}/autocomplete?${parameters.toString()}`,
     {
@@ -232,4 +272,30 @@ export async function fetchAutocompleteValues({
   return responseData.values.map(
     (value) => String(value)
   );
+}
+
+
+/** Fetch PERIOD_TYPE, or PERIOD_NAME after a type is selected. */
+export async function fetchPeriodOptions({
+  reportName,
+  orgValue,
+  periodType = "",
+  query = "",
+  limit = 40,
+  signal,
+}) {
+  const params = new URLSearchParams({
+    report_name: String(reportName || "").trim(),
+    org_value: String(orgValue || "").trim(),
+    limit: String(limit),
+  });
+  if (periodType) params.set("period_type", String(periodType).trim());
+  if (query) params.set("q", String(query).trim());
+
+  const response = await fetch(
+    `${AUTOCOMPLETE_API_BASE_URL}/period-options?${params.toString()}`,
+    { method: "GET", headers: { Accept: "application/json" }, signal }
+  );
+  const data = await readJsonResponse(response);
+  return Array.isArray(data?.values) ? data.values.map(String) : [];
 }

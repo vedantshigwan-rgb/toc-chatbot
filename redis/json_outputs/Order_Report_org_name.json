@@ -1,0 +1,86 @@
+[
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "PED - DEFENCE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - PRODUCTS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "PED - GEAR BOX",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - CENTRI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "PED - RAIL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - RECIP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "NMD - FABRICATION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "NMD - FORGING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "NMD - THOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - GSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    }
+]

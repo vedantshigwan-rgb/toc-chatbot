@@ -63,7 +63,7 @@ OPERATOR_NAMES = {
 
 DEFAULT_VARIABLE_MAPPING_WORKBOOK = (
     Path(__file__).resolve().parents[1]
-    / "redis mapping.xlsx"
+    / "redis_mapping.xlsx"
 )
 
 REQUIRED_MAPPING_HEADERS = {
@@ -412,7 +412,7 @@ def load_variable_mapping_rows(
 #     Dict[str, Any],
 # ]:
 #     """
-#     Validate parsed SQL columns against redis mapping.xlsx.
+#     Validate parsed SQL columns against redis_mapping.xlsx.
 
 #     The SQL AST determines which column the SQL currently uses.
 #     The workbook determines whether that variable-to-column
@@ -587,7 +587,7 @@ def load_variable_mapping_rows(
 #                         False
 #                     ),
 #                     "mapping_source": (
-#                         "redis mapping.xlsx"
+#                         "redis_mapping.xlsx"
 #                     ),
 #                     "mapping_candidates": [],
 #                     "sql_table_name": (
@@ -684,7 +684,7 @@ def load_variable_mapping_rows(
 #                         False
 #                     ),
 #                     "mapping_source": (
-#                         "redis mapping.xlsx"
+#                         "redis_mapping.xlsx"
 #                     ),
 #                     "mapping_candidates": (
 #                         allowed_mappings
@@ -865,7 +865,7 @@ def load_variable_mapping_rows(
 
 #                 "mapping_validated": True,
 #                 "mapping_source": (
-#                     "redis mapping.xlsx"
+#                     "redis_mapping.xlsx"
 #                 ),
 #                 "mapping_report_name": (
 #                     selected_mapping[
@@ -1964,7 +1964,7 @@ def validate_bindings_with_mapping_fallback(
 ) -> Dict[str, Any]:
     """
     Validate already-resolved SQL variable bindings against
-    redis mapping.xlsx as a FALLBACK source only.
+    redis_mapping.xlsx as a FALLBACK source only.
 
     Important rules:
 
@@ -1978,7 +1978,7 @@ def validate_bindings_with_mapping_fallback(
     """
 
     diagnostics: Dict[str, Any] = {
-        "source": "redis mapping.xlsx",
+        "source": "redis_mapping.xlsx",
         "authoritative": False,
         "fallback_used": True,
         "report_name": str(
