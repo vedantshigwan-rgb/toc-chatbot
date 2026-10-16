@@ -19,6 +19,7 @@ import {
   fetchAutocompleteValues,
   fetchReportVariables,
 } from "../services/autocompleteApi";
+import { buildAutocompleteFilters } from "../utils/autocompleteContext";
 
 import {
   deleteChatSession,
@@ -971,9 +972,13 @@ const [
     setSelectedBaseTabId(path.baseTab.id);
     setSelectedSubTabId(path.subTab.id);
     setSelectedReportId(path.reportItem.id);
-    setSelectedOptionId(null);
-    setSelectedOptionValue("");
-    setSelectedOptionValues({});
+    // Sending a message refreshes history, but does NOT change the report.
+    // Keep the user's current sidebar selections in that case.
+    if (reportChanged) {
+      setSelectedOptionId(null);
+      setSelectedOptionValue("");
+      setSelectedOptionValues({});
+    }
 
     /*
      * IMPORTANT: do not wipe variables when history synchronizes the
@@ -2228,6 +2233,10 @@ const [
     replaceStart: null,
     replaceEnd: null,
     loading: false,
+    loadingMore: false,
+    hasMore: false,
+    nextOffset: null,
+    pageError: null,
     error: null,
     message: null,
   });
@@ -2248,6 +2257,10 @@ const [
   const autocompleteRequestIdRef =
     useRef(0);
 
+  const lookupPageRef = useRef(null);
+  const lookupMoreAbortRef = useRef(null);
+  const lookupMoreBusyRef = useRef(false);
+
 
   function clearRequestedCaretPosition() {
     setRequestedCaretPosition(null);
@@ -2255,6 +2268,12 @@ const [
 
 
   function cancelAutocompleteRequest() {
+    lookupPageRef.current = null;
+    lookupMoreBusyRef.current = false;
+    if (lookupMoreAbortRef.current) {
+      lookupMoreAbortRef.current.abort();
+      lookupMoreAbortRef.current = null;
+    }
     if (
       autocompleteTimerRef.current
     ) {
@@ -2291,6 +2310,10 @@ const [
       replaceStart: null,
       replaceEnd: null,
       loading: false,
+      loadingMore: false,
+      hasMore: false,
+      nextOffset: null,
+      pageError: null,
       error: null,
       message: null,
     });
@@ -2315,6 +2338,10 @@ const [
       replaceStart,
       replaceEnd,
       loading: false,
+      loadingMore: false,
+      hasMore: false,
+      nextOffset: null,
+      pageError: null,
       error: null,
       message: null,
     });
@@ -2404,10 +2431,9 @@ const [
     const cleanedQuery =
       String(query || "").trim();
 
-    const resultLimit =
-      cleanedQuery
-        ? 20
-        : 4;
+    // Load enough values on first open to make the list scrollable.
+    // Every subsequent page uses the same page size.
+    const resultLimit = 20;
 
     const requestDelay =
       cleanedQuery
@@ -2421,16 +2447,42 @@ const [
     autocompleteRequestIdRef.current =
       requestId;
 
+    const pageArgs = {
+      reportName: report.autocompleteReportName || report.name,
+      variableName: variableOption.variable_name,
+      query: cleanedQuery,
+      limit: resultLimit,
+      controllerVariableName: targetIsController
+        ? "" : autocompleteControllerVariableName,
+      controllerValue: targetIsController ? "" : selectedControllerValue,
+      periodType: ["Docket Report", "Docket Employee Report"].includes(
+        String(report?.name || "").trim()
+      ) && normalizeIdentifier(variableOption.variable_name) === "period_name"
+        ? String(selectedOptionValues.period_type || "") : "",
+      contextFilters: buildAutocompleteFilters({
+        text: chatInput,
+        optionValues: selectedOptionValues,
+        reportVariables,
+        targetVariable: variableOption.variable_name,
+        reportName: report.name,
+      }),
+    };
+
+    lookupPageRef.current = { requestId, pageArgs };
+
     setLookup({
       open: true,
       mode: "value",
-      activeVar:
-        variableOption.variable_name,
+      activeVar: variableOption.variable_name,
       options: [],
       highlightIndex: -1,
       replaceStart,
       replaceEnd,
       loading: true,
+      loadingMore: false,
+      hasMore: false,
+      nextOffset: null,
+      pageError: null,
       error: null,
       message: null,
     });
@@ -2444,43 +2496,11 @@ const [
           abortController;
 
         try {
-          const values =
-            await fetchAutocompleteValues({
-              reportName:
-                report
-                  .autocompleteReportName ||
-                report.name,
-
-              variableName:
-                variableOption
-                  .variable_name,
-
-              query:
-                cleanedQuery,
-
-              limit:
-                resultLimit,
-
-              controllerVariableName:
-                targetIsController
-                  ? ""
-                  : autocompleteControllerVariableName,
-
-              controllerValue:
-                targetIsController
-                  ? ""
-                  : selectedControllerValue,
-
-              periodType:
-                ["Docket Report", "Docket Employee Report"].includes(
-                  String(report?.name || "").trim()
-                ) && normalizeIdentifier(variableOption.variable_name) === "period_name"
-                  ? String(selectedOptionValues.period_type || "")
-                  : "",
-
-              signal:
-                abortController.signal,
-            });
+          const page = await fetchAutocompleteValues({
+            ...pageArgs,
+            offset: 0,
+            signal: abortController.signal,
+          });
 
           if (
             requestId !==
@@ -2496,18 +2516,18 @@ const [
             activeVar:
               variableOption
                 .variable_name,
-            options:
-              values,
-            highlightIndex:
-              values.length > 0
-                ? 0
-                : -1,
+            options: page.values,
+            highlightIndex: page.values.length > 0 ? 0 : -1,
+            hasMore: page.hasMore,
+            nextOffset: page.nextOffset,
+            loadingMore: false,
+            pageError: null,
             replaceStart,
             replaceEnd,
             loading: false,
             error: null,
             message:
-              values.length === 0
+              page.values.length === 0
                 ? cleanedQuery
                   ? "No matching values"
                   : "No values are available for the selected filter"
@@ -2554,6 +2574,62 @@ const [
       }, requestDelay);
   }
 
+
+  async function loadMoreLookup() {
+    const paging = lookupPageRef.current;
+    if (!paging || lookupMoreBusyRef.current || !lookup.open ||
+        lookup.mode !== "value" || lookup.loading || lookup.loadingMore ||
+        !lookup.hasMore || lookup.nextOffset == null || lookup.pageError) {
+      return;
+    }
+    if (paging.requestId !== autocompleteRequestIdRef.current) return;
+
+    lookupMoreBusyRef.current = true;
+    const controller = new AbortController();
+    lookupMoreAbortRef.current = controller;
+    const requestedOffset = lookup.nextOffset;
+    setLookup((current) => ({ ...current, loadingMore: true, pageError: null }));
+
+    try {
+      const page = await fetchAutocompleteValues({
+        ...paging.pageArgs,
+        offset: requestedOffset,
+        signal: controller.signal,
+      });
+      if (controller.signal.aborted ||
+          paging.requestId !== autocompleteRequestIdRef.current) return;
+      setLookup((current) => {
+        // Keep keyboard highlight and existing suggestions stable on append.
+        const nextOptions = [...new Set([...current.options, ...page.values])];
+        return {
+          ...current,
+          options: nextOptions,
+          loadingMore: false,
+          hasMore: page.hasMore,
+          nextOffset: page.nextOffset,
+          pageError: null,
+        };
+      });
+    } catch (error) {
+      if (error.name !== "AbortError" &&
+          paging.requestId === autocompleteRequestIdRef.current) {
+        setLookup((current) => ({
+          ...current,
+          loadingMore: false,
+          pageError: error.message || "Could not load more values.",
+        }));
+      }
+    } finally {
+      if (lookupMoreAbortRef.current === controller) {
+        lookupMoreAbortRef.current = null;
+        lookupMoreBusyRef.current = false;
+      }
+    }
+  }
+
+  function retryMoreLookup() {
+    setLookup((current) => ({ ...current, pageError: null }));
+  }
 
   function refreshLookup(
     value,
@@ -2997,17 +3073,16 @@ const [
         setLookup(
           (currentLookup) => ({
             ...currentLookup,
-
-            highlightIndex:
-              Math.min(
-                currentLookup
-                  .highlightIndex + 1,
-
-                currentLookup
-                  .options.length - 1
-              ),
+            highlightIndex: Math.min(
+              currentLookup.highlightIndex + 1,
+              currentLookup.options.length - 1
+            ),
           })
         );
+        if (lookup.mode === "value" &&
+            lookup.highlightIndex >= lookup.options.length - 2) {
+          loadMoreLookup();
+        }
 
         return;
       }
@@ -3378,6 +3453,8 @@ function openReport(source) {
 
     // Lookup
     lookup,
+    loadMoreLookup,
+    retryMoreLookup,
     onChatInputChange,
     onChatCursorChange,
     onChatInputKeyDown,

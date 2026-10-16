@@ -3254,3 +3254,15 @@ td {
   margin-top: 10px;
   padding-bottom: 4px;
 }
+
+/* Autocomplete pagination: first page scrolls; more pages append below. */
+.lookup-results { max-height: 220px; overflow-y: auto; overscroll-behavior: contain; }
+.sidebar-option-results { max-height: 200px; overflow-y: auto; overscroll-behavior: contain; }
+.lookup-load-more, .sidebar-option-load-more {
+  display: block; width: 100%; padding: 10px; border: none;
+  background: #eef8f6; color: #176b62; text-align: center;
+  cursor: pointer; font: inherit; border-radius: 5px;
+}
+.lookup-load-more:hover, .sidebar-option-load-more:hover { background: #daf1eb; }
+
+.lookup-popover.show { max-height: none; overflow-y: visible; }

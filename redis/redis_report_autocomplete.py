@@ -10,9 +10,13 @@ from typing import Any
 
 import redis
 import uvicorn
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Header
 from fastapi.middleware.cors import CORSMiddleware
 from openpyxl import load_workbook
+from pydantic import BaseModel, Field
+from dotenv import load_dotenv
+from contextual_cache_service import query_contextual_cached, ContextualLookupError
+from suggestion_paging import slice_page
 
 from autocomplete_config import get_controller_variable, get_period_dependency
 
@@ -34,6 +38,7 @@ logger = logging.getLogger(__name__)
 # =============================================================================
 
 BASE_DIR = Path(__file__).resolve().parent
+load_dotenv(BASE_DIR / ".env")
 
 JSON_FOLDER = BASE_DIR / "json_outputs"
 
@@ -2176,6 +2181,7 @@ def _get_period_options(
     period_type: str = "",
     q: str = "",
     limit: int = 40,
+    offset: int = 0,
 ) -> dict[str, Any]:
     mapping_report = resolve_mapping_report_for_any_name(report_name)
     if mapping_report is None:
@@ -2217,10 +2223,42 @@ def _get_period_options(
         "controller_value": org,
         "variable_name": variable,
         "period_type": canonical_type,
-        "values": values[:limit],
-        "count": min(len(values), limit),
-        "total_matches": len(values),
+        **slice_page(values, limit=limit, offset=offset),
     }
+
+
+class ContextualRequest(BaseModel):
+    report_name: str = Field(min_length=1, max_length=120)
+    target_variable: str = Field(min_length=1, max_length=100)
+    filters: dict[str, list[str]] = Field(default_factory=dict)
+    search_text: str = Field(default="", max_length=100)
+    limit: int = Field(default=40, ge=1, le=100)
+    offset: int = Field(default=0, ge=0, le=1000000)
+
+
+@app.post("/autocomplete/contextual")
+def contextual_autocomplete(
+    payload: ContextualRequest,
+    authorization: str | None = Header(default=None),
+) -> dict[str, Any]:
+    """Cache-first contextual lookup; Oracle fallback is handled by TOC backend.
+
+    Existing /autocomplete and /period-options remain unchanged.
+    """
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(status_code=401, detail="Authentication required.")
+    try:
+        return query_contextual_cached(
+            cache=redis_client,
+            payload=payload.model_dump(),
+            authorization=authorization,
+            mapping_version=REDIS_MAPPING_WORKBOOK.stat().st_mtime_ns,
+        )
+    except ContextualLookupError as exc:
+        raise HTTPException(status_code=exc.status_code, detail=exc.message) from exc
+    except Exception as exc:
+        logger.exception("Contextual autocomplete cache request failed")
+        raise HTTPException(status_code=503, detail="Autocomplete is temporarily unavailable.") from exc
 
 
 @app.get("/period-options")
@@ -2230,9 +2268,10 @@ def period_options(
     period_type: str = Query(""),
     q: str = Query(""),
     limit: int = Query(40, ge=1, le=200),
+    offset: int = Query(0, ge=0, le=1000000),
 ) -> dict[str, Any]:
     """Return allowed PERIOD_TYPE values or PERIOD_NAME values scoped to org/type."""
-    return _get_period_options(report_name, org_value, period_type, q, limit)
+    return _get_period_options(report_name, org_value, period_type, q, limit, offset)
 
 
 @app.get("/autocomplete")
@@ -2241,6 +2280,7 @@ def autocomplete(
     variable_name: str = Query(..., min_length=1),
     q: str = Query(""),
     limit: int = Query(20, ge=1, le=200),
+    offset: int = Query(0, ge=0, le=1000000),
     controller_variable_name: str = Query(""),
     controller_value: str = Query(""),
     period_type: str = Query(""),
@@ -2285,7 +2325,7 @@ def autocomplete(
         else:
             scoped_type = ""
         return _get_period_options(
-            mapping_report["name"], controller_value, scoped_type, q, limit
+            mapping_report["name"], controller_value, scoped_type, q, limit, offset
         )
 
     mapping_variable = find_mapping_variable(mapping_report, variable_name)
@@ -2396,7 +2436,7 @@ def autocomplete(
             )
 
     sorted_values = sorted(values, key=str.casefold)
-    limited_values = sorted_values[:limit]
+    page = slice_page(sorted_values, limit=limit, offset=offset)
 
     return {
         "requested_report_name": report_name,
@@ -2412,9 +2452,7 @@ def autocomplete(
             if configured_controller and not target_is_controller
             else None
         ),
-        "count": len(limited_values),
-        "total_matches": len(sorted_values),
-        "values": limited_values,
+        **page,
     }
 
 

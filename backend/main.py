@@ -17,6 +17,9 @@ from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field, field_validator, model_validator
 
 from api.auth_routes import router as auth_router
+from api.contextual_autocomplete_routes import (
+    router as contextual_autocomplete_router,
+)
 from api.chat_routes import router as chat_router
 from api.intent_routes import router as intent_router
 from auth.dependencies import current_user_email, get_current_user
@@ -299,9 +302,9 @@ app.add_middleware(
 )
 
 app.include_router(auth_router)
+app.include_router(contextual_autocomplete_router)
 app.include_router(intent_router)
 app.include_router(chat_router)
-
 
 @app.get("/health")
 async def health(request: Request):

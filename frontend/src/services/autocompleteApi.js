@@ -1,3 +1,7 @@
+import { getAccessToken } from "./authApi";
+import { normaliseVariable } from "../utils/autocompleteContext";
+import { normaliseSuggestionPage } from "../utils/suggestionPaging";
+
 const AUTOCOMPLETE_API_BASE_URL =
   import.meta.env.VITE_AUTOCOMPLETE_API_BASE_URL ||
   "http://127.0.0.1:6969";
@@ -190,9 +194,11 @@ export async function fetchAutocompleteValues({
   variableName,
   query = "",
   limit = 20,
+  offset = 0,
   controllerVariableName = "",
   controllerValue = "",
   periodType = "",
+  contextFilters = {},
   signal,
 }) {
   const cleanedReportName =
@@ -216,11 +222,42 @@ export async function fetchAutocompleteValues({
     );
   }
 
+  // Keep the existing Redis organization-scoped autocomplete untouched.
+  // The contextual path is ADDITIONAL and activates only when another
+  // selected variable restricts the target beyond the main controller.
+  const targetId = normaliseVariable(cleanedVariableName);
+  const controllerId = normaliseVariable(controllerVariableName);
+  const extraFilters = Object.keys(contextFilters || {}).filter((name) => {
+    const id = normaliseVariable(name);
+    return id && id !== targetId && id !== controllerId;
+  });
+  if (extraFilters.length > 0) {
+    const contextualResponse = await fetch(
+      `${AUTOCOMPLETE_API_BASE_URL}/autocomplete/contextual`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json", Authorization: `Bearer ${getAccessToken() || ""}` },
+        body: JSON.stringify({
+          report_name: cleanedReportName,
+          target_variable: cleanedVariableName,
+          filters: contextFilters,
+          search_text: cleanedQuery,
+          limit,
+          offset,
+        }),
+        signal,
+      }
+    );
+    const contextualData = await readJsonResponse(contextualResponse);
+    return normaliseSuggestionPage(contextualData, offset);
+  }
+
   const parameters =
     new URLSearchParams({
       report_name: cleanedReportName,
       variable_name: cleanedVariableName,
       limit: String(limit),
+      offset: String(offset),
     });
 
   if (cleanedQuery) {
@@ -265,13 +302,7 @@ export async function fetchAutocompleteValues({
   const responseData =
     await readJsonResponse(response);
 
-  if (!Array.isArray(responseData?.values)) {
-    return [];
-  }
-
-  return responseData.values.map(
-    (value) => String(value)
-  );
+  return normaliseSuggestionPage(responseData, offset);
 }
 
 
@@ -282,12 +313,39 @@ export async function fetchPeriodOptions({
   periodType = "",
   query = "",
   limit = 40,
+  offset = 0,
+  contextFilters = {},
   signal,
 }) {
+  // Keep existing org/type Redis period lists as the fast default.
+  // Only an additional variable activates contextual Oracle-on-miss.
+  const extra = Object.keys(contextFilters || {}).some((name) =>
+    !["org_name", "employee_org", "period_type", "period_name"].includes(
+      normaliseVariable(name)
+    )
+  );
+  if (extra) {
+    const response = await fetch(`${AUTOCOMPLETE_API_BASE_URL}/autocomplete/contextual`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", Accept: "application/json", Authorization: `Bearer ${getAccessToken() || ""}` },
+      body: JSON.stringify({
+        report_name: reportName,
+        target_variable: periodType ? "period_name" : "period_type",
+        filters: contextFilters,
+        search_text: query,
+        limit,
+        offset,
+      }),
+      signal,
+    });
+    const data = await readJsonResponse(response);
+    return normaliseSuggestionPage(data, offset);
+  }
   const params = new URLSearchParams({
     report_name: String(reportName || "").trim(),
     org_value: String(orgValue || "").trim(),
     limit: String(limit),
+    offset: String(offset),
   });
   if (periodType) params.set("period_type", String(periodType).trim());
   if (query) params.set("q", String(query).trim());
@@ -297,5 +355,5 @@ export async function fetchPeriodOptions({
     { method: "GET", headers: { Accept: "application/json" }, signal }
   );
   const data = await readJsonResponse(response);
-  return Array.isArray(data?.values) ? data.values.map(String) : [];
+  return normaliseSuggestionPage(data, offset);
 }

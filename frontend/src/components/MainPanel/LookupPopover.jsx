@@ -15,6 +15,8 @@ export default function LookupPopover() {
     replyingTo,
     selectLookupValue,
     selectDateValue,
+    loadMoreLookup,
+    retryMoreLookup,
   } = useChat();
 
   const dateInputRef =
@@ -153,30 +155,40 @@ export default function LookupPopover() {
       );
     }
 
-    return lookup.options.map(
-      (option, index) => (
-        <div
-          key={`${option}-${index}`}
-          className={
-            "lookup-option" +
-            (
-              index ===
-              lookup.highlightIndex
-                ? " highlight"
-                : ""
-            )
-          }
-          onMouseDown={(event) => {
-            event.preventDefault();
-
-            selectLookupValue(option);
-          }}
-        >
-          {lookup.mode === "variable"
-            ? `/${option}`
-            : option}
-        </div>
-      )
+    return (
+      <>
+        {lookup.options.map((option, index) => (
+          <div
+            key={`${option}-${index}`}
+            className={"lookup-option" +
+              (index === lookup.highlightIndex ? " highlight" : "")}
+            onMouseDown={(event) => {
+              event.preventDefault();
+              selectLookupValue(option);
+            }}
+          >
+            {lookup.mode === "variable" ? `/${option}` : option}
+          </div>
+        ))}
+        {lookup.mode === "value" && lookup.loadingMore && (
+          <div className="lookup-status" role="status">Loading more values...</div>
+        )}
+        {lookup.mode === "value" && lookup.pageError && (
+          <button type="button" className="lookup-load-more"
+            onMouseDown={(event) => event.preventDefault()}
+            onClick={retryMoreLookup}>
+            {lookup.pageError} — Retry
+          </button>
+        )}
+        {lookup.mode === "value" && lookup.hasMore &&
+          !lookup.loadingMore && !lookup.pageError && (
+            <button type="button" className="lookup-load-more"
+              onMouseDown={(event) => event.preventDefault()}
+              onClick={loadMoreLookup}>
+              Load more values
+            </button>
+          )}
+      </>
     );
   }
 
@@ -187,7 +199,14 @@ export default function LookupPopover() {
         {title}
       </div>
 
-      <div className="lookup-results">
+      <div className="lookup-results"
+        onScroll={(event) => {
+          const element = event.currentTarget;
+          if (lookup.mode === "value" && lookup.hasMore &&
+              element.scrollTop + element.clientHeight >= element.scrollHeight - 60) {
+            loadMoreLookup();
+          }
+        }}>
         {renderContent()}
       </div>
     </div>

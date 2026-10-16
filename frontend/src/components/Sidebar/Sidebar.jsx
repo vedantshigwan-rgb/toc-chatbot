@@ -127,6 +127,14 @@ function ReportOptionControl({
   const [values, setValues] =
     useState([]);
 
+  const [hasMore, setHasMore] = useState(false);
+  const [nextOffset, setNextOffset] = useState(null);
+  const [loadingMore, setLoadingMore] = useState(false);
+  const [pageError, setPageError] = useState(null);
+  const pageVersionRef = useRef(0);
+  const moreAbortRef = useRef(null);
+  const moreBusyRef = useRef(false);
+
   const [loading, setLoading] =
     useState(false);
 
@@ -240,108 +248,110 @@ function ReportOptionControl({
   }, [value]);
 
 
+  // Both org-wise lists and Docket period lists support offset paging.
+  async function requestOptionsPage(offset, signal) {
+    const resolvedReportName =
+      selectedReport.autocomplete_report_name || selectedReport.report_name;
+    const query = String(search || "").trim();
+    return (isPeriodTypeOption || isPeriodNameOption)
+      ? fetchPeriodOptions({
+          reportName: resolvedReportName,
+          orgValue: controllerValue,
+          periodType: isPeriodNameOption ? periodTypeValue : "",
+          query,
+          limit: 30,
+          offset,
+          signal,
+        })
+      : fetchAutocompleteValues({
+          reportName: resolvedReportName,
+          variableName,
+          query,
+          limit: 30,
+          offset,
+          controllerVariableName: isController ? "" : controllerVariableName,
+          controllerValue: isController ? "" : controllerValue,
+          signal,
+        });
+  }
+
   useEffect(() => {
-    if (
-      !selectedReport ||
-      !variableName ||
-      !autocompleteEnabled ||
-      !focused ||
-      requiresController
-    ) {
-      setValues([]);
+    const version = ++pageVersionRef.current;
+    moreAbortRef.current?.abort();
+    moreAbortRef.current = null;
+    moreBusyRef.current = false;
+    setValues([]);
+    setHasMore(false);
+    setNextOffset(null);
+    setLoadingMore(false);
+    setPageError(null);
+    setError(null);
+
+    if (!selectedReport || !variableName || !autocompleteEnabled ||
+        !focused || requiresController) {
       setLoading(false);
-      setError(null);
       return undefined;
     }
 
-    const controller =
-      new AbortController();
-
-    const query =
-      String(search || "").trim();
-
-    const timer =
-      window.setTimeout(
-        async () => {
-          setLoading(true);
-          setError(null);
-
-          try {
-            const resolvedReportName =
-              selectedReport.autocomplete_report_name ||
-              selectedReport.report_name;
-            const result = (isPeriodTypeOption || isPeriodNameOption)
-              ? await fetchPeriodOptions({
-                  reportName: resolvedReportName,
-                  orgValue: controllerValue,
-                  periodType: isPeriodNameOption ? periodTypeValue : "",
-                  query,
-                  limit: 40,
-                  signal: controller.signal,
-                })
-              : await fetchAutocompleteValues({
-                  reportName: resolvedReportName,
-                  variableName,
-                  query,
-                  limit: 40,
-                  controllerVariableName: isController ? "" : controllerVariableName,
-                  controllerValue: isController ? "" : controllerValue,
-                  signal: controller.signal,
-                });
-
-            setValues(
-              Array.isArray(result)
-                ? result
-                : []
-            );
-          } catch (requestError) {
-            if (
-              requestError.name ===
-              "AbortError"
-            ) {
-              return;
-            }
-
-            console.error(
-              "Report option autocomplete failed:",
-              requestError
-            );
-
-            setValues([]);
-            setError(
-              requestError.message ||
-              "Could not load values."
-            );
-          } finally {
-            if (
-              !controller.signal.aborted
-            ) {
-              setLoading(false);
-            }
-          }
-        },
-        query ? 220 : 0
-      );
+    const controller = new AbortController();
+    const timer = window.setTimeout(async () => {
+      setLoading(true);
+      try {
+        const page = await requestOptionsPage(0, controller.signal);
+        if (controller.signal.aborted || version !== pageVersionRef.current) return;
+        setValues(page.values);
+        setHasMore(page.hasMore);
+        setNextOffset(page.nextOffset);
+      } catch (requestError) {
+        if (requestError.name !== "AbortError" &&
+            version === pageVersionRef.current) {
+          console.error("Report option autocomplete failed:", requestError);
+          setError(requestError.message || "Could not load values.");
+        }
+      } finally {
+        if (!controller.signal.aborted && version === pageVersionRef.current) {
+          setLoading(false);
+        }
+      }
+    }, String(search || "").trim() ? 220 : 0);
 
     return () => {
       window.clearTimeout(timer);
       controller.abort();
+      moreAbortRef.current?.abort();
     };
   }, [
-    selectedReport,
-    variableName,
-    autocompleteEnabled,
-    focused,
-    requiresController,
-    search,
-    isController,
-    controllerVariableName,
-    controllerValue,
-    isPeriodTypeOption,
-    isPeriodNameOption,
-    periodTypeValue,
+    selectedReport, variableName, autocompleteEnabled, focused,
+    requiresController, search, isController, controllerVariableName,
+    controllerValue, isPeriodTypeOption, isPeriodNameOption, periodTypeValue,
   ]);
 
+  async function loadMoreOptions() {
+    if (!hasMore || nextOffset == null || loading || loadingMore ||
+        moreBusyRef.current || !focused || error || pageError) return;
+    moreBusyRef.current = true;
+    const version = pageVersionRef.current;
+    const controller = new AbortController();
+    moreAbortRef.current = controller;
+    setLoadingMore(true);
+    try {
+      const page = await requestOptionsPage(nextOffset, controller.signal);
+      if (controller.signal.aborted || version !== pageVersionRef.current) return;
+      setValues((current) => [...new Set([...current, ...page.values])]);
+      setHasMore(page.hasMore);
+      setNextOffset(page.nextOffset);
+    } catch (requestError) {
+      if (requestError.name !== "AbortError" && version === pageVersionRef.current) {
+        setPageError(requestError.message || "Could not load more values.");
+      }
+    } finally {
+      if (moreAbortRef.current === controller) {
+        moreAbortRef.current = null;
+        moreBusyRef.current = false;
+      }
+      if (version === pageVersionRef.current) setLoadingMore(false);
+    }
+  }
 
   function chooseValue(nextValue) {
     const cleanValue =
@@ -478,7 +488,12 @@ function ReportOptionControl({
         {focused &&
           autocompleteEnabled &&
           !requiresController && (
-            <div className="sidebar-option-results">
+            <div className="sidebar-option-results"
+              onScroll={(event) => {
+                const element = event.currentTarget;
+                if (hasMore && element.scrollTop + element.clientHeight >=
+                    element.scrollHeight - 60) loadMoreOptions();
+              }}>
               {loading && (
                 <div className="sidebar-option-state">
                   Loading values...
@@ -519,6 +534,23 @@ function ReportOptionControl({
                     </button>
                   )
                 )}
+              {!loading && loadingMore && (
+                <div className="sidebar-option-state">Loading more...</div>
+              )}
+              {!loading && pageError && (
+                <button type="button" className="sidebar-option-load-more"
+                  onMouseDown={(event) => event.preventDefault()}
+                  onClick={() => setPageError(null)}>
+                  {pageError} — Retry
+                </button>
+              )}
+              {!loading && !loadingMore && !pageError && hasMore && (
+                <button type="button" className="sidebar-option-load-more"
+                  onMouseDown={(event) => event.preventDefault()}
+                  onClick={loadMoreOptions}>
+                  Load more values
+                </button>
+              )}
             </div>
           )}
       </div>
