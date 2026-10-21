@@ -101,11 +101,26 @@ export function UserMessage({ message, isLatest }) {
             <div className="msg-user-actions">
               <button
                 type="button"
+                className="msg-edit-icon-btn"
                 onClick={() => setIsEditing(true)}
                 disabled={sending}
                 title="Edit this message"
+                aria-label="Edit this message"
               >
-                Edit
+                <svg
+                  viewBox="0 0 24 24"
+                  width="16"
+                  height="16"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="1.8"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d="M12 20h9" />
+                  <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L8 18l-4 1 1-4Z" />
+                </svg>
               </button>
             </div>
           )}
