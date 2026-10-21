@@ -44,13 +44,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
-        "VALUE": "FIN_YR_19-20",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "year_period",
         "VALUE": "FIN_YR_24-25",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -59,6 +52,13 @@
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
         "VALUE": "FIN_YEAR_MU_25",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "year_period",
+        "VALUE": "FIN_YR_19-20",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },

@@ -2,14 +2,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCH_BULK",
+        "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -30,27 +30,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-SUBASLY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -58,16 +37,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SERVICE",
+        "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "TWO_BIN",
+        "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -86,9 +65,30 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "SERVICE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "TWO_BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "SUB_CON_N",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-SUBASLY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -107,23 +107,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "KIT-SPS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-SPARE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-ASSLY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -149,16 +135,30 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "EQUIPMENT",
+        "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
+        "VALUE": "KIT-SPS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SBM-ASSLY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "EQUIPMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -170,16 +170,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "TWO_BIN",
+        "VALUE": "SUB_CON_N",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON_N",
+        "VALUE": "TWO_BIN",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -201,13 +201,6 @@
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -240,23 +233,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "CONS_I",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-SUBASLY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -275,6 +261,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "CONS_II",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -282,9 +275,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON_N",
+        "VALUE": "MFGD-SUBASLY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -292,6 +285,13 @@
         "VALUE": "SERVICE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON_N",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -310,16 +310,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
+        "VALUE": "MFGD-SUBASLY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-SUBASLY",
+        "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -345,6 +345,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "SBM-ASSLY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -359,14 +366,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
+        "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -380,6 +380,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "TWO_BIN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -387,16 +394,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "CONS_I",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "CONS_I",
+        "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -429,16 +436,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -450,16 +450,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-MKTG",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCHASE",
+        "VALUE": "SBM-MKTG",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -485,13 +485,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -509,6 +502,13 @@
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -548,13 +548,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -569,6 +562,20 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -583,37 +590,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "CONS_I",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-ENGG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "SUB_CON_N",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "CONS_I",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -625,8 +604,29 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "SBM-ENGG",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "CONS_I",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     }
 ]

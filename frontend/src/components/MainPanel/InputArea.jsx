@@ -108,7 +108,7 @@ export default function InputArea() {
         )}
       </div>
 
-      {!replyingTo && requestMode === "normal_message" && <LookupPopover />}
+      {(replyingTo || requestMode === "normal_message") && <LookupPopover />}
 
       <div className="input-row">
         <input

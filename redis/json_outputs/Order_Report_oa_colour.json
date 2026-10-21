@@ -23,20 +23,6 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Yellow",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "oa_colour",
-        "VALUE": "White",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "oa_colour",
         "VALUE": "Red",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -44,9 +30,23 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "oa_colour",
+        "VALUE": "Yellow",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "oa_colour",
         "VALUE": "White",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "oa_colour",
+        "VALUE": "White",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -80,13 +80,6 @@
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "oa_colour",
         "VALUE": "Yellow",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Green",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },

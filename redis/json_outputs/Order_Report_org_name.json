@@ -16,14 +16,14 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "PED - GEAR BOX",
+        "VALUE": "ACD - SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - SPARES",
+        "VALUE": "PED - GEAR BOX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
@@ -37,7 +37,7 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "PED - RAIL",
+        "VALUE": "ACD - RECIP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
@@ -51,7 +51,7 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - RECIP",
+        "VALUE": "PED - RAIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },

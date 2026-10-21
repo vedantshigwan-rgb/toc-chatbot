@@ -525,11 +525,11 @@ def build_all_indexes_from_excel(
 
 if __name__ == "__main__":
     FAQ_EXCEL_PATH = (
-        r"D:\AI gen\TOC_backend_primary_only\data\FAQ.xlsx"
+        r"D:\TOC-chatbot\TOC-chatbot\backend\data\FAQ.xlsx"
     )
 
     INDEX_BASE_PATH = (
-        r"D:\AI gen\TOC_backend_primary_only\utils\indexes"
+        r"D:\TOC-chatbot\TOC-chatbot\backend\utils\indexes"
     )
 
     # None means all sheets.

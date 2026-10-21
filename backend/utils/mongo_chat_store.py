@@ -406,6 +406,160 @@ class MongoChatStore:
             if key != "_id"
         }
 
+    
+    async def edit_user_message(
+        self,
+        *,
+        message_id: str,
+        user_id: str,
+        content: str,
+    ) -> Optional[Dict[str, Any]]:
+        cleaned_content = str(content or "").strip()
+
+        if not cleaned_content:
+            raise ValueError("Message content cannot be empty.")
+
+        message = await self.get_message(
+            message_id=message_id,
+            user_id=user_id,
+        )
+
+        if message is None:
+            return None
+
+        if message.get("role") != "user":
+            raise ValueError("Only user messages can be edited.")
+
+        chat_id = str(message.get("chat_id") or "")
+
+        chat = await self.get_chat(
+            chat_id=chat_id,
+            user_id=user_id,
+        )
+
+        if chat is None:
+            return None
+
+        now = utc_now()
+
+        result = await self.messages.update_one(
+            {
+                "message_id": message_id,
+                "chat_id": chat_id,
+                "user_id": user_id,
+                "role": "user",
+            },
+            {
+                "$set": {
+                    "content": cleaned_content,
+                    "is_edited": True,
+                    "edited_at": now,
+                    "updated_at": now,
+                }
+            },
+        )
+
+        if result.matched_count == 0:
+            return None
+
+        # Update the chat preview only if this is still its latest message.
+        latest = await self.messages.find_one(
+            {
+                "chat_id": chat_id,
+                "user_id": user_id,
+            },
+            {"_id": 0, "message_id": 1},
+            sort=[("created_at", -1)],
+        )
+
+        chat_updates = {"updated_at": now}
+
+        if latest and latest.get("message_id") == message_id:
+            chat_updates["last_message"] = cleaned_content
+
+        await self.chats.update_one(
+            {
+                "chat_id": chat_id,
+                "user_id": user_id,
+            },
+            {"$set": chat_updates},
+        )
+
+        updated = await self.get_message(
+            message_id=message_id,
+            user_id=user_id,
+        )
+
+        return updated
+
+    
+    async def get_assistant_for_user_message(
+        self,
+        *,
+        user_message_id: str,
+        user_id: str,
+        chat_id: str,
+    ) -> Optional[Dict[str, Any]]:
+        """Return the assistant response associated with one user message."""
+
+        return await self.messages.find_one(
+            {
+                "source_user_message_id": user_message_id,
+                "chat_id": chat_id,
+                "user_id": user_id,
+                "role": "assistant",
+            },
+            {"_id": 0},
+            sort=[("created_at", -1)],
+        )
+
+    
+    async def update_assistant_for_user_message(
+        self,
+        *,
+        user_message_id: str,
+        user_id: str,
+        chat_id: str,
+        fields: Dict[str, Any],
+    ) -> Optional[Dict[str, Any]]:
+        """Update the existing assistant response for an edited user message."""
+
+        existing = await self.get_assistant_for_user_message(
+            user_message_id=user_message_id,
+            user_id=user_id,
+            chat_id=chat_id,
+        )
+
+        if existing is None:
+            return None
+
+        message_id = existing["message_id"]
+
+        await self.messages.update_one(
+            {
+                "message_id": message_id,
+                "user_id": user_id,
+                "chat_id": chat_id,
+                "role": "assistant",
+                "source_user_message_id": user_message_id,
+            },
+            {
+                "$set": fields,
+                "$unset": {"feedback": ""},
+            },
+        )
+
+        return await self.messages.find_one(
+            {
+                "message_id": message_id,
+                "user_id": user_id,
+                "chat_id": chat_id,
+                "role": "assistant",
+            },
+            {"_id": 0},
+        )
+
+
     async def list_messages(
         self,
         *,

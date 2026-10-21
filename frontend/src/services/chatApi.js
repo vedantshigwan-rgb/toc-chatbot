@@ -109,3 +109,42 @@ export async function submitMessageFeedback({
 
   return readApiJson(response);
 }
+
+
+export async function editChatMessage({
+  messageId,
+  input,
+  variables,
+  reportName,
+  signal,
+}) {
+  if (!messageId) {
+    throw new Error("messageId is required to edit a message.");
+  }
+
+  const payload = { input };
+
+  // Include structured variables only when the caller supplies them.
+  if (Array.isArray(variables)) {
+    payload.variables = variables;
+  }
+
+  if (reportName !== undefined) {
+    payload.report_name = reportName || null;
+  }
+
+  const response = await authenticatedFetch(
+    `/chat/messages/${encodeURIComponent(messageId)}/edit`,
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify(payload),
+      signal,
+    }
+  );
+
+  return readApiJson(response);
+}

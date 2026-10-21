@@ -2,21 +2,7 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
-        "VALUE": "MS_FK_1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
         "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "SBD_FK_2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -26,6 +12,20 @@
         "VALUE": "SBD_FK_3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "MS_FK_1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "SBD_FK_2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -39,27 +39,6 @@
         "VARIABLE_NAME": "full_kit",
         "VALUE": "SBD_FK_1",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "SBD_FK_1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "SBD_FK_1",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
@@ -72,9 +51,30 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
+        "VALUE": "SBD_FK_1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
         "VALUE": "SBD_FK_2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "SBD_FK_1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -86,6 +86,13 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
         "VALUE": "SBD_FK_2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -93,9 +100,30 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
-        "VALUE": "NA",
+        "VALUE": "SBD_FK_1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "AE_FK_1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "MS_FK_1",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "full_kit",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -109,7 +137,7 @@
         "VARIABLE_NAME": "full_kit",
         "VALUE": "SBD_FK_1",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -121,37 +149,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
-        "VALUE": "AE_FK_1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "SBD_FK_1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "MS_FK_1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "full_kit",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -165,7 +165,7 @@
         "VARIABLE_NAME": "full_kit",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -184,14 +184,14 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
-        "VALUE": "NA",
+        "VALUE": "AE_FK_1",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "full_kit",
-        "VALUE": "AE_FK_1",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },

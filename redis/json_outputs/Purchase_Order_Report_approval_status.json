@@ -23,14 +23,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "approval_status",
-        "VALUE": "REJECTED",
+        "VALUE": "INCOMPLETE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "approval_status",
-        "VALUE": "INCOMPLETE",
+        "VALUE": "REJECTED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     }

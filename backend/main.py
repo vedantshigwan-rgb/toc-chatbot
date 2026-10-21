@@ -142,6 +142,18 @@ class AskRequest(BaseModel):
         return self
 
 
+class EditMessageRequest(BaseModel):
+    input: str = Field(..., min_length=1)
+
+    @field_validator("input")
+    @classmethod
+    def clean_input(cls, value: str) -> str:
+        cleaned = value.strip()
+        if not cleaned:
+            raise ValueError("Input cannot be empty.")
+        return cleaned
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     print("[STARTUP] Initializing simplified TOC backend...")
@@ -586,6 +598,7 @@ async def ask(
             report_name=effective_report_name,
             variables=jsonable_encoder(variables),
             reply_to_message_id=payload.reply_to_message_id,
+            request_mode=payload.message_type,
         )
         user_message_id = str(stored_user["message_id"])
 
@@ -715,6 +728,249 @@ async def ask(
             },
         )
 
+
+@app.post("/chat/messages/{message_id}/edit")
+async def edit_chat_message(
+    message_id: str,
+    payload: EditMessageRequest,
+    request: Request,
+    _current_user: Dict[str, Any] = Depends(get_current_user),
+):
+    user_id = current_user_email(request)
+    chat_store = getattr(request.app.state, "chat_store", None)
+    manager = getattr(request.app.state, "workflow_manager", None)
+
+    if chat_store is None or manager is None:
+        return JSONResponse(
+            status_code=503,
+            content={
+                "status": "failed",
+                "message": "Application resources are unavailable.",
+            },
+        )
+
+    original = await chat_store.get_message(
+        message_id=message_id,
+        user_id=user_id,
+    )
+
+    if original is None:
+        return JSONResponse(
+            status_code=404,
+            content={"detail": "Message not found."},
+        )
+
+    if original.get("role") != "user":
+        return JSONResponse(
+            status_code=400,
+            content={"detail": "Only user messages can be edited."},
+        )
+
+    chat_id = str(original.get("chat_id") or "")
+    history = await chat_store.list_messages(
+        chat_id=chat_id,
+        user_id=user_id,
+    )
+
+    latest_user = next(
+        (item for item in reversed(history) if item.get("role") == "user"),
+        None,
+    )
+
+    if not latest_user or latest_user.get("message_id") != message_id:
+        return JSONResponse(
+            status_code=400,
+            content={"detail": "Only the latest user message can be edited."},
+        )
+
+    # Keep feedback/Modify as separate operations.
+    request_mode = str(original.get("request_mode") or "normal_message")
+    if request_mode == "feedback" or original.get("reply_to_message_id"):
+        return JSONResponse(
+            status_code=400,
+            content={"detail": "Feedback messages cannot be edited with this endpoint."},
+        )
+
+    report_name = _clean_report_name(original.get("report_name"))
+    variables = list(original.get("variables") or [])
+
+    if request_mode in {"help", "metadata"}:
+        variables = []
+
+    # Update the existing MongoDB document. Do not call add_message()
+    # for the user message: its message_id must remain unchanged.
+    try:
+        updated_user = await chat_store.edit_user_message(
+            message_id=message_id,
+            user_id=user_id,
+            content=payload.input,
+        )
+    except ValueError as error:
+        return JSONResponse(
+            status_code=400,
+            content={"detail": str(error)},
+        )
+
+    if updated_user is None:
+        return JSONResponse(
+            status_code=404,
+            content={"detail": "Message not found."},
+        )
+
+    start_time = time.time()
+
+    try:
+        if request_mode == "help":
+            result = await manager.execute_help(
+                user_input=payload.input,
+                report_name=report_name,
+                variables=[],
+                session_id=None,
+            )
+        elif request_mode == "metadata":
+            result = await manager.execute_metadata(
+                user_input=payload.input,
+                report_name=report_name,
+                variables=[],
+                session_id=None,
+            )
+        else:
+            result = await manager.execute(
+                user_input=payload.input,
+                report_name=report_name,
+                variables=variables,
+                email=user_id,
+                session_id=None,
+                chat_id=chat_id,
+                user_role=None,
+            )
+
+        latency_ms = int((time.time() - start_time) * 1000)
+        workflow_used = str(
+            result.get("workflow_used") or result.get("workflow") or "manager"
+        )
+        response_text = str(
+            result.get("message")
+            or result.get("output")
+            or result.get("answer")
+            or "The request completed."
+        ).strip()
+        outward_results = list(result.get("results") or [])
+
+        
+        assistant_fields = {
+            "content": response_text,
+            "report_name": result.get("report_name") or report_name,
+            "source_user_message_id": message_id,
+            "workflow_used": workflow_used,
+            "workflow_id": result.get("workflow_id"),
+            "status": result.get("status"),
+            "stage": result.get("stage"),
+            "result_count": int(
+                result.get("result_count", len(outward_results)) or 0
+            ),
+            "table_rows": jsonable_encoder(outward_results),
+            "sql": result.get("sql"),
+            "sql_template": result.get("sql_template"),
+            "query_executed": result.get("query_executed"),
+            "action": result.get("action"),
+            "selected_example": result.get("selected_example"),
+            "faiss_examples_used": result.get("faiss_examples_used"),
+            "request_mode": request_mode,
+            "variable_names": jsonable_encoder(
+                result.get("variable_names") or []
+            ),
+            "variable_values": jsonable_encoder(
+                result.get("variable_values") or {}
+            ),
+            "query_without_values": result.get("query_without_values"),
+            "feedback_reexecution": jsonable_encoder(
+                (result.get("diagnostics") or {}).get(
+                    "feedback_reexecution"
+                ) or {}
+            ),
+            "original_feedback_input": result.get(
+                "original_feedback_input"
+            ),
+            "normalized_feedback_input": result.get(
+                "normalized_feedback_input"
+            ),
+            "variables": jsonable_encoder(
+                result.get("variables") or variables
+            ),
+            "normalized_input": result.get("normalized_input"),
+            "resolved_user_input": result.get("resolved_user_input"),
+            "resolved_normalized_input": (
+                result.get("resolved_normalized_input")
+                or result.get("normalized_input")
+            ),
+        }
+
+        existing_assistant = (
+            await chat_store.get_assistant_for_user_message(
+                user_message_id=message_id,
+                user_id=user_id,
+                chat_id=chat_id,
+            )
+        )
+
+        if existing_assistant:
+            stored_assistant = (
+                await chat_store.update_assistant_for_user_message(
+                    user_message_id=message_id,
+                    user_id=user_id,
+                    chat_id=chat_id,
+                    fields=assistant_fields,
+                )
+            )
+
+            if stored_assistant is None:
+                raise RuntimeError(
+                    "The existing assistant response could not be updated."
+                )
+        else:
+            stored_assistant = await chat_store.add_message(
+                chat_id=chat_id,
+                user_id=user_id,
+                role="assistant",
+                **assistant_fields,
+            )
+
+        assistant_message_id = str(stored_assistant["message_id"])
+
+        
+
+        return JSONResponse(
+            status_code=200,
+            content=jsonable_encoder({
+                **result,
+                "results": outward_results,
+                "workflow_used": workflow_used,
+                "request_mode": request_mode,
+                "latency_ms": latency_ms,
+                "chat_id": chat_id,
+                "user_message_id": message_id,
+                "assistant_message_id": str(stored_assistant["message_id"]),
+                "edited": True,
+            }),
+        )
+
+    except Exception:
+        logger.exception("[EDIT MESSAGE] Workflow rerun failed")
+        return JSONResponse(
+            status_code=500,
+            content={
+                "status": "failed",
+                "stage": "internal",
+                "message": (
+                    "The edited message was saved, but the workflow "
+                    "could not be rerun. Please retry."
+                ),
+                "chat_id": chat_id,
+                "user_message_id": message_id,
+                "edited": True,
+            },
+        )
 
 if __name__ == "__main__":
     uvicorn.run("main:app", host="0.0.0.0", port=8002, reload=False)

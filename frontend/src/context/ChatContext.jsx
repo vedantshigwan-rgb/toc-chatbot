@@ -23,6 +23,7 @@ import { buildAutocompleteFilters } from "../utils/autocompleteContext";
 
 import {
   deleteChatSession,
+  editChatMessage,
   fetchChatMessages,
   fetchChats,
   sendAskRequest,
@@ -1449,12 +1450,15 @@ const [
                 repliedMessage?.content ||
                 null,
               persisted: true,
+              isEdited: message.is_edited === true,
               payload: {
                 input: message.content,
                 report_name:
                   message.report_name,
                 variables:
                   message.variables || [],
+                message_type: 
+                  message.request_mode || "normal_message",
               },
             };
           }
@@ -1823,8 +1827,7 @@ const [
     };
   }
 
-
-
+  
   async function sendMessage() {
     const text = chatInput.trim();
 
@@ -1832,7 +1835,55 @@ const [
       return;
     }
 
+    // Handle simple greetings locally without calling the backend.
+    const normalizedGreeting = text
+      .toLowerCase()
+      .replace(/[!.?,]+$/g, "")
+      .trim();
+
+    const greetingReplies = {
+      hi: "Hello! I’m Lighthouse Assistant, here to help you !",
+      hello: "Hello! I’m Lighthouse Assistant, here to help you !",
+      hey: "Hi! I’m Lighthouse Assistant, here to help you !",
+      "good morning": "Good morning! I’m Lighthouse Assistant, here to help you !",
+      "good afternoon": "Good afternoon! I’m Lighthouse Assistant, here to help you !",
+      "good evening": "Good evening! I’m Lighthouse Assistant, here to help you !",
+      "how are you": "I’m here and ready to help! What would you like to know?",
+      "who are you": "I’m Lighthouse Assistant, designed to help you !",
+      "thank you": "You’re welcome! I’m happy to help.",
+      thanks: "You’re welcome! Let me know if you need anything else.",
+      "good bye": "Goodbye! Feel free to return whenever you need assistance.",
+      bye: "Goodbye! Have a great day."
+    };
+
+    // Only intercept standalone greetings in normal chat mode.
+    if (
+      !replyingTo &&
+      requestMode === "normal_message" &&
+      Object.prototype.hasOwnProperty.call(
+        greetingReplies,
+        normalizedGreeting
+      )
+    ) {
+      addMessage({
+        type: "user",
+        parts: toParts(text),
+        persisted: false,
+      });
+
+      addMessage({
+        type: "bot",
+        text: greetingReplies[normalizedGreeting],
+        persisted: false,
+      });
+
+      setChatInput("");
+      closeLookup();
+      return;
+    }
+
     const currentReply = replyingTo;
+
     const messageType = currentReply ? "feedback" : requestMode;
     const reportName =
       currentReply?.reportName ||
@@ -1991,7 +2042,7 @@ const [
       chat_id: activeHistoryId,
       reply_to_message_id:
         messageType === "feedback"
-          ? currentReply.messageId
+          ? currentReply?.messageId || null
           : null,
     };
 
@@ -2148,6 +2199,171 @@ const [
                 : message
           )
       );
+    }
+  }
+  
+
+  
+  async function editMessage(messageId, editedText) {
+    const cleanedText = String(editedText || "").trim();
+
+    if (!messageId || !cleanedText || sending) {
+      return false;
+    }
+
+    const targetMessage = messages.find(
+      (message) => message.id === messageId
+    );
+
+    if (
+      !targetMessage ||
+      targetMessage.type !== "user" ||
+      targetMessage.persisted !== true ||
+      targetMessage.payload?.message_type === "feedback" ||
+      targetMessage.replyingToText
+    ) {
+      return false;
+    }
+
+    if (!activeHistoryId) {
+      return false;
+    }
+
+    // Extract variables from the edited question.
+    const extracted = extractVariablesFromInput(cleanedText);
+
+    if (
+      extracted.invalidVariables.length > 0 ||
+      extracted.emptyVariables.length > 0
+    ) {
+      addMessage({
+        type: "action",
+        kind: "variable_error",
+        action: "fix_variable_syntax",
+        text:
+          extracted.invalidVariables.length > 0
+            ? "These variables are not available: " +
+              extracted.invalidVariables
+                .map((name) => `/${name}`)
+                .join(", ")
+            : "Enter a value inside the curly braces for: " +
+              extracted.emptyVariables
+                .map((name) => `/${name}`)
+                .join(", "),
+        persisted: false,
+      });
+
+      return false;
+    }
+
+    const editVariables = extracted.variables.map((variable) => ({
+      ...variable,
+      source: "input",
+    }));
+
+    setSending(true);
+
+    try {
+      const responseData = await editChatMessage({
+        messageId,
+        input: cleanedText,
+        variables: editVariables,
+        reportName:
+          targetMessage.payload?.report_name ||
+          conversationReportName ||
+          report.name ||
+          null,
+      });
+
+      const newAssistantMessage = messageFromResponse(responseData);
+
+      setMessages((currentMessages) => {
+        const editedUserIndex = currentMessages.findIndex(
+          (message) => message.id === messageId
+        );
+
+        if (editedUserIndex < 0) {
+          return currentMessages;
+        }
+
+        const updatedMessages = [...currentMessages];
+
+        // Update the existing question while preserving its ID.
+        updatedMessages[editedUserIndex] = {
+          ...updatedMessages[editedUserIndex],
+          parts: toParts(cleanedText),
+          isEdited: true,
+          payload: {
+            ...updatedMessages[editedUserIndex].payload,
+            input: cleanedText,
+            variables: editVariables,
+          },
+        };
+
+        // Find the next user question.
+        let nextUserIndex = updatedMessages.findIndex(
+          (message, index) =>
+            index > editedUserIndex &&
+            message.type === "user"
+        );
+
+        if (nextUserIndex < 0) {
+          nextUserIndex = updatedMessages.length;
+        }
+
+        // Remove the old response(s) associated with this question.
+        const removedIds = new Set();
+
+        for (
+          let index = editedUserIndex + 1;
+          index < nextUserIndex;
+          index += 1
+        ) {
+          const message = updatedMessages[index];
+
+          if (
+            message.type === "bot" ||
+            message.type === "action"
+          ) {
+            removedIds.add(message.id);
+          }
+        }
+
+        const resultMessages = updatedMessages.filter(
+          (message) => !removedIds.has(message.id)
+        );
+
+        // Insert the regenerated response after the edited question.
+        const currentEditedIndex = resultMessages.findIndex(
+          (message) => message.id === messageId
+        );
+
+        if (currentEditedIndex >= 0) {
+          resultMessages.splice(
+            currentEditedIndex + 1,
+            0,
+            newAssistantMessage
+          );
+        }
+
+        return resultMessages;
+      });
+
+      await loadChatHistory();
+
+      return true;
+    } catch (error) {
+      console.error("Editing the message failed:", error);
+
+      addMessage({
+        type: "bot",
+        text: error.message || "Could not edit this message.",
+        persisted: false,
+      });
+
+      return false;
+    } finally {
+      setSending(false);
     }
   }
 
@@ -3435,6 +3651,7 @@ function openReport(source) {
     // Messages
     messages,
     sendMessage,
+    editMessage,
     chatInput,
     inputDisabled,
     sending,

@@ -10,7 +10,7 @@ from openai import OpenAI
 
 
 DOTENV_PATH = Path(
-    r"D:\chatbot_w_L\backend_v3\config\.env"
+    r"D:\TOC-chatbot\TOC-chatbot\backend\config\.env"
 )
 
 DEFAULT_EMBEDDING_MODEL = "text-embedding-3-small"

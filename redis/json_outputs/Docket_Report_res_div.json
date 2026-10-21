@@ -23,14 +23,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "res_div",
-        "VALUE": "PNT M/c Shop",
+        "VALUE": "Bench TRM Gear",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "res_div",
-        "VALUE": "Bench TRM Gear",
+        "VALUE": "PNT M/c Shop",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },

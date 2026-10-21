@@ -11,7 +11,7 @@ from pathlib import Path
 
 # OPENAI_API_KEY = get_openai_client
 
-dotenv_path = Path(r"D:\chatbot_w_L\backend_v3\config\.env")
+dotenv_path = Path(r"D:\TOC-chatbot\TOC-chatbot\backend\config\.env")
 
 load_dotenv(dotenv_path=dotenv_path)
 

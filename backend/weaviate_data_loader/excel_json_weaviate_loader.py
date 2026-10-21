@@ -16,11 +16,11 @@ from config.settings import OPENAI_API_KEY
 # ============================================================
 
 EXCEL_FILE = Path(
-    r"D:\AI gen\TOC_backend_primary_only\data\JSON METADATA.xlsx"
+    r"D:\TOC-chatbot\TOC-chatbot\backend\data\JSON METADATA.xlsx"
 )
 
 JSON_FILE = Path(
-    r"D:\AI gen\backend_v4\data\column_metadata.json"
+    r"D:\TOC-chatbot\TOC-chatbot\backend\data\column_metadata.json"
 )
 
 WEAVIATE_URL = "http://localhost:8080"

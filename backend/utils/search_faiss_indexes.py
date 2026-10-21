@@ -579,7 +579,7 @@ class FAQIndexSearcher:
 
 if __name__ == "__main__":
     INDEX_BASE_PATH = (
-        r"D:\chatbot_w_L\backend_v4\utils\indexes"
+        r"D:\TOC-chatbot\TOC-chatbot\backend\utils\indexes"
     )
 
     embedder = OpenAIEmbedder()

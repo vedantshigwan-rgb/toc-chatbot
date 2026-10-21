@@ -2,14 +2,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "currency",
-        "VALUE": "GBP",
+        "VALUE": "USD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "currency",
-        "VALUE": "USD",
+        "VALUE": "GBP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

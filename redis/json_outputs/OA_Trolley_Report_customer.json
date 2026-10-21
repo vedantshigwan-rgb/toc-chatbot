@@ -2,16 +2,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NORTHERN RAILWAY  - DELHI",
+        "VALUE": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -30,13 +23,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "CG POWER AND INDUSTRIAL SOLUTIONS LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -44,86 +30,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH COAST RAILWAY",
+        "VALUE": "HIRECT LIMITED (FORMERLY KNOWN AS HIND RECTIFIERS ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NIKHIL TECHNOCHEM SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD RECIP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ACTIVE POWER SYSTEMS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Shree Ganapati trading Agencies",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HMC EQUIPMENTS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAI VANI AGRI TECH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAP PNEUMATIC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "UTKAL OXY ARC SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -138,6 +47,55 @@
         "VALUE": "Munitions India Limited-High Explosives Factory Kh",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SANGHI ORGANISATION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ENVIROGEN ENERGY SOLUTIONS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTH COAST RAILWAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GAIL (INDIA) LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BTL EPC LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD RECIP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ACTIVE POWER SYSTEMS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -170,6 +128,27 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NIKHIL TECHNOCHEM SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OMEGA RAIL SPARES AND SERVICES PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "MULTIVISTA GLOBAL PRIVATE LIMITED,HYDERABAD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -198,7 +177,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BTL EPC LTD",
+        "VALUE": "HMC EQUIPMENTS PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -212,30 +191,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
+        "VALUE": "UTKAL OXY ARC SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI ORGANISATION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GAIL (INDIA) LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OMEGA RAIL SPARES AND SERVICES PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -247,56 +205,49 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MATIX FERTILISERS AND CHEMICALS LIMITED",
+        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Shree Ganapati trading Agencies",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAP PNEUMATIC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "Tata Advanced Systems Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURALS GAS LIM, MEHSANA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AFCONS INFRASTRUCTURE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RAJASTHAN STEEL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHREE INFRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "VALTARA INFRASYS LLP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -310,9 +261,44 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "SAI VANI AGRI TECH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SHRIRAM POWER & STEEL PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "S K PNEUMATICS TECHNOLOGY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "WAPCOS Limited.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJASTHAN STEEL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -338,14 +324,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "S K PNEUMATICS TECHNOLOGY",
+        "VALUE": "OIL AND NATURALS GAS LIM, MEHSANA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LIMITED, BANGALORE",
+        "VALUE": "AFCONS INFRASTRUCTURE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -359,9 +345,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ENVIROGEN ENERGY SOLUTIONS PRIVATE LIMITED",
+        "VALUE": "VALTARA INFRASYS LLP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN AERONAUTICS LIMITED, BANGALORE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONSTROMECH INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BIOGAS ENGINEERING INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -373,13 +380,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SHRIRAM POWER & STEEL PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "MAA KAMAKHYA ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -387,14 +387,21 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ULTRATECH CEMENT LIMITED - UTTAR PRADESH",
+        "VALUE": "Ordnance Factory Khamaria",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Ordnance Factory Khamaria",
+        "VALUE": "SHREE INFRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Ozone Research & Applications (I) Pvt. Ltd",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -408,9 +415,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Ozone Research & Applications (I) Pvt. Ltd",
+        "VALUE": "ULTRATECH CEMENT LIMITED - UTTAR PRADESH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -422,37 +429,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Mark Technologies General Trading and Contracting ",
+        "VALUE": "NORTHERN RAILWAY  - DELHI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RASHMI METALLURGICAL INDUSTRY PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GRANT MEDICAL FOUNDATION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -471,58 +450,37 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Pro Air Solution",
+        "VALUE": "OXYPLANTS INDIA PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MAA KAMAKHYA ENTERPRISES",
+        "VALUE": "THERMAX LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SVML PNEUMATIC PVT.LTD.",
+        "VALUE": "RASHMI METALLURGICAL INDUSTRY PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Larsen & Toubro Limited",
+        "VALUE": "GRANT MEDICAL FOUNDATION",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NORTHERN RAILWAY  - DELHI",
+        "VALUE": "Air Liquide India Holding Pvt Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH EAST CENTRAL RAILWAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "K.K Services",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - KOLKATA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -534,9 +492,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "SANGHI UDYOG INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "HINDUSTAN PETROLEUM CORPORATION LIMITED - ASSAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NORTHEAST FRONTIER RAILWAY - GUWAHATI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -555,6 +534,20 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Mark Technologies General Trading and Contracting ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "MANMEET CHEMICALS AGENCIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -562,9 +555,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Air Liquide India Holding Pvt Ltd.",
+        "VALUE": "SOUTH EAST CENTRAL RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Solcon Engineers Pvt. Ltd",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -583,14 +583,21 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Solcon Engineers Pvt. Ltd",
+        "VALUE": "SVML PNEUMATIC PVT.LTD.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "JVB ENGINEERS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MAA KAMAKHYA ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -607,34 +614,6 @@
         "VALUE": "STEEL AUTHORITY OF INDIA LTD  BHILAI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "THERMAX LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI UDYOG INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OXYPLANTS INDIA PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NORTHEAST FRONTIER RAILWAY - GUWAHATI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -660,6 +639,48 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "Pro Air Solution",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Larsen & Toubro Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "K.K Services",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - KOLKATA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SUPER TECH PUMPS AND EQUIPMENTS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ANUSHKA ENTERPRISES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "DEEPAK ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -674,7 +695,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SUPER TECH PUMPS AND EQUIPMENTS",
+        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Munitions India Limited",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -688,49 +716,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Shree Sales Service and Trading",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "INDIAN OIL CORPORATION LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Rungta Mines Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ANUSHKA ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Munitions India Limited",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -751,6 +737,41 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "Shree Sales Service and Trading",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Rungta Mines Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SPECTRUM RENEWABLE ENERGY (P) LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CENTURY PULP AND PAPER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "HY TECH PNEUMATICS & SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -765,20 +786,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CENTURY PULP AND PAPER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SPECTRUM RENEWABLE ENERGY (P) LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "MAHAVIR IMPEX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -787,6 +794,13 @@
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "ADANI CEMENT INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SMJ ASSOCIATES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -814,23 +828,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SMJ ASSOCIATES",
+        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Indian Peroxide Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIBOS DISTILLERS LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -842,34 +849,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KAUSHIV ASSOCIATES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "QUVIX INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
@@ -877,37 +856,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Action Ispat & Power Pvt. Limited",
+        "VALUE": "Indian Peroxide Limited",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT PETROLEUM CORPN LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GEEKAY PNEUMATICS PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RAJ ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -926,7 +877,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH WESTERN RAILWAY",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -947,21 +898,77 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "VALUE": "GREEN POWER INTERNATIONAL PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SVML PNEUMATIC PVT.LTD.",
+        "VALUE": "CENTURY ENKA LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PUNJAB FUSION PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CEMENT DIVISON UNIT OF KESORAM INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MALHAN ENTERPRISES PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "VALUE": "KAUSHIV ASSOCIATES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIBOS DISTILLERS LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SVML PNEUMATIC PVT.LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -982,14 +989,28 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAHYADRI DIESELS",
+        "VALUE": "SPEEDO GEAR PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONTROLLER OF PROCUREMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT PETROLEUM CORPN LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD",
+        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1010,9 +1031,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "SAHYADRI DIESELS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "UTTAM INDUSTRIAL ENGINEERING PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GEEKAY PNEUMATICS PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1024,30 +1059,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCUREMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SPEEDO GEAR PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "ALPINE DISTILLERIES PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Kirloskar Engines South Africa (Pty) Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1059,37 +1073,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CENTURY ENKA LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PUNJAB FUSION PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CEMENT DIVISON UNIT OF KESORAM INDUSTRIES LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "ADANI POWER LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJ ENTERPRISES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Action Ispat & Power Pvt. Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1115,14 +1115,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - RAJASTHAN",
+        "VALUE": "Kirloskar Engines South Africa (Pty) Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD-DELHI",
+        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - RAJASTHAN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1143,9 +1143,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Sharma Compressed Air System",
+        "VALUE": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED (PREVIOUSLY KNOWN AS ArcelorMittal Nippon Steel India Limited)",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1157,9 +1157,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED (PREVIOUSLY KNOWN AS ArcelorMittal Nippon Steel India Limited)",
+        "VALUE": "Sharma Compressed Air System",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD-DELHI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ALPHA DIESELS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1167,6 +1181,83 @@
         "VALUE": "INDIAN FARMERS FERTILISER COOPERATIVE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TATA PROJECTS LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MINE MANAGER, MOIL LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DIRECTORATE OF MECHANICAL TRANSPORT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PRIDE GAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BARMA ENTERPRISES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE FACTORY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RS WINDTECH ENGINEERS PRIVATE LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BARMA ENTERPRISES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTHERN RAILWAYS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TALSALES PRIVATE LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN AERONAUTICS LTD - KORAPUT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1192,100 +1283,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MINE MANAGER, MOIL LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "EAST COAST RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTHERN RAILWAYS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ALPHA DIESELS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BARMA ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GREEN POWER INTERNATIONAL PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BARMA ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "DR.KAISER DIAMANTWERKZEUGE GmbH & Co.KG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "TATA PROJECTS LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE FACTORY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LTD - KORAPUT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT HEAVY ELECTRICALS LIMITED TRICHY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "VKFILL INDUSTRIES PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PRIDE GAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1297,16 +1297,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TALSALES PRIVATE LTD",
+        "VALUE": "VKFILL INDUSTRIES PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DIRECTORATE OF MECHANICAL TRANSPORT",
+        "VALUE": "DR.KAISER DIAMANTWERKZEUGE GmbH & Co.KG",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT HEAVY ELECTRICALS LIMITED TRICHY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1314,13 +1321,6 @@
         "VALUE": "GOA SHIPYARD LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "H.A. Trade Concern  Pvt. Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1339,37 +1339,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR OIL ENGINES LTD - NASHIK",
+        "VALUE": "H.A. Trade Concern  Pvt. Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "VALUE": "SOUTH EASTERN RAILWAY - CALCUTTA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NOVATECH FZE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NUMALIGARH REFINERY LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1388,79 +1367,37 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KAVERI ULTRA POLYMERS P LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "WPIL LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "JSW STEEL LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MALHAN ENTERPRISES PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HAPUS GENERAL TRADING - L.L.C - S.P.C MUSAFFAH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ADANI HAZIRA PORT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH EASTERN RAILWAY - CALCUTTA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "CENTRAL RAILWAY , PAREL, MUMBAI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KOSABAN SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "M/S BLACK STONE DIESELS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1486,14 +1423,49 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN OIL EXPLORATION COMPANY LIMITED",
+        "VALUE": "SHYAM METALLICS AND ENERGY LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RENERGY DYNAMICS PRODUCTS PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MALHAN ENTERPRISES PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR OIL ENGINES LTD - NASHIK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "PACKING HOUSE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NOVATECH FZE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -1521,9 +1493,37 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NUMALIGARH REFINERY LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "SHAH CEMENT INDUSTRIES LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ASHOK SAHAKARI SAKHAR KARKHANA LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONTROLLER OF PROCUREMENT KARWAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1536,6 +1536,20 @@
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "TRIBOTECH ENGINEERING PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "WPIL LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1556,21 +1570,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD-GSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "CONTROLLER OF PROCUREMENT VISHAKHAPATNAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ASHOK SAHAKARI SAKHAR KARKHANA LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCUREMENT KARWAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -1584,55 +1591,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD-GSU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KOSABAN SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHYAM METALLICS AND ENERGY LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RENERGY DYNAMICS PRODUCTS PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "M/S BLACK STONE DIESELS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -1640,7 +1598,21 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "KAVERI ULTRA POLYMERS P LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "TATA STEEL LTD - JAMSHEDPUR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -1654,7 +1626,35 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BABA BHOLENATH ENTERPRISES",
+        "VALUE": "JSW STEEL LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ADANI HAZIRA PORT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HAPUS GENERAL TRADING - L.L.C - S.P.C MUSAFFAH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN OIL EXPLORATION COMPANY LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1668,21 +1668,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Ordnance Factory Bhusawal",
+        "VALUE": "BABA BHOLENATH ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KAUSHIV ASSOCIATES",
+        "VALUE": "Ordnance Factory Bhusawal",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1696,7 +1689,21 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RAJ CHAMUNDA BOREWELL",
+        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KAUSHIV ASSOCIATES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1724,9 +1731,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "JAI MALHAR ENTERPRISES",
+        "VALUE": "RAJ CHAMUNDA BOREWELL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "YARA FERTILIZERS INDIA PVT LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1738,16 +1752,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD.",
+        "VALUE": "MAKNET INDUSTRIES PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MAKNET INDUSTRIES PVT. LTD.",
+        "VALUE": "JAI MALHAR ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1766,16 +1780,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DIRECTORATE OF MECHANICAL TRANSPORT",
+        "VALUE": "OIL AND NATURAL GAS CORPORATION LTD - NAZIRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "YARA FERTILIZERS INDIA PVT LIMITED",
+        "VALUE": "DIRECTORATE OF MECHANICAL TRANSPORT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1787,13 +1801,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Munitions India Limited-High Explosives Factory Khadki",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "MEYER ORGANICS PVT.LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -1801,23 +1808,44 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LTD - NAZIRA",
+        "VALUE": "Munitions India Limited-High Explosives Factory Khadki",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN AERONAUTICS LTD, BANGALORE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAILWAY ENGINEERING WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HSS SOLUTIONS PVT. LTD",
+        "VALUE": "NORTH CENTRAL RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1829,44 +1857,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RAJESH AND CO",
+        "VALUE": "EAST COAST RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
+        "VALUE": "HINDUSTAN AERONAUTICS LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "STAR DYNAMIC ENTERPRISES",
+        "VALUE": "BHARAT DYNAMICS LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RAJESH AND CO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PACKING HOUSE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Kronos Technocorp",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1878,9 +1885,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RAILWAY ENGINEERING WORKS",
+        "VALUE": "GRASIM INDUSTRIES LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1893,6 +1900,20 @@
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "ASHIRWAD CARBONICS INDUSTRIES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KVK CORPORATION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -1913,16 +1934,58 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "VALUE": "Asbri Energy & Enviro Technologies Pvt.Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NORTH CENTRAL RAILWAY",
+        "VALUE": "AL FUTTAIM AUTO AND MAHINERY CO LLC FAMCO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Cipla Ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "REKI ENGINEERING SOLUTIONS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "INDIAN OIL CORPORATION LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAINI ELECTRICAL & ENGINEERING WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1941,9 +2004,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AL FUTTAIM AUTO AND MAHINERY CO LLC FAMCO",
+        "VALUE": "HSS SOLUTIONS PVT. LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJESH AND CO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1955,16 +2025,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MEGHA ENGINEERING &INFRASTRUCTURES LTD",
+        "VALUE": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD.",
+        "VALUE": "BHARAT ELECTRONICS LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -1976,9 +2046,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "INDIAN OIL CORPORATION LTD",
+        "VALUE": "INDIANA CONVEYORS PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2025,93 +2095,37 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LTD, BANGALORE",
+        "VALUE": "MEGHA ENGINEERING &INFRASTRUCTURES LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LIMITED",
+        "VALUE": "Kronos Technocorp",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT DYNAMICS LTD",
+        "VALUE": "STAR DYNAMIC ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
+        "VALUE": "RAJESH AND CO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT ELECTRONICS LTD",
+        "VALUE": "PACKING HOUSE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GRASIM INDUSTRIES LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KVK CORPORATION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "REKI ENGINEERING SOLUTIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "EAST COAST RAILWAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAINI ELECTRICAL & ENGINEERING WORKS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Asbri Energy & Enviro Technologies Pvt.Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Cipla Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2137,9 +2151,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "F. HARLEY & CO. PVT.  LTD",
+        "VALUE": "MEHER PETRO-CHEM PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2151,28 +2165,28 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MEHER PETRO-CHEM PVT. LTD.",
+        "VALUE": "F. HARLEY & CO. PVT.  LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PARBHAT HEAVY FORGE PRIVATE LIMITED\t",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SHAPOORJI PALLONJI AND COMPANY PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "Oliver Engineering Private Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KLR INDUSTRIES LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NIKHIL TECHNOCHEM SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2186,9 +2200,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PARBHAT HEAVY FORGE PRIVATE LIMITED\t",
+        "VALUE": "NIKHIL TECHNOCHEM SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KLR INDUSTRIES LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RELIANCE INDUSTRIES LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2200,42 +2228,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SHAPOORJI PALLONJI AND COMPANY PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BEML Limited,(Company under Ministry of Defence, Govt. of India.)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "TEXMACO NYMWAG RAIL & COMPONENTS PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDALCO INDUSTRIES LTD  - BELGAUM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "INDIAN OIL CORPORATION LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BZA DRM OFFICE COMPLEX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2249,30 +2242,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ULTRATECH CEMENT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PRUDENT ENGINEERING LIMITED",
+        "VALUE": "INDIAN OIL CORPORATION LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT PETROLEUM CORPN LTD",
+        "VALUE": "HINDALCO INDUSTRIES LTD  - BELGAUM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HIND RECTIFIERS LIMITED (SINNAR-NASHIK)",
+        "VALUE": "BEML Limited,(Company under Ministry of Defence, Govt. of India.)",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BZA DRM OFFICE COMPLEX",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2284,58 +2277,65 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MACAWBER BEEKAY PVT.  LTD",
+        "VALUE": "BEML LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "OIL INDIA LIMITED",
+        "VALUE": "RIX INDUSTRIES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
+        "VALUE": "BOLDROCCHI INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AIRCOM POWER SYSTEMS",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "A S ENETERPRISE",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR FERROUS INDUSTRIES LIMITED",
+        "VALUE": "M/S TRANREPOWER ENGINEERING SERVICES INDIA PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDALCO INDUSTRIES LIMITED",
+        "VALUE": "ULTRATECH CEMENT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Rudra Earthmovers",
+        "VALUE": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT PETROLEUM CORPN LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2354,9 +2354,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAI VANI AGRI TECH",
+        "VALUE": "SUMMITS HYGRONIC P.LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2368,7 +2368,42 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "TAP ENGINEERING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "L&T Special Steels and Heavy Forgings Pvt. ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAI VANI AGRI TECH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "M S ENTERPRISE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "STAR DYNAMIC ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -2382,16 +2417,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TAP ENGINEERING",
+        "VALUE": "HINDUSTAN AERONAUTICS LIMITED, BANGALORE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BOLDROCCHI INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2399,6 +2427,13 @@
         "VALUE": "Preet Brothers Limited",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MACAWBER BEEKAY PVT.  LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2420,6 +2455,20 @@
         "VALUE": "SIVA WINDTURBINE INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NMDC STEEL LIMITED,",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Rudra Earthmovers",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2466,100 +2515,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "M/S TRANREPOWER ENGINEERING SERVICES INDIA PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "STAR DYNAMIC ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NMDC STEEL LIMITED,",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI OVERSEAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BEML LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RIX INDUSTRIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAN ENGINEERING AND LOCOMOTIVE COMPANY LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SUMMITS HYGRONIC P.LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "KORBA POWER LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "JAKSON GREEN LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "L&T Special Steels and Heavy Forgings Pvt. ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2578,9 +2536,44 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DEFENCE MACHINERY DESIGN ESTABLISHMENT",
+        "VALUE": "SANGHI OVERSEAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Pro Air Solution",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAN ENGINEERING AND LOCOMOTIVE COMPANY LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OIL INDIA LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "A S ENETERPRISE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDALCO INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2599,9 +2592,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BEUMER India Pvt. Ltd.",
+        "VALUE": "DEFENCE MACHINERY DESIGN ESTABLISHMENT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2613,9 +2606,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "POONA SALES CORPORATION",
+        "VALUE": "AIRCOM POWER SYSTEMS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2627,7 +2620,21 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Uttamenergy LTD",
+        "VALUE": "SAI LEE ELECTROTEKNIKS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BEUMER India Pvt. Ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2641,16 +2648,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DR REDDYS LABORATORIES LTD",
+        "VALUE": "Uttamenergy LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED",
+        "VALUE": "POONA SALES CORPORATION",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DR REDDYS LABORATORIES LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2662,16 +2676,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAI LEE ELECTROTEKNIKS PRIVATE LIMITED",
+        "VALUE": "EAST CENTRAL  RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "EAST CENTRAL  RAILWAY",
+        "VALUE": "NATIONAL ALUMINIUM COMPANY LTD.,",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2697,37 +2711,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "JINDAL INVESTIMENTOS SA",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Bathinda Industrial Gases Pvt. Ltd.",
+        "VALUE": "COMBAT VEHICLES RESEARCH & DEVELOPMENT-",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "LINDE INDIA LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BOSCO GREEN ENERGY PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MALHAN ENTERPRISES PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2753,79 +2746,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AIRCOM POWER SYSTEMS",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "COMBAT VEHICLES RESEARCH & DEVELOPMENT-",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN COPPER LTD - KHETRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MANMEET CHEMICALS AGENCIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "THERMAX LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AQUA ENGINEERING  & ALLIED SERVIES P.LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Nils & Abbas Trading  Co., L.L.C",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "STERLING AND WILSON PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ArcelorMittal Nippon Steel India Ltd",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - ASSAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2837,6 +2760,76 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Bathinda Industrial Gases Pvt. Ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "LINDE INDIA LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BOSCO GREEN ENERGY PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAKAM CARBONIC,",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "AQUA ENGINEERING  & ALLIED SERVIES P.LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NMDC LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT LTD - PUNE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "M/S BLACK STONE DIESELS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DB POWER LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "CONTROLLERATE OF PROCUREMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -2844,14 +2837,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KOSABAN SERVICES",
+        "VALUE": "JINDAL INVESTIMENTOS SA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ALPHA COMPRESSOR VALVES PVT LTD",
+        "VALUE": "AIRCOM POWER SYSTEMS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -2879,14 +2872,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NMDC LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED (",
+        "VALUE": "CONTROLLER OF PROCURMENT KOCHI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -2900,42 +2886,28 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Indiana Conveyor Pvt Ltd (T),",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT LTD - PUNE",
+        "VALUE": "MANMEET CHEMICALS AGENCIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCURMENT KOCHI",
+        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "M/S BLACK STONE DIESELS",
+        "VALUE": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED (",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "BLISS CLOUD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Adani Infra (India) Limited",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2949,30 +2921,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DB POWER LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "Adani Power Limited",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - ASSAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Adani Infra (India) Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2984,9 +2949,58 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "JAYASWAL NECO INDUSTRIES LIMITED",
+        "VALUE": "ALPHA COMPRESSOR VALVES PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KOSABAN SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN COPPER LTD - KHETRI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "THERMAX LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Nils & Abbas Trading  Co., L.L.C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "STERLING AND WILSON PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ArcelorMittal Nippon Steel India Ltd",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "A S Q TRADERS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -2998,65 +3012,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PRATAP DIESELS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PUJA ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "ANDHRA PRADESH POWER GEN.CORPN.LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "COCHIN SHIPYARD LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHRI RADHIKA POWER SOLUTIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SPRUCE ENGINEERING PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OIL & NATURAL GAS CORPN.LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RUNGTA MINES LTD - ODISHA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ADANI POWER LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3082,9 +3040,51 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PARTH ENGINEERING",
+        "VALUE": "COCHIN SHIPYARD LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SHRI RADHIKA POWER SOLUTIONS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SPRUCE ENGINEERING PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RUNGTA MINES LTD - ODISHA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PRATAP DIESELS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PUJA ENTERPRISES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ADANI POWER LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3103,30 +3103,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AGRO ENGINEERING EQUIPMENT CO.",
+        "VALUE": "OIL & NATURAL GAS CORPN.LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "A S Q TRADERS",
+        "VALUE": "PARTH ENGINEERING",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TATA STEEL LTD - JAMSHEDPUR",
+        "VALUE": "JAYASWAL NECO INDUSTRIES LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NAKODA TRADERS",
+        "VALUE": "AGRO ENGINEERING EQUIPMENT CO.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3152,7 +3152,49 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "TATA STEEL LTD - JAMSHEDPUR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NAKODA TRADERS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Vandana Global Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "STEEL AUTHORITY OF INDIA LTD  DURGAPUR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MAGNATHERM ALLOYS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "TITAGARH BRIDGES AND INTERNATIONAL PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SIDHAARTHA AGENCIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -3166,28 +3208,35 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SIDHAARTHA AGENCIES",
+        "VALUE": "SIEMENS LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "STEEL AUTHORITY OF INDIA LTD  DURGAPUR",
+        "VALUE": "WESTERN RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Vandana Global Limited",
+        "VALUE": "CHITTARANJAN LOCOMOTIVE WORKS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MAGNATHERM ALLOYS PRIVATE LIMITED",
+        "VALUE": "SOUTH CENTRAL RAILWAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT RAIL EQUIPMENTS AND SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -3208,13 +3257,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -3222,23 +3264,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SIEMENS LIMITED",
+        "VALUE": "PRIVI SPECIALITY CHEMICALS LIMITED,",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CHITTARANJAN LOCOMOTIVE WORKS",
+        "VALUE": "SITAPUR GREEN ENERGY PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "WESTERN RAILWAY",
+        "VALUE": "PUNJAB CARBONIC P.LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BRAHMOS AEROSPACE PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3250,28 +3299,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH CENTRAL RAILWAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KOSABAN SERVICES",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -3285,37 +3320,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHIVA BOREWELLS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT RAIL EQUIPMENTS AND SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SS SALES & SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3334,7 +3341,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TATA STEEL LTD - JAMSHEDPUR",
+        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -3355,6 +3362,20 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR CHILLERS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "SMS INDIA PVT.LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -3369,48 +3390,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CHANDERPUR WORKS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR CHILLERS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARMECH ENGINEERS PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Suez Steel Co.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BRAHMOS AEROSPACE PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "DAVID BROWN GEAR SYSTEMS INDIA PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -3418,16 +3397,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PRIVI SPECIALITY CHEMICALS LIMITED,",
+        "VALUE": "CHANDERPUR WORKS PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PUNJAB CARBONIC P.LTD",
+        "VALUE": "ARMECH ENGINEERS PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3453,6 +3432,55 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "Suez Steel Co.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KOSABAN SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SS SALES & SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SHIVA BOREWELLS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ULTRATECH CEMENT LIMITED - ANDHRA PRADESH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAI GAJANAN TRADING COMPANY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "FLOWON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -3474,21 +3502,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAI GAJANAN TRADING COMPANY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "EASTERN RAILWAY - CALCUTTA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CREATIVE ENGINEERING",
+        "VALUE": "INDCON PROJECTS & EQUIPMENT LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -3502,44 +3516,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "INDCON PROJECTS & EQUIPMENT LIMITED",
+        "VALUE": "EASTERN RAILWAY - CALCUTTA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "THYSSENKRUPP UHDE INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "DIRECTORATE OF PROCUREMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "FRIULAIR INDIA PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "STEEL AUTHORITY OF INDIA LTD  BOKARO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR OIL ENGINES L TD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3551,9 +3530,65 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ULTRATECH CEMENT LIMITED - ANDHRA PRADESH",
+        "VALUE": "Professor Ahmed Kovacevic",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CREATIVE ENGINEERING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT PETROLEUM CORP.LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Dalmia Bharat Sugar And Industries Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TATA STEEL LTD - JAMSHEDPUR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "FRIULAIR INDIA PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DIRECTORATE OF PROCUREMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR OIL ENGINES L TD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "VARANASI FAN INDUSTRIES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3572,37 +3607,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT PETROLEUM CORP.LTD.",
+        "VALUE": "STEEL AUTHORITY OF INDIA LTD  BOKARO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "VARANASI FAN INDUSTRIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Dalmia Bharat Sugar And Industries Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Professor Ahmed Kovacevic",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SITAPUR GREEN ENERGY PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -3617,6 +3624,13 @@
         "VALUE": "MEGHA INDUSTRIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "THYSSENKRUPP UHDE INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",

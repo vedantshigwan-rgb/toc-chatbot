@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # Load environment variables from .env in the same folder as this script
 
-dotenv_path = Path(r"D:\buyer_lookup_project\redis_final\.env")
+dotenv_path = Path(r"D:\TOC-chatbot\TOC-chatbot\redis\.env")
 load_dotenv(dotenv_path)
 
 # Oracle wallet connection settings

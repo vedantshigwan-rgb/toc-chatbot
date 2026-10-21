@@ -1,6 +1,42 @@
+import { useState } from "react";
 import { useChat } from "../../context/ChatContext";
 
-export function UserMessage({ message }) {
+
+export function UserMessage({ message, isLatest }) {
+  const { editMessage, sending } = useChat();
+
+  const [isEditing, setIsEditing] = useState(false);
+  const [editedText, setEditedText] = useState(
+    message.payload?.input ||
+      (message.parts || [])
+        .map((part) => part.text ?? part.pill ?? "")
+        .join("")
+  );
+
+  const canEdit =
+    isLatest === true &&
+    message.persisted === true &&
+    message.payload?.message_type !== "feedback" &&
+    !message.payload?.reply_to_message_id;
+
+  async function saveEdit() {
+    const saved = await editMessage(message.id, editedText);
+
+    if (saved) {
+      setIsEditing(false);
+    }
+  }
+
+  function cancelEdit() {
+    setEditedText(
+      message.payload?.input ||
+        (message.parts || [])
+          .map((part) => part.text ?? part.pill ?? "")
+          .join("")
+    );
+    setIsEditing(false);
+  }
+
   return (
     <div className="msg-user">
       {message.replyingToText && (
@@ -10,18 +46,75 @@ export function UserMessage({ message }) {
             : message.replyingToText}
         </div>
       )}
-      {message.parts.map((part, i) =>
-        part.pill ? (
-          <span key={i} className="var-pill">
-            {part.pill}
-          </span>
-        ) : (
-          <span key={i}>{part.text}</span>
-        )
+
+      {isEditing ? (
+        <div className="msg-edit-area">
+          <textarea
+            className="msg-edit-input"
+            value={editedText}
+            onChange={(event) => setEditedText(event.target.value)}
+            rows={Math.min(
+              8,
+              Math.max(2, editedText.split("\n").length)
+            )}
+            autoFocus
+            disabled={sending}
+          />
+
+          <div className="msg-edit-actions">
+            <button
+              type="button"
+              onClick={saveEdit}
+              disabled={sending || !editedText.trim()}
+            >
+              {sending ? "Saving..." : "Save"}
+            </button>
+
+            <button
+              type="button"
+              onClick={cancelEdit}
+              disabled={sending}
+            >
+              Cancel
+            </button>
+          </div>
+        </div>
+      ) : (
+        <>
+          <div className="msg-user-content">
+            {(message.parts || []).map((part, i) =>
+              part.pill ? (
+                <span key={i} className="var-pill">
+                  {part.pill}
+                </span>
+              ) : (
+                <span key={i}>{part.text}</span>
+              )
+            )}
+          </div>
+
+          {message.isEdited && (
+            <div className="msg-edited-label">Edited</div>
+          )}
+
+          {canEdit && (
+            <div className="msg-user-actions">
+              <button
+                type="button"
+                onClick={() => setIsEditing(true)}
+                disabled={sending}
+                title="Edit this message"
+              >
+                Edit
+              </button>
+            </div>
+          )}
+        </>
       )}
     </div>
   );
 }
+
 
 export function BotMessage({ message }) {
   const { feedback, replyTo, openReport } = useChat();

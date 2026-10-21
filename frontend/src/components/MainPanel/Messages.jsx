@@ -10,6 +10,9 @@ import ActionMessage from "./ActionMessage";
 
 export default function Messages() {
   const { messages } = useChat();
+  const latestUserMessageId = [...messages]
+    .reverse()
+    .find((message) => message.type === "user")?.id;
   const messagesRef = useRef(null);
   const [showScrollBtn, setShowScrollBtn] = useState(false);
 
@@ -48,7 +51,7 @@ export default function Messages() {
         {messages.map((message) => {
           switch (message.type) {
             case "user":
-              return <UserMessage key={message.id} message={message} />;
+              return (<UserMessage key={message.id} message={message} isLatest={message.id === latestUserMessageId} />);
             case "bot":
               return <BotMessage key={message.id} message={message} />;
             case "suggest":

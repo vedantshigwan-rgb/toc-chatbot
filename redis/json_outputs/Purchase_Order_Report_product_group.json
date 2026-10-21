@@ -2,21 +2,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R3",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "GSU",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R3",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -30,28 +23,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "ELECTRIC SCREW",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "DS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R1",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GEARS AND PINIONS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -65,7 +44,35 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R1",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HRS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "WISC HYDRINO",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "GEARS AND PINIONS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -79,7 +86,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "WISC HYDRINO",
+        "VALUE": "HP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -100,21 +107,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "HP",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R2",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
+        "VALUE": "ES-R2",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -128,7 +121,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R2",
+        "VALUE": "SAT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "CENTRI",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -142,13 +149,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINIO",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "OXYGEN TROLLEY",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -156,7 +156,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "SAT",
+        "VALUE": "PED - GEAR AND PINIO",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -177,14 +177,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - OTHERS",
+        "VALUE": "TRM - CVRDE AND VRDE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - CVRDE AND VRDE",
+        "VALUE": "PED - OTHERS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -198,13 +198,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "DEVELOPMENT ITEMS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -212,14 +205,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - LOCO. AND TORQ",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - AXLE DRIVE",
+        "VALUE": "PED - WINDMILL GEARB",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -233,7 +219,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - WINDMILL GEARB",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - LOCO. AND TORQ",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -254,14 +247,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
+        "VALUE": "COMMON",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DP",
+        "VALUE": "BOP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -282,14 +275,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - INDUSTRIAL GEA",
+        "VALUE": "DP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
+        "VALUE": "PED - INDUSTRIAL GEA",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -303,7 +296,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TONALLI",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -311,6 +304,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "TRM - MARINE GEARBOX",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "TONALLI",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     }

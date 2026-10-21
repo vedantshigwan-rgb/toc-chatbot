@@ -39,7 +39,7 @@ def load_environment() -> Optional[Path]:
     candidates.extend(
         [
             SCRIPT_DIR / ".env",
-            Path(r"D:\buyer_lookup_project\redis_final\.env"),
+            Path(r"D:\TOC-chatbot\TOC-chatbot\redis\.env"),
         ]
     )
 

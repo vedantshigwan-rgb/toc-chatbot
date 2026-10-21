@@ -709,6 +709,67 @@ body { display: flex; flex-direction: column; }
   margin-bottom: 5px;
 }
 
+/* Edited message content */
+.msg-user-content {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+/* Edit button and Save/Cancel buttons */
+.msg-user-actions,
+.msg-edit-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.msg-user-actions button,
+.msg-edit-actions button {
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 6px;
+  padding: 5px 10px;
+  background: transparent;
+  color: inherit;
+  font-size: 12px;
+}
+
+.msg-user-actions button:disabled,
+.msg-edit-actions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+/* Edit text area */
+.msg-edit-area {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 220px;
+}
+
+.msg-edit-input {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 64px;
+  resize: vertical;
+  padding: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 8px;
+  background: #fff;
+  color: #222;
+  font: inherit;
+}
+
+/* Persistent Edited label */
+.msg-edited-label {
+  margin-top: 5px;
+  font-size: 11px;
+  opacity: 0.8;
+  font-style: italic;
+}
+
 .suggest-block {
   align-self: flex-start;
   max-width: 78%;

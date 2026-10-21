@@ -81,6 +81,23 @@ async function readJsonResponse(response) {
   return responseData;
 }
 
+function filterItemCodeSuggestions(page, variableName) {
+  const normalizedName = normaliseVariable(variableName);
+
+  // Apply only to the item-code variable.
+  if (normalizedName !== "item") {
+    return page;
+  }
+
+  const values = page.values.filter(
+    (value) => !String(value).trim().toUpperCase().startsWith("N")
+  );
+
+  return {
+    ...page,
+    values,
+  };
+}
 
 /**
  * Load every mapped variable for one report.
@@ -249,7 +266,10 @@ export async function fetchAutocompleteValues({
       }
     );
     const contextualData = await readJsonResponse(contextualResponse);
-    return normaliseSuggestionPage(contextualData, offset);
+    return filterItemCodeSuggestions(
+      normaliseSuggestionPage(contextualData, offset),
+      cleanedVariableName
+    );
   }
 
   const parameters =
@@ -302,7 +322,10 @@ export async function fetchAutocompleteValues({
   const responseData =
     await readJsonResponse(response);
 
-  return normaliseSuggestionPage(responseData, offset);
+  return filterItemCodeSuggestions(
+    normaliseSuggestionPage(responseData, offset),
+    cleanedVariableName
+  );
 }
 
 
