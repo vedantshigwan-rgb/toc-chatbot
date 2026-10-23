@@ -145,49 +145,74 @@ class MongoWorkflowStore:
 
         return document
 
+    
     async def store_fallback_result(
         self,
         *,
         workflow_id: str,
         fallback_result: Dict[str, Any],
     ) -> bool:
-        generated_sql = fallback_result.get(
-            "generated_sql"
-        ) or fallback_result.get("sql")
+        now = utc_now()
+
+        generated_sql = (
+            fallback_result.get("generated_sql")
+            or fallback_result.get("sql")
+        )
+
+        executable_sql = (
+            fallback_result.get("executable_sql")
+            or fallback_result.get("sql")
+        )
+
+        update_fields = {
+            # Preserve existing fallback-generation behavior.
+            "fallback_generation.status": "ready",
+            "fallback_generation.generated_sql": generated_sql,
+            "fallback_generation.explanation": (
+                fallback_result.get("explanation")
+            ),
+            "fallback_generation.used_variables": (
+                fallback_result.get("used_variables", [])
+            ),
+            "fallback_generation.generated_at": now,
+            "fallback_generation.error": None,
+
+            # Store the original SQL for future page requests.
+            "final_sql": executable_sql,
+            "sql_source": fallback_result.get("sql_source"),
+
+            # Preserve execution metadata.
+            "execution.status": fallback_result.get(
+                "status",
+                "completed",
+            ),
+            "execution.execution_time_ms": (
+                fallback_result.get("execution_time_ms")
+            ),
+            "execution.result_count": fallback_result.get(
+                "result_count",
+                0,
+            ),
+            "execution.table_data": fallback_result.get(
+                "results",
+                [],
+            ),
+
+            "sql_error": fallback_result.get("error"),
+            "updated_at": now,
+        }
 
         update_result = await self.collection.update_one(
             {
                 "workflow_id": workflow_id,
             },
             {
-                "$set": {
-                    "fallback_generation.status": (
-                        "ready"
-                    ),
-                    "fallback_generation.generated_sql": (
-                        generated_sql
-                    ),
-                    "fallback_generation.explanation": (
-                        fallback_result.get(
-                            "explanation"
-                        )
-                    ),
-                    "fallback_generation.used_variables": (
-                        fallback_result.get(
-                            "used_variables",
-                            [],
-                        )
-                    ),
-                    "fallback_generation.generated_at": (
-                        utc_now()
-                    ),
-                    "fallback_generation.error": None,
-                    "updated_at": utc_now(),
-                }
+                "$set": update_fields,
             },
         )
 
         return update_result.matched_count == 1
+
 
     async def store_fallback_error(
         self,
@@ -214,6 +239,7 @@ class MongoWorkflowStore:
 
         return update_result.matched_count == 1
 
+    
     async def get_workflow(
         self,
         workflow_id: str,
@@ -221,6 +247,26 @@ class MongoWorkflowStore:
         workflow = await self.collection.find_one(
             {
                 "workflow_id": workflow_id,
+            },
+            {
+                "_id": 0,
+            },
+        )
+
+        return workflow
+
+    async def get_workflow_for_user(
+        self,
+        workflow_id: str,
+        user_id: str,
+    ) -> Optional[Dict[str, Any]]:
+        """
+        Retrieve a workflow only if it belongs to the requesting user.
+        """
+        workflow = await self.collection.find_one(
+            {
+                "workflow_id": workflow_id,
+                "user_id": user_id,
             },
             {
                 "_id": 0,

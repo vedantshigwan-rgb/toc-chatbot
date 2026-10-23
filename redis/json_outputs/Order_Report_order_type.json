@@ -2,16 +2,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "Short supply",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "NA",
+        "VALUE": "Short supply",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -30,16 +30,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "Warranty",
+        "VALUE": "Sales Order - Dev",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "Sales Order - Dev",
+        "VALUE": "Warranty",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -86,9 +86,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "Sales Order",
+        "VALUE": "Inter SBU",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "Stock order",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -100,51 +107,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "NA",
+        "VALUE": "Sales Order",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "Stock order",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "Inter SBU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
         "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "Short supply",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "Stock order",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -156,7 +128,63 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
         "VALUE": "Sales Order",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "Stock order",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "Short supply",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "Warranty",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "order_type",
+        "VALUE": "Short supply",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -177,20 +205,6 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "Warranty",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
         "VALUE": "Stock order",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -200,21 +214,14 @@
         "VARIABLE_NAME": "order_type",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "order_type",
-        "VALUE": "Short supply",
+        "VALUE": "Sales Order - Dev",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -236,12 +243,5 @@
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "order_type",
-        "VALUE": "Sales Order - Dev",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     }
 ]

@@ -4,13 +4,6 @@
         "VARIABLE_NAME": "bom_level",
         "VALUE": 5,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 5,
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
@@ -23,9 +16,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 2,
+        "VALUE": 1,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 5,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 1,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 1,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -37,9 +51,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
+        "VALUE": 2,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -58,7 +72,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
+        "VALUE": 7,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -72,20 +86,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 4,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 3,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -93,9 +93,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 7,
+        "VALUE": 4,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -109,7 +109,7 @@
         "VARIABLE_NAME": "bom_level",
         "VALUE": 3,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -117,6 +117,13 @@
         "VALUE": 4,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 3,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -135,13 +142,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 3,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -163,6 +163,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
+        "VALUE": 3,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
         "VALUE": 5,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -170,16 +177,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 3,
+        "VALUE": 1,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 3,
+        "VALUE": 0,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 1,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -198,20 +212,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 0,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 0,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -229,6 +229,13 @@
         "VALUE": 8,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 2,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -254,58 +261,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 2,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 6,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 10,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 6,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 2,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 9,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -317,9 +275,37 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 8,
+        "VALUE": 1,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 6,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 10,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 2,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 1,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -333,7 +319,21 @@
         "VARIABLE_NAME": "bom_level",
         "VALUE": 9,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 6,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 0,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -347,7 +347,14 @@
         "VARIABLE_NAME": "bom_level",
         "VALUE": 0,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 8,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -361,7 +368,7 @@
         "VARIABLE_NAME": "bom_level",
         "VALUE": 0,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -376,13 +383,6 @@
         "VALUE": 8,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 0,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -404,6 +404,20 @@
         "VALUE": 12,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 1,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 9,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -415,21 +429,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 1,
+        "VALUE": 8,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 9,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 5,
+        "VALUE": 3,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -437,6 +444,13 @@
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
         "VALUE": 4,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 5,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -457,27 +471,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 3,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 0,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 8,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 4,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -485,7 +478,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 9,
+        "VALUE": 0,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -506,9 +499,37 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
+        "VALUE": 9,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 7,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 0,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
         "VALUE": 2,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 3,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -543,21 +564,7 @@
         "VARIABLE_NAME": "bom_level",
         "VALUE": 3,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 0,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 7,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -576,9 +583,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 3,
+        "VALUE": 2,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -590,7 +597,28 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
+        "VALUE": 4,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 2,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
         "VALUE": 12,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 14,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -604,13 +632,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 3,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 5,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -632,41 +653,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 2,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 14,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 4,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 2,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
-        "VALUE": 5,
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "bom_level",
         "VALUE": 1,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -681,9 +667,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "bom_level",
-        "VALUE": 7,
+        "VALUE": 3,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 5,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -705,5 +698,12 @@
         "VALUE": 1,
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "bom_level",
+        "VALUE": 7,
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     }
 ]

@@ -16,6 +16,13 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "ES-R5",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -37,6 +44,13 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "RBC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -44,9 +58,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "RBC",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -58,23 +72,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "KG5H",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -100,9 +100,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - CVRDE AND VRDE",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -114,35 +114,14 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "ARIA_R1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TONALLI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "EH/TC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "WISC HYDRINO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -156,30 +135,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - JOB ORDER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
+        "VALUE": "TONALLI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "GAS",
+        "VALUE": "WISC HYDRINO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -191,9 +156,30 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "PED - JOB ORDER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "GAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -205,9 +191,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
+        "VALUE": "PED - JOB ORDER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -228,19 +214,19 @@
         "VARIABLE_NAME": "product_group",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "ES-R4",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -254,9 +240,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "SPARES",
+        "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -264,6 +250,13 @@
         "VALUE": "PED - LOCO. AND TORQ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -277,7 +270,7 @@
         "VARIABLE_NAME": "product_group",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -285,27 +278,6 @@
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AIR-SEP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - OTHERS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -320,6 +292,27 @@
         "VALUE": "PED - HIGH SPEED GEA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - OTHERS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Order Report",

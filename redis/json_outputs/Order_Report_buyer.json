@@ -2,16 +2,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "VALUE": "Bajare, Mr. Amar Vijay",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Bajare, Mr. Amar Vijay",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -37,16 +37,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Garde, Mr. Krushnakumar Annasa",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "VALUE": "Garde, Mr. Krushnakumar Annasa",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -93,15 +93,15 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - GSU"
     }
 ]

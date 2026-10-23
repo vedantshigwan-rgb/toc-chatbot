@@ -1,8 +1,8 @@
 {
   "report_name": " Buyerwise OA Trolley Report",
   "report_folder": "Buyerwise OA Trolley Report",
-  "created_at": "2026-10-21T10:58:11",
-  "total_rows": 125,
+  "created_at": "2026-10-23T11:35:15",
+  "total_rows": 133,
   "all_index_folder": "all",
   "variable_indexes": {
     "buyer": {
@@ -33,8 +33,8 @@
       "folder": "variables\\buyer,date,parent_item",
       "row_count": 1
     },
-    "buyer,date,trolley_status": {
-      "folder": "variables\\buyer,date,trolley_status",
+    "buyer,date,trolley_remark": {
+      "folder": "variables\\buyer,date,trolley_remark",
       "row_count": 1
     },
     "buyer,item_description": {
@@ -45,8 +45,8 @@
       "folder": "variables\\buyer,item_description,oa_number",
       "row_count": 1
     },
-    "buyer,item_description,trolley_status": {
-      "folder": "variables\\buyer,item_description,trolley_status",
+    "buyer,item_description,trolley_remark": {
+      "folder": "variables\\buyer,item_description,trolley_remark",
       "row_count": 1
     },
     "buyer,item_type": {
@@ -61,6 +61,10 @@
       "folder": "variables\\buyer,month",
       "row_count": 1
     },
+    "buyer,month,year": {
+      "folder": "variables\\buyer,month,year",
+      "row_count": 1
+    },
     "buyer,oa_number": {
       "folder": "variables\\buyer,oa_number",
       "row_count": 2
@@ -73,16 +77,20 @@
       "folder": "variables\\buyer,org_name",
       "row_count": 2
     },
-    "buyer,org_name,trolley_status": {
-      "folder": "variables\\buyer,org_name,trolley_status",
+    "buyer,org_name,trolley_remark": {
+      "folder": "variables\\buyer,org_name,trolley_remark",
       "row_count": 1
     },
     "buyer,parent_item": {
       "folder": "variables\\buyer,parent_item",
       "row_count": 2
     },
-    "buyer,trolley_status": {
-      "folder": "variables\\buyer,trolley_status",
+    "buyer,trolley_remark": {
+      "folder": "variables\\buyer,trolley_remark",
+      "row_count": 1
+    },
+    "buyer,year": {
+      "folder": "variables\\buyer,year",
       "row_count": 1
     },
     "buyer_status": {
@@ -117,8 +125,8 @@
       "folder": "variables\\date",
       "row_count": 1
     },
-    "date,trolley_status": {
-      "folder": "variables\\date,trolley_status",
+    "date,trolley_remark": {
+      "folder": "variables\\date,trolley_remark",
       "row_count": 1
     },
     "item_description": {
@@ -133,21 +141,21 @@
       "folder": "variables\\item_type",
       "row_count": 2
     },
-    "item_type,org_name,trolley_status": {
-      "folder": "variables\\item_type,org_name,trolley_status",
+    "item_type,org_name,trolley_remark": {
+      "folder": "variables\\item_type,org_name,trolley_remark",
       "row_count": 1
     },
     "month": {
       "folder": "variables\\month",
       "row_count": 1
     },
-    "month,year": {
-      "folder": "variables\\month,year",
-      "row_count": 2
+    "month,trolley_remark,year": {
+      "folder": "variables\\month,trolley_remark,year",
+      "row_count": 1
     },
     "no_variables": {
       "folder": "variables\\no_variables",
-      "row_count": 43
+      "row_count": 51
     },
     "oa_number": {
       "folder": "variables\\oa_number",
@@ -157,8 +165,8 @@
       "folder": "variables\\oa_number,org_name",
       "row_count": 1
     },
-    "oa_number,trolley_status": {
-      "folder": "variables\\oa_number,trolley_status",
+    "oa_number,trolley_remark": {
+      "folder": "variables\\oa_number,trolley_remark",
       "row_count": 2
     },
     "org_name": {
@@ -169,29 +177,29 @@
       "folder": "variables\\org_name,parent_item",
       "row_count": 1
     },
-    "org_name,parent_item,trolley_status": {
-      "folder": "variables\\org_name,parent_item,trolley_status",
+    "org_name,parent_item,trolley_remark": {
+      "folder": "variables\\org_name,parent_item,trolley_remark",
       "row_count": 1
     },
-    "org_name,trolley_status": {
-      "folder": "variables\\org_name,trolley_status",
+    "org_name,trolley_remark": {
+      "folder": "variables\\org_name,trolley_remark",
       "row_count": 3
     },
     "parent_item": {
       "folder": "variables\\parent_item",
       "row_count": 5
     },
-    "parent_item,trolley_status": {
-      "folder": "variables\\parent_item,trolley_status",
+    "parent_item,trolley_remark": {
+      "folder": "variables\\parent_item,trolley_remark",
       "row_count": 1
     },
-    "trolley_status": {
-      "folder": "variables\\trolley_status",
+    "trolley_remark": {
+      "folder": "variables\\trolley_remark",
       "row_count": 3
     },
     "year": {
       "folder": "variables\\year",
-      "row_count": 2
+      "row_count": 1
     }
   }
 }

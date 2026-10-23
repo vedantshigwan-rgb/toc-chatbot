@@ -79,13 +79,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "TEFLON RINGS.SPARES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
         "VALUE": "MS- FORGING O/S.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -101,6 +94,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "AE- ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "TEFLON RINGS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -233,14 +233,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "SBD- OSP CAST KPCL FOUNDRY.PLANNED",
+        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
+        "VALUE": "SBD- OSP CAST KPCL FOUNDRY.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -261,14 +261,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
+        "VALUE": "SBD- NPD.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "SBD- NPD.PLANNED",
+        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -289,7 +289,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "COUPLING,AVM PARTS.SPARES",
+        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -318,13 +318,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "HOSE AND ACCESSORIES.SPARES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -360,6 +353,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "COUPLING,AVM PARTS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -457,7 +457,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "FAN.PLANNED",
+        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -471,7 +471,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
+        "VALUE": "FAN.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -765,14 +765,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "FORGINGS.PLANNED",
+        "VALUE": "CASTING RINGS PISTON.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "CASTING RINGS PISTON.SPARES",
+        "VALUE": "FORGINGS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

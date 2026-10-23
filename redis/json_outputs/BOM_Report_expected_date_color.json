@@ -18,13 +18,6 @@
         "VARIABLE_NAME": "expected_date_color",
         "VALUE": "Red",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "expected_date_color",
-        "VALUE": "Red",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
@@ -32,7 +25,7 @@
         "VARIABLE_NAME": "expected_date_color",
         "VALUE": "Red",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -44,6 +37,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "expected_date_color",
+        "VALUE": "Red",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "expected_date_color",
         "VALUE": "Green Light",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
@@ -65,14 +65,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "expected_date_color",
-        "VALUE": "Green Light",
+        "VALUE": "Orange",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "expected_date_color",
-        "VALUE": "Orange",
+        "VALUE": "Green Light",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },

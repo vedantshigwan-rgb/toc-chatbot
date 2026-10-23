@@ -4,14 +4,14 @@
         "VARIABLE_NAME": "inventory_planning_code",
         "VALUE": 6,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "inventory_planning_code",
         "VALUE": 6,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -32,14 +32,14 @@
         "VARIABLE_NAME": "inventory_planning_code",
         "VALUE": 6,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "inventory_planning_code",
         "VALUE": 6,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -72,16 +72,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "inventory_planning_code",
-        "VALUE": 6,
+        "VALUE": 2,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "inventory_planning_code",
-        "VALUE": 2,
+        "VALUE": 6,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -116,7 +116,7 @@
         "VARIABLE_NAME": "inventory_planning_code",
         "VALUE": 2,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -130,6 +130,6 @@
         "VARIABLE_NAME": "inventory_planning_code",
         "VALUE": 2,
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     }
 ]

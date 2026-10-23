@@ -1559,6 +1559,8 @@ const [
     setChatInput,
   ] = useState("");
 
+  const [editingMessageId, setEditingMessageId] = useState(null);
+
   const [
     requestMode,
     setRequestModeState,
@@ -2202,6 +2204,52 @@ const [
     }
   }
   
+  function startEditingMessage(message) {
+    if (
+      !message ||
+      message.type !== "user" ||
+      message.persisted !== true ||
+      message.payload?.message_type === "feedback" ||
+      message.payload?.reply_to_message_id ||
+      sending
+    ) {
+      return;
+    }
+
+    const originalText =
+      message.payload?.input ??
+      (message.parts || [])
+        .map((part) => part.text ?? part.pill ?? "")
+        .join("");
+
+    setEditingMessageId(message.id);
+    setChatInput(originalText);
+    setReplyingTo(null);
+    setRequestModeState("normal_message");
+    closeLookup();
+  }
+
+  function cancelEditingMessage() {
+    setEditingMessageId(null);
+    setChatInput("");
+    closeLookup();
+  }
+
+  async function submitChatInput() {
+    if (editingMessageId) {
+      const saved = await editMessage(editingMessageId, chatInput);
+
+      if (saved) {
+        setEditingMessageId(null);
+        setChatInput("");
+        closeLookup();
+      }
+
+      return;
+    }
+
+    await sendMessage();
+  }
 
   
   async function editMessage(messageId, editedText) {
@@ -3377,7 +3425,7 @@ const [
     ) {
       event.preventDefault();
 
-      sendMessage();
+      submitChatInput();
     }
   }
 
@@ -3547,13 +3595,10 @@ function openReport(source) {
       open: true,
 
       data: {
-        title:
-          source.title ||
-          "Query Results",
-
+        title: source.title || "Query Results",
         columns,
-
         rows,
+        messageId: source.messageId || null,
       },
     });
   }
@@ -3652,6 +3697,10 @@ function openReport(source) {
     messages,
     sendMessage,
     editMessage,
+    submitChatInput,
+    editingMessageId,
+    startEditingMessage,
+    cancelEditingMessage,
     chatInput,
     inputDisabled,
     sending,

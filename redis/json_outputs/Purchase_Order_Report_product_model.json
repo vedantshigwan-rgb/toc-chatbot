@@ -2,6 +2,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "H.S.G.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "3HC55",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -16,35 +23,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "4HB4BISN",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "KGC-TA",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KES 18-7.5V",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 55-7.5IV",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 90-10I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -72,14 +51,28 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "H.S.G.",
+        "VALUE": "KESe 30-8.5I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 30-8.5I",
+        "VALUE": "RAIL SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 90-10I",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -107,6 +100,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP600-100",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "KESe 90-8.5i",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -121,13 +121,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "RAIL SPARES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "KES-15-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -136,6 +129,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "KES-160-7.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-7.5IV",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -170,14 +170,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 160-8.5I",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 15-7.5",
+        "VALUE": "KDP400-100",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -191,7 +184,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KDP400-100",
+        "VALUE": "KESE 160-8.5I",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "4HB4BISN",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 18-7.5V",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -233,13 +240,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "SD 550-200",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "DIESEL SCREW-SP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -254,7 +254,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "ARIA 11-7.5 T",
+        "VALUE": "KESb 22-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -268,21 +268,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 30-8.5IV",
+        "VALUE": "KESe 30-10I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 110-8.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "CUSTOM BUILT",
+        "VALUE": "ARIA 11-7.5 T",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -317,13 +310,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 15-13",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "4HA4T",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -345,7 +331,28 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 22-7.5",
+        "VALUE": "KES-37-8.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 15-13",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 110-8.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "CUSTOM BUILT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -353,6 +360,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "GSU-SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 180",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -380,14 +394,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 30-10I",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KDP300-100",
+        "VALUE": "KESe 30-7.5IV",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -401,13 +408,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 30-7.5IV",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "KG5H-G",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -415,7 +415,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "RBC-SPARES",
+        "VALUE": "SD 550-200",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP300-100",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -423,6 +430,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "KES 18-8.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "RBC-SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -457,13 +471,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "ARIA 22-7.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "ARIA 37-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -471,7 +478,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KG5H-500",
+        "VALUE": "S.S.H.FM.F.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 320",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -479,13 +493,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "No Sales Credit",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 160-7.5IV",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -506,27 +513,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "S.S.H.FM.F.",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 45-8.5IV",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "B3FS 320",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "WARRANTY",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -534,7 +520,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA 22-7.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "1EHA4GT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 160-7.5IV",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -555,6 +555,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 45-8.5IV",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "2HA2T-110-7.5-W",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -562,7 +569,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KES-132-8.5",
+        "VALUE": "B3FS 160",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -570,6 +577,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "KESe55-12i",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "HY2T-22-10-AS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -590,20 +604,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "B3FS 160",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "HY2T-22-10-AS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "KG5H",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -611,14 +611,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "OH2C 418",
+        "VALUE": "A-12000",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "A-12000",
+        "VALUE": "KESE 37-7.5I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -639,7 +639,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 37-7.5I",
+        "VALUE": "INTERSBU-SCREW",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -653,20 +653,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "INTERSBU-SCREW",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 132-8.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "2HA2T",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -674,7 +660,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "ARIA 30-7.5",
+        "VALUE": "OH2C 418",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -709,13 +695,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "EH/TC-SPARES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "ARIA 7.5-7.5 T",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -730,14 +709,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 55+ - 7.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 75-8.5IV",
+        "VALUE": "EH/TC-SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -751,14 +723,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KHD 450",
+        "VALUE": "KESe 55+ - 7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "TC-50",
+        "VALUE": "KHD 450",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -772,7 +744,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 22-13",
+        "VALUE": "KES 22-7.5V",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "TC-50",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -786,7 +765,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 45-8.5i",
+        "VALUE": "KESE 132-8.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 22-13",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -800,6 +786,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 45-8.5i",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "T.S.H.FM.F.",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -807,7 +800,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KES 18-8.5I",
+        "VALUE": "ARIA 30-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -815,20 +808,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "T-BTD-RM-ZC",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "2EHA2GT",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "2EHY2T",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -856,6 +835,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHA2GT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "A-7000",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -870,7 +856,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "B3FS 200",
+        "VALUE": "2EHY2T",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -878,13 +864,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "TC-200",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 11-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -912,6 +891,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-7.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "B2FS 160",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -920,13 +906,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "ACD - FOUNDRY",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "11 kW",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -947,14 +926,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 160-7.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KHS 280",
+        "VALUE": "KESe 90-10",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -975,7 +947,35 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 90-10",
+        "VALUE": "KES 18-8.5I",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 30-7.5I",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESe 160-7.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "11 kW",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KHS 280",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1017,6 +1017,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "KESg 22-8.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "KDP250-100",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1025,6 +1032,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "1HA2TERT-ZC",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "H3FS 200 SPL",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1045,13 +1059,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 11-7.5i",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "04",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1066,7 +1073,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KWS 55-10iV+",
+        "VALUE": "KESb 11-7.5i",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1087,14 +1094,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "TRM SPARES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "2HA4ST",
+        "VALUE": "KWS 55-10iV+",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1115,7 +1115,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESg 22-8.5",
+        "VALUE": "TRM SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA4ST",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1129,14 +1136,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KES 22-7.5iV",
+        "VALUE": "KESE 45-13I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 45-13I",
+        "VALUE": "KES 22-7.5iV",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1150,7 +1157,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 7-13",
+        "VALUE": "2HA2ST",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1164,7 +1171,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "K330-R",
+        "VALUE": "KESb 7-13",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KDP500-175",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1185,56 +1199,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "2HA2ST-ZC",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 11-10",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "ARIA 15-7.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KDP500-175",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "IACSF-400",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 55-7.5I",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KES 90-8.5i",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "SD 575-225",
+        "VALUE": "K330-R",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1248,7 +1213,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "B3FS 180 SPL",
+        "VALUE": "IACSF-400",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "SD 575-225",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1269,7 +1241,28 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "2HA2ST-ZC",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "3EHA4GT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "4EHA4GT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESb 11-10",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1290,14 +1283,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESg 22-7.5i",
+        "VALUE": "ARIA 11-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "3EHA4GT",
+        "VALUE": "KESg 22-7.5i",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1311,35 +1304,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "A-5000",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "KDP180-100",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 37-8.5V",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KES 90-10",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "ARIA 11-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1374,6 +1339,20 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "B3FS 180 SPL",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 55-7.5I",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "1EHA1GT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1381,7 +1360,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 110-7.5I",
+        "VALUE": "ARIA 15-7.5",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KES 90-10",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1395,7 +1381,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESe 55-7.5",
+        "VALUE": "A-5000",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1437,6 +1423,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
+        "VALUE": "2EHY2GT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
         "VALUE": "3EHA4BISGT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1451,7 +1444,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 132-8.5IV",
+        "VALUE": "KES-7-13",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "KESE 90-7.5I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1459,13 +1459,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "INTERSBU-CENTRI",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "2EHY2GT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1480,6 +1473,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
         "VALUE": "OH3C 450 (M)",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "OH3C 450",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1514,14 +1514,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KES 15-7.5",
+        "VALUE": "KESE 132-8.5IV",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "OH3C 450",
+        "VALUE": "KESb 7-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1542,13 +1542,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESE 90-7.5I",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "KES 22-8.5I",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1563,14 +1556,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KES-7-13",
+        "VALUE": "KES-75-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KESb 7-7.5",
+        "VALUE": "KES-22-7.5",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1591,21 +1584,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_model",
-        "VALUE": "KES-22-7.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
-        "VALUE": "KES-75-7.5",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_model",
         "VALUE": "PKE-80-RE",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_model",
+        "VALUE": "ARIA-WARRANTY",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     }

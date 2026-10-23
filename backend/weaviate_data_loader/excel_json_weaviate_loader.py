@@ -16,7 +16,7 @@ from config.settings import OPENAI_API_KEY
 # ============================================================
 
 EXCEL_FILE = Path(
-    r"D:\TOC-chatbot\TOC-chatbot\backend\data\JSON METADATA.xlsx"
+    r"D:\TOC-chatbot\TOC-chatbot\backend\data\JSON_METADATA.xlsx"
 )
 
 JSON_FILE = Path(

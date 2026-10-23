@@ -100,6 +100,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "order_type_text",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "order_type_text",
         "VALUE": "Stock order",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -110,20 +117,6 @@
         "VALUE": "Inter SBU",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "order_type_text",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "order_type_text",
-        "VALUE": "Stock order",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -135,23 +128,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "order_type_text",
+        "VALUE": "Stock order",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "order_type_text",
         "VALUE": "Short supply",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "order_type_text",
-        "VALUE": "Sales Order",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "order_type_text",
-        "VALUE": "Inter SBU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -165,14 +151,14 @@
         "VARIABLE_NAME": "order_type_text",
         "VALUE": "Inter SBU",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "order_type_text",
-        "VALUE": "NA",
+        "VALUE": "Sales Order",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -191,9 +177,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "order_type_text",
-        "VALUE": "Stock order",
+        "VALUE": "Inter SBU",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "order_type_text",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -201,6 +194,13 @@
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "order_type_text",
+        "VALUE": "Stock order",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",

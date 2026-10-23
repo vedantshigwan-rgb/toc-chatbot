@@ -2,13 +2,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "CUSTOMER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
         "VALUE": "BY CONSIGNEE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -23,21 +16,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "INTERTEK",
+        "VALUE": "CUSTOMER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
         "VALUE": "BY KPC AND TPIA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY MSQAA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -51,16 +37,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "RITES",
+        "VALUE": "BY MSQAA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY KPC AND TPIA",
+        "VALUE": "RITES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -79,14 +65,21 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY KPC",
+        "VALUE": "INTERTEK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BUREAU VERITAS",
+        "VALUE": "BY KPC AND TPIA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "BY KPC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -100,9 +93,44 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "BUREAU VERITAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "DQA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "BY KPC AND TPIA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "CUSTOMER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
         "VALUE": "THIRD PARTY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "BY KPC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -116,28 +144,14 @@
         "VARIABLE_NAME": "inspection_norm",
         "VALUE": "BY KPC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY KPC AND TPIA",
+        "VALUE": "BY KPC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "DQA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "CUSTOMER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -152,27 +166,6 @@
         "VALUE": "N/A",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY KPC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY KPC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "CUSTOMER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -191,16 +184,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "KPC",
+        "VALUE": "CUSTOMER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY DGQA",
+        "VALUE": "KPC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -212,23 +205,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "N/A",
+        "VALUE": "BY DGQA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BUREAU VERITAS",
+        "VALUE": "BY KPC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "THIRD PARTY",
+        "VALUE": "DQA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -240,9 +233,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "NA",
+        "VALUE": "BY CONSIGNEE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -261,23 +254,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY KPC",
+        "VALUE": "CLW",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "DQA",
+        "VALUE": "BUREAU VERITAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY CONSIGNEE",
+        "VALUE": "THIRD PARTY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -285,6 +285,13 @@
         "VALUE": "RITES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -296,9 +303,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "RITES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
         "VALUE": "KPC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "BY CONSIGNEE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -310,13 +331,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "RITES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
         "VALUE": "KPC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -324,7 +338,7 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "BY CONSIGNEE",
+        "VALUE": "CUSTOMER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -341,13 +355,6 @@
         "VALUE": "N/A",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "CUSTOMER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -373,34 +380,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "CUSTOMER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "THIRD PARTY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "CLW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
-        "VALUE": "N/A",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "inspection_norm",
         "VALUE": "KPC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -417,6 +396,34 @@
         "VARIABLE_NAME": "inspection_norm",
         "VALUE": "N/A",
         "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "THIRD PARTY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "CUSTOMER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "N/A",
+        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "inspection_norm",
+        "VALUE": "CLW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     }
 ]

@@ -148,3 +148,50 @@ export async function editChatMessage({
 
   return readApiJson(response);
 }
+
+
+export async function fetchMessagePage({
+  messageId,
+  page = 1,
+  signal,
+}) {
+  if (!messageId) {
+    throw new Error("messageId is required to fetch a report page.");
+  }
+
+  const response = await authenticatedFetch(
+    `/chat/messages/${encodeURIComponent(messageId)}/page?page=${encodeURIComponent(page)}`,
+    {
+      method: "GET",
+      headers: { Accept: "application/json" },
+      signal,
+    }
+  );
+
+  return readApiJson(response);
+}
+
+export async function exportMessageCsv({
+  messageId,
+  signal,
+}) {
+  if (!messageId) {
+    throw new Error("messageId is required to export a report.");
+  }
+
+  const response = await authenticatedFetch(
+    `/chat/messages/${encodeURIComponent(messageId)}/export.csv`,
+    {
+      method: "GET",
+      headers: { Accept: "text/csv" },
+      signal,
+    }
+  );
+
+  if (!response.ok) {
+    // Preserve the API's existing error-handling behavior.
+    await readApiJson(response);
+  }
+
+  return response.blob();
+}

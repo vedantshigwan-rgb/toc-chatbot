@@ -170,6 +170,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "BHAMRE, Mr. AMOL DILIP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -178,13 +185,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "GHATGE, Mr. SANGRAMSINH PRABHAKAR",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

@@ -1,3 +1,4 @@
+
 import {
   useEffect,
   useRef,
@@ -16,7 +17,7 @@ const MODES = [
 export default function InputArea() {
   const {
     chatInput,
-    sendMessage,
+    submitChatInput,
     onChatInputChange,
     onChatCursorChange,
     onChatInputKeyDown,
@@ -28,6 +29,8 @@ export default function InputArea() {
     requestMode,
     setRequestMode,
     replyingTo,
+    editingMessageId,
+    cancelEditingMessage,
   } = useChat();
 
   const chatInputRef = useRef(null);
@@ -48,8 +51,22 @@ export default function InputArea() {
     });
   }, [requestedCaretPosition, clearRequestedCaretPosition]);
 
+  useEffect(() => {
+    if (!editingMessageId) return;
+
+    const input = chatInputRef.current;
+    if (!input) return;
+
+    input.focus();
+    input.setSelectionRange(
+      input.value.length,
+      input.value.length
+    );
+  }, [editingMessageId]);
+
   const reportRequired =
     !replyingTo &&
+    !editingMessageId &&
     (requestMode === "help" || requestMode === "metadata");
 
   const chatDisabled =
@@ -61,6 +78,8 @@ export default function InputArea() {
 
   if (sending) {
     placeholder = "Waiting for the response...";
+  } else if (editingMessageId) {
+    placeholder = "Edit your question...";
   } else if (replyingTo) {
     placeholder = "Describe how this Primary result should change";
   } else if (requestMode === "help") {
@@ -74,7 +93,8 @@ export default function InputArea() {
   } else if (selectedReport) {
     placeholder = "Ask about this report, or type / to insert a variable";
   } else {
-    placeholder = "Say hello, or ask a question. Data queries will ask you to select a report.";
+    placeholder =
+      "Say hello, or ask a question. Data queries will ask you to select a report.";
   }
 
   function handleCursorChange(event) {
@@ -85,30 +105,50 @@ export default function InputArea() {
   }
 
   return (
-    <div className="input-area">
+    <div
+      className={
+        "input-area" +
+        (editingMessageId ? " input-area-editing" : "")
+      }
+    >
       <ReplyBanner />
 
-      <div className="request-mode-row" aria-label="Request mode">
-        {MODES.map((mode) => (
-          <button
-            key={mode.value}
-            type="button"
-            className={
-              "request-mode-btn" +
-              (requestMode === mode.value && !replyingTo ? " active" : "")
-            }
-            disabled={Boolean(replyingTo) || sending}
-            onClick={() => setRequestMode(mode.value)}
-          >
-            {mode.label}
-          </button>
-        ))}
-        {replyingTo && (
-          <span className="request-mode-feedback">Feedback / Modify</span>
-        )}
-      </div>
+      {!editingMessageId && (
+        <div className="request-mode-row" aria-label="Request mode">
+          {MODES.map((mode) => (
+            <button
+              key={mode.value}
+              type="button"
+              className={
+                "request-mode-btn" +
+                (requestMode === mode.value && !replyingTo
+                  ? " active"
+                  : "")
+              }
+              disabled={Boolean(replyingTo) || sending}
+              onClick={() => setRequestMode(mode.value)}
+            >
+              {mode.label}
+            </button>
+          ))}
 
-      {(replyingTo || requestMode === "normal_message") && <LookupPopover />}
+          {replyingTo && (
+            <span className="request-mode-feedback">
+              Feedback / Modify
+            </span>
+          )}
+        </div>
+      )}
+
+      {(editingMessageId ||
+        replyingTo ||
+        requestMode === "normal_message") && <LookupPopover />}
+
+      {editingMessageId && (
+        <div className="editing-question-indicator">
+          Editing question
+        </div>
+      )}
 
       <div className="input-row">
         <input
@@ -142,26 +182,47 @@ export default function InputArea() {
           onKeyDown={onChatInputKeyDown}
         />
 
+        {editingMessageId && (
+          <button
+            type="button"
+            className="cancel-edit-btn"
+            aria-label="Exit question editing"
+            title="Exit editing"
+            disabled={sending}
+            onClick={cancelEditingMessage}
+          >
+            ✕
+          </button>
+        )}
+
         <button
           type="button"
           className="send-btn"
+          aria-label={
+            editingMessageId ? "Submit edited question" : "Send message"
+          }
+          title={
+            editingMessageId ? "Submit edited question" : "Send message"
+          }
           disabled={chatDisabled || !chatInput.trim()}
-          onClick={sendMessage}
+          onClick={submitChatInput}
         >
           {sending ? "…" : "➤"}
         </button>
       </div>
 
       <div className="hint">
-        {replyingTo
-          ? "This message will refine and rerun the selected data request."
-          : requestMode === "help"
-            ? "Ask about how the application works or what a report variable means."
-            : requestMode === "metadata"
-              ? "Learn what a business term or report column means. No filters are needed."
-              : selectedReport
-                ? "Sidebar filters are optional. Type / to insert a variable."
-                : "You can say hello without selecting a report. Select a report for data questions."}
+        {editingMessageId
+          ? "Edit your question and press Enter or the send arrow to rerun it. Click ✕ to exit without submitting."
+          : replyingTo
+            ? "This message will refine and rerun the selected data request."
+            : requestMode === "help"
+              ? "Ask about how the application works or what a report variable means."
+              : requestMode === "metadata"
+                ? "Learn what a business term or report column means. No filters are needed."
+                : selectedReport
+                  ? "Sidebar filters are optional. Type / to insert a variable."
+                  : "You can say hello without selecting a report. Select a report for data questions."}
       </div>
     </div>
   );

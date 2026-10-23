@@ -2,14 +2,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - PRODUCTS",
+        "VALUE": "PED - PRODUCTS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "PED - PRODUCTS",
+        "VALUE": "ACD - PRODUCTS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     }

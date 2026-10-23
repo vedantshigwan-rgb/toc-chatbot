@@ -16,13 +16,6 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Nikhil Devade",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
         "VALUE": "Anil pandey",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -30,9 +23,23 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nikhil Devade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
         "VALUE": "Somnath Khandekar",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "YOGESH PAWAR",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -51,9 +58,9 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "YOGESH PAWAR",
+        "VALUE": "Anil pandey",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -61,13 +68,6 @@
         "VALUE": "Atul Bhoite",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
-        "VALUE": "Anil pandey",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -93,13 +93,6 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Atul Bhoite",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
         "VALUE": "Somnath Khandekar",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
@@ -114,9 +107,16 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Balasaheb Sakrudkar",
+        "VALUE": "Atul Bhoite",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Bodhale SM",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -128,7 +128,21 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Bodhale SM",
+        "VALUE": "Balasaheb Sakrudkar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Anil Pandey",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Saurabh Chavan",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -149,28 +163,7 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Saurabh Chavan",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
         "VALUE": "Prashant Bhalsingh",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
-        "VALUE": "Anil Pandey",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
-        "VALUE": "Atul Bhoite",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -184,16 +177,16 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Balasaheb Sakrudkar",
+        "VALUE": "Atul Bhoite",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "YOGESH PAWAR",
+        "VALUE": "Anil Pandey",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -219,9 +212,16 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Anil Pandey",
+        "VALUE": "YOGESH PAWAR",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Balasaheb Sakrudkar",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -247,13 +247,6 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Santosh Jadhav",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "supervisor",
         "VALUE": "Dharmadhikari SR",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -268,16 +261,16 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Nitin Nigade",
+        "VALUE": "Santosh Jadhav",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Prashant Bhalsingh",
+        "VALUE": "Nitin Nigade",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -289,9 +282,9 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "supervisor",
-        "VALUE": "Nitin Nigade",
+        "VALUE": "Prashant Bhalsingh",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -299,6 +292,13 @@
         "VALUE": "Saurabh Chavan",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "supervisor",
+        "VALUE": "Nitin Nigade",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Docket Employee Report",

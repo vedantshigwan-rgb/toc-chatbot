@@ -16,16 +16,16 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "res_div",
-        "VALUE": "CNC Shop PNT",
+        "VALUE": "Bench TRM Gear",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "res_div",
-        "VALUE": "Bench TRM Gear",
+        "VALUE": "CNC Shop PNT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",

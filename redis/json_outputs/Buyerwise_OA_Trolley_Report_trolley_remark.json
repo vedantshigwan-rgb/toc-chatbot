@@ -1,21 +1,21 @@
 [
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "trolley_status",
+        "VARIABLE_NAME": "trolley_remark",
         "VALUE": "Motor",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "trolley_status",
+        "VARIABLE_NAME": "trolley_remark",
         "VALUE": "Reclaribate PT -",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "trolley_status",
+        "VARIABLE_NAME": "trolley_remark",
         "VALUE": "Jinneshwar Insp- ?\r\nCOn Rod - Wave off",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"

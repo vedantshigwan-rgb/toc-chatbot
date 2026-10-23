@@ -3,15 +3,7 @@ import { useChat } from "../../context/ChatContext";
 
 
 export function UserMessage({ message, isLatest }) {
-  const { editMessage, sending } = useChat();
-
-  const [isEditing, setIsEditing] = useState(false);
-  const [editedText, setEditedText] = useState(
-    message.payload?.input ||
-      (message.parts || [])
-        .map((part) => part.text ?? part.pill ?? "")
-        .join("")
-  );
+  const { startEditingMessage, sending, editingMessageId } = useChat();
 
   const canEdit =
     isLatest === true &&
@@ -19,26 +11,14 @@ export function UserMessage({ message, isLatest }) {
     message.payload?.message_type !== "feedback" &&
     !message.payload?.reply_to_message_id;
 
-  async function saveEdit() {
-    const saved = await editMessage(message.id, editedText);
-
-    if (saved) {
-      setIsEditing(false);
-    }
-  }
-
-  function cancelEdit() {
-    setEditedText(
-      message.payload?.input ||
-        (message.parts || [])
-          .map((part) => part.text ?? part.pill ?? "")
-          .join("")
-    );
-    setIsEditing(false);
-  }
+  const isEditingThisMessage = editingMessageId === message.id;
 
   return (
-    <div className="msg-user">
+    <div
+      className={
+        "msg-user" + (isEditingThisMessage ? " msg-user-editing" : "")
+      }
+    >
       {message.replyingToText && (
         <div className="msg-user-reply-snippet">
           {message.replyingToText.length > 70
@@ -47,88 +27,53 @@ export function UserMessage({ message, isLatest }) {
         </div>
       )}
 
-      {isEditing ? (
-        <div className="msg-edit-area">
-          <textarea
-            className="msg-edit-input"
-            value={editedText}
-            onChange={(event) => setEditedText(event.target.value)}
-            rows={Math.min(
-              8,
-              Math.max(2, editedText.split("\n").length)
-            )}
-            autoFocus
+      <div className="msg-user-content">
+        {(message.parts || []).map((part, i) =>
+          part.pill ? (
+            <span key={i} className="var-pill">
+              {part.pill}
+            </span>
+          ) : (
+            <span key={i}>{part.text}</span>
+          )
+        )}
+      </div>
+
+      {message.isEdited && (
+        <div className="msg-edited-label">Edited</div>
+      )}
+
+      {canEdit && (
+        <div className="msg-user-actions">
+          <button
+            type="button"
+            className="msg-edit-icon-btn"
+            onClick={() => startEditingMessage(message)}
             disabled={sending}
-          />
-
-          <div className="msg-edit-actions">
-            <button
-              type="button"
-              onClick={saveEdit}
-              disabled={sending || !editedText.trim()}
+            title="Edit this message"
+            aria-label="Edit this message"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              width="16"
+              height="16"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="1.8"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
             >
-              {sending ? "Saving..." : "Save"}
-            </button>
-
-            <button
-              type="button"
-              onClick={cancelEdit}
-              disabled={sending}
-            >
-              Cancel
-            </button>
-          </div>
+              <path d="M12 20h9" />
+              <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L8 18l-4 1 1-4Z" />
+            </svg>
+          </button>
         </div>
-      ) : (
-        <>
-          <div className="msg-user-content">
-            {(message.parts || []).map((part, i) =>
-              part.pill ? (
-                <span key={i} className="var-pill">
-                  {part.pill}
-                </span>
-              ) : (
-                <span key={i}>{part.text}</span>
-              )
-            )}
-          </div>
-
-          {message.isEdited && (
-            <div className="msg-edited-label">Edited</div>
-          )}
-
-          {canEdit && (
-            <div className="msg-user-actions">
-              <button
-                type="button"
-                className="msg-edit-icon-btn"
-                onClick={() => setIsEditing(true)}
-                disabled={sending}
-                title="Edit this message"
-                aria-label="Edit this message"
-              >
-                <svg
-                  viewBox="0 0 24 24"
-                  width="16"
-                  height="16"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="1.8"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  aria-hidden="true"
-                >
-                  <path d="M12 20h9" />
-                  <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L8 18l-4 1 1-4Z" />
-                </svg>
-              </button>
-            </div>
-          )}
-        </>
       )}
     </div>
   );
 }
+
 
 
 export function BotMessage({ message }) {
@@ -189,6 +134,7 @@ export function BotMessage({ message }) {
               openReport({
                 title: message.tableTitle,
                 rows: message.tableRows,
+                messageId: message.id,
               });
               return;
             }
