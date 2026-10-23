@@ -60,7 +60,32 @@ function formatNumber(value) {
 }
 
 
-function formatCellValue(value) {
+function formatDateValue(value) {
+  if (typeof value !== "string") {
+    return value;
+  }
+
+  // Preserve dates that already use DD-MM-YY.
+  if (/^\d{2}-\d{2}-\d{2}$/.test(value)) {
+    return value;
+  }
+
+  // Convert ISO date/timestamp strings without timezone conversion.
+  const match = value.match(
+    /^(\d{4})-(\d{2})-(\d{2})(?:T.*)?$/
+  );
+
+  if (!match) {
+    return value;
+  }
+
+  const [, year, month, day] = match;
+
+  return `${day}-${month}-${year.slice(-2)}`;
+}
+
+
+function formatCellValue(value, column) {
   if (
     value === null ||
     value === undefined ||
@@ -69,13 +94,65 @@ function formatCellValue(value) {
     return "—";
   }
 
+  const columnName = String(column || "")
+    .trim()
+    .toUpperCase();
+
+  // Keep OA_NUMBER exactly as supplied; never add commas.
+  if (columnName === "OA_NUMBER") {
+    return String(value);
+  }
+
+  // Only format columns explicitly identified as date columns.
+  const dateColumns = new Set([
+    // Add the exact Oracle date column names here.
+    "EXPECTED_DATE",
+    "OA_PROMISE_DATE",
+    "ADVANCE_HOLD_RELEASE_DATE",
+    "BOM_RELEASE_DATE",
+    "OA_NEED_BY_DATE",
+    "OCD",
+    "SCHEDULE_SHIP_DATE",
+    "NEED_BY_DATE",
+    "OA_CREATION_DATE",
+    "FULL_KIT_MRP_SUGG_DATE",
+    "OLD_PO_DATE",
+    "EXPECTED_DATE",
+    "BOM_EFF_DATE",
+    "LOAD_DATE",
+    'OA_CDD',
+    "OA_FK_DATE",
+    "OA_SSD",
+    "PO_CREATION_DATE",
+    "SUPPLIER_EXPECTED_DATE",
+    "UTILIZATION_DATE",
+    "CREATION_DATE",
+    "PI_DATE",
+    "CUST_PO_DATE",
+    "INV_DATE",
+    "LAST_UPDATE_DATE",
+    "ORDER_DATE",
+    "PLANNING_SALE_DATE",
+    "DATE_ATTRIBUTE_2",
+    "MARKETING_DATE",
+    "QUALITY_DATE",
+    "STORE_DATE",
+    "ASSEMBLY_DATE",
+    "SCM_DATE",
+    "DESIGN_DATE",
+    "TROLLEY_DATE",
+  ]);
+
+  if (dateColumns.has(columnName)) {
+    return formatDateValue(String(value));
+  }
+
   if (isNumericValue(value)) {
     return formatNumber(value);
   }
 
   return String(value);
 }
-
 
 /*
  * Supports backend results returned as either:
@@ -459,7 +536,7 @@ export default function ReportModal() {
                               : String(cell)
                           }
                         >
-                          {formatCellValue(cell)}
+                          {formatCellValue(cell, columns[columnIndex])}
                         </td>
                       ))}
                     </tr>
