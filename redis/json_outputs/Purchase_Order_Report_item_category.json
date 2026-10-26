@@ -44,6 +44,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
+        "VALUE": "TEFLON RINGS.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
         "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -94,13 +101,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "AE- ASSEMBLY.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "TEFLON RINGS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -457,7 +457,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
+        "VALUE": "FAN.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -471,7 +471,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "FAN.PLANNED",
+        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -486,6 +486,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "ENGINES AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GAUGES/INSRUMENTS(PRESSURE/FLOW SWITCH).PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -528,13 +535,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "AE- OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "GAUGES/INSRUMENTS(PRESSURE/FLOW SWITCH).PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -625,13 +625,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "AIR END SCREW- BOUGHT OUT PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
         "VALUE": "AIR END RECIP- BOUGHT OUT PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -695,6 +688,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
+        "VALUE": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
         "VALUE": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -724,13 +724,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "SBD- CAST/FORG O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

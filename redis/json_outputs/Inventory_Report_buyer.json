@@ -9,9 +9,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Garde, Mr. Krushnakumar Annasaheb",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -23,30 +23,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "VALUE": "Garde, Mr. Krushnakumar Annasaheb",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. NAVEEN ANIL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -58,9 +37,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Bajare, Mr. Amar Vijay",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -72,30 +51,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "BARGAL, Mr. VISHAL SANJAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "MASAL, Ms. PUJA DADA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -114,6 +72,41 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "Bajare, Mr. Amar Vijay",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. NAVEEN ANIL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
@@ -121,7 +114,21 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "MASAL, Ms. PUJA DADA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -142,44 +149,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. NAVEEN ANIL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "MUTHUSAMY M, Mr.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -191,30 +163,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Gaikwad, Mr. Manoj Eknath",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -233,9 +184,58 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. NAVEEN ANIL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Gaikwad, Mr. Manoj Eknath",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "GANGAWANE, Mr. SUDARSHAN SHRIMANT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -254,23 +254,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -282,21 +268,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -310,16 +282,23 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATKI, Mr. GAJANAN BALVANTRAO",
+        "VALUE": "KABRA, Mr. KAILASH SATYANARAYAN",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -331,14 +310,14 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -352,9 +331,37 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHARAO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATKI, Mr. GAJANAN BALVANTRAO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -366,9 +373,23 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KABRA, Mr. KAILASH SATYANARAYAN",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHARAO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -380,7 +401,21 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -394,27 +429,6 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHARAO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "PATIL, Mr. NAVEEN ANIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -422,51 +436,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JAMALE, Mr. VISHNUKANT DIGAMBER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -485,21 +457,28 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DALAVI, Mr. CHIRAG PRADEEP",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
+        "VALUE": "JAMALE, Mr. VISHNUKANT DIGAMBER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -513,9 +492,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -527,7 +506,28 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHARAO",
+        "VALUE": "DALAVI, Mr. CHIRAG PRADEEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -548,7 +548,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHARAO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -569,28 +569,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KEMDHARE, Mr. AKASH PRAKASH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -611,6 +590,13 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -618,9 +604,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KEMDHARE, Mr. AKASH PRAKASH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -639,14 +632,42 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -660,16 +681,30 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -681,9 +716,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "VALUE": "MALVIYA, Mr. ANIL UMRAO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -702,30 +737,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "MALVIYA, Mr. ANIL UMRAO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -737,16 +751,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -758,86 +772,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "No Buyer",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Garde, Mr. Krushnakumar Annasaheb",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -849,30 +786,86 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "No Buyer",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Garde, Mr. Krushnakumar Annasaheb",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Bajare, Mr. Amar Vijay",
+        "VALUE": "No Buyer",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -884,23 +877,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Inamdar, Mr. Sameer Sameer",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "DALAVI, Mr. CHIRAG PRADEEP",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "DHAVALE, Mr. SURESH KARBHARI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -926,9 +905,23 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "No Buyer",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -940,9 +933,37 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "VALUE": "Inamdar, Mr. Sameer Sameer",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Gaikwad, Mr. Manoj Eknath",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Bajare, Mr. Amar Vijay",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DALAVI, Mr. CHIRAG PRADEEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DHAVALE, Mr. SURESH KARBHARI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -957,12 +978,5 @@
         "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Gaikwad, Mr. Manoj Eknath",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
     }
 ]

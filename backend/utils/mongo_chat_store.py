@@ -413,6 +413,7 @@ class MongoChatStore:
         message_id: str,
         user_id: str,
         content: str,
+        request_mode: Optional[str] = None,
     ) -> Optional[Dict[str, Any]]:
         cleaned_content = str(content or "").strip()
 

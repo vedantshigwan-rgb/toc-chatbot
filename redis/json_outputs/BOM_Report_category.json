@@ -2,37 +2,37 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED",
+        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MACHINED COMPONENTS.PLANNED",
+        "VALUE": "IMPORTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
         "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "OSP ITEMS.PLANNED",
+        "VALUE": "AE- OSP SF PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CONTROL VALVE.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -44,37 +44,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
+        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "COOLERS, FAN.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FAN.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "OSP- CASTING O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -86,35 +58,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MS- FORGING O/S.PLANNED",
+        "VALUE": "CONTROL VALVE.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
         "VALUE": "AE- BO PARTS,GP.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -135,21 +86,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED",
+        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL VALVE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
+        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -165,7 +109,91 @@
         "VARIABLE_NAME": "category",
         "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MACHINED COMPONENTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MS CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MS- FORGING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "OSP- CASTING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COOLERS, FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -173,6 +201,13 @@
         "VALUE": "DRYERS, MOISTURE SEPARATOR.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -191,51 +226,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "AE- MS CAST/FORG O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP SF PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL VALVE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IMPORTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
         "VALUE": "DRYERS, MOISTURE SEPARATOR.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -254,195 +254,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MACHINED COMPONENTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "BEARINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD-GKTS,SEAL,RUBBER,SPRING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HOSE, HOSE KIT, FITTING KIT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SUB ASSEMBLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SHAFT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL PANEL AND PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SUB ASSEMBLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IMPORTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MS CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- NPD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- OSP CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "COUPLING,AVM PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "EQUIPMENT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FAN.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AIR END- NPD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
         "VALUE": "OTHR EL,GLND,LUG,TIES.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -464,6 +275,69 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
+        "VALUE": "SBD-GKTS,SEAL,RUBBER,SPRING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COUPLING,AVM PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GKTS,SEAL,RUBBER PARTS,SPRING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
         "VALUE": "AE- MS CAST/FORG O/S.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -471,9 +345,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "RECEIVER.PLANNED",
+        "VALUE": "EQUIPMENT.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AIR END- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -485,21 +366,98 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SBD- OSP ITEMS.PLANNED",
+        "VALUE": "IMPORTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- OSP CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MACHINED COMPONENTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HOSE, HOSE KIT, FITTING KIT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SUB ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RECEIVER.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
         "VALUE": "MFG.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PISTON/SEALING/BEARING/RIDER RINGS.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -513,9 +471,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "HIPL PARTS.PLANNED",
+        "VALUE": "PISTON/SEALING/BEARING/RIDER RINGS.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -527,6 +485,48 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
+        "VALUE": "CONTROL PANEL AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HIPL PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "BEARINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SHAFT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SUB ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
         "VALUE": "MFGD MACH.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -534,135 +534,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "GAUGES/INSRUMENTS(PRESSURE/FLOW SWITCH).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD-GKTS,SEAL,RUBBER,SPRING,BELT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD-STIKERS, NAME PLATE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SHAFT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PHANTOM.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "EQUIPMENT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "TWO BIN.TWO BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
         "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
+        "VALUE": "MOTOR AND PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IMPORTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -688,23 +569,65 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MOTOR AND PARTS.PLANNED",
+        "VALUE": "IMPORTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
+        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SBD- CAST/FORG O/S.PLANNED",
+        "VALUE": "SBD-STIKERS, NAME PLATE.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "TWO BIN.TWO BIN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -716,16 +639,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED",
+        "VALUE": "GAUGES/INSRUMENTS(PRESSURE/FLOW SWITCH).PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "RECEIVER.PLANNED",
+        "VALUE": "SHAFT.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -737,7 +660,70 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "TWO BIN.SPARES",
+        "VALUE": "BEARINGS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PHANTOM.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD-GKTS,SEAL,RUBBER,SPRING,BELT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "EQUIPMENT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "DRYERS, MOISTURE SEPARATOR.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -751,21 +737,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "DRYERS, MOISTURE SEPARATOR.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CASTING RINGS PISTON.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "BEARINGS.SPARES",
+        "VALUE": "TWO BIN.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -779,9 +751,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "FABRICATION PARTS.PLANNED",
+        "VALUE": "CASTING RINGS PISTON.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -793,219 +772,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IMPORTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MS- FORGING O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "ASSEMBLED GEAR BOX.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MS- FORGING O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FORGINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PUMP,FILTERS, STRAINER.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "TWO BIN.TWO BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MOTOR AND PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "COOLERS, FAN.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MS- CASTING O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PRV,SRV,TRV,PL.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AIR END- NPD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AIR END CENTRI -CASTINGS & FORGING O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- ASSEMBLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
         "VALUE": "RECEIVER.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "STD HARDWRS(SCREW/NUT/BOLT/WASHER/STUD).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
         "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MOTOR AND PARTS.PLANNED",
+        "VALUE": "FABRICATION PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1031,16 +821,191 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CABLE TRAY.PLANNED",
+        "VALUE": "SBD- MFGD MACH.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "LIGHT FABRICATION - 1.PLANNED",
+        "VALUE": "PUMP,FILTERS, STRAINER.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FORGINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MS- FORGING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AIR END- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "ASSEMBLED GEAR BOX.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RECEIVER.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "TWO BIN.TWO BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PRV,SRV,TRV,PL.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MOTOR AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "IMPORTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MOTOR AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "STRAINER.DUPLEX FILTER, SWITCHES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MS- FORGING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AIR END CENTRI -CASTINGS & FORGING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1052,6 +1017,20 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
+        "VALUE": "MS- CASTING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COOLERS, FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
         "VALUE": "GEAR.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -1059,198 +1038,37 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "VALUE": "LIGHT FABRICATION - 1.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CASTINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "VALUE": "SBD- ELECT  SUBCON ITEMS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "VALUE": "CABLE TRAY.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "AE- ASSEMBLY.PLANNED",
+        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PHANTOM.PHANTOM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MS CAST/FORG O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "ENGINES AND PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MS CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- BEARING, IMPORT BEARING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AIR END- NPD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP SF PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
         "VALUE": "COUPLING,AVM PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1276,28 +1094,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "COUPLING,AVM PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
         "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- NPD.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -1318,16 +1115,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MS- CASTING O/S.PLANNED",
+        "VALUE": "SBD- NPD.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1339,7 +1129,203 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FILTERS, LUBRICATOR, STRAINER, BELT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- BEARING, IMPORT BEARING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP SF PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CASTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "ENGINES AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
         "VALUE": "LIGHT MACHINING SPARES.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PHANTOM.PHANTOM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- MS CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AIR END- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SAFETY VALVES.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -1353,9 +1339,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SAFETY VALVES.SPARES",
+        "VALUE": "OSP ITEMS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MS- CASTING O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COUPLING,AVM PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1367,9 +1367,114 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
+        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
         "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "TWO BIN.TWO BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP CAST/FORG O/S.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "EQUIPMENT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HOSE, HOSE KIT, FITTING KIT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GEAR.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PHANTOM.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "DRYERS AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COOLERS,MOISTURE SEPARATOR.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1377,6 +1482,48 @@
         "VALUE": "LIGHT MACH ITEMS-1(NON S/C)/PRESS ITEMS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "STD FITNG (TUBE AND PIPE FITTINGS).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "ELECTRICAL/INSTRUMENT/MOTORS/PUMPS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1395,65 +1542,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HOSE, HOSE KIT, FITTING KIT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HOSE / HOSE KIT FITTINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GEAR.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- ASSEMBLY.PLANNED",
+        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PUMP,FILTERS, STRAINER.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MS CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1465,37 +1556,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "COUPLING,AVM PARTS.PLANNED",
+        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "DRYERS AND PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1507,14 +1570,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "PHANTOM.PLANNED",
+        "VALUE": "COUPLING,AVM PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD,SWTCH.PLANNED",
+        "VALUE": "AE- ASSEMBLY.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -1528,23 +1591,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "COOLERS,MOISTURE SEPARATOR.PLANNED",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED",
+        "VALUE": "CASTINGS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1563,9 +1619,44 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CASTINGS.PLANNED",
+        "VALUE": "RINGS AND PACKINGS.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HOSE AND ACCESSORIES.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COMBI COOLERS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PISTON RODS/GUDGEON PINS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "BANDED BELTS/V-BELT/FLAT BELT.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "COUPLING,AVM PARTS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1577,72 +1668,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "VALUE": "PUMP,FILTERS, STRAINER.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TG,PG,LG,TW, RTD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "LIGHT FAB <100 KG,FRP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "TWO BIN.TWO BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP CAST/FORG O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "EQUIPMENT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD BEARING, IMPORT BEARING.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "STD FITNG (TUBE AND PIPE FITTINGS).PLANNED",
+        "VALUE": "HOSE / HOSE KIT FITTINGS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "INSTRUMENTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1661,195 +1710,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "HOSE AND ACCESSORIES.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "ELECTRICAL/INSTRUMENT/MOTORS/PUMPS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RINGS AND PACKINGS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PISTON RODS/GUDGEON PINS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "COUPLING,AVM PARTS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "COMBI COOLERS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "BANDED BELTS/V-BELT/FLAT BELT.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "OSP- SF PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PHANTOM.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "TWO BIN.TWO BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MOTOR,WORM GB,ENGINES AND PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL (BAR CUT).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- NPD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SUB ASSEMBLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "EQUIPMENT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HIPL PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP SF PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL VALVE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
         "VALUE": "SBD-STIKERS, NAME PLATE.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -1864,21 +1724,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SBD- MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- BO PARTS.PLANNED",
+        "VALUE": "PHANTOM.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -1892,7 +1738,28 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "PHANTOM.PLANNED",
+        "VALUE": "PRV,SRV,TRV,OR. PL.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- BO PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD - MS/PRESS/NONSUBCON ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- MFGD ASSLY.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -1906,23 +1773,93 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "PRV,SRV,TRV,OR. PL.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "STIKERS, NAME PLATE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "ENGINES AND PARTS.PLANNED",
+        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MFGD MACH.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- BO SF/FINISH PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HIPL PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CONTROL VALVE.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "INSTRUMENTS-TT,PT, FL MTR, HEATER.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL (BAR CUT).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SUB ASSEMBLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- NPD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GASKETS/RUBBER PARTS/SPRING/NAME PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RUBBER RINGS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1934,14 +1871,63 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "VALVE AND ACCESSORIES.SPARES",
+        "VALUE": "AE- OSP SF PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "RUBBER RINGS.SPARES",
+        "VALUE": "ENGINES AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "OSP- SF PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "TWO BIN.TWO BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PHANTOM.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "STIKERS, NAME PLATE.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "VALVE AND ACCESSORIES.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -1955,30 +1941,44 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "VALUE": "EQUIPMENT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MOTOR,WORM GB,ENGINES AND PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "AE- BO PARTS.PLANNED",
+        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "MACHINED COMPONENTS.PLANNED",
+        "VALUE": "AE- MFGD MACH.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "PHANTOM.PHANTOM",
+        "VALUE": "HEATER,FL MTR,CABLE.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "OTHR EL,GLND,LUG,TIES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1990,84 +1990,21 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "BEARINGS.PLANNED",
+        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "RAW MATERIAL (PIPE/BAR/PLATES).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "SBD- OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "MFGD ASSLY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "EQUIPMENT.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "BEARINGS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "FK_3-LIGHT FAB <100 KG, FRP PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "IMPORTS.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
         "VALUE": "OTHR EL,CABLE,GLND,LUG,TRAY,TIES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP CAST/FORG O/S.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2081,28 +2018,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "CONTROL VALVE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "HEATER,FL MTR,CABLE.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- OSP CAST/FORG O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PRV,SRV,TRV,PL.PLANNED",
+        "VALUE": "NON MRP ITEMS (OIL,GREASE ETC).PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2123,9 +2039,79 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "OTHR EL,GLND,LUG,TIES.PLANNED",
+        "VALUE": "PRV,SRV,TRV,PL.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PHANTOM.PHANTOM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL (PIPE/BAR/PLATES).PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "IMPORTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "BEARINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "GASKETS/PACKINGS.SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "PRV,SRV,TRV,OR. PL.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MACHINED COMPONENTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "BEARINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "MFGD ASSLY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2137,9 +2123,44 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "GATE,GLOBE,WHEEL VALVE,ISO VALVE,NRV.PLANNED",
+        "VALUE": "AE- BO PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FITTINGS -FLANGES,TUBE AND PIPE FITTINGS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "FK_3-LIGHT FAB <100 KG, FRP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "CONTROL VALVE.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "AE- OSP CAST KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "SBD- OSP ITEMS.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2158,9 +2179,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "category",
-        "VALUE": "SOL VAL,ROTAMETER,SWITCHES,ORIFIC PL.PLANNED",
+        "VALUE": "TEFLON RINGS.SPARES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "EQUIPMENT.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "category",
+        "VALUE": "RAW MATERIAL- PIPE,BAR,PLATES.PLANNED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2168,41 +2203,6 @@
         "VALUE": "CASTINGS OUTSOURCED.PLANNED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "CANOPY, TRAILER, AIR/OIL TANK.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "AE- MFGD MACH.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "PRV,SRV,TRV,OR. PL.PLANNED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "GASKETS/PACKINGS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "category",
-        "VALUE": "TEFLON RINGS.SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",

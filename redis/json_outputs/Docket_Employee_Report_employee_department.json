@@ -11,13 +11,6 @@
         "VARIABLE_NAME": "employee_department",
         "VALUE": "Manufacturing-Machin",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "employee_department",
-        "VALUE": "Manufacturing-Machin",
-        "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
@@ -26,6 +19,13 @@
         "VALUE": "Manufacturing-Machin",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Manufacturing-Machin",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -86,16 +86,16 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "employee_department",
-        "VALUE": "Manufacturing-Machin",
+        "VALUE": "Operations-Foundry",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "employee_department",
-        "VALUE": "Operations-Foundry",
+        "VALUE": "Manufacturing-Machin",
         "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Docket Employee Report",

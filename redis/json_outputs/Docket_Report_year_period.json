@@ -9,13 +9,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
-        "VALUE": "FIN_YR_22_23",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "year_period",
         "VALUE": "FIN_YR_24-25",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
@@ -25,7 +18,7 @@
         "VARIABLE_NAME": "year_period",
         "VALUE": "FIN_YR_22_23",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -37,7 +30,21 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
+        "VALUE": "FIN_YR_22_23",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "year_period",
         "VALUE": "FIN_YR_20_21",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "year_period",
+        "VALUE": "FIN_YR_19-20",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -58,13 +65,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
-        "VALUE": "FIN_YR_19-20",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "year_period",
         "VALUE": "FIN_YR_25-26",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
@@ -79,14 +79,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
-        "VALUE": "FIN_YR_23-24",
+        "VALUE": "FIN_YEAR_HY_26",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "year_period",
-        "VALUE": "FIN_YEAR_HY_26",
+        "VALUE": "FIN_YR_23-24",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },

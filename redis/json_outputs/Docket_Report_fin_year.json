@@ -23,16 +23,16 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "fin_year",
-        "VALUE": "2022-23",
+        "VALUE": "2021-22",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "fin_year",
-        "VALUE": "2021-22",
+        "VALUE": "2022-23",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -51,14 +51,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "fin_year",
-        "VALUE": "2024-25",
+        "VALUE": "2022-23",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "fin_year",
-        "VALUE": "2022-23",
+        "VALUE": "2024-25",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -79,14 +79,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "fin_year",
-        "VALUE": "2024-25",
+        "VALUE": "2025-26",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "fin_year",
-        "VALUE": "2025-26",
+        "VALUE": "2024-25",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     }

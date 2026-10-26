@@ -116,13 +116,14 @@ export async function editChatMessage({
   input,
   variables,
   reportName,
+  requestMode = "normal_message",
   signal,
 }) {
   if (!messageId) {
     throw new Error("messageId is required to edit a message.");
   }
 
-  const payload = { input };
+  const payload = { input, message_type: requestMode, };
 
   // Include structured variables only when the caller supplies them.
   if (Array.isArray(variables)) {

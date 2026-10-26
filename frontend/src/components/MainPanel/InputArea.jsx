@@ -113,32 +113,32 @@ export default function InputArea() {
     >
       <ReplyBanner />
 
-      {!editingMessageId && (
-        <div className="request-mode-row" aria-label="Request mode">
-          {MODES.map((mode) => (
-            <button
-              key={mode.value}
-              type="button"
-              className={
-                "request-mode-btn" +
-                (requestMode === mode.value && !replyingTo
-                  ? " active"
-                  : "")
-              }
-              disabled={Boolean(replyingTo) || sending}
-              onClick={() => setRequestMode(mode.value)}
-            >
-              {mode.label}
-            </button>
-          ))}
+            
+      <div className="request-mode-row" aria-label="Request mode">
+        {MODES.map((mode) => (
+          <button
+            key={mode.value}
+            type="button"
+            className={
+              "request-mode-btn" +
+              (requestMode === mode.value && !replyingTo
+                ? " active"
+                : "")
+            }
+            disabled={Boolean(replyingTo) || sending}
+            onClick={() => setRequestMode(mode.value)}
+          >
+            {mode.label}
+          </button>
+        ))}
 
-          {replyingTo && (
-            <span className="request-mode-feedback">
-              Feedback / Modify
-            </span>
-          )}
-        </div>
-      )}
+        {replyingTo && (
+          <span className="request-mode-feedback">
+            Feedback / Modify
+          </span>
+        )}
+      </div>
+
 
       {(editingMessageId ||
         replyingTo ||

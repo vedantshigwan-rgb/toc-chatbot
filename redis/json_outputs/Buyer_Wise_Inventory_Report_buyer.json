@@ -548,6 +548,13 @@
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
@@ -796,6 +803,13 @@
         "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyer Wise Inventory Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyer Wise Inventory Report",

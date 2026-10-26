@@ -2,14 +2,14 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "OA Cancelled",
+        "VALUE": "Development / Tooling",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Development / Tooling",
+        "VALUE": "OA Cancelled",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -51,7 +51,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Others",
+        "VALUE": "Development / Tooling",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -65,9 +65,30 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Development / Tooling",
+        "VALUE": "Mktg. Projection",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "reason",
+        "VALUE": "Others",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "reason",
+        "VALUE": "MOQ Correction",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "reason",
+        "VALUE": "Mktg. Projection",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -86,27 +107,6 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Mktg. Projection",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "reason",
-        "VALUE": "Mktg. Projection",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "reason",
-        "VALUE": "MOQ Correction",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "reason",
         "VALUE": "Stock Adjustment",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -121,16 +121,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Customer Property",
+        "VALUE": "MOQ Correction",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "MOQ Correction",
+        "VALUE": "Customer Property",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -163,14 +163,14 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Safety Stock Correction",
+        "VALUE": "OA Cancelled",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "OA Cancelled",
+        "VALUE": "Safety Stock Correction",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -226,21 +226,14 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "OA Change / Hold",
+        "VALUE": "OA Cancelled",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
         "VALUE": "Stock Adjustment",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "reason",
-        "VALUE": "Customer Property",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -254,9 +247,23 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "OA Cancelled",
+        "VALUE": "Customer Property",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "reason",
+        "VALUE": "OA Change / Hold",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "reason",
+        "VALUE": "Others",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -275,13 +282,6 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Others",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "reason",
         "VALUE": "OA Cancelled",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -296,7 +296,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "OA Change / Hold",
+        "VALUE": "Others",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -324,7 +324,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "reason",
-        "VALUE": "Others",
+        "VALUE": "OA Change / Hold",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },

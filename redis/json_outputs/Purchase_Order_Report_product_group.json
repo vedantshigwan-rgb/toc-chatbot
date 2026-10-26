@@ -135,6 +135,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "KG5H",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "OXYGEN TROLLEY",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -150,13 +157,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "PED - GEAR AND PINIO",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "KG5H",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -212,6 +212,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "PED - WINDMILL GEARB",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -220,13 +227,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "PED - LOCO. AND TORQ",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - AXLE DRIVE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

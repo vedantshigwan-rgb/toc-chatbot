@@ -23,16 +23,16 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "res_div",
-        "VALUE": "CNC Shop PNT",
+        "VALUE": "PNT M/c Shop",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "res_div",
-        "VALUE": "PNT M/c Shop",
+        "VALUE": "CNC Shop PNT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",

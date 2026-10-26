@@ -30,13 +30,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "RING 64 X 58 X 2, COPPER (4HA4)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "RTD, WEATHERROOF, PT-100, 3/8'' BSP(M) SCREWED, IM-ADJUSTABLE LENGTH: 150MM.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -527,20 +520,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SUCTION VALVE II STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "MOLECULAR SIEVE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "18 MONTHS OVERHAULING KIT FOR 3HC55 COMPRESSOR CONSISTING OF 44 ITEMS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -607,6 +586,13 @@
         "VALUE": "BASE FRAME -ENGINE DRIVEN-950/1200 SCMH , REFER DRAWING NO. G9999.14.BSF.E1200",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "600.00.854.50.NR PINION FORGING CP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -738,13 +724,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "GASKET, AIREND DELIVERY, KES 11",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "O RING SILI I D-5.100\"X0.275\"X A/C",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -940,7 +919,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR OIL SEPARATOR ELEMENT, KESE 132 & 160",
+        "VALUE": "O RING SILI I D-5.100\"X0.275\"X A/C",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -948,6 +927,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "AIR OIL SEPARATOR ELEMENT, R2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR OIL SEPARATOR ELEMENT, KESE 132 & 160",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -1150,13 +1136,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "KIT SERVICE, R2 & R3 BDV, 3/8\" BSP, REFER 271.00.285.50 & 271.00.261.50",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "LINE MONITORING RELAY  7UG07121AA20",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -1164,7 +1143,42 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "KIT SERVICE, R2 & R3 BDV, 3/8\" BSP, REFER 271.00.285.50 & 271.00.261.50",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "O RING, GEAR COVER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AFTERCOOLER, GTT, VERTICAL, TUBES SA213 TP304, SHELL IS3569, 2EHA2GT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET, ID-207, OD-247, THK-2, FOR AFTER COOLER 94.113.352.00.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR OIL SEPARATOR ELEMENT, KESe 90",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KIT SERVICE, AIR INTAKE VALVE, REFER 273.02.084.50, R3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -1353,13 +1367,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "CYLINDER BLOCK, CI Gr. FG-260",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "L.P.CYLINDER HEAD ASSLY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -1535,13 +1542,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "NUT HEX PLAIN M12X1.5 / /",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "CONTROLLER, TOUCHSCREEN, +24VDC, 16DI, 16DO FOR RECIP. COMPRESSOR.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -1669,13 +1669,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "FINE FILTER ELEMENT KFF - 1\" (150 CFM)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR OIL SEPARATOR ELEMENT, KESe 90",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -2270,6 +2263,41 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-60-115-N2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 3 STAGE COMPRESSOR, KAVC3-150",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "K4HW-250 AIR COMPRESSOR NO.2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "STOP SOLENOID VALVE - 24 V",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "INTERCONNECTING PIPING, VALVES, FITTINGS ETC. BETWEEN COMPRESSOR, AIR DRYER AND AIR RECEIVER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "GEAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -2585,37 +2613,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-60-115-N2",
+        "VALUE": "TAPER WASHER M16 AS PER IS:5372 (ISMC)",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 3 STAGE COMPRESSOR, KAVC3-150",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "K4HW-250 AIR COMPRESSOR NO.2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "STOP SOLENOID VALVE - 24 V",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "INTERCONNECTING PIPING, VALVES, FITTINGS ETC. BETWEEN COMPRESSOR, AIR DRYER AND AIR RECEIVER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -2809,13 +2809,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "KIT SERVICE, AIR INTAKE VALVE, REFER 273.02.084.50, R3",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "ASSEMBLY AIR INTAKE VALVE, KESe 110, 132, 160",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -2963,23 +2956,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "S/A PISTON 105D NON-LUB / / HYLT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "MAIN PUMP 2P 3158 ASSSB",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "TAPER WASHER M16 AS PER IS:5372 (ISMC)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -3237,6 +3216,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "IS 226/2062 PLATE 50 THK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "STUD - 1\" UNC x 187 LG - SA 193 GR B8",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
@@ -3950,13 +3936,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "VALVE SPRING PLATE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "LANTERN(DELIVERY)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -4097,6 +4076,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "VALVE SPRING PLATE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "O RING SILI - X0.114\"X0.070 \"XC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -4182,13 +4168,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "LP DELIVERY VOLUME BOTTLE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "COMPRESSION RING (HP), 180 DIA. CYLINDER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -4356,14 +4335,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "DUST COLLECTOR FOR AIR SUCTION FILTER - 271.01.427.50",
+        "VALUE": "SERVICE KIT OF VALVE MINIMUM PRESSURE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SPRING HELICAL COMP 00.65 DIA A",
+        "VALUE": "GASKET FOR FRONT END COVER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -4377,7 +4356,21 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "VALVE HOLDER",
+        "VALUE": "COMPRESSION RING (LP), 316 DIA. CYLINDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "PRESSURE BREAKER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET FOR AOS ELEMENT, 272.03.080.50, SD SERIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -4511,13 +4504,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "RING PISTON COMPRESSION 35X2.5X1.5 IV TH STAGE (CP-7563) (ARECO MAKE)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUB ASSEMBLY ACCESSORIES FOR BARE /HA2/ SINGLE OIL FILTER//CU",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -4671,13 +4657,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET 140X78X2 FOR SUCTION SIDE OF HP CYLINDER F/2-4-6 CYLINDER / KL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "GLAND PACKING ASSEMBLY FOR RM SERIES COMPRESSOR (LUB.)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -4720,14 +4699,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "HOSE BEND, SUCTION FILTER, 90 DEG, 103 X 100 ID X 120 L",
+        "VALUE": "S/A GLAND PACKING FOR HP INT. PLATE TYPE 287/CI/FOF31 / /",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "PRESSURE BREAKER",
+        "VALUE": "HOSE BEND, SUCTION FILTER, 90 DEG, 103 X 100 ID X 120 L",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -5315,6 +5294,48 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "WATER RESISTANT PEARL FOR HIGH PRESSURE DRYER FOR KG5H",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "TEST KIT, UDAAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET, NRV TOP, SE SERIES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "2ND PRE FILTER ELEMENT FOR AIR DRYER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SET OF SPARES FOR SAURASHTRA CHEMICALS LTD (NIRMA)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "MISC. STRUCTURAL STEEL ITEMS, MAHAN ENERGEN LTD (ADANI)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "Scrap Copper Cables",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -5595,6 +5616,20 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "IS 226/2062 PLATE 18 THK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 1ST (L.H.) (C.V.R.D.E. NO.V 548 0119 0002) WITH PAD (65)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 2 TO 7 (L.H.)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -5605,62 +5640,6 @@
         "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 1 (R.H.)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "WATER RESISTANT PEARL FOR HIGH PRESSURE DRYER FOR KG5H",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "TEST KIT, UDAAN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET, NRV TOP, SE SERIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GT SERIES 12 \" COLOUR TOUCH HMI, MODEL-GT2512-WXTBD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET FOR AOS ELEMENT, 272.03.080.50, SD SERIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "2ND PRE FILTER ELEMENT FOR AIR DRYER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SET OF SPARES FOR SAURASHTRA CHEMICALS LTD (NIRMA)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "MISC. STRUCTURAL STEEL ITEMS, MAHAN ENERGEN LTD (ADANI)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -5805,13 +5784,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SERVICE KIT OF VALVE MINIMUM PRESSURE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "OIL SEAL 70X95X10 / /",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -5889,6 +5861,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "GT SERIES 12 \" COLOUR TOUCH HMI, MODEL-GT2512-WXTBD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "SHIM BETWEEN VOLUTE AND SHROUD (Spec. No. SP-T-04-ES-035)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -5917,13 +5896,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "COMPRESSION RING (LP), 316 DIA. CYLINDER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "ASSEMBLY COMBICOOLER, KES 75 & KES 90",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -5945,13 +5917,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "EXP PLUG CROSS HEAD PIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "AFTER FILTER ELEMENT FOR HIGH PRESSURE DRYER 400 BAR FOR IACSF-400",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -5960,13 +5925,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "CYLINDER, 470 DIA. CYLINDER, CI Gr. FG-260 (LP)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "PISTON HALF , 280 DIA., LM 13 TO BS 1490 (N/L )",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -5983,20 +5941,6 @@
         "VALUE": "GENERATOR MOUNTING BRACKET",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 1ST (L.H.) (C.V.R.D.E. NO.V 548 0119 0002) WITH PAD (65)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "IS 226/2062 PLATE 18 THK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -6267,6 +6211,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "RIVET Dia.5 x 20 LG - SS 304",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "Copper Scrap (Pure Copper) , (Recovery :- 99.99%)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
@@ -6312,13 +6263,6 @@
         "VALUE": "NUT HEX M30X3.5 FOR PISTON ROD LUB AND N/L / EN-3 / HA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "ARIA 11-7.5 BAR (G) RECEIVER MOUNTED AIR SCREW COMPRESSOR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -6422,6 +6366,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "AXIAL FAN WITH MOTOR, FAN DIA 630 MM, 3 PHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "ARIA 11-7.5 BAR (G) RECEIVER MOUNTED AIR SCREW COMPRESSOR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -6792,13 +6743,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "BASEFRAME FOR MOTOR DRIVEN COMPRESSOR PACKAGE OF 650SCMH_AS PER DRAWING NO. PRJ.G4162.650.BSF",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "BULL GEAR (FORGING)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
@@ -6925,20 +6869,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "CURRENT CONVERTER INPUT ADJUSTABLE 1AMP/5AMP, OUTPUT 4-20mAMP, 230VAC SUPPLY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SERIAL COMMUNICATION PORT, RS485, MODEL-FX5-485-BD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "VICTAULIC COUPLING, 3\", VITON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -6981,14 +6911,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET COVER FOR SCRAPER RING",
+        "VALUE": "O-RING, SILICON BETWEEN SHROUD AND VOLUTE STAGE 3 - (SPEC NO : SP-T-04-ES-010)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "O-RING, SILICON BETWEEN SHROUD AND VOLUTE STAGE 3 - (SPEC NO : SP-T-04-ES-010)",
+        "VALUE": "GASKET COVER FOR SCRAPER RING",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -7310,13 +7240,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "BLOCK RUBBER, SD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "GASKET 112X2(OVEL) FOR SUCTION FILT ER / KL / HA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -7366,7 +7289,28 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SPRING HELICAL COMP 00.80 DIA B",
+        "VALUE": "VALVE SPRING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "STUD M16X2X65/35 - (CP-7197)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "O RING FOR AFTERCOOLER PART NO. 94.113.352.00.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KIT REPAIR SERVO CYLINDER, 270.10.044.50",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -7381,13 +7325,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "SUB ASSEMBLY CRANKCASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "CYLINDER BLOCK, CI Gr. FG-260",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -7437,6 +7374,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "CONNECTING ROD WITH CAP (2/4/6 CYLINDER)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "S/A GLAND PACKING SECTIONAL VIEW WI TH 8SEAL RING HP SIDE / / 2HA4SGT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -7520,13 +7464,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "CYLINDER, 210 DIA., CI Gr.FG 260 IS: 210",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "PISTON HALF 210D;LUB / LM-13;BS:149 0 /",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -7563,6 +7500,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "S/A PISTON 160D N/L FOR 2HA2BIST COMPR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "S/A GLAND PACKING SEAL RING TYPE 287/CI/FOF-31 BABIT /OD60 X 111",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -7745,13 +7689,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "AD614-SOLENOID VALVE E1411W (24V) (DRYER REF. NO.:030.06.520.50.)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "VALVE SPRING",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -8402,6 +8339,62 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR COMPRESSOR 400 KG/CM^2G",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-30-115",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-60-230-N2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "RING OIL SCRAPING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "BARE COMPRESSOR ASSEMBLY, KDS1200C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "3 STAGE, OIL- FREE AIR-COOLED OXYGEN COMPRESSOR, 2V3B-4.1V-HP-P1C",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "TYRE FOR FLEXIBLE COUPLING 100-190H P;TC/H/022 RELAY / /",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SUPPLY OF C&I ITEMS ON DDP SITE BASIS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "FINAL SHT.DRIVE WITH DRIVE AXLE 3.0 91:1",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -8654,6 +8647,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 2 TO 7 (R.H.) (C.V.R.D.E. NO.V 548 0119 0009) WITH PAD (43)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 2 TO 7 (L.H.) (C.V.R.D.E. NO.V 548 0119 0005) WITH PAD (43)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -8692,62 +8692,6 @@
         "VALUE": "TOP CLAMP (V548 0120 1002)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR COMPRESSOR 400 KG/CM^2G",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-30-115",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-60-230-N2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "RING OIL SCRAPING",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "BARE COMPRESSOR ASSEMBLY, KDS1200C",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "3 STAGE, OIL- FREE AIR-COOLED OXYGEN COMPRESSOR, 2V3B-4.1V-HP-P1C",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "TYRE FOR FLEXIBLE COUPLING 100-190H P;TC/H/022 RELAY / /",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUPPLY OF C&I ITEMS ON DDP SITE BASIS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -8990,6 +8934,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "SERIAL COMMUNICATION PORT, RS485, MODEL-FX5-485-BD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "FUEL FILTER ELEMENT, PRE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -9075,13 +9026,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "FUEL PUMP ASSEMBLY (SB 20-27-00-4), ENGINE FACTORY AVADI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "ASSLY. SUSPENSION STATION AND BOGIE WHEEL STATION 2 TO 7 (R.H.) (C.V.R.D.E. NO.V 548 0119 0009) WITH PAD (43)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -9376,6 +9320,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "STUD 3/4\" X 300L + 2 NUT +2 LOCK NUT + 2 WASHER, H.T. GR 8.8",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "PIPE 1 1/4\" NB x SCH XXS - SA 312 TP 304 L - SEAMLESS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
@@ -9921,27 +9872,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SUCTION VALVE I STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE I STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUCTION VALVE IV STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "OIL SEAL HOUSING",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -10131,27 +10061,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "RTD, WEATHERROOF, PT-100, 1/4\"NPT, IL-150 mm",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "THERMOWELL, PROCESS CONN-1/4\"NPT, INSTRUMENT CONN-1/4\".",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "4 CHANNEL ANALOG OUTPUT ADAPTOR MODULE, MODEL-FX5-4DA-ADP.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "SERVO CYLINDER, R5",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -10181,13 +10090,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "HOSE, SUCTION, MAIN OIL PUMP (JIC 1-7/8\"), FRAME-3+",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "KLUBER MAKE GREASE ISOFELX NBU 15 Pack Size 50 GRM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -10348,13 +10250,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR SUCTION FILTER ELEMENT, FOR 274.07.032.50, R5",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "SOLENOID VALVE, WEATHERPROOF, 3/2 WAY TYPE, NC TYPE, DIE CAST ALUMINIUM BODY, 3/8\"BSP(F), 5MM ORIFICE, 220VAC, 0-14 BAR, F CLASS.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -10370,6 +10265,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "AIR SUCTION FILTER ELEMENT, FOR 274.01.460.50, R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR SUCTION FILTER ELEMENT, FOR 274.07.032.50, R5",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -10551,21 +10453,70 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SPRING HELICAL COMP 00.70 DIA B",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE 100-DS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "KIT SPARE, MPVL, KESE 55S & 75,270.10.717.50",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "RUBBER FLAT, 25 W X 3 THK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "VALVE COVER, 140 DIA., WITHOUT HOLE (HP DELIVERY)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "OIL WIPER RING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "STUD M16X2X100/47- (CP-7197)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET FOR COOLER 94.113.009.00.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR SUCTION FILTER ELEMENT OF 273.03.770.50, R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KIT OF GASKETS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "THERMOSTATIC VALVE WITH OF HEAD, VTFT47, KES 75",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KIT SERVICE, MPVL 273.02.554.50, R3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -10930,13 +10881,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "SPRING HELICAL COMP 00.50 DIA B",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "VALVE COVER, 140 DIA., WITHOUT HOLE (HP DELIVERY)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -11671,13 +11615,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "PIPE, AFTER COOLER INLET, 3\" KESE SERIES (FLEXIBLE)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "KIT SPARE, THERMOSTATIC VALVE, 55C, KESE 30-55",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -11700,6 +11637,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "AFTER COOLER, KESe 160",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "PIPE, AFTER COOLER INLET, 3\" KESE SERIES (FLEXIBLE)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -11730,6 +11674,69 @@
         "VALUE": "ASSEMBLY 141 AIREND, KESe 55-8.5",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-60-220",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "BRAKE CABLE ASSEMBLY FOR SAT-650",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "BARE EXPANDER ASSEMBLY, KDS1200E",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-20-220",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "BEML MAKE TATRA 8X8 TRUCK RECEIVED AS FREE ISSUE MATERIAL FROM BDL HYDERABAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR COMPRESSOR ASSEMBLY, FOR KG5H",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SUPPLY OF ELECTRICAL ITEMS ON DDP SITE BASIS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HOC AIR DRYER OF 4400 NM3/HR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "OUTSIDE SKID INSTRUMENTS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -12028,6 +12035,27 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "IS 226/2062 PLATE 20 THK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "TAPER WASHER M12 AS PER IS:5372 (ISMC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "U BOLT- SUITABLE TO 50NB M10",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "GEAR WHEEL HITACHI T.M.H.S.15250A",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -12045,69 +12073,6 @@
         "VALUE": "LOWER CRANKCASE ASSEMBLY (DRG. NO. 402-06-43)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-60-220",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "BRAKE CABLE ASSEMBLY FOR SAT-650",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "BARE EXPANDER ASSEMBLY, KDS1200E",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-20-220",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "BEML MAKE TATRA 8X8 TRUCK RECEIVED AS FREE ISSUE MATERIAL FROM BDL HYDERABAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR COMPRESSOR ASSEMBLY, FOR KG5H",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUPPLY OF ELECTRICAL ITEMS ON DDP SITE BASIS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HOC AIR DRYER OF 4400 NM3/HR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "OUTSIDE SKID INSTRUMENTS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -12287,13 +12252,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR SUCTION FILTER ELEMENT OF 273.03.770.50, R3",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "Drier Gel (Molecular Sleeve)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -12316,13 +12274,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "KIT SERVICE, AIR INTAKE VALVE, R3, REFER 273.01.294.50",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "KIT SERVICE, MPVL 273.02.554.50, R3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -12399,6 +12350,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "RTD, WEATHERROOF, PT-100, 1/4\"NPT, IL-150 mm",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "PLC, FP4070TN-E, 7\" WVGA, COLOR TFS HMI CUM PLC- RENU MAKE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -12428,13 +12386,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "BELL F/ R105 DELIVERY VALVE;2/4/6 CYLINDER / MS;IS-1079 CD P / HA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "OIL WIPER RING",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -12477,6 +12428,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "GASKET BETWEEN GEAR BOX & MAIN OIL PUMP ADAPTOR, FRAME-2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "4 CHANNEL ANALOG OUTPUT ADAPTOR MODULE, MODEL-FX5-4DA-ADP.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -12532,20 +12490,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SUB ASSEMBLY VALVE SUCTION, RLX79",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "WASHER PLAIN STEEL 12X0.55",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "AIREND ASSEMBLY 127 BD N, KES 55-7.5 (65T/30T)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -12584,27 +12528,6 @@
         "VALUE": "ASSLY.TRACK ADJUSTER (L.H.) (C.V.R.D.E. DRG.NO.V 548 0121 0003)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "IS 226/2062 PLATE 20 THK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "TAPER WASHER M12 AS PER IS:5372 (ISMC)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "U BOLT- SUITABLE TO 50NB M10",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -13393,13 +13316,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "WATER RESISTANT PEARL FOR HIGH PRESSURE DRYER FOR KG5H",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "OIL COOLER (M6-MFD) (SEA WATER COOLED)FOR AIR COMPRESSOR OF NITROGEN SYSTEM OF NPCS-350",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -13617,20 +13533,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "DIFF. PRESSURE GAUGE, 6\" DIAL, DIA CAST AL CASE, FLUSH PANEL BACK, 0-250 mmWC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "VALVE, BLOW OFF, BUTTERFLY TYPE, FRAME- 2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "AIR OIL SEPARATOR ELEMENT, R3E",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -13680,21 +13582,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "PRE FILTER ELEMENT KPF - 1-1/2\" (350 CFM)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "RIDER RING FOR 390 DIA PISTON.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET, FRONT, TUBE SHEET, FOR 3/8\" TUBE, FRAME-3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -13862,13 +13750,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "OIL FILTER ELEMENT, SPIN ON, 1-1/8-16 UN-2B, KES 160",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "PRESSURE TRANSMITTER, 0-16 bar, WEATHERPROOF, NON-SMART TYPE.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -13884,6 +13765,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "INNER RING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "OIL FILTER ELEMENT, SPIN ON, 1-1/8-16 UN-2B, KES 160",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -14100,6 +13988,34 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "GUDGEON PIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "VALVE COVER, 155 DIA., WITH HOLE (LP SUCTION)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "COVER FOR VALVE, 140 DIA., WITH HOLE (HP SUCTION)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "O RING FOR INTERCOOLER PART NO. 94.113.009.00.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "CYLINDER 185 DIA WITH SEPARATE WATER CONNECTIONS.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -14178,6 +14094,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "SUB ASSEMBLY GLAND PACKING 1ST. STAGE.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KIT , OIL SEAL ,  R5 SERIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -15024,6 +14947,83 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "WRIST PIN, .50 DIA, GREASEABLE, 440C SS PER ASTM A276, 58 HRC MIN, WITH GREASE PORTS AND PASSAGES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-20-115",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "BASE PLATE FOR DMDE COMPRESSOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "'O' RING FOR MOISTURE SEPARATOR, R4",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SHROUDED IMPELLER FOR BALANCING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SET OF MANDATORY SPARES, RAIGARH RAIPUR MAHAN ADANI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AFTERCOOLER GROUP, MAHAN ENERGEN LTD (ADANI)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "FIELD PIPING, AIR, WATER & DRAIN, MAHAN ENERGEN LTD (ADANI)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "VALVES, FOR FIELD PIPING, MAHAN ENERGEN LTD (ADANI)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "REFRIGERATED AIR DRYER OF 3000 Nm3/Hr",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SHAFT PINION 21 TEETH RDSO-SKDP-3847",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "PINION SHAFT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -15032,13 +15032,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "91 TEETH GEAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SHAFT PINION 21 TEETH RDSO-SKDP-3847",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -15360,13 +15353,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "35 TEETH INTERMEDIATE GEAR (1001269506)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "SPROCKET DRUM MK-IA (AMT-RG-0754)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -15395,72 +15381,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "WRIST PIN, .50 DIA, GREASEABLE, 440C SS PER ASTM A276, 58 HRC MIN, WITH GREASE PORTS AND PASSAGES",
+        "VALUE": "35 TEETH INTERMEDIATE GEAR (1001269506)",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-20-115",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "BASE PLATE FOR DMDE COMPRESSOR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "'O' RING FOR MOISTURE SEPARATOR, R4",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SHROUDED IMPELLER FOR BALANCING",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SET OF MANDATORY SPARES, RAIGARH RAIPUR MAHAN ADANI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AFTERCOOLER GROUP, MAHAN ENERGEN LTD (ADANI)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "FIELD PIPING, AIR, WATER & DRAIN, MAHAN ENERGEN LTD (ADANI)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "VALVES, FOR FIELD PIPING, MAHAN ENERGEN LTD (ADANI)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "REFRIGERATED AIR DRYER OF 3000 Nm3/Hr",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -16081,6 +16004,20 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "HEX HEAVY NUT -1\" x STD - SA 194 GR 8",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "WASHER 1\" x STD - SS 304L",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "Scrap Degraded Wooden consist of Dead Wood, Black Plywood, Bhussa, Oily Wood, Broken Wooden Pattern pieces",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -16592,27 +16529,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE II STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUCTION VALVE III STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE IV STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "SET OF GASKETS FOR OIL COOLER FOR AIR COMPRESSOR OF NPCS-350",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -16830,27 +16746,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "1 CHANNEL RELAY BOARD, COIL:24VDC, CONTACT : 2 CO, CONTACT RATING : 230VAC@ 10A, SALZER MAKE, MODEL - MKP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "CAPACITOR, IGV, 5 MICRO-FARAD 440 V",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "ACTUATOR, ELECTRIC FOR IGV (REFER : SP-INST-968)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "HOSE ASSLY 1-1/2\" X 730 L ( ST X 90 )( REFER DRG - 274.02.885.50 )",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -16873,13 +16768,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "BANDED BELT, REL 2H3VX-455. KES 7",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SHAFT JACK FOR 315 KW ELECTRIC MOTOR EN-8",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -17229,13 +17117,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET 440 DX286 DX2 FOR CYLINDER 2 80 D / KL /",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "RING 59X47X1 / AL / HA/HAT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -17258,6 +17139,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "NUT HEX M48X5 FOR PISTON ROD / EN-8 / HB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET 440 DX286 DX2 FOR CYLINDER 2 80 D / KL /",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -17299,13 +17187,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "KIT SERVICE, MPVL 32 NB, OF 271.00.261.50, R2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "O RING FOR INTER COOLER 282.02.798.50., T-BTD-QM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -17313,7 +17194,56 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "COMMUNICATION PORT, 1 CH.RS 422 SERIAL.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "FILTER ELEMENT OF OIL MIST ELIMINATOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "ELEMENT, OIL FILTER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SEALING RING FOR VALVE, I.D. 91.0 (CP-4855)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "SUCTION VALVE 100-DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SUCTION VALVE 90-DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HOSE ASSEMBLY, 3/4\" X 575 L, (ST X ST), REFER 271.01.540.50",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SEPARATOR ELEMENT, SPIN-ON , R1",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -17537,6 +17467,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "S/A GLAND PACKING SECTIONAL VIEW WI TH 8SEAL RING HP SIDE / / 2HA4SGT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "ASSEMBLY OF HIGH PR. COMPRESSOR FOR IACSF-400",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -17587,13 +17524,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "RING 126 X 118 X 2, AL (UNDER SUCTION AND DELIVERY VALVE COVER) (CK-1277)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SPRING PLATE FOR VALVES 49.053.090.69. & 35.050.360.69.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -17712,6 +17642,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "SPRING PLATE FOR VALVES 49.053.090.69. & 35.050.360.69.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "ROD PISTON 54DX828,N/L / EN-8B OR A ISI-C1034 / HA-2-4-6 CYLINDER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -17734,20 +17671,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "PRE FILTER ELEMENT KPF - 1\" (150 CFM)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SEALING RING FOR VALVE, I.D. 91.0 (CP-4855)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUCTION VALVE 90-DS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -17979,6 +17902,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "REFRIGERATED AIR DRYER, KRD-250, 2\" BSP(F)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KESE 15-7.5 ELECTRIC SCREW COMPRESSOR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -18489,6 +18419,41 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "LOW OIL PRESSURE SWITCH (4R-1040T ENGINE KOEL NO.-49156.01.000)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR RECEIVER, 10 M^3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "FIELD PIPING, SERVICE AIR, INSTRUMENT AIR,  WATER & DRAIN, MAHAN ENERGEN LTD (ADANI)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "FREIGHT CHARGES FOR HSN 8414",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "CENTRIFUGAL AIR COMPRESSOR, A-3500, 600-3-8",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "GEAR 107 TEETH RDSO-SKDP-3848",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -18839,6 +18804,27 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "IS 226/2062 PLATE 16 THK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "IS 226/2062 PLATE 22 THK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "TAPER WASHER M30 AS PER IS:5372 (ISMC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "SPROCKET DRUM MK-I (AMT-RG-0753)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -18856,41 +18842,6 @@
         "VALUE": "PISTON SLIDING ( CVRDE NO.-V548 0119 3029 )",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "LOW OIL PRESSURE SWITCH (4R-1040T ENGINE KOEL NO.-49156.01.000)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR RECEIVER, 10 M^3",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "FIELD PIPING, SERVICE AIR, INSTRUMENT AIR,  WATER & DRAIN, MAHAN ENERGEN LTD (ADANI)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "FREIGHT CHARGES FOR HSN 8414",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "CENTRIFUGAL AIR COMPRESSOR, A-3500, 600-3-8",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -19126,13 +19077,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SEPARATOR ELEMENT, SPIN-ON , R1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "HOSE KIT, R3 141 AIREND, MOISTURE SEPARATOR, YUKA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -19141,13 +19085,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "KIT SERVICE, AIR INTAKE VALVE, 270.00.549.50 & 270.10.045.50, R4",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "COMMUNICATION PORT, 1 CH.RS 422 SERIAL.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -19262,27 +19199,6 @@
         "VALUE": "SERVICE CHARGES (LUMPSUM)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "IS 226/2062 PLATE 16 THK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "IS 226/2062 PLATE 22 THK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "TAPER WASHER M30 AS PER IS:5372 (ISMC)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -19931,13 +19847,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE III STAGE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "CRANK CASE VENT ASSEMBLY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -20002,13 +19911,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "BASE FRAME FOR COMPRESSOR SKID, AS PER DRG. NO. PRJ-R5653-2021",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUCTION KOD (KOD-101A), AS PER TECH SPECIFICATION  NO. G4286.PV.KOD.001",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
@@ -20106,35 +20008,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SSR, MODEL : RIF-4-RPT-LDP-24DC/3X21, MAKE : PHOENIX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SOLENOID VALVE, FACEAREA , SS BODY, 230 VAC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "DATA CARD FOR MITSUBISHI PLC LOGIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "S/A UNLOADER DIAPHARGM TYPE WITH 70 CR57 FOR 115D CYLINDER / /",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "PRESSURE SAFETY VALVE, SECOND STAGE DISCHARGE, 40 NB, 150#, B16.5, SET PRESSURE 9 KG/CM^2G (SP/FB/1045)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -20212,6 +20086,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "K SMART PREMIUM SCREW COMPRESSOR FLUID 5 LITRE PACK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SSR, MODEL : RIF-4-RPT-LDP-24DC/3X21, MAKE : PHOENIX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -20358,6 +20239,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "PRESSURE SAFETY VALVE, SECOND STAGE DISCHARGE, 40 NB, 150#, B16.5, SET PRESSURE 9 KG/CM^2G (SP/FB/1045)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "SOLENOID VALVE, FLAMEPROOF, 3/2 WAY UNIVERSAL, SS BODY,1/2\"NPT-F, 230 VAC, 0 TO 10 BAR, F CLASS SIL 3 (SPEC. NO.- 8035.93.73.00-C-E-002.10).",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -20449,13 +20337,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "BALL COUPLING, M8 X 1 .25 X 5/16\" BSPF, SD & SE SERIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "FILTER ELEMEMENT FOR SECONDARY OIL FILTER (REF. ITEM NO. 35.016.160.00)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -20477,13 +20358,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "ASSEMBLY KIT OF SCRAPER RING",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "PIN DOWEL 10DX80 / EN-43 /",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -20498,13 +20372,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "ASSEMBLY AUTO DRAIN FOR MOISTURE SEPARATOR, R2, R3, R4, R5",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "ASSEMBLY AIREND, R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -20512,7 +20379,91 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "ASSEMBLY AUTO DRAIN FOR MOISTURE SEPARATOR, R2, R3, R4, R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "HOSE ASSEMBLY, 1/4\" X 700 L, (90 X 90) , REFER 273.04.420.50",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "ASSEMBLY KIT OF SCRAPER RING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "COMPRESSOR CONTROLLER, 24VDC FOR RECIP. COMPRESSOR.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "SUB ASSEMBLY VALVE DELIVERY, 105CR12 (N/L)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "PRESSURE SAFETY VALVE, FIRST STAGE DISCHARGE, FLANGED, 2\", PN10/16, SET PRESSURE- 3.5 KG/CM^2G (OLD REFERENCE 36.060.340.00 )",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AUTO DRAIN TRAP, MOISTURE SEPARATOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "CU RING ( PACKING ) FOR 90DS VALVE SEAT H.P",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "COVER FOR CROSS HEAD GUIDE (ACRALIC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "DELIVERY VALVE 90-DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "COMPRESSOR CONTROLLER,MICROPROCESSOR BASED 24VDC FOR SCREW.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "ADAPTOR, NRV BOTTOM, HCH-163",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "FITTING KIT SD1012 DOMESTIC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -20534,6 +20485,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "PLATE INTERMEDIATE 350D (WITH 105CR VALVE) / CI / HAQT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "S/A GLAND PACKING SEAL RING TYPE 287/CI/FOF-31 BABIT /OD60 X 111",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -20771,13 +20729,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "FLANGE PLAIN 2-1/2\";140DX76.5DX16MM THK. / SA240-304 /, (CK-0756)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "MAIN SEAL /TTB PAIR /ROD 32/SK313,SK901/AGW18/GD55//PARENT 94.117.755.00",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -20827,13 +20778,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE ASSEMBLY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "PISTON RING, 95 DIA. CYLINDER (HIPL MAKE)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -20849,20 +20793,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "HOSE ASSEMBLY 1/4\"X30\"L(90XST)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "CU RING ( PACKING ) FOR 90DS VALVE SEAT H.P",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "DELIVERY VALVE 90-DS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -20981,13 +20911,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "KESb 15-7.5 ELECTRIC SCREW COMPRESSOR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "KESe 30-10i ELECTRIC SCREW COMPRESSOR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -21017,13 +20940,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "KESe 37-7.5i ELECTRIC SCREW COMPRESSOR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "KESb 22-7.5 ELECTRIC SCREW COMPRESSOR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -21136,6 +21052,20 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "KESe 55-7.5 ELECTRIC SCREW COMPRESSOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KESb 15-7.5 ELECTRIC SCREW COMPRESSOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "KESb 22-7.5 ELECTRIC SCREW COMPRESSOR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -21541,6 +21471,97 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "MOISTURE SEPARATOR BODY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-20-230",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-60-115",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-30-115-N2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-60-220-N2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-30-220",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HIGH PRESSURE 3 STAGE COMPRESSOR, KAVC3CB-150",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "DC MOTOR FOR DMDE COMPRESSOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "NSLF SHOCK MOUNT FOR DMDE COMPRESSOR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET NON METAL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AFTER FILTER ELEMENT FOR AIR DRYER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "CENTRIFUGAL AIR COMPRESSOR, A-3500, 760-2-8.6",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR RECEIVER, 12 M^3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "20 TEETH PINION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -21828,9 +21849,16 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "PINION 15250A",
+        "VALUE": "TAPER WASHER M18 AS PER IS:5372 (ISMC)",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "U BLOT - SUITABLE TO 80NB M10",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -21859,97 +21887,6 @@
         "VALUE": "GEAR 90 T",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "MOISTURE SEPARATOR BODY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-20-230",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-60-115",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-30-115-N2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED NITROGEN COMPRESSOR, 2PX-60-220-N2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-30-220",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 3 STAGE COMPRESSOR, KAVC3CB-150",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "DC MOTOR FOR DMDE COMPRESSOR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "NSLF SHOCK MOUNT FOR DMDE COMPRESSOR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET NON METAL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AFTER FILTER ELEMENT FOR AIR DRYER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "CENTRIFUGAL AIR COMPRESSOR, A-3500, 760-2-8.6",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR RECEIVER, 12 M^3",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -22150,13 +22087,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "COMPRESSOR CONTROLLER,MICROPROCESSOR BASED 24VDC FOR SCREW.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "KIT SERVICE, SOLENOID COIL, R5, REFER 274.02.857.50",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -22165,13 +22095,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "BUSH FOR PISTON (RING SUPPORT)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "SUB ASSEMBLY VALVE DELIVERY, 105CR12 (N/L)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -22248,6 +22171,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "DATA CARD FOR MITSUBISHI PLC LOGIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "L.OIL FILTER CARTRIDGE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -22304,13 +22234,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "SUB ASSEMBLY VALVE DELIVERY, RLX79",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "PLATE INTERMEDIATE 250DCYLINDER (49 X108X28)NON LUB / CI / HA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -22318,16 +22241,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "TAPER WASHER M18 AS PER IS:5372 (ISMC)",
+        "VALUE": "SUPERVISION CHARGES FOR INSTALLATION & COMMISSIONING OF AIR COMPRESSOR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "U BLOT - SUITABLE TO 80NB M10",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -22699,6 +22615,13 @@
         "VALUE": "Nickel (Recovery - 99.8% )",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "PACKING CHARGES FOR HSN 84149090",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -23312,6 +23235,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "600.01.065.50.NR PINION FORGING CP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "Test Piece forging 300 rCS to 150 Dia.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
@@ -23508,20 +23438,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "CURRENT TRANSFORMER, CTR: 85/5, WINDOW TYPE, 50MM ID, 110MM OD, BURDEN:10 VA, TAPE WOUND,CLASS 0.5, GOING TO INSTALL IN HT MOTOR NEUTRAL SIDE JUNCTION BOX.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "MITSUBISHI PLC, 16 DI,16 DO, MODBUS 485 PORT & ETHERNET PORT, MODEL- FX5U-32MT/DSS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
         "VALUE": "AIR DELIVERY PIPE NO.1, 80 NB, KES 160",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -23551,20 +23467,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "ASSEMBLY AUTO DRAIN FOR MOISTURE SEPARATOR OF 273.05.021.50",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET, FRONT, WATER HEADER, FOR 3/8\" TUBE, FRAME-3",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "GASKET FOR CRANKCASE TOP COVER AND SIDE COVER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -23886,6 +23788,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "GASKET FOR CRANKCASE TOP COVER AND SIDE COVER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "RING GLAND PACKING / TYPE 212 FOF 3 23 /",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -23984,14 +23893,28 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "ONE WAY CLUTCH ASSEMBLY",
+        "VALUE": "O-RING SUCTION STRAINER KC/KCX 6/9/12 CYL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "PACKING CHARGES FOR HSN 84149090",
+        "VALUE": "HOSE ASSEMBLY 1/4\",  REF. DRG. NO.-270.00.576.50.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "WASHER THRUST",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "HARDWARE KIT, SD 1012C",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -24062,6 +23985,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "OUTER COVER LP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "VALVE NON RETURN, SD SERIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -25076,9 +25006,30 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
-        "VALUE": "20 TEETH PINION (600.00.854.50) WITH THREAD 1/4 RP",
+        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-60-230",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "MOLECULAR SIEVE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "LIP SEAL-DRYER, (SHAMBAN, TPA 300300-T25 1V)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "AIR OIL SEPARATOR ELEMENT WITH GASKET, SC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -25091,6 +25042,13 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
         "VALUE": "SUSPENSION-SUPPORT BRACKETS OF TRANSMISSION L4r2U2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "20 TEETH PINION (600.00.854.50) WITH THREAD 1/4 RP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -25342,6 +25300,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "TAPER WASHER M24 AS PER IS:5372 (ISMC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "PINION (18 TEETH) (DLW (RDSO) - SKDP-3443)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -25359,41 +25324,6 @@
         "VALUE": "67 TEETH HELICAL GEAR (1001269606)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "HIGH PRESSURE 2 STAGE, OIL- LESS AIR COOLED OXYGEN COMPRESSOR, 2PX-60-230",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "MOLECULAR SIEVE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "LIP SEAL-DRYER, (SHAMBAN, TPA 300300-T25 1V)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "EXPANSION MODULE 8 PT ANALOG INPUT, MODEL-FX5-8AD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "AIR OIL SEPARATOR ELEMENT WITH GASKET, SC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -25671,6 +25601,20 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_description",
+        "VALUE": "MITSUBISHI PLC, 16 DI,16 DO, MODBUS 485 PORT & ETHERNET PORT, MODEL- FX5U-32MT/DSS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
+        "VALUE": "EXPANSION MODULE 8 PT ANALOG INPUT, MODEL-FX5-8AD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_description",
         "VALUE": "COUPLING VICTAULIC 50NB, SILICON GASKET (REFER DRG.: CP-3447), NANDA MILLER CORP. COUPLING STYLE-77",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -25737,13 +25681,6 @@
         "VALUE": "MOUNTING OF SUPERCHARGER ASSLY (C6 3338-00-16) (ENGINE FACTORY AVADI)",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_description",
-        "VALUE": "TAPER WASHER M24 AS PER IS:5372 (ISMC)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",

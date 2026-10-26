@@ -177,6 +177,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGTAP, Mr. AMIT CHANDRAKANT",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "BHAMRE, Mr. AMOL DILIP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -185,13 +192,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "GHATGE, Mr. SANGRAMSINH PRABHAKAR",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JAGTAP, Mr. AMIT CHANDRAKANT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -247,14 +247,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SHINDE, Mr. VISHNU YOGIRAJ",
+        "VALUE": "Survase, Mr. Sohan",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Survase, Mr. Sohan",
+        "VALUE": "SHINDE, Mr. VISHNU YOGIRAJ",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -282,6 +282,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "Patil, Mr. Ramchandra Kahinath",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "MUTHUSAMY M, Mr.",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -290,13 +297,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "KADAM, Mr. VIJAY SADASHIV",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Patil, Mr. Ramchandra Kahinath",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -353,6 +353,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "JAMALE, Mr. VISHNUKANT DIGAMBER",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATHAK, Mr. ANKUR ASHOK",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

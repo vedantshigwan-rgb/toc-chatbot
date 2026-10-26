@@ -2225,7 +2225,7 @@ const [
     setEditingMessageId(message.id);
     setChatInput(originalText);
     setReplyingTo(null);
-    setRequestModeState("normal_message");
+    // setRequestModeState("normal_message");
     closeLookup();
   }
 
@@ -2237,7 +2237,7 @@ const [
 
   async function submitChatInput() {
     if (editingMessageId) {
-      const saved = await editMessage(editingMessageId, chatInput);
+      const saved = await editMessage(editingMessageId, chatInput, requestMode);
 
       if (saved) {
         setEditingMessageId(null);
@@ -2252,7 +2252,7 @@ const [
   }
 
   
-  async function editMessage(messageId, editedText) {
+  async function editMessage(messageId, editedText, selectedMode) {
     const cleanedText = String(editedText || "").trim();
 
     if (!messageId || !cleanedText || sending) {
@@ -2321,6 +2321,7 @@ const [
           conversationReportName ||
           report.name ||
           null,
+        requestMode: selectedMode,
       });
 
       const newAssistantMessage = messageFromResponse(responseData);

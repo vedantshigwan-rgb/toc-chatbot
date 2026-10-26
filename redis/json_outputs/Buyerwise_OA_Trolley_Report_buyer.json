@@ -44,14 +44,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -86,7 +86,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "VALUE": "SATRE, Mr. SHUBHAM PANDURANG",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -100,7 +100,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM PANDURANG",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -114,14 +114,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -135,14 +135,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -163,7 +163,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -177,7 +177,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
@@ -198,6 +198,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "SATRE, Mr. SHUBHAM PANDURANG",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -207,19 +214,12 @@
         "VARIABLE_NAME": "buyer",
         "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -296,14 +296,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -387,7 +387,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -401,21 +401,21 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -450,7 +450,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -464,7 +464,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -520,14 +520,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -541,7 +541,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -555,7 +555,7 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -597,6 +597,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
@@ -605,13 +612,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
@@ -632,7 +632,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
     },
@@ -646,28 +653,21 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -681,14 +681,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -716,6 +716,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -723,9 +730,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "VALUE": "SATRE, Mr. SHUBHAM PANDURANG",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -737,9 +744,9 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM PANDURANG",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -752,13 +759,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "GAIKWAD, Mr. SHRIKANT SUNIL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -800,14 +800,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -835,6 +835,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -843,13 +850,6 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "PATIL, Mr. SHAILESH MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -884,14 +884,14 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },

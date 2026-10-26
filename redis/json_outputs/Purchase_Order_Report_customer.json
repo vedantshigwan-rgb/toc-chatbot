@@ -9,21 +9,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LIMITED, BANGALORE",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RAJESH AND CO",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ASHIRWAD CARBONICS INDIA PVT. LTD.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Indian Peroxide Limited",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -38,6 +38,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "KOSABAN SERVICES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJESH AND CO",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -93,21 +100,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DB POWER LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "CENTRAL ORDNANCE DEPOT DELHI",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Indian Peroxide Limited",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -121,7 +114,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT BIJIEE LIMITED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "WIKOV INDIGEAR PVT LTD.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "A S ENETERPRISE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -142,7 +149,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ASHIRWAD CARBONICS INDIA PVT. LTD.",
+        "VALUE": "DB POWER LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -150,6 +157,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "GEEKAY PNEUMATICS PVT LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN AERONAUTICS LIMITED, BANGALORE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -171,13 +185,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "AIR OFFICER COMMANDING",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "A S ENETERPRISE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -268,13 +275,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "NIKHIL TECHNOCHEM SERVICES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -283,6 +283,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "Adani Infra (India) Limited",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -317,6 +324,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "SUMMITS HYGRONIC P.LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -338,13 +352,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "OIL AND NATURAL GAS CORPORATION LTD  - JORHAT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -359,13 +366,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "COMBAT VEHICLES RESEARCH & DEVELOPMENT-",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -373,7 +373,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "YATHA TRADING DMCC",
+        "VALUE": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -388,6 +388,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "DURGESH ENTERPRISES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "YATHA TRADING DMCC",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -429,20 +436,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ArcelorMittal Nippon Steel India Ltd",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AIRCOM POWER SYSTEMS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "RENERGY DYNAMICS PRODUCTS PVT LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -464,7 +457,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR FERROUS INDUSTRIES LIMITED",
+        "VALUE": "SAP PNEUMATIC",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "AIRCOM POWER SYSTEMS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJARAMBAPU PATIL SAHAKARI SAKHAR KAR-",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -478,14 +485,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAP PNEUMATIC",
+        "VALUE": "PRADEEP METALS LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RAJARAMBAPU PATIL SAHAKARI SAKHAR KAR-",
+        "VALUE": "KIRLOSKAR FERROUS INDUSTRIES LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -520,49 +527,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CHITTARANJAN LOCOMOTIVE WORKS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "DECCAN FINE CHEMICALS (INDIA) PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTHERN RAILWAYS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT RAIL EQUIPMENTS AND SERVICES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "WESTERN RAILWAY",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OMEGA RAIL SPARES AND SERVICES PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PRADEEP METALS LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -576,7 +541,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD  - BANGALORE",
+        "VALUE": "CHITTARANJAN LOCOMOTIVE WORKS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTHERN RAILWAYS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -597,6 +569,20 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT RAIL EQUIPMENTS AND SERVICES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD  - BANGALORE",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "PKLS INDUSTRIES PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -611,6 +597,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD (RLYTRANSACTION)",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "HSS SOLUTIONS PVT. LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -618,14 +611,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LIMITED",
+        "VALUE": "TRIBOTECH ENGINEERING PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -646,21 +632,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "Solcon Engineers Pvt. Ltd",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OVIS EQUIPMENTS PVT. LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -681,13 +653,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NEOMETRIX DEFENCE LIMITED (EARLIER NAME- Neometrix",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "Munitions India Limited-High Explosives Factory Kh",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -695,14 +660,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD (RLYTRANSACTION)",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "TRIBOTECH ENGINEERING PRIVATE LIMITED",
+        "VALUE": "NEOMETRIX DEFENCE LIMITED (EARLIER NAME- Neometrix",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -716,7 +674,28 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN AERONAUTICS LIMITED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "STEEL AUTHORITY OF INDIA LTD  BHILAI",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OVIS EQUIPMENTS PVT. LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -737,14 +716,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Cipla Ltd.",
+        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "JAYASWAL NECO INDUSTRIES LIMITED",
+        "VALUE": "Larsen & Toubro Limited",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -758,7 +737,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BTL EPC LTD",
+        "VALUE": "JAYASWAL NECO INDUSTRIES LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -772,7 +751,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "BTL EPC LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "NMDC LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Cipla Ltd.",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -793,14 +786,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
+        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -814,42 +807,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD.",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KAUSHIV ASSOCIATES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "Shree Ganapati trading Agencies",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "UTKAL OXY ARC SERVICES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SUPER TECH PUMPS AND EQUIPMENTS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Bathinda Industrial Gases Pvt. Ltd.",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -863,6 +821,41 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "EASTERN RAILWAY - CALCUTTA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SUPER TECH PUMPS AND EQUIPMENTS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KAUSHIV ASSOCIATES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "UTKAL OXY ARC SERVICES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "TKIL INDUSTRIES PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -870,7 +863,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CG POWER AND INDUSTRIAL SOLUTIONS LIMITED",
+        "VALUE": "Bathinda Industrial Gases Pvt. Ltd.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NATIONAL ALUMINIUM COMPANY LTD.,",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -919,20 +919,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "EASTERN RAILWAY - CALCUTTA",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "IKSHI ENGINEERING TUBES PRIVATELIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -940,7 +926,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "M/S NIHAL ENTERPRISES",
+        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONSTROMECH INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -954,7 +947,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "L & T SHIPBUILDING LIMITED",
+        "VALUE": "CENTRAL RAILWAY , PAREL, MUMBAI",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "M/S NIHAL ENTERPRISES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -968,7 +968,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CENTRAL RAILWAY , PAREL, MUMBAI",
+        "VALUE": "L & T SHIPBUILDING LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -983,13 +983,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "HINDUSTAN AERONAUTICS LTD, BANGALORE",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Adani Power Limited",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1017,13 +1010,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAI VANI AGRI TECH",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "BHARAT DYNAMICS LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1038,7 +1024,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ULTRATECH CEMENT LTD",
+        "VALUE": "Adani Power Limited",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1059,7 +1045,28 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTH EASTERN RAILWAY - CALCUTTA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT ELECTRONICS LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "STAR DYNAMIC ENTERPRISES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ULTRATECH CEMENT LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1094,13 +1101,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1109,6 +1109,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "TIME TECHNOPLAST LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1129,13 +1136,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Action Ispat & Power Pvt. Limited",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "CONTROLLERATE OF PROCUREMENT",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1150,14 +1150,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PUNJAB CARBONIC P.LTD",
+        "VALUE": "Action Ispat & Power Pvt. Limited",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH EASTERN RAILWAY - CALCUTTA",
+        "VALUE": "PUNJAB CARBONIC P.LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1171,14 +1171,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Rudra Earthmovers",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KESSELS ENGINEERING WORKS PVT. LTD.",
+        "VALUE": "SAI VANI AGRI TECH",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1186,6 +1179,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "Air Liquide India Holding Pvt Ltd.",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Rudra Earthmovers",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1206,13 +1206,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PACKING HOUSE",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "SHIVA BOREWELLS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1220,7 +1213,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "GREEN POWER INTERNATIONAL PVT LTD",
+        "VALUE": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1228,6 +1221,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "LINDE INDIA LTD.",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1248,6 +1248,20 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "SHARP TANKS AND STRUCTURALS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "BHARAT PETROLEUM CORPN LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1255,21 +1269,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "LINDE INDIA LTD.",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "KRITHIKK ENGINEERING AND TRADING CO.",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SIVA WINDTURBINE INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1304,7 +1304,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DAULATRAM ENGINEERING SERVICES PVT LTD",
+        "VALUE": "GREEN POWER INTERNATIONAL PVT LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1318,14 +1318,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SHARP TANKS AND STRUCTURALS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES",
+        "VALUE": "PACKING HOUSE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1333,6 +1326,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTH CENTRAL RAILWAY",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1353,14 +1353,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "FLUIDOMAT LIMITED",
+        "VALUE": "SIVA WINDTURBINE INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MACAWBER BEEKAY PVT.  LTD",
+        "VALUE": "SANGHI UDYOG INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1374,14 +1374,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TANFAC INDUSTRIES LTD",
+        "VALUE": "FLUIDOMAT LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI UDYOG INDIA PRIVATE LIMITED",
+        "VALUE": "TANFAC INDUSTRIES LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1402,7 +1402,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH CENTRAL RAILWAY",
+        "VALUE": "MACAWBER BEEKAY PVT.  LTD",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1423,14 +1423,21 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD",
+        "VALUE": "BENTECH PNEUMATIC",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BENTECH PNEUMATIC",
+        "VALUE": "L&T MHI POWER BOILERS PVT LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NOVATECH FZE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1451,7 +1458,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "EAST COAST RAILWAY",
+        "VALUE": "SS SALES & SERVICES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1459,20 +1466,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "L&T Special Steels and Heavy Forgings Pvt. ltd.",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "L&T MHI POWER BOILERS PVT LTD",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NOVATECH FZE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1521,21 +1514,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SITAPUR GREEN ENERGY PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "ADANI POWER LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN URVARAK & RASAYAN  LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1577,49 +1556,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "GOVIK INDUSTRIES PRIVATE LIMITED",
+        "VALUE": "HINDUSTAN URVARAK & RASAYAN  LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "GRANT MEDICAL FOUNDATION",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "TAMIL NADU CEMENTS CORPORATION LTD.",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RELIANCE CHEMICALS AND MATERIALS LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - ASSAM",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OCL IRON & STEELS LIMITED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD",
+        "VALUE": "NORTH CENTRAL RAILWAY",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1633,6 +1577,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "GRANT MEDICAL FOUNDATION",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "L S ENGINEERING SERVICES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -1640,7 +1591,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KAVERI ULTRA POLYMERS P LTD",
+        "VALUE": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OCL IRON & STEELS LIMITED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1654,7 +1612,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ARI Industries FZE",
+        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - ASSAM",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TAMIL NADU CEMENTS CORPORATION LTD.",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -1662,6 +1627,20 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "NUMALIGARH REFINERY LIMITED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RELIANCE CHEMICALS AND MATERIALS LIMITED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARI Industries FZE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

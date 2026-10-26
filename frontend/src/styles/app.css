@@ -709,6 +709,13 @@ body { display: flex; flex-direction: column; }
   padding-left: 7px;
   margin-bottom: 5px;
 }
+.msg-bot-text .help-response-point {
+  margin: 0 0 12px;
+  line-height: 1.6;
+}
+.msg-bot-text .help-response-point:last-child {
+  margin-bottom: 0;
+}
 
 /* Edited message content */
 .msg-user-content {

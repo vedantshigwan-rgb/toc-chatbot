@@ -2,14 +2,84 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "VALUE": "Bajare, Mr. Amar Vijay",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. NAVEEN ANIL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -30,79 +100,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. NAVEEN ANIL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Bajare, Mr. Amar Vijay",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SHINDE, Mr. SHIVAJI UTTAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BARGAL, Mr. VISHAL SANJAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -121,30 +121,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Nanaware, Mr. Nitin S",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -156,6 +135,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -163,9 +149,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -177,16 +184,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -205,23 +205,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "VALUE": "Nanaware, Mr. Nitin S",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -233,7 +233,56 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -254,30 +303,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
+        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -285,34 +313,6 @@
         "VALUE": "JAGDALE, Mr. SUJIT MUGUT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Alle, Mr. Sachin Yuvaraj",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -331,13 +331,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JAMALE, Mr. VISHNUKANT DIGAMBE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "MUTHUSAMY M, Mr.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
@@ -345,35 +338,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "VALUE": "JAMALE, Mr. VISHNUKANT DIGAMBE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "BELSARE, Mr. UMESH BANDOPANT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Alle, Mr. Sachin Yuvaraj",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -394,9 +366,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -408,6 +380,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -415,9 +394,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "VALUE": "Nanaware, Mr. Nitin S",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -436,6 +415,34 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "DHAVALE, Mr. SURESH KARBHARI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
@@ -443,16 +450,65 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Nanaware, Mr. Nitin S",
+        "VALUE": "SALUNKHE, Mr. NILESH SAMBHAJI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SALUNKHE, Mr. NILESH SAMBHAJI",
+        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -471,27 +527,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "JANJIRE, Mr. DIPAK PRABHAKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "KEMDHARE, Mr. AKASH PRAKASH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -499,44 +534,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "GAWAI, Mr. SHRIKANT BHAGWAN",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "GHADAGE, Mr. SWAPNIL RAMCHANDR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "WANDHEKAR, Mr. TUKARAM SHESHAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
         "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -557,19 +564,26 @@
         "VARIABLE_NAME": "buyer",
         "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
+        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -583,14 +597,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SATRE, Mr. SHUBHAM  PANDURANG ",
+        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -606,14 +613,21 @@
         "VARIABLE_NAME": "buyer",
         "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "VALUE": "SALEKAR, Mr. TEJAS VILAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -632,27 +646,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "KAMBLE, Mr. VISHAL  SUDAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KABRA, Mr. KAILASH SATYANARAYA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -660,9 +653,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "VALUE": "KABRA, Mr. KAILASH SATYANARAYA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -681,44 +674,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Garde, Mr. Krushnakumar Annasa",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "SAWANT, Mr. SHANKAR DATTATRAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "PARAB, Mr. GURUPRASAD SHIVAJI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -737,6 +702,48 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "ADAI, Mr. SANDEEP APPASAHEB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KHULE, Mr. VAIBHAV MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Garde, Mr. Krushnakumar Annasa",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Alle, Mr. Sachin Yuvaraj",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "INGLE, Mr. RAVINDRA NAGORAO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -751,27 +758,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Alle, Mr. Sachin Yuvaraj",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -779,42 +765,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "DIXIT, Mr. SHEKHAR MEGHASHAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Shintre, Mr. Nilesh Narayan",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "Inamdar, Mr. Sameer Sameer",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
-        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -828,13 +779,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
-        "VALUE": "Nanaware, Mr. Nitin S",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "buyer",
         "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
@@ -842,8 +786,64 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "buyer",
+        "VALUE": "PATIL, Mr. SHAILESH  MADHUKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SASWADE, Mr. TUSHAR SHANKAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "SABLE, Mr. VIJAY RATNASINH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "KADAM, Mr. RAJKIRAN RAVINDRA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "JOSHI, Mr. VAIBHAV  VILAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Inamdar, Mr. Sameer Sameer",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Shintre, Mr. Nilesh Narayan",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
         "VALUE": "Bajare, Mr. Amar Vijay",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "buyer",
+        "VALUE": "Nanaware, Mr. Nitin S",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     }
 ]

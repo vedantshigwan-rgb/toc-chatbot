@@ -30,20 +30,6 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "OCT-2026",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "FUTURE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
         "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -65,9 +51,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "NOV-2026",
+        "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -81,7 +74,14 @@
         "VARIABLE_NAME": "req_qty_month",
         "VALUE": "NOV-2026",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -128,16 +128,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "OCT-2026",
+        "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "FUTURE",
+        "VALUE": "NOV-2026",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -149,9 +149,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "NOV-2026",
+        "VALUE": "OCT-2026",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -159,13 +159,6 @@
         "VALUE": "JAN-2027",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "DEC-2026",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -184,6 +177,13 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "DEC-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
         "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
@@ -205,20 +205,6 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "OCT-2026",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "OCT-2026",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
         "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -229,13 +215,6 @@
         "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "NOV-2026",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -249,19 +228,26 @@
         "VARIABLE_NAME": "req_qty_month",
         "VALUE": "NOV-2026",
         "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "JAN-2027",
+        "VALUE": "OCT-2026",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "DEC-2026",
+        "VALUE": "OCT-2026",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -275,9 +261,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "OCT-2026",
+        "VALUE": "DEC-2026",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -306,6 +292,20 @@
         "VALUE": "NOV-2026",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "OCT-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "JAN-2027",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -331,9 +331,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "OCT-2026",
+        "VALUE": "FUTURE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "req_qty_month",
+        "VALUE": "NOV-2026",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -352,16 +359,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "FUTURE",
+        "VALUE": "OCT-2026",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "req_qty_month",
-        "VALUE": "NOV-2026",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",

@@ -142,8 +142,21 @@ class AskRequest(BaseModel):
         return self
 
 
+
 class EditMessageRequest(BaseModel):
     input: str = Field(..., min_length=1)
+
+    # The mode selected in the frontend while editing.
+    message_type: Optional[
+        Literal["normal_message", "help", "metadata"]
+    ] = None
+
+    # None means the frontend did not send variables.
+    # An empty list means the frontend explicitly sent no variables.
+    variables: Optional[List[QueryVariable]] = None
+
+    # Optional report override; otherwise retain the original report.
+    report_name: Optional[str] = None
 
     @field_validator("input")
     @classmethod
@@ -152,6 +165,14 @@ class EditMessageRequest(BaseModel):
         if not cleaned:
             raise ValueError("Input cannot be empty.")
         return cleaned
+
+    @field_validator("report_name")
+    @classmethod
+    def clean_report_name(cls, value: Optional[str]) -> Optional[str]:
+        if value is None:
+            return None
+        cleaned = value.strip()
+        return cleaned or None
 
 
 @asynccontextmanager
@@ -784,18 +805,54 @@ async def edit_chat_message(
         )
 
     # Keep feedback/Modify as separate operations.
-    request_mode = str(original.get("request_mode") or "normal_message")
-    if request_mode == "feedback" or original.get("reply_to_message_id"):
+    allowed_modes = {
+        "normal_message",
+        "help",
+        "metadata",
+    }
+
+    request_mode = str(
+        payload.message_type
+        or original.get("request_mode")
+        or "normal_message"
+    ).strip().lower()
+
+    if request_mode not in allowed_modes:
         return JSONResponse(
             status_code=400,
-            content={"detail": "Feedback messages cannot be edited with this endpoint."},
+            content={
+                "detail": f"Unsupported question mode: {request_mode}"
+            },
         )
 
-    report_name = _clean_report_name(original.get("report_name"))
-    variables = list(original.get("variables") or [])
+    if original.get("reply_to_message_id"):
+        return JSONResponse(
+            status_code=400,
+            content={
+                "detail": "Feedback/reply messages cannot be edited with this endpoint."
+            },
+        )
+
+    
+    report_name = _clean_report_name(
+        payload.report_name or original.get("report_name")
+    )
+
+    if payload.variables is not None:
+        variables = _variables_payload(
+            AskRequest(
+                input=payload.input,
+                message_type="normal_message",
+                report_name=report_name,
+                variables=payload.variables,
+            )
+        )
+    else:
+        variables = list(original.get("variables") or [])
 
     if request_mode in {"help", "metadata"}:
         variables = []
+
 
     # Update the existing MongoDB document. Do not call add_message()
     # for the user message: its message_id must remain unchanged.
@@ -804,6 +861,7 @@ async def edit_chat_message(
             message_id=message_id,
             user_id=user_id,
             content=payload.input,
+            request_mode=request_mode,
         )
     except ValueError as error:
         return JSONResponse(

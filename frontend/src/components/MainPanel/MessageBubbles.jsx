@@ -74,7 +74,14 @@ export function UserMessage({ message, isLatest }) {
   );
 }
 
+function formatHelpResponse(text) {
+  if (!text) return [];
 
+  return String(text)
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
+}
 
 export function BotMessage({ message }) {
   const { feedback, replyTo, openReport } = useChat();
@@ -86,7 +93,13 @@ export function BotMessage({ message }) {
 
   return (
     <div className="msg-bot">
-      <div className="msg-bot-text">{message.text}</div>
+      <div className="msg-bot-text">
+        {formatHelpResponse(message.text).map((paragraph, index) => (
+          <p key={index} className="help-response-point">
+            {paragraph}
+          </p>
+        ))}
+      </div>
       <div className="feedback">
         <button
           title="Good response"
