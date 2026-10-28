@@ -135,7 +135,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "KG5H",
+        "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -149,14 +149,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R2",
+        "VALUE": "PED - GEAR AND PINIO",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINIO",
+        "VALUE": "KG5H",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -205,6 +205,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - WINDMILL GEARB",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "PED - MARINE GEARBOX",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -213,13 +220,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "PED - AXLE DRIVE",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - WINDMILL GEARB",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -254,13 +254,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - INDUSTRIAL GEA",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "BOP",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -289,7 +282,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "RBC",
+        "VALUE": "PED - INDUSTRIAL GEA",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -297,6 +290,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "RBC",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

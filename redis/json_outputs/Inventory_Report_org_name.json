@@ -2,14 +2,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "org_name",
-        "VALUE": "PED - DEFENCE",
+        "VALUE": "ACD - PRODUCTS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
@@ -23,14 +16,21 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - CENTRI",
+        "VALUE": "PED - DEFENCE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "PED - RAIL",
+        "VALUE": "ACD - SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "ACD - CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },
@@ -45,6 +45,13 @@
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "org_name",
         "VALUE": "ACD - SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "org_name",
+        "VALUE": "PED - RAIL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": ""
     },

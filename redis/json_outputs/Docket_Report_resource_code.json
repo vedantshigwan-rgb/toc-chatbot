@@ -2,41 +2,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "2401",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "6204",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0169",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1012",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1551",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "1402",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -72,21 +37,7 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "8201",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "1216",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5103",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -100,7 +51,63 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
+        "VALUE": "5103",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0169",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1012",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1551",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "6204",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "8201",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2401",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
         "VALUE": "1001",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1010",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -121,7 +128,7 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "1010",
+        "VALUE": "1405",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -131,48 +138,6 @@
         "VALUE": "0711",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1405",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "3902",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5106",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5107",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1006",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1121",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -219,6 +184,13 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
+        "VALUE": "9503",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
         "VALUE": "9206",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -226,9 +198,37 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "9503",
+        "VALUE": "1006",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1121",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "3902",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5106",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5107",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -240,14 +240,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "1126",
+        "VALUE": "5311",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5311",
+        "VALUE": "1126",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -262,76 +262,6 @@
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
         "VALUE": "3106",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2317",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2405",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5101",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2316",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1014",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1015",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2105",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0532",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0707",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0915",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -387,9 +317,44 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "0102",
+        "VALUE": "0532",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0707",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0915",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1014",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1015",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2105",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -401,9 +366,30 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5203",
+        "VALUE": "2317",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2405",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5101",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2316",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -415,7 +401,21 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
+        "VALUE": "5203",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
         "VALUE": "6007",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0102",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -457,62 +457,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5210",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5212",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2101",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "4701",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1009",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1537",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2106",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0914",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "5306",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -541,13 +485,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "0160",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "9301",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -555,9 +492,72 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
+        "VALUE": "0160",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "4701",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0914",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1009",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
         "VALUE": "2105",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1537",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2106",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5210",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5212",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2101",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -597,13 +597,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "6103",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "8103",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -611,16 +604,23 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "2605",
+        "VALUE": "6103",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "1122",
+        "VALUE": "5207",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5208",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -640,6 +640,13 @@
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
         "VALUE": "1212",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "9504",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -667,34 +674,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5207",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5208",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2108",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1207",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "1535",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -709,21 +688,42 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "2603",
+        "VALUE": "1122",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "9504",
+        "VALUE": "2108",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2605",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0913",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1207",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "0913",
+        "VALUE": "2603",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -738,48 +738,6 @@
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
         "VALUE": "0917",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "4001",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5309",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0166",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0916",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1550",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2112",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -863,7 +821,70 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
+        "VALUE": "9502",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0166",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0916",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1550",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2112",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "4001",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5309",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "8301",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
         "VALUE": "6009",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "9205",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -884,27 +905,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "9502",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "9205",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "8301",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "8601",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -913,6 +913,13 @@
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
         "VALUE": "1563",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2204",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -933,21 +940,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "2204",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0170",
+        "VALUE": "5213",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5213",
+        "VALUE": "0170",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -961,23 +961,65 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5301",
+        "VALUE": "1008",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5307",
+        "VALUE": "2114",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "6004",
+        "VALUE": "0538",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5302",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "0175",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1217",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1806",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "9202",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5204",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -985,6 +1027,13 @@
         "VALUE": "1005",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1562",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -1017,16 +1066,23 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "1008",
+        "VALUE": "2315",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "2114",
+        "VALUE": "5301",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "5307",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -1038,65 +1094,9 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "5302",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0175",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1806",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "5204",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2315",
+        "VALUE": "6004",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1217",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0538",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "9202",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1562",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -1115,56 +1115,7 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "2305",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2318",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
         "VALUE": "5305",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "6003",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "6613",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "0161",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "1120",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "resource_code",
-        "VALUE": "2204",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
@@ -1213,6 +1164,13 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
+        "VALUE": "9201",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
         "VALUE": "6201",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -1220,9 +1178,51 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "9201",
+        "VALUE": "0161",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1120",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2204",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2318",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "1013",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "6613",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "resource_code",
+        "VALUE": "2305",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -1234,7 +1234,7 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "resource_code",
-        "VALUE": "1013",
+        "VALUE": "6003",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },

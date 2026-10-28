@@ -2,51 +2,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "SET",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "LITRE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
         "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "SET",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "LITRE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "Set",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -58,9 +16,51 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
+        "VALUE": "Set",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "LITRE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "SET",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
         "VALUE": "SET",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "KILOGRAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "LITRE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "SET",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -68,20 +68,6 @@
         "VALUE": "SET",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "LOT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "METRE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -100,16 +86,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
+        "VALUE": "METRE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "Set",
+        "VALUE": "LOT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -129,6 +115,27 @@
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
         "VALUE": "Set",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "Set",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "KILOGRAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "KILOGRAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -142,23 +149,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "Set",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
         "VALUE": "Set",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "KILOGRAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -170,23 +170,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
         "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "PAIRS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -205,6 +191,20 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
+        "VALUE": "PAIRS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "Set",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
         "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
@@ -221,14 +221,7 @@
         "VARIABLE_NAME": "uom",
         "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "METRE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -236,20 +229,6 @@
         "VALUE": "KILOGRAM",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "NUMBER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "PAIRS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -263,21 +242,21 @@
         "VARIABLE_NAME": "uom",
         "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
         "VALUE": "METRE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "LITRE",
+        "VALUE": "PAIRS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -296,16 +275,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "PAIRS",
+        "VALUE": "KILOGRAM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
+        "VALUE": "LITRE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "METRE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "Set",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -317,16 +310,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
+        "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "Set",
+        "VALUE": "KILOGRAM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "PAIRS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -345,9 +345,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
+        "VALUE": "SET",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "NUMBER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -366,23 +373,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "NUMBER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "SET",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
         "VALUE": "Set",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
+        "VALUE": "KILOGRAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -401,6 +401,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
+        "VALUE": "KILOGRAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "uom",
         "VALUE": "LITRE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
@@ -410,14 +417,14 @@
         "VARIABLE_NAME": "uom",
         "VALUE": "KILOGRAM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "uom",
-        "VALUE": "KILOGRAM",
+        "VALUE": "NUMBER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -432,12 +439,5 @@
         "VALUE": "METRE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "uom",
-        "VALUE": "NUMBER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
     }
 ]

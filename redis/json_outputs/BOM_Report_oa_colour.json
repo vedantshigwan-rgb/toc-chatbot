@@ -2,20 +2,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Yellow",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Red",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "oa_colour",
         "VALUE": "Black",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -30,16 +16,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "White",
+        "VALUE": "Yellow",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Yellow",
+        "VALUE": "Red",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "oa_colour",
+        "VALUE": "White",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -53,7 +46,14 @@
         "VARIABLE_NAME": "oa_colour",
         "VALUE": "White",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "oa_colour",
+        "VALUE": "Yellow",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -86,13 +86,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Green",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "oa_colour",
         "VALUE": "White",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -100,21 +93,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "White",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Black",
+        "VALUE": "Green",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "White",
+        "VALUE": "Black",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -128,9 +114,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Red",
+        "VALUE": "White",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "oa_colour",
+        "VALUE": "White",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "oa_colour",
+        "VALUE": "Black",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -142,9 +142,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
+        "VALUE": "Red",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "oa_colour",
         "VALUE": "Black",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "oa_colour",
+        "VALUE": "Green",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -165,14 +179,14 @@
         "VARIABLE_NAME": "oa_colour",
         "VALUE": "Green",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "oa_colour",
         "VALUE": "Black",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -180,20 +194,6 @@
         "VALUE": "Red",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Black",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "oa_colour",
-        "VALUE": "Green",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",

@@ -2,23 +2,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "TWO_BIN",
+        "VALUE": "SUB_CON_N",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "CONS_II",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -26,20 +12,6 @@
         "VALUE": "TWO_BIN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCH_BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -58,6 +30,20 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
+        "VALUE": "OBSOLETE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
         "VALUE": "SUB_CON_N",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
@@ -72,6 +58,27 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "CONS_II",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
         "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -81,28 +88,14 @@
         "VARIABLE_NAME": "child_item_type",
         "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "OBSOLETE",
+        "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON_N",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -110,6 +103,13 @@
         "VALUE": "CONS_I",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "TWO_BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -121,9 +121,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "OBSOLETE",
+        "VALUE": "MFGD-SUBAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -135,9 +135,65 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SUBAS",
+        "VALUE": "OBSOLETE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "EQUIPMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "EQUIPMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MM-OP-PULL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-SPARE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCH_BULK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON_N",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -149,7 +205,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SPARE",
+        "VALUE": "KIT-SPS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -163,63 +219,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "KIT-SPS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
         "VALUE": "MM-OP-PULL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCH_BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MM-OP-PULL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON_N",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -240,16 +240,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-MACH",
+        "VALUE": "PHANTOM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -261,14 +254,35 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MM-OP-PULL",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "CONS_II",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "MM-OP-PULL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -284,42 +298,21 @@
         "VARIABLE_NAME": "child_item_type",
         "VALUE": "PHANTOM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PHANTOM",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "CONS_II",
+        "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "CONS_I",
+        "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -327,6 +320,13 @@
         "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "KANBAN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -345,23 +345,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "KANBAN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "OBSOLETE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-SUBAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -373,9 +366,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SUBAS",
+        "VALUE": "OBSOLETE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -389,13 +382,6 @@
         "VARIABLE_NAME": "child_item_type",
         "VALUE": "MFGD-SUBAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SUBAS",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
@@ -404,6 +390,20 @@
         "VALUE": "KANBAN",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-SUBAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -422,41 +422,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "TWO_BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
         "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -471,9 +436,44 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SBM-ASSLY",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "TWO_BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -485,9 +485,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
+        "VALUE": "SBM-ASSLY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-SPARE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -506,34 +513,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SPARE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PHANTOM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SBM-MKTG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -548,6 +527,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
         "VALUE": "SBM-MKTG",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
@@ -555,9 +541,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
+        "VALUE": "PHANTOM",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -569,30 +555,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SPARE",
+        "VALUE": "SBM-MKTG",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "CONS_I",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -606,7 +571,63 @@
         "VARIABLE_NAME": "child_item_type",
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-SPARE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "TWO_BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCH_BULK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -618,13 +639,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SUBAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -632,14 +646,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
+        "VALUE": "OBSOLETE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCH_BULK",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -653,51 +667,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "MFGD-SUBAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "TWO_BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCH_BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MM-OP-PULL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "OBSOLETE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MM-BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -709,16 +688,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
+        "VALUE": "ITEM-ON-HO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "ITEM-ON-HO",
+        "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -730,79 +716,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCH_BULK",
+        "VALUE": "MM-BULK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
         "VALUE": "MM-OP-PULL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "CONS_I",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "TWO_BIN",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON_N",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "DOCUMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-SUBAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "CONS_I",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -810,13 +733,6 @@
         "VALUE": "MFGD-SUBAS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "child_item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -842,16 +758,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "PHANTOM",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -863,8 +779,92 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MM-OP-PULL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "TWO_BIN",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "DOCUMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PURCH_BULK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "CONS_I",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "PHANTOM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "MFGD-SUBAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "child_item_type",
+        "VALUE": "SUB_CON_N",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     }
 ]

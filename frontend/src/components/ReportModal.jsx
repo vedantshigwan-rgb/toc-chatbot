@@ -99,7 +99,7 @@ function formatCellValue(value, column) {
     .toUpperCase();
 
   // Keep OA_NUMBER exactly as supplied; never add commas.
-  if (columnName === "OA_NUMBER") {
+  if (columnName === "OA_NUMBER", "TROLLEY_NO") {
     return String(value);
   }
 
@@ -577,7 +577,7 @@ export default function ReportModal() {
             </div>
 
             <div className="modal-footer-actions">
-              {messageId && (
+              {messageId && totalPages > 1 &&(
                 <>
                   <button
                     className="modal-btn"

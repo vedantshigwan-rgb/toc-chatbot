@@ -2,9 +2,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "GSU",
+        "VALUE": "RBC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -16,20 +16,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "HRS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "ES-R5",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -37,9 +23,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
+        "VALUE": "DS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "GSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -47,13 +40,6 @@
         "VALUE": "SAT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "RBC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -72,6 +58,13 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "CENTRI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
@@ -79,16 +72,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R2",
+        "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - INDUSTRIAL GEA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -100,30 +86,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "WISC HYDRINO",
+        "VALUE": "PED - INDUSTRIAL GEA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R3",
+        "VALUE": "ES-R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -135,9 +107,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TONALLI",
+        "VALUE": "ES-R3",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -149,7 +121,28 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R3",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "WISC HYDRINO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "TONALLI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R1",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -163,23 +156,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINIO",
+        "VALUE": "GAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - JOB ORDER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -191,9 +170,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "GAS",
+        "VALUE": "PED - JOB ORDER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - GEAR AND PINIO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -233,21 +233,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - AXLE DRIVE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R4",
+        "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R2",
+        "VALUE": "ES-R4",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -261,44 +254,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AIR-SEP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - HIGH SPEED GEA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -312,7 +277,7 @@
         "VARIABLE_NAME": "product_group",
         "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -324,14 +289,49 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DP",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - HIGH SPEED GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "ES-R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },

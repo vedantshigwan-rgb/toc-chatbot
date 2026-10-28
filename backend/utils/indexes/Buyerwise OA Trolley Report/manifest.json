@@ -1,204 +1,44 @@
 {
   "report_name": " Buyerwise OA Trolley Report",
   "report_folder": "Buyerwise OA Trolley Report",
-  "created_at": "2026-10-26T10:15:22",
-  "total_rows": 133,
+  "created_at": "2026-10-28T12:43:28",
+  "total_rows": 22,
   "all_index_folder": "all",
   "variable_indexes": {
     "buyer": {
       "folder": "variables\\buyer",
-      "row_count": 5
-    },
-    "buyer,buyer_status": {
-      "folder": "variables\\buyer,buyer_status",
-      "row_count": 2
-    },
-    "buyer,buyer_status,oa_number": {
-      "folder": "variables\\buyer,buyer_status,oa_number",
-      "row_count": 1
-    },
-    "buyer,buyer_status,parent_item": {
-      "folder": "variables\\buyer,buyer_status,parent_item",
-      "row_count": 1
-    },
-    "buyer,date": {
-      "folder": "variables\\buyer,date",
-      "row_count": 1
-    },
-    "buyer,date,oa_number": {
-      "folder": "variables\\buyer,date,oa_number",
-      "row_count": 1
-    },
-    "buyer,date,parent_item": {
-      "folder": "variables\\buyer,date,parent_item",
-      "row_count": 1
-    },
-    "buyer,date,trolley_remark": {
-      "folder": "variables\\buyer,date,trolley_remark",
-      "row_count": 1
-    },
-    "buyer,item_description": {
-      "folder": "variables\\buyer,item_description",
-      "row_count": 2
-    },
-    "buyer,item_description,oa_number": {
-      "folder": "variables\\buyer,item_description,oa_number",
-      "row_count": 1
-    },
-    "buyer,item_description,trolley_remark": {
-      "folder": "variables\\buyer,item_description,trolley_remark",
-      "row_count": 1
-    },
-    "buyer,item_type": {
-      "folder": "variables\\buyer,item_type",
-      "row_count": 1
-    },
-    "buyer,item_type,org_name": {
-      "folder": "variables\\buyer,item_type,org_name",
-      "row_count": 1
-    },
-    "buyer,month": {
-      "folder": "variables\\buyer,month",
-      "row_count": 1
-    },
-    "buyer,month,year": {
-      "folder": "variables\\buyer,month,year",
       "row_count": 1
     },
     "buyer,oa_number": {
       "folder": "variables\\buyer,oa_number",
       "row_count": 2
     },
-    "buyer,oa_number,org_name": {
-      "folder": "variables\\buyer,oa_number,org_name",
+    "buyer,oa_number,parent_item": {
+      "folder": "variables\\buyer,oa_number,parent_item",
       "row_count": 1
     },
     "buyer,org_name": {
       "folder": "variables\\buyer,org_name",
-      "row_count": 2
-    },
-    "buyer,org_name,trolley_remark": {
-      "folder": "variables\\buyer,org_name,trolley_remark",
       "row_count": 1
     },
     "buyer,parent_item": {
       "folder": "variables\\buyer,parent_item",
       "row_count": 2
     },
-    "buyer,trolley_remark": {
-      "folder": "variables\\buyer,trolley_remark",
-      "row_count": 1
-    },
-    "buyer,year": {
-      "folder": "variables\\buyer,year",
-      "row_count": 1
-    },
-    "buyer_status": {
-      "folder": "variables\\buyer_status",
-      "row_count": 2
-    },
-    "buyer_status,date": {
-      "folder": "variables\\buyer_status,date",
-      "row_count": 1
-    },
-    "buyer_status,date,org_name": {
-      "folder": "variables\\buyer_status,date,org_name",
-      "row_count": 1
-    },
-    "buyer_status,item_description,org_name": {
-      "folder": "variables\\buyer_status,item_description,org_name",
-      "row_count": 1
-    },
-    "buyer_status,oa_number": {
-      "folder": "variables\\buyer_status,oa_number",
-      "row_count": 1
-    },
-    "buyer_status,org_name": {
-      "folder": "variables\\buyer_status,org_name",
-      "row_count": 2
-    },
-    "buyer_status,parent_item": {
-      "folder": "variables\\buyer_status,parent_item",
-      "row_count": 1
-    },
-    "date": {
-      "folder": "variables\\date",
-      "row_count": 1
-    },
-    "date,trolley_remark": {
-      "folder": "variables\\date,trolley_remark",
-      "row_count": 1
-    },
-    "item_description": {
-      "folder": "variables\\item_description",
-      "row_count": 2
-    },
-    "item_description,org_name": {
-      "folder": "variables\\item_description,org_name",
-      "row_count": 2
-    },
-    "item_type": {
-      "folder": "variables\\item_type",
-      "row_count": 2
-    },
-    "item_type,org_name,trolley_remark": {
-      "folder": "variables\\item_type,org_name,trolley_remark",
-      "row_count": 1
-    },
-    "month": {
-      "folder": "variables\\month",
-      "row_count": 1
-    },
-    "month,trolley_remark,year": {
-      "folder": "variables\\month,trolley_remark,year",
-      "row_count": 1
-    },
     "no_variables": {
       "folder": "variables\\no_variables",
-      "row_count": 51
+      "row_count": 12
     },
     "oa_number": {
       "folder": "variables\\oa_number",
-      "row_count": 10
-    },
-    "oa_number,org_name": {
-      "folder": "variables\\oa_number,org_name",
       "row_count": 1
-    },
-    "oa_number,trolley_remark": {
-      "folder": "variables\\oa_number,trolley_remark",
-      "row_count": 2
     },
     "org_name": {
       "folder": "variables\\org_name",
-      "row_count": 3
-    },
-    "org_name,parent_item": {
-      "folder": "variables\\org_name,parent_item",
       "row_count": 1
-    },
-    "org_name,parent_item,trolley_remark": {
-      "folder": "variables\\org_name,parent_item,trolley_remark",
-      "row_count": 1
-    },
-    "org_name,trolley_remark": {
-      "folder": "variables\\org_name,trolley_remark",
-      "row_count": 3
     },
     "parent_item": {
       "folder": "variables\\parent_item",
-      "row_count": 5
-    },
-    "parent_item,trolley_remark": {
-      "folder": "variables\\parent_item,trolley_remark",
-      "row_count": 1
-    },
-    "trolley_remark": {
-      "folder": "variables\\trolley_remark",
-      "row_count": 3
-    },
-    "year": {
-      "folder": "variables\\year",
       "row_count": 1
     }
   }

@@ -9,6 +9,20 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "PURCH_BULK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
@@ -23,30 +37,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCH_BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-SUBASLY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -58,6 +51,13 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -65,9 +65,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
+        "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -86,16 +86,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "EQUIPMENT",
+        "VALUE": "MFGD-SUBASLY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -107,6 +100,13 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -114,23 +114,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-SUBASLY",
+        "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -142,9 +128,30 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PRJ_PURCH",
+        "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "EQUIPMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -158,21 +165,14 @@
         "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "PRJ_PURCH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -191,16 +191,16 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-MKTG",
+        "VALUE": "MFGD-SUBASLY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-SUBASLY",
+        "VALUE": "SBM-MKTG",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -212,9 +212,37 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -235,28 +263,49 @@
         "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
+        "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SBM-MKTG",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SBM-MKTG",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
         "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
+        "VALUE": "PURCHASE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SBM-MKTG",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -275,58 +324,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-MKTG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-MACH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-MKTG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-MKTG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -345,9 +345,9 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCHASE",
+        "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -366,6 +366,20 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "MFGD-ASSL",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -376,20 +390,6 @@
         "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCH_BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -408,16 +408,30 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCH_BULK",
+        "VALUE": "MFGD-ASSL",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "MFGD-ASSL",
+        "VALUE": "PURCH_BULK",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "PURCHASE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Order Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "PURCH_BULK",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Order Report",
@@ -436,22 +450,8 @@
     {
         "REPORT_NAME": "Order Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCH_BULK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "SUB_CON",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Order Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "PURCHASE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
     }
 ]

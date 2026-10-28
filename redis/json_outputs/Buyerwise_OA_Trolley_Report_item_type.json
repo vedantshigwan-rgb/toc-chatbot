@@ -177,6 +177,13 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
+        "VALUE": "SBM-MKTG",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
         "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
@@ -187,13 +194,6 @@
         "VALUE": "MFGD-MACH",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "SBM-MKTG",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
@@ -275,20 +275,6 @@
     {
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
-        "VALUE": "SUB_CON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
-        "VALUE": "EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Buyerwise OA Trolley Report",
-        "VARIABLE_NAME": "item_type",
         "VALUE": "CONS_I",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -304,6 +290,20 @@
         "REPORT_NAME": "Buyerwise OA Trolley Report",
         "VARIABLE_NAME": "item_type",
         "VALUE": "MFGD-MACH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "SUB_CON",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Buyerwise OA Trolley Report",
+        "VARIABLE_NAME": "item_type",
+        "VALUE": "EQUIPMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },

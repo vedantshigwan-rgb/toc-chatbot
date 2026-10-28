@@ -2,6 +2,13 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "period_type",
+        "VALUE": "Week",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "period_type",
         "VALUE": "Month",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -19,13 +26,6 @@
         "VALUE": "Year",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "period_type",
-        "VALUE": "Week",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -54,13 +54,6 @@
         "VALUE": "Week",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "period_type",
-        "VALUE": "Year",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -68,6 +61,13 @@
         "VALUE": "Year",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "period_type",
+        "VALUE": "Year",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Docket Employee Report",
@@ -93,13 +93,6 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "period_type",
-        "VALUE": "Year",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "period_type",
         "VALUE": "Week",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -115,6 +108,13 @@
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "period_type",
         "VALUE": "Month",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "period_type",
+        "VALUE": "Year",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },

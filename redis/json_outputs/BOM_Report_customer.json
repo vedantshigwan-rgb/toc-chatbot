@@ -9,9 +9,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI ORGANISATION",
+        "VALUE": "GOVIK INDUSTRIES PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -23,63 +23,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Shree Ganapati trading Agencies",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "UTKAL OXY ARC SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CONSTROMECH INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HIRECT LIMITED (FORMERLY KNOWN AS HIND RECTIFIERS ",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GOVIK INDUSTRIES PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAP PNEUMATIC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -93,6 +37,27 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "ACTIVE POWER SYSTEMS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DEEP INDUSTRIES LIMITED - AHMEDABAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BANARAS LOCOMOTIVE WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "CG POWER AND INDUSTRIAL SOLUTIONS LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -100,37 +65,30 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ACTIVE POWER SYSTEMS",
+        "VALUE": "SOUTHERN RAILWAY  - AYANARAM  , CHENNAI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH COAST RAILWAY",
+        "VALUE": "HIRECT LIMITED (FORMERLY KNOWN AS HIND RECTIFIERS ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NIRMA LIMITED",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KESSELS ENGINEERING WORKS PVT. LTD.",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AQUA ENGINEERING  & ALLIED SERVIES P.LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -149,28 +107,63 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "VALUE": "SANGHI ORGANISATION",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "VALUE": "SAP PNEUMATIC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "VALUE": "SMAK PNEUMATIC SOLUTIONS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BANARAS LOCOMOTIVE WORKS",
+        "VALUE": "ARS ENGINEERING PVT.LTD.-NAVI MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BTL EPC LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Shree Ganapati trading Agencies",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONSTROMECH INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "REKI ENGINEERING SOLUTIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTH COAST RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -184,13 +177,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PRIVATE LIMITED,HYDERABAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -198,16 +184,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BTL EPC LTD",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "S K PNEUMATICS TECHNOLOGY",
+        "VALUE": "AQUA ENGINEERING  & ALLIED SERVIES P.LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -219,6 +205,41 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PRIVATE LIMITED,HYDERABAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NIRMA LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ACTIVE POWER SYSTEMS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GAIL (INDIA) LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "S K PNEUMATICS TECHNOLOGY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD RECIP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
@@ -226,14 +247,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DEEP INDUSTRIES LIMITED - AHMEDABAD",
+        "VALUE": "ENVIROGEN ENERGY SOLUTIONS PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "REKI ENGINEERING SOLUTIONS",
+        "VALUE": "KESSELS ENGINEERING WORKS PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -247,58 +268,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ACTIVE POWER SYSTEMS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ENVIROGEN ENERGY SOLUTIONS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LIMITED - RAJASTHA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "SMAK PNEUMATIC SOLUTIONS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GAIL (INDIA) LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "THERMAX LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RASHMI METALLURGICAL INDUSTRY PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI UDYOG INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -310,86 +282,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "THERMAX LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "GRANT MEDICAL FOUNDATION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Air Liquide India Holding Pvt Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "EAST CENTRAL RAILWAY- PATNA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NORTHERN RAILWAY  - DELHI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT BIJIEE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SVML PNEUMATIC PVT.LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Pro Air Solution",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Mahan Energen Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MIRZAPUR THERMAL ENERGY (UP) PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Solcon Engineers Pvt. Ltd",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "JVB ENGINEERS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -401,28 +303,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MANMEET CHEMICALS AGENCIES",
+        "VALUE": "STEEL AUTHORITY OF INDIA LTD  BHILAI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OIL AND NATURAL GAS CORPORATION LTD  - JORHAT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NAVIN FLUORINE INTERNATIONAL LTD",
+        "VALUE": "SANGHI UDYOG INDIA PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -436,37 +324,51 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MINE MANAGER,MOIL LTD., GUMGAON MINE",
+        "VALUE": "Pro Air Solution",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Mark Technologies General Trading and Contracting ",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT DYNAMICS LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OXYPLANTS INDIA PVT LTD",
+        "VALUE": "RASHMI METALLURGICAL INDUSTRY PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "EAST CENTRAL RAILWAY- PATNA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SVML PNEUMATIC PVT.LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NORTHEAST FRONTIER RAILWAY - GUWAHATI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NORTHERN RAILWAY  - DELHI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Solcon Engineers Pvt. Ltd",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -478,14 +380,98 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH EAST CENTRAL RAILWAY",
+        "VALUE": "Mahan Energen Ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Air Liquide India Holding Pvt Ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHARAT BIJIEE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NORTHEAST FRONTIER RAILWAY - GUWAHATI",
+        "VALUE": "BHARAT DYNAMICS LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MANMEET CHEMICALS AGENCIES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Mark Technologies General Trading and Contracting ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MINE MANAGER,MOIL LTD., GUMGAON MINE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MIRZAPUR THERMAL ENERGY (UP) PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NAVIN FLUORINE INTERNATIONAL LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OXYPLANTS INDIA PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTH EAST CENTRAL RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
@@ -499,14 +485,42 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "STEEL AUTHORITY OF INDIA LTD  BHILAI",
+        "VALUE": "JVB ENGINEERS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OIL AND NATURAL GAS CORPORATION LTD  - JORHAT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "HINDUSTAN PETROLEUM CORPORATION LIMITED - ASSAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "AMAR DEO PLASTIC INDUSTRIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -520,20 +534,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "GREEN POWER INTERNATIONAL PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Indian Peroxide Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "JOG WASTE TO ENERGY PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -541,37 +541,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AMAR DEO PLASTIC INDUSTRIES",
+        "VALUE": "GREEN POWER INTERNATIONAL PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GEEKAY PNEUMATICS PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -583,49 +555,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Action Ispat & Power Pvt. Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MALHAN ENTERPRISES PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ADANI POWER LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "A UNIT OF ARMOURED VEHICLES NIGAM LIMITED - ENGINE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCUREMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PUNJAB FUSION PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CEAT LTD",
+        "VALUE": "TIME TECHNOPLAST LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -639,7 +569,77 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "Indian Peroxide Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CEAT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Action Ispat & Power Pvt. Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GEEKAY PNEUMATICS PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONTROLLER OF PROCUREMENT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ADANI POWER LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "YATHA TRADING DMCC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -649,6 +649,34 @@
         "VALUE": "ARS ENGINEERING PVT LTD - PUNE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SVML PNEUMATIC PVT.LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -667,21 +695,77 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SVML PNEUMATIC PVT.LTD.",
+        "VALUE": "TKIL INDUSTRIES PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BHEL Power Sector",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PUNJAB FUSION PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAHYADRI DIESELS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "UNIT-365",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "YATHA TRADING DMCC",
+        "VALUE": "Kirloskar Engines South Africa (Pty) Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TIME TECHNOPLAST LTD",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CEMENT DIVISON UNIT OF KESORAM INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ESSAR STEEL LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ALPINE DISTILLERIES PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -695,79 +779,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TKIL INDUSTRIES PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "RAJ ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAHYADRI DIESELS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ESSAR STEEL LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "UNIT-365",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHEL Power Sector",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ALPINE DISTILLERIES PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -779,13 +793,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CEMENT DIVISON UNIT OF KESORAM INDUSTRIES LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "ADDCOOL TRADE & SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -793,93 +800,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Kirloskar Engines South Africa (Pty) Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "LAKSHMI ENGINEERIG CORPORATION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RENERGY DYNAMICS PRODUCTS PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHYAM METALLICS AND ENERGY LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PRADEEP METALS LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CORE ENERGY SYSTEMS PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "M/S BLACK STONE DIESELS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KOSABAN SERVICES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -898,6 +821,69 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "DIESEL LOCO MODERNISATION WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RENERGY DYNAMICS PRODUCTS PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KOSABAN SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONTROLLER OF PROCUREMENT KARWAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TURTLE TURBINES (P) LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CORE ENERGY SYSTEMS PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PRADEEP METALS LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "WEST CENTRAL RAILWAY-",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -905,23 +891,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TRIBOTECH ENGINEERING PRIVATE LIMITED",
+        "VALUE": "M/S BLACK STONE DIESELS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD-GSU",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -933,7 +919,28 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ADANI HAZIRA PORT LTD",
+        "VALUE": "SHYAM METALLICS AND ENERGY LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CENTRAL RAILWAY - CONTROLLER STORES, MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN OIL EXPLORATION COMPANY LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -947,9 +954,58 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN OIL EXPLORATION COMPANY LIMITED",
+        "VALUE": "CENTRAL RAILWAY , PAREL, MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TRIBOTECH ENGINEERING PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HAPUS GENERAL TRADING - L.L.C - S.P.C MUSAFFAH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ADANI HAZIRA PORT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CONTROLLER OF PROCUREMENT VISHAKHAPATNAM",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SHARP TANKS AND STRUCTURALS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ASHOK SAHAKARI SAKHAR KARKHANA LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -968,44 +1024,16 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ANUPPUR THERMAL ENERGY (MP) PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCUREMENT VISHAKHAPATNAM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NUMALIGARH REFINERY LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NORTH EASTERN ELECTRIC POWER CORPORATION LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GEEKAY PNEUMATICS (P) LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "PACKING HOUSE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD-GSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1017,51 +1045,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "TURTLE TURBINES (P) LTD.",
+        "VALUE": "NUMALIGARH REFINERY LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CENTRAL RAILWAY , PAREL, MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHARP TANKS AND STRUCTURALS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD-GSU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD CENTRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KAVERI ULTRA POLYMERS P LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HAPUS GENERAL TRADING - L.L.C - S.P.C MUSAFFAH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1069,6 +1055,34 @@
         "VALUE": "JSW STEEL LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MAKNET INDUSTRIES PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HUTNI PROJEKT FM (INDIA) PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GEEKAY PNEUMATICS (P) LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "M/s Industrial Goods Company",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1087,21 +1101,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD-GSU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR FERROUS INDUSTRIES LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "M/s Industrial Goods Company",
+        "VALUE": "SHAH CEMENT INDUSTRIES LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
     },
@@ -1115,27 +1115,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCUREMENT KARWAR",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ASHOK SAHAKARI SAKHAR KARKHANA LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SHAH CEMENT INDUSTRIES LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "M A N Energy Solutions",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -1143,100 +1122,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RELIANCE INDUSTRIES LIMITED",
+        "VALUE": "KIRLOSKAR FERROUS INDUSTRIES LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KVK CORPORATION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GRASIM INDUSTRIES LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ASHIRWAD CARBONICS INDIA PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ASHIRWAD CARBONICS INDUSTRIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN URVARAK & RASAYAN  LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTH EASTERN RAILWAY - CALCUTTA",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT DYNAMICS LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LTD, BANGALORE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN AERONAUTICS LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "REKI ENGINEERING SOLUTIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RAILWAY ENGINEERING WORKS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1255,13 +1143,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RAJESH AND CO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "EAST COAST RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -1269,112 +1150,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MEGHA ENGINEERING &INFRASTRUCTURES LTD",
+        "VALUE": "BHARAT DYNAMICS LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Cipla Ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "INDIAN OIL CORPORATION LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "\tAMNS PORTS HAZIRA LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HSS SOLUTIONS PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "RAJESH AND CO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "JOY MARKETING COMPANY PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BENTECH PNEUMATIC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAP PNEUMATIC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Addverb Technologies",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PACKING HOUSE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Kronos Technocorp",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
+        "VALUE": "HINDUSTAN AERONAUTICS LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -1388,9 +1171,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAINI ELECTRICAL & ENGINEERING WORKS",
+        "VALUE": "MEGHA ENGINEERING &INFRASTRUCTURES LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1402,7 +1185,140 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SAHA AGENCY",
+        "VALUE": "KVK CORPORATION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN AERONAUTICS LTD, BANGALORE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GUJARAT NARMADA VALLY FERTILIZERS CO LTD (GNFC)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN URVARAK & RASAYAN  LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "GRASIM INDUSTRIES LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SOUTH EASTERN RAILWAY - CALCUTTA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RELIANCE INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT LTD - MUMBAI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Kronos Technocorp",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ASHIRWAD CARBONICS INDIA PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ASHIRWAD CARBONICS INDUSTRIES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PIONEER WINCON ENERGY SYSTEMS PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJESH AND CO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "INDIANA CONVEYORS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "REKI ENGINEERING SOLUTIONS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAINI ELECTRICAL & ENGINEERING WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAILWAY ENGINEERING WORKS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "\tAMNS PORTS HAZIRA LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -1416,9 +1332,44 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "INDIANA CONVEYORS PRIVATE LIMITED",
+        "VALUE": "HSS SOLUTIONS PVT. LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RAJESH AND CO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BENTECH PNEUMATIC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PACKING HOUSE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Addverb Technologies",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1430,7 +1381,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Asbri Energy & Enviro Technologies Pvt.Ltd.",
+        "VALUE": "Cipla Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -1451,42 +1402,49 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI OVERSEAS",
+        "VALUE": "JOY MARKETING COMPANY PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Asbri Energy & Enviro Technologies Pvt.Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ULTRATECH CEMENT LTD",
+        "VALUE": "INDIAN OIL CORPORATION LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BHARAT PETROLEUM CORPN LTD",
+        "VALUE": "SAHA AGENCY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES",
+        "VALUE": "SAP PNEUMATIC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SUMMITS HYGRONIC P.LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "BEML LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "RIX INDUSTRIES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -1500,23 +1458,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "IFB AGRO INDUSTRIES LIMITED",
+        "VALUE": "BHARAT PETROLEUM CORPN LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "OIL INDIA LIMITED",
+        "VALUE": "ULTRATECH CEMENT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "A S ENETERPRISE",
+        "VALUE": "ENVICHEM TECHNOLOGIES AND CONSULTANCY SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1528,51 +1486,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "RIX INDUSTRIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "MULTIVISTA GLOBAL PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "TAL SALES PRIVATE LIMITED,",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDALCO INDUSTRIES LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KORBA POWER LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "OVIS EQUIPMENTS PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KRITHIKK ENGINEERING AND TRADING CO.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1584,125 +1500,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BOLDROCCHI INDIA PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "STAR DYNAMIC ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ASHIRWAD CARBONICS INDIA PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SOUTHERN WIND FARMS LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "M S ENTERPRISE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD  - BANGALORE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Rudra Earthmovers",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KALANTRI ENGINEERING PVT. LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAI VANI AGRI TECH",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SANGHI OVERSEAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Pro Air Solution",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "TAP ENGINEERING",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "L&T Special Steels and Heavy Forgings Pvt. ltd.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "SAN ENGINEERING AND LOCOMOTIVE COMPANY LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "M/S TRANREPOWER ENGINEERING SERVICES INDIA PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "NATIONAL ALUMINIUM COMPANY LTD.,",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -1710,14 +1507,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Preet Brothers Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NMDC STEEL LIMITED,",
+        "VALUE": "KRITHIKK ENGINEERING AND TRADING CO.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -1731,7 +1521,42 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NIVITECH ENGINEERS PVT. LTD.",
+        "VALUE": "SOUTHERN WIND FARMS LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OVIS EQUIPMENTS PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SANGHI OVERSEAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TAP ENGINEERING",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SUMMITS HYGRONIC P.LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NMDC STEEL LIMITED,",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -1745,9 +1570,170 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "Preet Brothers Limited",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BOLDROCCHI INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDALCO INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "M/S TRANREPOWER ENGINEERING SERVICES INDIA PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "OIL INDIA LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KORBA POWER LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "JAI SADGURU INFRACORP PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "STAR DYNAMIC ENTERPRISES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAI VANI AGRI TECH",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TAL SALES PRIVATE LIMITED,",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SAN ENGINEERING AND LOCOMOTIVE COMPANY LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "A S ENETERPRISE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "RASHTRIYA CHEM & FERTILIZERS LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KALANTRI ENGINEERING PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO.LTD - PED DIVISION",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "IFB AGRO INDUSTRIES LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD  - BANGALORE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "M S ENTERPRISE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Rudra Earthmovers",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ASHIRWAD CARBONICS INDIA PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "L&T Special Steels and Heavy Forgings Pvt. ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SANGHI OVERSEAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NIVITECH ENGINEERS PVT. LTD.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1759,28 +1745,28 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BOSCO GREEN ENERGY PRIVATE LIMITED",
+        "VALUE": "WIKOV INDIGEAR PVT LTD.",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MALHAN ENTERPRISES PVT LTD",
+        "VALUE": "DB POWER LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "LINDE INDIA LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Bathinda Industrial Gases Pvt. Ltd.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
@@ -1794,44 +1780,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
+        "VALUE": "MALHAN ENTERPRISES PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "WIKOV INDIGEAR PVT LTD.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "STERLING AND WILSON PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN COPPER LTD - KHETRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Nils & Abbas Trading  Co., L.L.C",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARS ENGINEERING PVT LTD - PUNE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1843,9 +1794,37 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "DB POWER LIMITED",
+        "VALUE": "CONTROLLER OF PROCURMENT KOCHI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED (",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "FLUIDOMAT LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BOSCO GREEN ENERGY PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Bathinda Industrial Gases Pvt. Ltd.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -1857,21 +1836,63 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "M/S BLACK STONE DIESELS",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD SCREW",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "AIRCOM POWER SYSTEMS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PATRATU VIDYUT UTPADAN NIGAM LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "STERLING AND WILSON PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
+        "VALUE": "L & T SHIPBUILDING LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
         "VALUE": "THERMAX LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "COMBAT VEHICLES RESEARCH & DEVELOPMENT-",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "ARS ENGINEERING PVT LTD - PUNE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "HINDUSTAN COPPER LTD - KHETRI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1892,48 +1913,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "COMBAT VEHICLES RESEARCH & DEVELOPMENT-",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "ARCELORMITTAL NIPPON STEEL INDIA PRIVATE LIMITED (",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "FLUIDOMAT LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CONTROLLER OF PROCURMENT KOCHI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "AIRCOM POWER SYSTEMS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BABA BHOLENATH ENTERPRISES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "CONTROLLERATE OF PROCUREMENT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -1948,34 +1927,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "ArcelorMittal Nippon Steel India Ltd",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "NMDC LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Adani Infra (India) Limited",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "ALPHA COMPRESSOR VALVES PVT LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
@@ -1983,21 +1934,7 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MANMEET CHEMICALS AGENCIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "PATRATU VIDYUT UTPADAN NIGAM LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "BLISS CLOUD",
+        "VALUE": "Nils & Abbas Trading  Co., L.L.C",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2011,23 +1948,9 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "L&T MHI POWER BOILERS PVT LTD",
+        "VALUE": "BABA BHOLENATH ENTERPRISES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "L & T SHIPBUILDING LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2039,49 +1962,63 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD",
+        "VALUE": "ArcelorMittal Nippon Steel India Ltd",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NEOMETRIX DEFENCE LIMITED (EARLIER NAME- Neometrix",
+        "VALUE": "MANMEET CHEMICALS AGENCIES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SITAPUR GREEN ENERGY PRIVATE LIMITED",
+        "VALUE": "AGRO ENGINEERING EQUIPMENT CO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PUNJAB CARBONIC P.LTD",
+        "VALUE": "M/S BLACK STONE DIESELS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "PRIVI SPECIALITY CHEMICALS LIMITED,",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO. LTD - NASIK",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "BRAHMOS AEROSPACE PRIVATE LIMITED",
+        "VALUE": "Adani Infra (India) Limited",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "VALUE": "NMDC LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "L&T MHI POWER BOILERS PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "BLISS CLOUD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -2102,27 +2039,6 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "SHIVA BOREWELLS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "JOY MARKETING COMPANY PVT. LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "SOUTH CENTRAL RAILWAY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -2130,44 +2046,23 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
+        "VALUE": "BRAHMOS AEROSPACE PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "WESTERN RAILWAY",
+        "VALUE": "NEOMETRIX DEFENCE LIMITED (EARLIER NAME- Neometrix",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "NORTH EASTERN RAILWAY - IZATNAGAR",
+        "VALUE": "HINDUSTAN PETROLEUM CORPORATION LTD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL PVT LTD (RLYTRANSACTION)",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "TAL SALES PRIVATE LIMITED,",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2175,20 +2070,6 @@
         "VALUE": "ARMECH ENGINEERS PVT. LTD.",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "Kiran Trading company",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "CHANDERPUR WORKS PRIVATE LIMITED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2207,23 +2088,44 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
+        "VALUE": "SITAPUR GREEN ENERGY PRIVATE LIMITED",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KOSABAN SERVICES",
+        "VALUE": "NEW KANAK CRYO SALES SERVICES & CONSULTANCY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "WESTERN RAILWAY",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "L S ENGINEERING SERVICES",
+        "VALUE": "KIRLOSKAR PNEUMATIC COMPANY LTD-ACR SASWAD",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PUNJAB CARBONIC P.LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "BOM Report",
@@ -2235,6 +2137,90 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
+        "VALUE": "DAVID BROWN GEAR SYSTEMS INDIA PVT LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "SHIVA BOREWELLS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "QUVIX INDIA PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KOSABAN SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "JOY MARKETING COMPANY PVT. LTD",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "PRIVI SPECIALITY CHEMICALS LIMITED,",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "KIRLOSKAR CHILLERS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL TRADING FZE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "NORTH EASTERN RAILWAY - IZATNAGAR",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "TAL SALES PRIVATE LIMITED,",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "MULTIVISTA GLOBAL PVT LTD (RLYTRANSACTION)",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "L S ENGINEERING SERVICES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
         "VALUE": "BHARAT RAIL EQUIPMENTS AND SERVICES",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
@@ -2242,14 +2228,14 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "Suez Steel Co.",
+        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD RECIP",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR CHILLERS PRIVATE LIMITED",
+        "VALUE": "KIRLOSKAR PNEUMATIC - ACD SPARES DIVISION",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
@@ -2263,22 +2249,29 @@
     {
         "REPORT_NAME": "BOM Report",
         "VARIABLE_NAME": "customer",
-        "VALUE": "KIRLOSKAR PNEUMATIC CO LTD - ACD RECIP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
-        "VALUE": "DAVID BROWN GEAR SYSTEMS INDIA PVT LTD",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "BOM Report",
-        "VARIABLE_NAME": "customer",
         "VALUE": "INDORAMA ELEME FERTILIZER & CHEMICALS FZE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Suez Steel Co.",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "Kiran Trading company",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "BOM Report",
+        "VARIABLE_NAME": "customer",
+        "VALUE": "CHANDERPUR WORKS PRIVATE LIMITED",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     }
 ]

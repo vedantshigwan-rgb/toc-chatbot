@@ -16,13 +16,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - PRODUCTS",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "org_name",
         "VALUE": "PED - DEFENCE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -30,14 +23,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "ACD - CENTRI",
+        "VALUE": "ACD - PRODUCTS",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "TRM - RAIL",
+        "VALUE": "ACD - CENTRI",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -65,21 +58,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "org_name",
-        "VALUE": "TRM - GEAR BOX",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "org_name",
         "VALUE": "NMD - FABRICATION",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "org_name",
-        "VALUE": "TRM - DEFENCE",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },

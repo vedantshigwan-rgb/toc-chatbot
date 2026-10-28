@@ -86,13 +86,6 @@
     {
         "REPORT_NAME": "Docket Employee Report",
         "VARIABLE_NAME": "employee_department",
-        "VALUE": "Operations-Foundry",
-        "CONTROLLER_VARIABLE": "employee_org",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Employee Report",
-        "VARIABLE_NAME": "employee_department",
         "VALUE": "Manufacturing-Machin",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -103,5 +96,12 @@
         "VALUE": "Manufacturing-Assemb",
         "CONTROLLER_VARIABLE": "employee_org",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Docket Employee Report",
+        "VARIABLE_NAME": "employee_department",
+        "VALUE": "Operations-Foundry",
+        "CONTROLLER_VARIABLE": "employee_org",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     }
 ]

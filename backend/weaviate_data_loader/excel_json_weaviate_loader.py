@@ -40,7 +40,7 @@ REPORT_TABLE_MAP: Dict[str, Tuple[str, str]] = {
 
     "Inventory Report": (
         "01",
-        "FULLKIT_ITEMWISE_INV",
+        "KPC_FK_INV_REPORT",
     ),
 
     "Buyer Wise Inventory Report": (
@@ -55,7 +55,7 @@ REPORT_TABLE_MAP: Dict[str, Tuple[str, str]] = {
 
     "BOM Report": (
         "04",
-        "KPC_FULL_KIT_BOM_EXPLODE",
+        "KPC_FK_BOM_EXPLODE",
     ),
 
     "Docket Report": (

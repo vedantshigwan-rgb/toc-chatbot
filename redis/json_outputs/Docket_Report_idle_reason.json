@@ -2,27 +2,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "M/c Reconditioning",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Preventive Maintenance",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Start up Loss",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
         "VALUE": "Not Allocated",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -51,23 +30,37 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Tool Store",
+        "VALUE": "M/c Reconditioning",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Gauge Store",
+        "VALUE": "Preventive Maintenance",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Tool Room",
+        "VALUE": "Start up Loss",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Measurement and Adjustment Loss",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Minor Stoppage",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -93,14 +86,56 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Measurement and Adjustment Loss",
+        "VALUE": "Tool Store",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Gauge Store",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Tool Room",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Start up Loss",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Minor Stoppage",
+        "VALUE": "Unavailability of Assembly Drawing",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "No Power",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Crane / Helper",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Preventive Maintenance",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -135,35 +170,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "No Power",
+        "VALUE": "No Air",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Crane / Helper",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Preventive Maintenance",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Start up Loss",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Unavailability of Assembly Drawing",
+        "VALUE": "Inspection",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -191,23 +205,23 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Inspection",
+        "VALUE": "Reduced Speed Loss",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "No Air",
+        "VALUE": "Logistic Loss",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Not Allocated",
+        "VALUE": "Material Shortage",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -226,21 +240,14 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Reduced Speed Loss",
+        "VALUE": "Not Allocated",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Logistic Loss",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Material Shortage",
+        "VALUE": "M/c Reconditioning",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
@@ -271,13 +278,6 @@
         "VALUE": "No Air",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "M/c Reconditioning",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Docket Report",
@@ -310,27 +310,6 @@
     {
         "REPORT_NAME": "Docket Report",
         "VARIABLE_NAME": "idle_reason",
-        "VALUE": "No Power",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Work Stoppage by Operator",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
-        "VALUE": "Unavailability of Assembly Drawing",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - PRODUCTS"
-    },
-    {
-        "REPORT_NAME": "Docket Report",
-        "VARIABLE_NAME": "idle_reason",
         "VALUE": "Maintenance",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
@@ -348,5 +327,26 @@
         "VALUE": "Drawing Store",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "No Power",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Work Stoppage by Operator",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
+    },
+    {
+        "REPORT_NAME": "Docket Report",
+        "VARIABLE_NAME": "idle_reason",
+        "VALUE": "Unavailability of Assembly Drawing",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - PRODUCTS"
     }
 ]

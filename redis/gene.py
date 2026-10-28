@@ -482,6 +482,7 @@ def generate_json_from_excel(
 
     succeeded = 0
     failed = 0
+    failed_rows = []
 
     for row in redis_rows.itertuples(index=False):
         excel_row_number = int(row.excel_row_number)
@@ -654,6 +655,7 @@ def generate_json_from_excel(
 
         except Exception as exc:
             failed += 1
+            failed_rows.append(f"Excel row {excel_row_number}: {report_name} / {variable_name} -> {exc}")
             print(
                 f"[FAILED] Excel row {excel_row_number}: "
                 f"{report_name} / {variable_name}: {exc}"
@@ -738,7 +740,10 @@ def generate_json_from_excel(
     )
 
     if failed:
-        raise RuntimeError(f"{failed} Redis mapping row(s) failed")
+        failed_summary = "\n  - " + "\n  - ".join(failed_rows)
+        raise RuntimeError(
+            f"{failed} Redis mapping row(s) failed:\n{failed_summary}"
+        )
 
 
 def find_excel_file(base_dir: Path) -> Path:

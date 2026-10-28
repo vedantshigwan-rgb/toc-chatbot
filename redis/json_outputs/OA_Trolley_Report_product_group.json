@@ -9,14 +9,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DS",
+        "VALUE": "ES-R5",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R5",
+        "VALUE": "DS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -51,13 +51,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -65,14 +58,14 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
+        "VALUE": "CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "-",
+        "VALUE": "ELECTRIC SCREW",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -86,9 +79,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - INDUSTRIAL GEA",
+        "VALUE": "-",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -100,9 +93,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - INDUSTRIAL GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "-",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -121,9 +128,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - CVRDE AND VRDE",
+        "VALUE": "WISC HYDRINO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -138,13 +145,6 @@
         "VALUE": "PED - JOB ORDER",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "WISC HYDRINO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -172,28 +172,7 @@
         "VARIABLE_NAME": "product_group",
         "VALUE": "PED - JOB ORDER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GAS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - JOB ORDER",
-        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINIO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -212,9 +191,30 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "GAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "-",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - JOB ORDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - GEAR AND PINIO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -261,20 +261,6 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "-",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SPARES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -282,9 +268,9 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - LOCO. AND TORQ",
+        "VALUE": "-",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -296,9 +282,23 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "-",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - LOCO. AND TORQ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -324,6 +324,13 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - OTHERS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "AIR-SEP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
@@ -334,13 +341,6 @@
         "VALUE": "PED - HIGH SPEED GEA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - OTHERS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -366,9 +366,16 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "-",
+        "VALUE": "ES-R1",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "OA Trolley Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "KGC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "OA Trolley Report",
@@ -387,15 +394,8 @@
     {
         "REPORT_NAME": "OA Trolley Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R1",
+        "VALUE": "-",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "OA Trolley Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "KGC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     }
 ]

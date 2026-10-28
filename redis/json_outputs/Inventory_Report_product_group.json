@@ -2,6 +2,76 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "RBC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - INDUSTRIAL GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "TONALLI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - HIGH SPEED GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HRS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - WINDMILL GEARB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "SAT",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
@@ -9,21 +79,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRIFUGAL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "KG5H",
+        "VALUE": "OXYGEN TROLLEY",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -32,12 +88,33 @@
         "VARIABLE_NAME": "product_group",
         "VALUE": "RBC",
         "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "GSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R1",
+        "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "OXYGEN TROLLEY",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - WINDMILL GEARB",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
@@ -51,219 +128,93 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "GSU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - JOB ORDER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R5",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "OIL FREE SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - JOB ORDER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DRY SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - HIGH SPEED GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "HRS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "RR EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - CVRDE AND VRDE",
+        "VALUE": "ES-R3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - TEST GEARBOX",
+        "VALUE": "ARIA_R1",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "OTHERS",
+        "VALUE": "CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRICALS",
+        "VALUE": "SAT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "AIR SCREW",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "OXYGEN TROLLEY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SAT",
+        "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GSU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRIFUGAL",
+        "VALUE": "WISC HYDRINO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - LOCO. AND TORQ. CONV.",
+        "VALUE": "PED - LOCO. AND TORQ",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - SPARES"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NON-MRP",
+        "VALUE": "GAS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRIFUGAL",
+        "VALUE": "ARIA_R1",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R2",
+        "VALUE": "PED - CVRDE AND VRDE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
+        "VALUE": "OXYGEN TROLLEY",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "SAT",
+        "VALUE": "CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -275,70 +226,35 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
+        "VALUE": "ES-R2",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - TRANSMISSION",
+        "VALUE": "PED - INDUSTRIAL GEA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRIFUGAL",
+        "VALUE": "PED - WINDMILL GEARB",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R1",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NON-MRP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - LUB.OIL PUMP",
+        "VALUE": "TONALLI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - RD SERIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "OIL FREE SCREW",
+        "VALUE": "ES-R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -352,30 +268,100 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PROJECTS",
+        "VALUE": "RBC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NITROGEN TROLLEY",
+        "VALUE": "GSU",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - MARINE GEARBOX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "EH/TC",
+        "VALUE": "PED - WINDMILL GEARB",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "WISC HYDRINO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - LOCO. AND TORQ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "GAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - HIGH SPEED GEA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
+        "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -387,28 +373,7 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R3",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
+        "VALUE": "CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
@@ -422,6 +387,48 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "RBC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
         "VALUE": "WISC HYDRINO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
@@ -429,30 +436,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - TEST GEARBOX",
+        "VALUE": "PED - LOCO. AND TORQ",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DIRECT FIRED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -464,23 +450,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "RR EQUIPMENT",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R2",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "EH/TC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -492,107 +464,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - INDUSTRIAL GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - JOB ORDER",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "RBC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - GEAR AND PINION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TURBO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - HIGH SPEED GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
+        "VALUE": "TONALLI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "AC",
+        "VALUE": "PED - INDUSTRIAL GEA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SEMI H RECIP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GARAGE COMPRESSORS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA_R2",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SEMI H RECIP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -604,9 +485,58 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
+        "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - THOR"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R2",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HRS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -625,91 +555,28 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
+        "VALUE": "PED - MARINE GEARBOX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
+        "VALUE": "PED - LOCO. AND TORQ",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "GSU",
+        "VALUE": "HRS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - LOCO. AND TORQ. CONV.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TURBO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DMDE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GSU",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AIR SCREW",
+        "VALUE": "PED - INDUSTRIAL GEA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -723,37 +590,79 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ACCESSORIES",
+        "VALUE": "PED - MARINE GEARBOX",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "KG5H",
+        "VALUE": "GSU",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
+        "VALUE": "PED - WINDMILL GEARB",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "PED - JOB ORDER",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
+        "VALUE": "PED - GEAR AND PINIO",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "GAS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -765,30 +674,65 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "BUS AC SMO",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TURBO",
+        "VALUE": "SPARES",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "VERTICAL COMPRESSORS",
+        "VALUE": "KGC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - HIGH SPEED GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - JOB ORDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - WINDMILL GEARBOX",
+        "VALUE": "ARIA_R1",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -800,121 +744,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
+        "VALUE": "ES-R3",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NITROGEN TROLLEY",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TURBO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "KG5H",
+        "VALUE": "ES-R4",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - LOCO. AND TORQ. CONV.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NON-MRP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - MARINE GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - PLANETARY GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GEARS AND PINIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -926,114 +765,30 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "SAT",
+        "VALUE": "HP",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R6",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "WISC HYDRINO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - MARINE GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "KRS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "KHIONE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ZEPHYROS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRIC SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AIR SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TURBO",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - AXLE DRIVE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "EH/TC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PROJECTS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1045,98 +800,140 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
+        "VALUE": "ARIA_R2",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "GARAGE COMPRESSORS",
+        "VALUE": "ES-R3",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "BOP",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP1",
+        "VALUE": "ES-R2",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - WINDMILL GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - INDUSTRIAL GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - INDUSTRIAL GEARBOX",
+        "VALUE": "GEARS AND PINIONS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "KG5H",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R4",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - INDUSTRIAL GEARBOX",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NON-MRP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "NITROGEN TROLLEY",
+        "VALUE": "PED - AXLE DRIVE",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL PORTABLE",
+        "VALUE": "KGC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - LOCO. AND TORQ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "SAT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R4",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - JOB ORDER",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "KGC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R4",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SCREW"
     },
@@ -1150,9 +947,100 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - JOB ORDER",
+        "VALUE": "PED - LOCO. AND TORQ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "SPARES",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - LOCO. AND TORQ",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "WISC HYDRINO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R3",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "TONALLI",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1164,9 +1052,37 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
+        "VALUE": "DS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "KGC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1178,135 +1094,44 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - CVRDE AND VRDE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "GEARS AND PINIONS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - RD SERIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "HP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRIFUGAL",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "RBC",
+        "VALUE": "CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "NMD - FABRICATION"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ACR-PROCESS-GAS",
+        "VALUE": "AIR-SEP",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP1",
+        "VALUE": "DP",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRICALS",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - PRODUCTS"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DRY SCREW",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DIESEL SCREW",
+        "VALUE": "PED - HIGH SPEED GEA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "BOP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "DRY SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - CVRDE AND VRDE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - GEAR AND PINION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "RBC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ARIA SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1318,86 +1143,9 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - RD SERIES",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - MARINE GEARBOX",
+        "VALUE": "GAS",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - LOCO. AND TORQ. CONV.",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R5",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "OIL FREE SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - CENTRI"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "EH/TC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ACR-PROJECT-REFRIGERATION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - TRANSMISSION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1409,37 +1157,30 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - GEAR AND PINION",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "OTHERS",
+        "VALUE": "PED - OTHERS",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - LUB.OIL PUMP",
+        "VALUE": "NA",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "AIR-SEP",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - RECIP"
+        "CONTROLLER_VALUE": "ACD - SCREW"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1458,30 +1199,128 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "VERTICAL COMPRESSORS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "EH/TC",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRIFUGAL",
+        "VALUE": "WISC HYDRINO",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NON-MRP",
+        "VALUE": "DS",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "BOP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "RBC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "SAT",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - RAIL"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - AXLE DRIVE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R4",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ES-R5",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - HIGH SPEED GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - INDUSTRIAL GEA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "KGC",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "PED - DEFENCE"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R2",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "ARIA_R1",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - RECIP"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1493,13 +1332,6 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "DP",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
         "VALUE": "BOP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "PED - GEAR BOX"
@@ -1507,16 +1339,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "ELECTRICALS",
+        "VALUE": "SAT",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "COMMON",
+        "VALUE": "RBC",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
+        "CONTROLLER_VALUE": "PED - GEAR BOX"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1528,16 +1360,23 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "AC",
+        "VALUE": "DP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SCREW"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "HP",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "CENTRI",
+        "VALUE": "ES-R4",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
+        "CONTROLLER_VALUE": "ACD - GSU"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1549,107 +1388,16 @@
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
-        "VALUE": "NITROGEN TROLLEY",
+        "VALUE": "CENTRI",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - CVRDE AND VRDE",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - THOR"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "AIR SCREW",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R5",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FORGING"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - TRANSMISSION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - FORCE LUB.SYSTEM",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - OTHERS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "UNIDENTIFIED",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - MISCELLANEOUS",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - GEAR BOX"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "ES-R6",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SPARES"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "FK",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - SCREW"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "HST",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "ACD - GSU"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "TRM - TRANSMISSION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "NMD - FABRICATION"
-    },
-    {
-        "REPORT_NAME": "Inventory Report",
-        "VARIABLE_NAME": "product_group",
-        "VALUE": "PED - TRANSMISSION",
-        "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - DEFENCE"
     },
     {
         "REPORT_NAME": "Inventory Report",
         "VARIABLE_NAME": "product_group",
         "VALUE": "PED - CVRDE AND VRDE",
         "CONTROLLER_VARIABLE": "org_name",
-        "CONTROLLER_VALUE": "PED - RAIL"
+        "CONTROLLER_VALUE": "ACD - CENTRI"
     },
     {
         "REPORT_NAME": "Inventory Report",
@@ -1657,5 +1405,33 @@
         "VALUE": "RBC",
         "CONTROLLER_VARIABLE": "org_name",
         "CONTROLLER_VALUE": "ACD - CENTRI"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "AIR-SEP",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - SPARES"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "WISC HYDRINO",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "ACD - GSU"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "PED - CVRDE AND VRDE",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
+    },
+    {
+        "REPORT_NAME": "Inventory Report",
+        "VARIABLE_NAME": "product_group",
+        "VALUE": "NA",
+        "CONTROLLER_VARIABLE": "org_name",
+        "CONTROLLER_VALUE": "NMD - FORGING"
     }
 ]

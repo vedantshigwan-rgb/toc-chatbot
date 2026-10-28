@@ -44,13 +44,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "TEFLON RINGS.SPARES",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
         "VALUE": "HARDWARES -SCREW,NUT,BOLT,WASHER,STUD.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -107,7 +100,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "MS- OSP SF PARTS.PLANNED",
+        "VALUE": "TEFLON RINGS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -122,6 +115,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "CONTROL PANEL AND PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "MS- OSP SF PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -156,13 +156,6 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "HIPL PARTS.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
         "VALUE": "HEAVY FAB-FRAMES,DAMPENERS>100KG.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -171,6 +164,20 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "SBD-STIKERS, NAME PLATE.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "HIPL PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -192,13 +199,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "AE- OSP CAST/FORG O/S.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "GEAR BOX, TRUCK, PUMP PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -310,7 +310,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "BEARINGS.SPARES",
+        "VALUE": "RUBBER RINGS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -318,6 +318,13 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "HOSE AND ACCESSORIES.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
+        "VALUE": "BEARINGS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -339,13 +346,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "HEATER,FL MTR,CABLE.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "RUBBER RINGS.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -443,6 +443,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
+        "VALUE": "FAN.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
         "VALUE": "SBD- MFGD MACH.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -457,7 +464,7 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "FAN.PLANNED",
+        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -465,13 +472,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "SBD- OSP ITEMS.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "SBD-IN VALVE, ADT-OEM,P3NE,NRV,MPVL,TCV.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -513,14 +513,14 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "RAW MATERIALS.CASTING",
+        "VALUE": "TWO BIN.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
-        "VALUE": "TWO BIN.SPARES",
+        "VALUE": "RAW MATERIALS.CASTING",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -646,6 +646,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
+        "VALUE": "CASTING RINGS PISTON.SPARES",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
         "VALUE": "CONTROL PANEL,VFD,SOFTSTARTERS,PLC,JB.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -695,6 +702,13 @@
     {
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
+        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
+        "CONTROLLER_VARIABLE": "",
+        "CONTROLLER_VALUE": ""
+    },
+    {
+        "REPORT_NAME": "Purchase Order Report",
+        "VARIABLE_NAME": "item_category",
         "VALUE": "FK_1-LIGHT FAB <100 KG,FRP PARTS.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
@@ -703,13 +717,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "AE- MS CAST KPCL FOUNDRY.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "MS- KPCL FOUNDRY.PLANNED",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
@@ -752,13 +759,6 @@
         "REPORT_NAME": "Purchase Order Report",
         "VARIABLE_NAME": "item_category",
         "VALUE": "GEAR.PLANNED",
-        "CONTROLLER_VARIABLE": "",
-        "CONTROLLER_VALUE": ""
-    },
-    {
-        "REPORT_NAME": "Purchase Order Report",
-        "VARIABLE_NAME": "item_category",
-        "VALUE": "CASTING RINGS PISTON.SPARES",
         "CONTROLLER_VARIABLE": "",
         "CONTROLLER_VALUE": ""
     },
