@@ -1096,6 +1096,8 @@ class PrimaryWorkflow:
                 client=client,
                 semaphore=semaphore,
                 recovery_hint=recovery_hint,
+                metadata_repository=metadata_repository,
+                allowed_tables=allowed_tables,
             )
         except Exception as error:
             storage_warning = await safe_store_generation_error(

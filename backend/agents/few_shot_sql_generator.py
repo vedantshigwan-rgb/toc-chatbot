@@ -102,6 +102,94 @@ Associated SQL template:
     return "\n\n".join(example_blocks)
 
 
+async def fetch_weaviate_metadata(
+    metadata_repository,
+    allowed_tables: Optional[List[str]] = None,
+) -> List[Dict[str, Any]]:
+    """
+    Fetch column metadata only for tables trusted by the FAQ examples.
+    """
+
+    if metadata_repository is None or not allowed_tables:
+        return []
+
+    table_names = sorted(
+        {
+            str(table).strip().split(".")[-1]
+            for table in allowed_tables
+            if table and str(table).strip()
+        }
+    )
+
+    metadata_records: List[Dict[str, Any]] = []
+    seen_records = set()
+
+    for table_name in table_names:
+        try:
+            lookup = (
+                await metadata_repository.get_table_columns_any_module(
+                    table_name=table_name,
+                    limit=500,
+                )
+            )
+        except Exception:
+            # Metadata failure should not prevent existing SQL generation.
+            continue
+
+        if not getattr(lookup, "success", False):
+            continue
+
+        if not getattr(lookup, "found", False):
+            continue
+
+        for record in (getattr(lookup, "records", None) or []):
+            if isinstance(record, dict):
+                record_data = record
+            elif hasattr(record, "model_dump"):
+                record_data = record.model_dump()
+            elif hasattr(record, "dict"):
+                record_data = record.dict()
+            else:
+                continue
+
+            
+            item = {
+                "columnName": (
+                    record_data.get("columnName")
+                    or record_data.get("column_name")
+                ),
+                "TableName": (
+                    record_data.get("TableName")
+                    or record_data.get("table_name")
+                ),
+                "dataType": (
+                    record_data.get("dataType")
+                    or record_data.get("data_type")
+                ),
+                "description": record_data.get("description"),
+            }
+
+            item = {
+                key: value
+                for key, value in item.items()
+                if value is not None
+            }
+
+            identity = (
+                str(item.get("TableName", "")).upper(),
+                str(item.get("columnName", "")).upper(),
+            )
+
+            if identity in seen_records:
+                continue
+
+            seen_records.add(identity)
+            metadata_records.append(item)
+
+    return metadata_records
+
+
+
 def extract_sql_placeholders(
     sql_template: str,
 ) -> List[str]:
@@ -268,6 +356,8 @@ async def generate_sql_from_few_shots(
     semaphore,
     model: str = "gpt-5-mini",
     recovery_hint: Optional[str] = None,
+    metadata_repository=None,
+    allowed_tables: Optional[List[str]] = None,
 ) -> Dict[str, Any]:
     """
     Generate one Oracle SQL template from ranked FAISS examples.
@@ -374,6 +464,27 @@ async def generate_sql_from_few_shots(
     examples_text = build_few_shot_examples_text(
         prepared_examples
     )
+    
+    # Fetch Weaviate metadata before the existing LLM request.
+    weaviate_metadata = await fetch_weaviate_metadata(
+        metadata_repository=metadata_repository,
+        allowed_tables=allowed_tables,
+    )
+
+    weaviate_metadata_text = (
+        json.dumps(
+            weaviate_metadata,
+            ensure_ascii=False,
+            indent=2,
+            default=str,
+        )
+        if weaviate_metadata
+        else "No Weaviate metadata available."
+    )
+    print("Allowed tables:", allowed_tables)
+    print("Metadata count:", len(weaviate_metadata))
+    print("Sample metadata:", weaviate_metadata[:3])
+
 
     system_prompt = """
 You are a constrained Oracle SQL template generator.
@@ -401,12 +512,18 @@ Follow these rules exactly:
 9. A WITH clause is allowed only when it leads to a SELECT query.
 10. Never generate INSERT, UPDATE, DELETE, MERGE, DROP, ALTER,
    TRUNCATE, CREATE or PL/SQL.
-11. Do not include actual user values.
-12. Use exactly the required placeholders.
-13. Do not add, remove or rename placeholders.
-14. Do not explain the SQL.
-15. Do not use markdown or code fences.
-16. Return only a valid JSON object.
+   
+11. Weaviate metadata is additional reference data, not a replacement for the FAQ examples.
+12. If action is "reuse", ignore the Weaviate metadata and preserve the selected FAQ example's SQL logic.
+13. If action is "adapt", use the supplied Weaviate metadata to verify relevant tables, columns, data types and descriptions, and make only the minimum necessary changes.
+14. Do not introduce unsupported tables or columns. Preserve all existing SQL safety rules and required placeholders.
+
+15. Do not include actual user values.
+16. Use exactly the required placeholders.
+17. Do not add, remove or rename placeholders.
+18. Do not explain the SQL.
+19. Do not use markdown or code fences.
+20. Return only a valid JSON object.
 
 Required JSON format:
 
@@ -445,6 +562,10 @@ RANKED FAQ EXAMPLES
 
 {examples_text}
 {recovery_hint_section}
+
+WEAVIATE METADATA REFERENCE
+Use this metadata only if the selected action is "adapt".
+If the selected action is "reuse", ignore this entire metadata section.
 
 Return the required JSON object.
 """.strip()
@@ -663,19 +784,6 @@ def expand_multi_value_like_predicates(
     return expanded_sql
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 async def generate_sql_with_multi_value_expansion(
     new_question: str,
     examples: List[Dict[str, Any]],
@@ -685,6 +793,8 @@ async def generate_sql_with_multi_value_expansion(
     semaphore,
     model: str = "gpt-5-mini",
     recovery_hint: Optional[str] = None,
+    metadata_repository=None,
+    allowed_tables: Optional[List[str]] = None,
 ) -> Dict[str, Any]:
     """
     Generate SQL using few-shot examples and expand LIKE predicates
@@ -722,6 +832,8 @@ async def generate_sql_with_multi_value_expansion(
         semaphore=semaphore,
         model=model,
         recovery_hint=recovery_hint,
+        metadata_repository=metadata_repository,
+        allowed_tables=allowed_tables,
     )
 
     if generation_result.get("status") != "success":
@@ -802,20 +914,6 @@ async def generate_sql_with_multi_value_expansion(
     }
 
     return generation_result
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

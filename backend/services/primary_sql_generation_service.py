@@ -16,6 +16,8 @@ async def generate_primary_sql(
     client,
     semaphore,
     recovery_hint: Optional[str] = None,
+    metadata_repository=None,
+    allowed_tables: Optional[List[str]] = None,
 ) -> Dict[str, Any]:
     """
     Generate or select SQL using the primary few-shot workflow.
@@ -38,6 +40,8 @@ async def generate_primary_sql(
             client=client,
             semaphore=semaphore,
             recovery_hint=recovery_hint,
+            metadata_repository=metadata_repository,
+            allowed_tables=allowed_tables,
         )
     )
 
